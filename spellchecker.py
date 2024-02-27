@@ -3,7 +3,7 @@ from collections import Counter
 
 def words(text): return re.findall(r'\d*\w+', text.lower())
 
-WORDS = Counter(words(open('biblebooknames.csv').read()))
+WORDS = Counter(words(open('assets/biblebooknames.csv').read()))
 
 def P(word, N=sum(WORDS.values())):
     # "Probability of `word`."
