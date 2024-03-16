@@ -895,7 +895,7 @@ kej 47-48
 kej 40-46
 kej 47-48
 kej 47-48
-""
+kej 47-48
 kej 47-48
 kej 47-48
 kej 47-48
@@ -1040,7 +1040,7 @@ keluaran 5-6
 kel 5-6
 kej 49-50
 kel 5-6
-""
+kel 5-6
 kel 5-6
 kel 3-6
 kej 45-kel 2
@@ -1383,7 +1383,7 @@ kel 25-26
 keluaran 17-18
 kel 25-26
 kel 25-26
-""
+kel 25-26
 kel 25-26
 kel 23-26
 kel 25-26
@@ -1648,7 +1648,7 @@ imamat 1-2
 imamat 1-2
 kel 39-40
 imamat 1-2
-""
+im 1-2
 kel 29-30
 im 1-2
 imamat 1-2
@@ -1750,14 +1750,14 @@ im 7-8
 im 7-8
 im 7-8
 im 7-8
-im 7-8
+mat im 7-8
 im 3-4
 im 5-8
 kel 33-36
 kel 35-40
 im 8
 im 7-8
-im 7-8
+mat im 7-8
 im 7-8
 im 7-8
 im 7-8
@@ -1875,12 +1875,12 @@ im 7-10
 im 13-14
 im 10-14
 im 9-12
-""
+im 15-16
 im 15-16
 im 15-16
 imamat 15-16
 im 15-16
-""
+im 15-16
 im 15-16
 im 13-14
 imamat 13-16
@@ -2082,11 +2082,11 @@ im 17-18
 im 27-bil 1
 im 21-24
 bil 2-3
-""
+bilangan 2-3
 bil 2-3
 bil 2-3
 bil 2-3
-""
+bilangan 2-3
 bil 2-3
 im 25-bil 1
 bil 2-3
@@ -2139,14 +2139,14 @@ bil 4-5
 bil 4-5
 im 17-27
 bilangan 2-3
-""
+im 21-24
 bilangan 4-5
 bil 4-5
 bil 4-5
 bil 4-5
 bil 4-5
 bil 4-5
-""
+im 25-27
 bil 4-5
 bil 2-5
 bil 4-5
@@ -2183,7 +2183,7 @@ im 25-26
 bil 6-7
 bil 6-7
 bil 6-7
-""
+im 25-27
 bil 8-9
 bilangan 8-9
 bil 8-9
@@ -2276,7 +2276,7 @@ bil 10-13
 bil 14-15
 bil 14-16
 bil 14-15
-""
+bilangan 14-15
 bil 1-2
 bil 14-16
 bil 14-16
@@ -3438,7 +3438,7 @@ yos 22-23
 yos 22-23
 ul 19-20
 yos 24-hak 1
-yos 24-
+yos 24-hak 1
 yos 20-21
 yos 24-hak 1-2
 yos 24-hak 1
@@ -3462,7 +3462,7 @@ yos 19-21
 yos 22-24
 yos 24-hak 1
 yos 24-hak 1
-""
+hak 2-3
 yos 20-22
 hak 2-3
 yos 4-7
@@ -3495,8 +3495,8 @@ hak 4-5
 yos 22-23
 yosua 22-23
 yosua
-yosua 24-hakim-hakim 1
-hakim-hakim 2-hakim-hakim 3
+yosua 24-hak-
+hak-hak 2-hakim-hakim 3
 hak 4-5
 hak 4-5
 yosua
@@ -3527,22 +3527,22 @@ hak 6-7
 hak 2-5
 hak 2-3
 hak 6-7
-""
-""
+hak 6-7
+hak 6-7
 hak 6-7
 hak 4-5
 hak 6-7
 hak 6-7
-hakim-hakim 4-hakim-hakim 5
+hak-hak 4-hakim-hakim 5
 hak 6-7
 hak 6-7
-hakim-hakim 6-hakim-hakim 7
+hak-hak 6-hakim-hakim 7
 hak 6-7
-""
+hak 6-7
 kel 27-28
-""
-""
-""
+hak 6-7
+hak 6-7
+hak 1-4
 hak 6-7
 hak 6-7
 hak 4-7
@@ -3550,7 +3550,7 @@ hak 8-9
 hak 6-7
 hak 6-7
 hak 6-7
-""
+hak 8-9
 hak 8-9
 hak 6-7
 hak 8-9
@@ -3558,10 +3558,10 @@ hak 8-9
 hak 4-5
 hak 6-7
 ul 25-26
-""
+hak 8-9
 yos 24-hak 1
-""
-""
+hak 8-9
+hak 8-9
 hak 8-9
 hak 8-9
 hak 8-9
@@ -3578,10 +3578,10 @@ hak 8-9
 hak 10-11
 hak 1-4
 hak 8-9
-""
+hak 5-7
 yos 24-hak 1
 hak 8-9
-""
+hak 10-11
 ul 27-28
 hak 10-11
 hak 10-11
@@ -3602,27 +3602,27 @@ hak 10-11
 hak 8-11
 hak 12-15
 hak 5-6
-""
-""
+hak 12-13
+hak 8-9
 yos 21-hak 5
-""
+hak 1-11
 hak 12-13
 hak 12-13
 hak 8-9
 ul 29-30
 hak 12-13
-""
+hak 12-13
 hak 6-7
 hak 10-11
 hak 12-13
 yosua 6-7
 hak 2-11
-hakim-hakim 8-hakim-hakim 9
+hak-hak 8-hakim-hakim 9
 hak 12-13
 hak 12-13
 hak 12-13
-hakim-hakim 10-hakim-hakim 11
-hakim-hakim 12-hakim-hakim 13
+hak-hak 10-hakim-hakim 11
+hak-hak 12-hakim-hakim 13
 kel 33-34
 hak 12-13
 hak 12-13
@@ -3640,10 +3640,10 @@ hak 12-13
 yos 1-24
 hak 10-11
 hak 14-15
-""
+hak 14-15
 hak 14-15
 hak 12-15
-""
+hak 12-15
 hak 14-15
 yos 8-15
 hak 14-15
@@ -3661,7 +3661,7 @@ hak 10-11
 hak 14-15
 hak 14-15
 hak 14-15
-hakim-hakim 14-hakim-hakim 15
+hak-hak 14-hakim-hakim 15
 kel 35-kel 36
 hak 14-15
 hak 12-15
@@ -3671,7 +3671,7 @@ hak 12-13
 hak 11-12
 hak 16-17
 hak 16-17
-""
+hak 16-17
 hak 16-17
 hak 16-17
 hak 14-15
@@ -3684,7 +3684,7 @@ hak 14-15
 hak 16-17
 hak 16-17
 hak 16-17
-""
+bil 31-32
 hak 14-15
 hak 6-7
 hak 16-17
@@ -3693,23 +3693,23 @@ yosua 16-24
 ul 31-32
 hak 16-17
 hak 16-17
-kel 37-38 kel 39-kel 40
+kel 37-38 kel 40
 hak 14-17
 hak 1-4
 hak 16-17
 hak 14-17
 yos 13-16
 hak 16-17
-""
+hak 18-19
 hak 18-19
 hak 18-19
 hak 16-17
-""
-""
 hak 18-19
-""
-""
-""
+hak 16-17
+hak 18-19
+hak 18-19
+hak 18-19
+hak 18-19
 hak 18-19
 hak 16-17
 hak 16-19
@@ -3730,14 +3730,14 @@ hak 18-19
 ul 1-2
 hak 16-19
 hak 20-21
-""
+hak 20-21
 hak 18-19
 rut 1-2
-""
 hak 20-21
 hak 20-21
 hak 20-21
-""
+hak 20-21
+hak 20-21
 hak 12-13
 hak 18-19
 hak 20-21
@@ -3757,16 +3757,16 @@ hak 20-21
 hak 9-17
 hak 10-11
 hak 20-21
-hakim-hakim 16-hakim-hakim 17
-hakim-hakim 18-hakim-hakim 19
-hakim-hakim 20-hakim-hakim 21
+hak-hak 16-hakim-hakim 17
+hak-hak 18-hakim-hakim 19
+hak-hak 20-hakim-hakim 21
 rut 3-4
 hak 18-21
 rut 1-2
 hak 20-21
 rut 1-2
 rut 1-2
-""
+rut 1-2
 rut 1-2
 rut 1-2
 rut 1-2
@@ -3802,7 +3802,7 @@ rut 3-4
 rut 3-4
 rut 3-4
 rut 1-3
-""
+rut 3-4
 rut 1-2
 rut 3-4
 rut 3-4
@@ -3828,13 +3828,13 @@ rut 3-4
 1 sam 1-2
 yosua 5-8
 1 sam 1-2
-""
+hak 2
 1 sam 1-2
 1 sam 1-2
-""
+hak 2
 1 sam 1-2
 1 sam 1-2
-""
+im
 imamat 9-10
 1 sam 1-2
 1 sam 1-2
@@ -3854,7 +3854,7 @@ rut 3-4
 1 sam 3-4
 1 sam 3-4
 1 sam 3-4
-""
+hak-hak 2-3
 hak 20-21
 1 sam 3-4
 1 sam 3-4
@@ -3896,9 +3896,9 @@ rut
 1 samuel 5-6
 1 samuel 1-6
 1 sam 5-6
-""
-""
-""
+imamat 15-18
+im
+im
 hak 13-17
 1 sam 5-6
 ul 25-26
@@ -3919,7 +3919,7 @@ imamat 19-20
 1 sam 7-8
 1 sam 7-8
 1 sam 7-8
-""
+hak
 ul 20-21
 1 samuel 7-8
 1 sam 7-8
@@ -3948,12 +3948,12 @@ hak 3-4
 1 sam 9-10
 rut 3-4
 1 sam 9-10
-""
+imamat 21-22
 1 sam 9-10
 1 sam 9-10
 1 sam 9-10
 hak 18-21
-""
+rut 1-4
 1 sam 9-10
 hak 5-14
 1 samuel 9-10
@@ -4043,7 +4043,7 @@ yos 21-24
 1 sam 11-16
 1 sam 9-12
 1 sam 15-16
-""
+rut
 bilangan 2-3
 im 13-14
 yos 6-7
@@ -4152,7 +4152,7 @@ yos 16-17
 1 sam 21-22
 1 sam 15-22
 1 sam 21-22
-""
+im
 1 sam 19-22
 1 sam 23-24
 1 sam 23-24
@@ -4541,7 +4541,7 @@ yosua 17-20
 1 sam 3-4
 2 sam 14-17
 2 samuel 14-15
-""
+im
 2 sam 16-17
 2 sam 8-11
 2 sam 18-19
@@ -4630,7 +4630,7 @@ hak 10-11
 2 samuel 22-23
 2 sam 18-1
 2 sam 22-23
-2 samuel 24-1
+2 samuel 24-1 1
 2 sam 24-1
 2 sam 20-23
 2 sam 24-1
@@ -4680,7 +4680,7 @@ bil 16-25
 1 raj 2-3
 1 raj 4-5
 1 raj 4-5
-""
+hak 2 1-4
 2 sam 10-13
 1 raj 4-5
 1 raj 4-5
@@ -4688,9 +4688,9 @@ bil 16-25
 ""
 ""
 2 samuel 16-17
-1 raja-raja 2-3
+1 raja-raja-
 1 raj 2-5
-""
+1 raja-raja 4-5
 2 sam 24
 ""
 ""
@@ -4721,7 +4721,7 @@ yos 1-24
 2 samuel 20-21
 ""
 ""
-1 raja-raja 6-7
+1 raja-raja-
 ""
 ""
 2 sam 14-19
@@ -4771,7 +4771,7 @@ hak 12-16
 hak 17-20
 2 sam 5-14
 1 raj 8-9
-2 samuel 24-1
+2 samuel 24-1 1
 1 raj 7-9
 1 raj 8-9
 2 sam 22-24
@@ -4784,7 +4784,7 @@ bil 26-31
 1 raj 6-7
 ""
 ""
-1 raja-raja 8-9
+1 raja-raja-
 1 sam 11-14
 ""
 ""
@@ -4810,7 +4810,7 @@ bil 32-36
 1 raj 10-11
 1 sam 9-10
 ul 23-28
-""
+im
 1 raj 3-7
 1 raj 10-11
 ul 24
@@ -4824,9 +4824,9 @@ ul 24
 1 raj 12-13
 1 raj 12-13
 ""
-1 raja-raja 10-11
+1 raja-raja-
 2 sam 1-20
-1 raja-raja 12-13
+1 raja-raja-
 1 raj 12-13
 1 raj 12-13
 1 raj 12-13
@@ -4844,7 +4844,7 @@ ul 29
 1 raj 8-9
 1 raj 4-11
 1 raj 10-11
-""
+1 raja-raja 4-5
 1 raj 12-13
 1 raj 12-13
 1 sam 15-16
@@ -4861,7 +4861,7 @@ hak 13-16
 1 raj 14-15
 1 raj 14-15
 ""
-1 raja-raja 14-15
+1 raja-raja-
 1 raj 14-15
 1 raj 14-15
 ""
@@ -4871,7 +4871,7 @@ yosua 04-yosua 24
 ""
 1 sam 5-6
 ""
-""
+hak-hak 1-
 1 raj 10-11
 1 raj 14-15
 1 raj 12-15
@@ -4900,7 +4900,7 @@ yosua 1
 1 raj 16-17
 1 sam 7-8
 1 raj 2-15
-""
+hak-hak 14-
 ""
 ""
 ""
@@ -4919,10 +4919,10 @@ yos 6
 ""
 ""
 ul 29-32
-1 raja-raja 16-17
+1 raja-raja-
 1 raj 18-19
 ""
-1 raja-raja 18-19
+1 raja-raja-
 1 raj 18-19
 ""
 ""
@@ -4954,7 +4954,7 @@ ul 1-7
 1 sam 9-10
 ""
 ""
-1 raja-raja 20-21
+1 raja-raja-
 ""
 1 raj 20-21
 1 samuel 24-1
@@ -4973,7 +4973,7 @@ yos 16
 1 raj 20-21
 1 raj 12-21
 1 raj 20-21
-1 raja-raja 8-9
+1 raja-raja-
 hak 21
 1 raj 20-21
 1 raj 15-16
@@ -4989,7 +4989,7 @@ yos 21
 ""
 1 raj 22-2
 1 raj 22-2
-1 raja-raja 22-2
+1 raja-raja-2 raja-raja 1
 1 raj 22-2
 1 raj 22-2
 1 raj 22-2
@@ -4997,7 +4997,7 @@ yos 21
 1 raj 22-2
 1 raj 17-21
 ""
-""
+1 raja-raja 9-1
 1 raj 22-2
 ""
 ""
@@ -5005,7 +5005,7 @@ yos 21
 1 raj 22-2
 ""
 1 raj 22-2
-1 raja-raja 16-17
+1 raja-raja-
 1 raj 18-19
 1 raj 22-2
 1 sam 15-18
@@ -5032,14 +5032,14 @@ ul 33-yosua 1
 ul 15-21
 1 raj 22-2
 2 sam 12-15
-""
+1 raja-raja 2-2
 ""
 1 raj 20-21
 2 raj 2-3
 2 raj 2-3
 2 raj 2-3
 1 sam 22-24
-""
+hak-hak 2
 1 raj 22-2
 2 raj 2-3
 2 raj 4-5
@@ -5060,7 +5060,7 @@ ul 15-21
 ""
 2 raj 4-5
 ""
-""
+1 raja-raja 4-2
 ul 22-28
 1 raj 16-2
 2 raj 4-5
@@ -5086,13 +5086,13 @@ yosua 2-5
 2 raj 6-7
 2 raj 6-7
 2 raj 6-7
+1 raja-raja 20-21
 ""
 ""
-""
-2 raja-raja 2-3
+1 raja-raja-
 2 raj 6-7
 2 raj 6-7
-2 raja-raja 4-5
+1 raja-raja-
 1 sam 21-22
 1 sam 26-31
 2 sam 1-4
@@ -5105,7 +5105,7 @@ ul 29-34
 ""
 2 raj 6-7
 2 raj 6-7
-""
+1 raja-raja 6-2
 2 raj 6-7
 hak 12
 2 raj 6-7
@@ -5124,18 +5124,18 @@ yosua 2-7
 2 raj 8-9
 2 raj 8-9
 1 raj 16-2
-2 raja-raja 6-7
-2 raja-raja 8-9
+1 raja-raja-
+1 raja-raja-
 ""
-2 raja-raja 8-9
-2 raj 8-9
-""
-2 raj 8-9
+1 raja-raja-
 2 raj 8-9
 ""
 2 raj 8-9
 2 raj 8-9
-2 raja-raja 8-9
+1 raja-raja 8-2
+2 raj 8-9
+2 raj 8-9
+1 raja-raja-
 yos 1-8
 2 raj 8-9
 2 raj 8-9
@@ -5157,7 +5157,7 @@ hak 12-hak 17
 2 raj 10-11
 2 raj 10-11
 2 raj 10-11
-2 raja-raja 10-11
+1 raja-raja-
 2 raj 8--11
 2 raj 10-11
 2 raj 2-5
@@ -5173,8 +5173,8 @@ hak 12-hak 17
 2 raj 10-11
 ""
 2 raj 8-11
-2 raja-raja 10-11
-2 raja-raja 10-11
+1 raja-raja-
+1 raja-raja-
 2 raj 7-11
 2 raj 6-7
 hak 13-18
@@ -5191,10 +5191,10 @@ hak 13-18
 ""
 ""
 ""
-2 raja-raja 12-13
+1 raja-raja-
 ""
-""
-""
+1 raja-raja 10-2
+1 raja-raja 12-2
 2 raj 12-13
 2 raj 12-13
 2 raj 12-13
@@ -5203,7 +5203,7 @@ yosua 8-12
 ""
 2 raj 8-9
 2 raj 12-13
-2 raja-raja 12-13
+1 raja-raja-
 1 sam 27-31
 2 raj 12-13
 2 raj 12-13
@@ -5221,7 +5221,7 @@ hak 18-rut 1
 1 raj
 2 raj 1-5
 2 raj 14-15
-2 raja-raja 14-15
+1 raja-raja-
 2 raj 12-15
 2 raj 14-15
 2 raj 14-15
@@ -5230,14 +5230,14 @@ hak 18-rut 1
 2 raj 12-15
 2 raj 14-15
 hak 1-7
-2 raja-raja 14-15
+1 raja-raja-
 2 raj 14-15
 2 raj 10-11
 2 raj 14-15
 2 raj 14-15
 2 raj 14-15
 2 raj 14-15
-2 raja-raja 14-15
+1 raja-raja-
 2 raj 14-15
 2 raj 7-13
 1 sam 9-12
@@ -5259,7 +5259,7 @@ yosua 13-21
 ""
 ""
 1 sam 29-30
-2 raja-raja 10-17
+1 raja-raja-
 2 raj 16-17
 2 raj 16-17
 ""
@@ -5270,13 +5270,13 @@ yosua 13-21
 ""
 2 raj 16-17
 2 raj 14-15
-2 raja-raja 16-17
-2 raja-raja 16-17
+1 raja-raja-
+1 raja-raja-
 2 raj 16-17
 2 raj 6-15
 2 raj 18-19
 2 raj 18-19
-2 raja-raja 16-17
+1 raja-raja-
 2 raj 18-19
 2 raj 18-19
 2 raj 18-19
@@ -5351,7 +5351,7 @@ hak 8-14
 2 raj 10-23
 2 raj 22-23
 2 raj 20-23
-2 raja-raja 18-19
+1 raja-raja-
 2 raj 22-23
 2 raj 18-19
 2 sam 5-6
@@ -5365,13 +5365,13 @@ yos 22-24
 2 raj 24-25
 ""
 hak 15-21
-2 raja-raja 18-19
+1 raja-raja-
 2 raj 24-25
 ""
 ""
-2 raja-raja 20-21
-2 raja-raja 22-23
-2 raja-raja 24-25
+1 raja-raja-
+1 raja-raja-
+1 raja-raja-
 2 raj 3-12
 ""
 2 raj 24-25
@@ -5381,7 +5381,7 @@ hak 15-21
 2 raj 24-25
 2 raj 24-25
 ""
-2 raja-raja 24-25
+1 raja-raja-
 ""
 ""
 ""
@@ -5459,7 +5459,7 @@ hak 1-3
 1 taw 3-6
 1 taw 5-6
 1 tawarikh 5-1
-""
+hak 4-6
 1 taw 5-6
 1 taw 5-6
 2 raj 24-25
@@ -5478,7 +5478,7 @@ hak 1-3
 1 taw 7-8
 1 taw 7-8
 1 taw 7-8
-""
+hak 7-9
 1 tawarikh 1-2
 1 taw 5-6
 1 tawarikh 3-4
@@ -5648,7 +5648,7 @@ hak 10-12
 1 taw 11-18
 1 taw 17-18
 1 taw 17-18
-""
+hak 13-17
 2 sam 17-18
 1 taw 17-18
 1 taw 17-18
@@ -5679,7 +5679,7 @@ hak 10-12
 1 taw 19-20
 1 taw 19-20
 1 taw 17-20
-""
+hak 2 18-21
 1 taw 19-20
 1 taw 19-20
 1 taw 19-20
@@ -5719,13 +5719,13 @@ hak 10-12
 1 tawarikh 21-22
 1 taw 11-15
 1 taw 19-22
-2 raja-raja
+1 raja-raja-
 1 raj 3-6
 1 taw 17-18
 1 taw 19-20
 1 tawarikh 15-16
 1 taw 1-15
-2 sam 1-1
+2 sam 1-1 1
 1 taw 21-22
 1 taw 21-22
 1 taw 21-22
@@ -6299,7 +6299,7 @@ rut 1-1
 2 taw 28-29
 2 taw 28-29
 2 taw 13-16
-2 taw 2-5
+bil 2
 2 taw 16-21
 2 taw 28-29
 2 taw 22-27
@@ -6322,7 +6322,7 @@ rut 1-1
 2 taw 17-20
 2 tawarikh 21-24
 2 taw 26-29
-1 raja-raja 6-7
+1 raja-raja-
 1 taw 5-14
 2 taw 28-29
 2 taw 6-9
@@ -6348,7 +6348,7 @@ rut 1-1
 2 taw 17-22
 2 taw 30-31
 2 raj 7-8
-1 raja-raja 14-15
+1 raja-raja-
 2 taw 30-31
 2 taw 30-31
 2 taw 25-28
@@ -6415,7 +6415,7 @@ rut 1-1
 2 taw 36-ezra 1
 2 taw 36-ezra 1
 2 taw 22-25
-""
+1 raja-raja 22-2
 2 taw 36-ezra 1
 2 taw 34-35
 2 taw 31-36
@@ -6429,7 +6429,7 @@ rut 1-1
 2 taw 36-ezra 1
 2 taw 36-ezra 1
 2 taw 36-ezra 1
-2 taw 36-
+2 taw 36-ezr 1
 2 taw 36-ezra 1
 2 taw 36-ezra 1
 2 taw 36-ezra 1
@@ -6440,7 +6440,7 @@ ezra 2-3
 2 taw 26-27
 ezra 2-3
 ezra 2-3
-2 taw 32-
+2 taw 32-ezr 1
 ezra 2-3
 ezra 1-2
 2 tawarikh 30-31
@@ -6450,7 +6450,7 @@ ezra 2-3
 2 tawarikh 34-35
 ezra 2-3
 ezra 2-3
-""
+ezra 1-2
 2 taw 21-28
 ezra 2-3
 2 tawarikh 36-ezra 1
@@ -6471,7 +6471,7 @@ ezra 2-3
 ezra 4-5
 1 taw 18-23
 ezra 4-5
-""
+ezr 2-3
 ezra 4-5
 ezra 4-5
 ezra 4-5
@@ -6501,7 +6501,7 @@ ezra 4-5
 2 taw 36
 ezra 2-3
 ezra 4-5
-""
+1 raja-raja 10-11
 ezra 2-3
 ezra 4-5
 2 taw 34-36
@@ -6540,7 +6540,7 @@ ezra 3-6
 ezra 6-7
 ezra 8-9
 ezra 6-7
-""
+ezra 8-9
 ezra 8-9
 ezra 8-9
 ezra 8-9
@@ -6560,7 +6560,7 @@ ezra 6-9
 ezra 7-10
 2 taw 23-28
 ezra 8-9
-""
+ezr 4-5
 ezra 6789
 ezra 1-3
 2 taw 2-6
@@ -6583,7 +6583,7 @@ ezra 10-neh 1
 ezra 10-neh 1
 ezra 8-neh 1
 ezra 10-nehemia 1
-""
+1 raja-raja 20-21
 ezra 6-7
 1 taw 17-18
 ezra 10-neh 1
@@ -6595,7 +6595,7 @@ ezr 10-neh 1
 ezra 10-neh 1
 ezra 10-neh 1
 ezra 10-neh 1
-""
+ezr 6-7
 neh 2-3
 neh 2-3
 neh 2-3
@@ -6620,7 +6620,7 @@ neh 2-3
 neh 2-3
 ezra 2-neh 1
 nehemia 2-3
-""
+ezr 8-9
 2 taw 20-27
 neh 2-3
 neh 2-3
@@ -6644,7 +6644,7 @@ ezra 10-neh 5
 neh 4-5
 neh 4-5
 ezra 4-7
-neh 1
+ezr 10-neh 1
 neh 4-5
 neh 4-5
 neh 4-5
@@ -6746,7 +6746,7 @@ neh 10-11
 neh 6-7
 2 taw 17-20
 neh 10-11
-""
+nehemia 10-11
 neh 10-11
 neh 10-11
 neh 1-3
@@ -6814,7 +6814,7 @@ neh 4-6
 ester 3-4
 ester 3-4
 neh 12-13
-""
+est 1-2
 ester 3-4
 ester 1-2
 ester 3-4
@@ -6872,7 +6872,7 @@ ezra
 ester 7-8
 ester 5-6
 ester 7-8
-""
+ester 3-6
 neh
 ester 5-6
 est 3-6
@@ -6930,7 +6930,7 @@ est 1-2
 est 9-10
 est 7-10
 est 9-10
-2 taw 34-
+2 taw 34-ezr 3
 nehemia
 est 9-10
 2 taw 22-26
@@ -7022,7 +7022,7 @@ ayub 3-6
 ayub 5-6
 ayub 5-6
 est 9-10
-""
+ayb 1-2
 ayub 5-6
 ayb 5-6
 ayub 5-6
@@ -7055,7 +7055,7 @@ ayub 1-2
 ayub 7-8
 2 taw 20-21
 ayub 7-8
-""
+ayb 3-4
 2 taw 24-29
 ayub 9-10
 ayub 7-8
@@ -7063,7 +7063,7 @@ ayub 5678
 ayub 7-8
 ayub 9-10
 ayub 7-8
-""
+ayb 5-6
 ayb 7-8
 ayub 7-8
 ayub 7-8
@@ -7075,7 +7075,7 @@ ayub 9-10
 ayb 5-8
 ayub 9-10
 ayub 7-8
-""
+ayb 7-8
 ayub 9-10
 ayub 9-10
 ayub 9-10
@@ -7095,7 +7095,7 @@ ayub 9-10
 est 7-10
 ayub 11-12
 ayub 7-8
-""
+ayb 9-10
 ayub 11-12
 ayub 11-12
 ayub 11-12
@@ -7148,10 +7148,10 @@ ayub 15-16
 ayb 11-12
 ester 1-10
 ayub 15-16
-""
+yun 15-16
 ayub 15-16
 ayub 9-10
-""
+yun 15-16
 ayub 15-16
 ayub 13-14
 ayub 15-16
@@ -7270,8 +7270,8 @@ ayub 13-ayub 14
 ayub 15-ayub 16
 ayub 21-22
 ayub 23-24
-""
-""
+yun 23-24
+yun 23-24
 ayub 23-24
 ayub 21-22
 ayub 23-24
@@ -7354,7 +7354,7 @@ ayub 21-22
 ayub 25-26
 ayub 27-28
 ayub 27-28
-neh 4-
+neh 4-est 2
 ayub 27-28
 ayub 22-28
 ayub 27-ayub 28
@@ -7489,7 +7489,7 @@ ayub 37-38
 ayb 37-38
 ayub 39-40
 ayub 39-40
-""
+ayb 39-40
 ayub 39-40
 ayub 39-40
 ayub 39-40
@@ -7504,7 +7504,7 @@ ayb 39-40
 ayub 31-ayub 32
 ayub 33-ayub 34
 ayub 35-ayub 36
-""
+ayb 37-40
 ayub 27-30
 ayb 35-36
 ayub 39-40
@@ -7547,12 +7547,12 @@ ayub 27-30
 mazmur 1-2
 ayb 41-42
 mzm 1-2
-""
+maz 1-2
 mzm 1-2
 mzm 1-2
 mzm 1-2
 ayub 40-41
-""
+maz 1-2
 mzm 1-2
 mzm 1-2
 ayub 39-40
@@ -7574,18 +7574,18 @@ ester 1-2
 ayb 41-42
 mzm 1-2
 ayub 39-42
-""
+maz 1-2
 ayb 39-40
 ayub 6-10
 ayub 38-mzm 2
 ayub 39-42
-""
-""
-""
-""
+ayb 31-34
+maz 3-4
+maz 3-4
+maz 3-4
 mzm 3-4
-""
-""
+maz 1-4
+maz 3-4
 mzm 3-4
 mzm 3-4
 mzm 3-4
@@ -7596,27 +7596,27 @@ mzm 3-4
 mazmur 3-4
 ayub 33-42
 mazmur 1-4
-""
+maz 1-2
 mzm 3-4
 mzm 3-4
 ayub 40-mzm 4
 mzm 3-4
 ""
 ayub 10-15
-""
+maz 3-4
 mazmur 1-4
 ayub 1-15
 ayub 15-20
 mzm 5-6
 ayub 35-39
-""
-""
+maz 5-6
+maz 5-6
 mzm 5-6
 mzm 5-6
 ayub 33-34
 mzm 5-6
 mazmur 3-4
-""
+maz 5-6
 mzm 3-4
 ayub 35-36
 mzm 5-6
@@ -7626,10 +7626,10 @@ mzm 5-6
 mzm 5-6
 mzm 3-4
 mzm 5-6
-""
-""
+maz 5-6
+maz 5-6
 mzm 5-6
-""
+maz 3-6
 ayb 41-42
 mazmur 5-6
 ayub
@@ -7639,12 +7639,12 @@ ayub 40-42
 ayub 34-36
 ayub 35-37
 ayub 21-28
-""
+maz 7-8
 mzm 7-8
-""
-""
+maz 7-8
+maz 7-8
 mzm 7-8
-""
+maz 7-8
 mzm 7-8
 mzm 7-8
 mzm 7-8
@@ -7653,107 +7653,107 @@ mazmur 3-4
 mazmur 5-6
 mazmur 7-8
 mazmur 7-8
-""
-""
-""
+maz 7-8
+maz 1-2
+maz 7-8
 mzm 7-8
-""
-""
+maz 7-8
+maz 7-8
 ayub 5-12
 mzm 9-10
 mzm 7-8
 mazmur 5-8
 mzm 1-2
-""
-""
+maz 9-10
+maz 9-10
 mzm 9-10
 mzm 9-10
 mzm 9-10
-""
+maz 7-10
 mzm 9-10
 mzm 3-6
 mzm 7-10
-""
-""
-""
+maz 7-10
+maz 9-10
+maz 9-10
 mzm 7-10
-""
+maz 3-10
 mzm 9-10
-""
+maz 9-10
 ayub 37-39
 mzm 7-10
 mazmur 9-10
 ayub 37-38
-""
-""
+maz 3-4
+maz 11-12
 mzm 11-12
 mzm 11-12
 mzm 11-12
 mzm 11-12
 mzm 9-12
-""
+maz 11-12
 mzm 1-5
 mazmur 9-10
 mazmur 11-12
 mazmur 5-12
-""
+maz 11-12
 ayb 33-42
 mzm 11-12
 mzm 11-12
 ayub 38-42
 mzm 11-12
-""
+maz 11-12
 mzm 11-12
 ayub 29-32
 ayub 40-41
-""
+maz 13-14
 mzm 13-14
-""
-""
-""
+maz 11-14
+maz 13-14
+maz 11-12
 mzm 13-14
-""
+maz 9-15
 mzm 13-14
 mzm 11-14
 mzm 13-14
 mzm 9-10
-""
-""
+maz 13-14
+mzm 13-14
 mzm 9-14
 mzm 13-14
 mzm 11-14
-""
+maz 11-12
 mzm 13-14
 ayub 33-38
-""
+maz 13-14
 ayub 16-20
-""
+maz 11-14
 ayub 13-16
-""
+maz 5-6
 mzm 13-14
 ayub 42-mzm 1
-""
+maz 11-12
 mzm 13-14
 mzm 9-10
 mzm 11-16
 mzm 11-14
 mzm 13-14
 ayub 39-42
-""
+maz 7-8
 ayub 39-42
-""
+maz 1-2
 mazmur 3-4
-""
+maz 3-10
 mzm 2-4
 ayb 20-32
 mzm 15-16
-""
+maz 15-16
 mzm 15-16
-""
-""
+maz 15-16
+maz 15-16
 mzm 15-16
-""
-""
+maz 13-14
+maz 15-16
 mzm 15-16
 mazmur 9-10
 mazmur 11-12
@@ -7769,92 +7769,92 @@ mzm 15-16
 mzm 5-7
 mzm 15-16
 mazmur 11-14
-""
+ayb 5-16
 ayub 17-22
-""
-""
+maz 17-18
+maz 17-18
 mzm 17-18
 mzm 17-18
 mzm 17-18
 mzm 17-18
-""
+maz 15-16
 mzm 17-18
-""
+maz 1-4
 mzm 17-18
-""
+maz 15-18
 mzm 17-18
 mzm 17-18
-""
+maz 15-18
 mzm 17-18
 mzm 17-18
 mzm 19-20
-""
+maz 1-5
 mzm 19-20
-""
+maz 19-20
 mzm 19-20
 mzm 19-20
-""
-""
+maz 19-20
+maz 17-18
 mzm 17-18
 mzm 17-20
-""
-""
+maz 13-20
+maz 19-20
 mzm 19-20
 mzm 19-20
-""
+maz 5-6
 mzm 19-20
-""
+maz 17-18
 mzm 19-20
 mzm 15-20
-""
+maz 9-12
 mzm 19-20
 mzm 19-20
-""
+maz 8-10
 ayub 31-42
 mzm 19-20
 ayub 7-10
 neh 12-13
 ayub
-""
+maz 6-8
 ayub 11-12
-""
+maz 21-22
 mzm 21-22
-""
-""
+maz 21-22
+maz 21-22
 mazmur 15-18
 mzm 21-22
 mzm 21-22
 mzm 21-22
-""
-""
-""
+maz 19-20
+maz 21-22
+maz 15-20
 mzm 15-18
 mzm 21-22
 mzm 21-22
 mzm 21-22
 mzm 21-22
-""
-""
-""
-""
+mzm 21-22
+maz 21-22
+maz 19-22
+maz 13-14
 mzm 21-22
 mzm 19-22
-""
+maz 11-13
 mzm 11-16
 est 6-10
 mzm 9-12
-""
-""
+maz 23-24
+maz 23-24
 mzm 23-24
 mazmur 19-22
 mazmur 13-24
 mzm 23-24
 mzm 23-24
 mzm 23-24
-""
-""
-""
-""
+maz 7-10
+maz 21-22
+maz 15-18
+maz 23-24
 mzm 21-22
 mzm 23-24
 mzm 23-24
@@ -7862,45 +7862,45 @@ mzm 23-24
 mzm 23-24
 mzm 23-24
 mzm 23-24
-""
+maz 21-22
 mzm 23-24
 mzm 21-24
 mzm 23-24
-""
+maz 23-24
 mzm 12-18
-""
+maz 25-26
 mzm 25-26
-""
+maz 25-26
 mzm 25-26
 mazmur 17-18
 mazmur 19-20
 mazmur 21-22
 mazmur 23-24
-""
+maz 25-26
 mzm 25-26
-""
+maz 23-24
 mzm 23-26
 mzm 25-26
 mzm 25-26
 mzm 25-26
 mzm 25-26
-""
+maz 11-12
 mazmur 15-16
 mzm 25-26
 mzm 25-26
-""
+maz 14-24
 mzm 25-26
-""
+maz 14-17
 mzm 25-26
-""
+maz 25-26
 mzm 25-26
 mzm 25-26
 mazmur 23-26
-""
+maz 19-22
 mzm 25-26
 mzm 19-21
-""
-""
+maz 18-19
+maz 27-28
 mzm 27-28
 mazmur 25-28
 mzm 27-28
@@ -7912,21 +7912,21 @@ mzm 27-28
 mzm 27-28
 mzm 27-28
 mzm 23-27
-""
-""
+maz 27-28
+maz 25-26
 mzm 27-28
-""
-""
+ayb 1-5
+maz 27-28
 ayub 23-40
 mzm 27-28
-""
+maz 23-24
 mzm 27-28
 ayub 21-25
-""
+maz 27-28
 mzm 27-28
 mzm 29-30
-""
-""
+maz 20-21
+maz 29-30
 mzm 29-30
 mazmur 27-28
 mzm 29-30
@@ -7934,32 +7934,32 @@ mzm 27-28
 mzm 29-30
 mzm 29-30
 mzm 29-30
-""
+maz 27-28
 mzm 29-30
-""
+maz 25-31
 mzm 19-22
 mzm 28-30
 mzm 29-30
 mzm 27-30
 mzm 29-30
 mzm 29-30
-""
+maz 29-30
 ayub 26-30
-""
+maz 22-24
 mzm 29-30
 mzm 29-30
-""
+maz 29-30
 ayb 6-10
-""
-""
-""
+maz 29-30
+ayb 16-26
+maz 31-32
 mzm 31-32
 mzm 31-32
 mazmur 29-30
 mzm 31-32
 mzm 31-32
-""
-""
+maz 31-32
+maz 27-32
 mzm 31-32
 mzm 31-32
 mzm 31-32
@@ -7968,49 +7968,49 @@ mzm 31-32
 mzm 31-32
 mzm 31-32
 ayub 31-35
-""
-""
+maz 31-32
+maz 31-32
 mzm 29-32
 mzm 31-32
-""
-""
-""
+maz 33-34
+maz 31-32
+maz 33-34
 mzm 33-34
 mzm 33-34
-""
+maz 21-34
 mazmur 29-30
 mazmur 31-32
 ayub 17-18
-""
+maz 33-34
 mzm 33-34
 mzm 33-34
-""
+maz 27-32
 mzm 33-34
 mzm 33-34
-""
-""
+maz 25-26
+maz 33-34
 mzm 31-34
 mzm 33-34
-""
-""
+maz 33-34
+maz 22-28
 mazmur 31-32
 mzm 33-34
-""
-""
+ayb 11-15
+maz 35-36
 mzm 33-34
 mzm 35-36
 mzm 35-36
 mzm 33-36
 mzm 35-36
 mazmur 29-36
-""
+maz 35-36
 ayub 19-20
-""
+maz 33-36
 mzm 35-36
 mzm 35-36
 mzm 31-36
-""
-""
+maz 13-16
+maz 35-36
 mazmur 33-34
 mzm 35-36
 ayub 21-22
@@ -8018,25 +8018,25 @@ mazmur 1-6
 mzm 35-36
 ayub 1-2
 ayub 36-40
-""
-""
+maz 33-36
+maz 27-28
 mzm 35-36
-""
-""
+maz 35-36
+maz 25-27
 mzm 35-36
 ""
 mzm 23-26
-""
+maz 37-38
 mazmur 35-36
 mzm 33-34
-""
-""
+maz 37-38
+maz 35-36
 mzm 35-36
-""
-""
-""
+maz 37-38
+maz 37-38
+maz 37-38
 mzm 37-38
-""
+maz 37-38
 mzm 37-38
 ayub 41-42
 mzm 37-38
@@ -8044,10 +8044,10 @@ mzm 1-10
 mzm 37-38
 ayub 23-26
 mzm 37-38
-""
-""
+ayb 16-20
+maz 30-38
 mzm 27-30
-""
+maz 37-38
 mazmur 33-34
 mzm 37-38
 mazmur 35-36
@@ -8056,63 +8056,63 @@ mazmur 37-38
 mzm 37-38
 mzm 37-38
 mzm 37-38
-""
+maz 39-40
 mzm 39-40
 mzm 39-40
 mzm 37-40
 mazmur 37-40
-""
-""
+maz 39-40
+maz 39-40
 mzm 37-38
 mzm 33-40
 mzm 11-20
-""
+maz 29-30
 mzm 39-40
 mzm 39-40
 mzm 39-40
-""
+maz 39-40
 mzm 39-40
-""
+maz 39-40
 mazmur 37-38
-""
-""
+maz 39-40
+maz 37-40
 mzm 39-40
-""
+maz 31-32
 mzm 39-40
-""
-""
-""
+maz 39-40
+maz 41-42
+maz 41-43
 mzm 41-43
 mzm 41-43
 mzm 21-30
-""
-""
-""
+maz 39-43
+maz 41-43
+maz 41-43
 mzm 41-43
 mzm 41-43
 mzm 41-43
 mzm 41-43
 mzm 1-20
-""
+maz 41-43
 mzm 41-43
 mzm 39-43
 mzm 414243
-""
-""
+maz 41-43
+maz 33-34
 mzm 41-43
 ayub 41-mzm 8
 mzm 17-20
 ayub 27-42
 mzm 44-45
-""
-""
-""
+maz 44-45
+maz 44-45
+maz 44-45
 mzm 44-45
 mzm 44-45
 mzm 44-45
-""
+maz 44-45
 mzm 21-30
-""
+maz 17-18
 mzm 44-45
 mzm 44-45
 mzm 44-45
@@ -8123,43 +8123,43 @@ mzm 31-34
 mzm 44-45
 mzm 44-45
 mzm 44-45
-""
-""
-""
+maz 19-20
+maz 41-45
+maz 41-45
 mazmur 39-40
-""
-""
-""
-""
+maz 28-29
+ayb 21-25
+maz 46-47
+maz 46-47
 mzm 46-47
 mzm 46-47
-""
+maz 46-47
 mzm 44-47
-""
+maz 46-47
 mzm 44-45
 mzm 31-40
 mzm 46-47
 mzm 46-47
 mzm 46-47
-""
+maz 21-22
 mzm 46-47
 mzm 46-47
-""
-""
-""
+maz 29-39
+maz 30-32
+maz 39-47
 mzm 46-47
-""
+maz 35-36
 mzm 46-47
 mzm 46-47
 mzm 46-47
-""
-""
+maz 46-47
+maz 1-6
 mzm 48-49
 mzm 41-47
-""
+maz 48-49
 mzm 48-49
 mzm 46-47
-""
+maz 48-49
 mzm 48-50
 mzm 48-49
 mzm 48-49
@@ -8167,9 +8167,9 @@ mzm 48-49
 mazmur 41-43
 mzm 48-49
 mzm 46-49
-""
+maz 40-49
 mzm 48-49
-""
+maz 48-49
 mzm 40-49
 ""
 mzm 48-49
@@ -8178,125 +8178,125 @@ mazmur 41-43
 mazmur 44-45
 mazmur 46-47
 mazmur 48-49
-""
+maz 48-49
 mzm 48-49
-""
-""
-ayb 34-
+maz 37-38
+maz 33-34
+ayb 34-maz 10
 mzm 50-51
 ayub 37-ayub 38
 ayub 39-ayub 40
 ayub 41-ayub 42
-""
-""
+maz 41-49
+maz 50-51
 mzm 50-51
 mzm 51-53
-""
-""
+maz 50-51
+maz 35-42
 mzm 50-51
 mzm 50-51
-""
-""
-""
+mzm 41-50
+maz 23-24
+maz 50-51
 mzm 48-51
 mzm 50-51
-""
-""
+maz 35-36
+maz 50-51
 mzm 50-51
-""
+maz 48-51
 mzm 50-51
 mzm 48-49
 mzm 50-51
-""
+ayb 26-30
 mzm 35-38
 mazmur 44-47
-""
-""
-""
-""
-""
+maz 48-51
+maz 50-51
+maz 39-40
+maz 43-51
+maz 50-51
 mazmur 39-40
 mzm 52-53
 mzm 7-14
 mzm 52-53
 mzm 52-53
 mazmur 48-50
-""
+maz 52-53
 mzm 52-53
 mzm 52-53
-""
+maz 52-53
 mzm 54-55
 mzm 50-51
 mzm 52-53
-""
-""
+maz 50-51
+maz 52-53
 mzm 48-53
 mzm 52-53
 mzm 52-53
 mzm 52-53
-""
+maz 41-42
 mazmur 51-53
-""
-""
-""
-""
+maz 52-53
+maz 52-53
+maz 37-38
+maz 25-26
 mzm 52-53
 mzm 54-55
 ayub 27-29
-""
+maz 54-55
 mzm 54-55
 mzm 52-53
 ayub 30-31
 mzm 54-55
-""
+maz 54-55
 mzm 54-55
 mzm 54-55
-""
-""
+maz 52-53
+maz 52-55
 mzm 54-55
-""
+maz 54-55
 mzm 50-55
 mzm 54-55
 mzm 54-55
 mzm 7-30
 mzm 31-43
-""
+ayb 31-35
 mzm 6-35
 mzm 39-43
 mzm 52-55
-""
+maz 43-44
 mzm 54-55
 mzm 54-55
 mzm 44-55
-""
+maz 52-55
 mzm 15-17
-""
-""
+maz 52-55
+maz 56-57
 mzm 56-57
 mzm 51-57
 mzm 53-57
 mzm 53-57
 mzm 56-57
-""
+maz 56-57
 mzm 54-57
 mzm 56-57
 mazmur 41-57
-""
+maz 56-57
 mzm 56-57
-""
-""
-""
-""
-mzm 56-57
-mzm 56-57
-""
+maz 54-55
+maz 27-28
+maz 56-57
+maz 56-57
 mzm 56-57
 mzm 56-57
-""
+maz 45-46
 mzm 56-57
-""
+mzm 56-57
+maz 56-57
+mzm 56-57
+maz 39-40
 mazmur 54-57
-""
+maz 58-59
 mzm 58-59
 mzm 58-59
 mzm 56-57
@@ -8307,33 +8307,33 @@ mazmur 54-55
 mazmur 56-57
 mzm 58-59
 mazmur 58-59
-""
+maz 54-59
 mzm 58-59
-""
+maz 58-59
 mazmur 58-59
-""
+maz 29-30
 ayub 29-41
-""
-""
+maz 58-59
+maz 58-59
 mzm 44-53
 mzm 56-59
-""
+maz 58-59
 mzm 58-59
 mzm 21-30
 mzm 58-59
-""
-""
+maz 41-43
+maz 47-48
 mzm 56-59
 mzm 58-59
 mzm 60-61
-""
-""
+ayb 36-40
+maz 60-61
 mzm 58-59
 mzm 60-61
-""
-""
-""
-""
+maz 54-61
+maz 56-57
+maz 58-59
+maz 58-59
 mzm 58-61
 mzm 60-61
 mzm 60-61
@@ -8342,61 +8342,61 @@ mzm 60-61
 mzm 60-61
 mzm 60-61
 mzm 60-61
-""
-""
+maz 31-34
+maz 60-61
 mzm 60-61
-""
+maz 44-45
 mzm 60-61
 mzm 62-63
 mazmur 58-61
-""
+maz 62-63
 mzm 63-63
 mzm 62-63
-""
-""
-""
+maz 60-61
+maz 60-61
+maz 60-63
 mzm 62-63
 mzm 60-61
 mzm 62-63
 mzm 62-63
 mzm 62-63
-""
+maz 60-63
 mzm 62-63
 mzm 62-63
 mazmur 52-53
 mzm 60-63
 mzm 60-63
 mzm 60-61
-""
+maz 49-52
 mazmur 62-63
 mazmur 01-mazmur 02
 mazmur 03-mazmur 04
-""
-""
-""
+maz 62-63
+maz 58-63
+maz 62-63
 mzm 31-40
 mzm 9-20
 mazmur 05-mazmur 06
 mazmur 07-mazmur 08
 mazmur 09-mazmur 10
-""
+maz 64-65
 mzm 64-65
-""
+maz 64-65
 mzm 64-65
 mzm 64-65
 mzm 64-65
 mzm 62-65
 mzm 62-63
-""
+maz 64-65
 mazmur 60-61
-""
+maz 62-65
 mazmur 62-63
-""
+maz 64-65
 mzm 62-65
 mzm 58-65
 mzm 64-65
 mzm 64-65
-""
+maz 53-54
 mzm 64-65
 mzm 64-65
 mazmur 64-65
@@ -8407,43 +8407,43 @@ mazmur 64-65
 mzm 41-50
 mzm 64-65
 mzm 62-65
-""
+maz 56-65
 mzm 66-67
 mzm 66-67
-""
-""
+maz 66-67
+maz 66-67
 mzm 66-67
 mzm 66-67
-""
-mzm 66-67
-mzm 66-67
-mzm 66-67
+maz 66-67
 mzm 66-67
 mzm 66-67
 mzm 66-67
 mzm 66-67
 mzm 66-67
 mzm 66-67
-""
+mzm 66-67
+mzm 66-67
+mzm 66-67
+maz 55-56
 mzm 54-57
-""
+maz 62-67
 mzm 66-67
-""
+maz 66-67
 mazmur 66-67
-""
+maz 46-47
 mzm 58-61
-""
+maz 68-69
 mzm 68-69
 mzm 68-69
 mazmur 64-65
 mazmur 66-67
-""
+maz 68-69
 mzm 68-69
 mazmur 68-69
 mzm 68-69
 mzm 68-69
-""
-""
+maz 66-67
+maz 68-69
 mzm 66-69
 mzm 68-69
 mzm 66-68
@@ -8454,22 +8454,22 @@ mzm 68-69
 mzm 68-69
 mzm 66-69
 mzm 68-69
-""
-""
-""
+maz 57-58
+maz 64-69
+maz 68-69
 mzm 68-69
-""
-""
-""
+maz 21-26
+maz 68-69
+maz 68-69
 mzm 70-71
-""
-mzm 70-71
-mzm 70-71
+maz 70-71
 mzm 70-71
 mzm 70-71
 mzm 70-71
-""
-""
+mzm 70-71
+mzm 70-71
+maz 70-71
+maz 68-69
 mzm 70-71
 mzm 70-71
 mzm 70-71
@@ -8478,37 +8478,37 @@ mzm 70-71
 mzm 70-71
 mzm 70-71
 mzm 70-71
-""
+maz 59-60
 mzm 70-71
-""
+maz 70-71
 mazmur 68-69
-""
+maz 27-30
 mzm 72-73
-""
-mzm 72-73
-mzm 72-73
-mzm 72-73
-""
-""
+maz 72-73
 mzm 72-73
 mzm 72-73
 mzm 72-73
-""
+maz 72-73
+maz 35-36
+mzm 72-73
+mzm 72-73
+mzm 72-73
+maz 72-73
 mzm 66-71
 mzm 72-73
-""
+maz 48-50
 mazmur 70-73
 mzm 72-73
-""
+maz 66-73
 mzm 72-73
 mzm 51-60
 mzm 72-73
 ayub 32-35
-""
-""
-""
-""
-""
+maz 58-65
+maz 51-52
+maz 74-75
+maz 70-71
+maz 72-73
 mzm 74-75
 mazmur 70-71
 mazmur 72-73
@@ -8519,32 +8519,32 @@ mzm 74-75
 mzm 72-75
 mzm 72--73
 mzm 74-75
-""
+maz 70-75
 mzm 74-75
 mzm 74-75
 mzm 74-75
-""
+maz 70-75
 mzm 72-75
 mzm 74-75
-""
+maz 61-64
 mazmur 70-71
 mzm 74-75
-""
-""
+maz 53-54
+maz 74-75
 ayub 8-9
 mzm 74-75
 mzm 74-75
 mzm 76-77
-""
+maz 74-75
 mzm 74-75
-""
-""
-""
-""
-""
+maz 55-56
+maz 37-40
+maz 1-10
+maz 11-20
+maz 76-77
 mzm 76-77
 mzm 76-77
-""
+maz 76-77
 ayub 18-19
 mzm 70-71
 mzm 72-73
@@ -8552,52 +8552,52 @@ mzm 74-75
 mzm 76-77
 mzm 76-77
 mzm 76-77
-""
+maz 74-75
 mzm 76-77
 mzm 76-77
 mzm 76-77
 mzm 76-77
 mzm 76-77
-""
-""
-""
+maz 76-77
+maz 62-77
+maz 66-72
 mzm 76-77
 mzm 76-77
 mzm 76-77
-""
-""
-""
+maz 57-58
+maz 76-77
+maz 76-77
 mzm 72-77
-""
+maz 78-79
 mzm 78-79
-""
+maz 76-77
 mzm 78-79
 mzm 76-79
 mzm 78-79
-""
+maz 78-79
 mzm 78-79
-""
-""
+maz 78-79
+maz 78-79
 mzm 78-79
 mzm 78-79
 mzm 78-79
-""
+maz 78-79
 mzm 78-79
 mzm 78-79
 mazmur 72-75
-""
-""
+maz 65-68
+maz 21-40
 mzm 21-30
-""
-""
+maz 80-81
+maz 59-60
 mzm 78-79
-""
+maz 80-81
 mzm 80-81
 mzm 80-81
-""
-""
+maz 68-77
+ayb 41-maz 6
 mazmur 76-77
-""
+maz 80-81
 mazmur 78-79
 mazmur 80-81
 mzm 76-79
@@ -8609,31 +8609,31 @@ mzm 80-81
 mzm 78-81
 mzm 80-81
 mzm 80-81
-""
+maz 78-79
 mzm 80-81
 mzm 78-81
 mzm 80-81
-""
-""
+maz 80-81
+maz 80-81
 mzm 80-81
-""
+maz 61-62
 mzm 82-83
 mzm 73-76
-""
+maz 82-83
 mzm 82-83
-""
-""
+maz 82-83
+maz 78-83
 mzm 82-83
 mzm 82-83
 mzm 82-83
 mazmur 76-78
-""
+maz 82-83
 mzm 82-83
-""
+maz 41-42
 mzm 80-83
-""
-""
-""
+maz 41-60
+maz 69-70
+maz 82-83
 mzm 82-83
 mzm 82-83
 mzm 82-83
@@ -8643,34 +8643,34 @@ mzm 82-83
 mzm 82-83
 mzm 82-83
 mzm 10-37
-""
+maz 84-85
 mazmur 79-82
-""
+maz 84-85
 mzm 84-85
 mzm 84-85
 mzm 84-85
-""
+maz 80-81
 mzm 84-85
 mzm 64-69
 mzm 84-85
-""
+maz 84-85
 mzm 84-85
 mzm 84-85
 mzm 84-85
 mzm 82-85
 mzm 84-85
 mzm 77-80
-""
-""
+maz 63-64
+maz 81-85
 mzm 84-85
-""
-""
+maz 86-87
+maz 86-87
 mzm 86-87
-""
+maz 77-87
 mzm 86-87
 mazmur 66-67
-""
-""
+maz 82-83
+maz 84-85
 mzm 86-87
 mzm 86-87
 mzm 86-87
@@ -8678,16 +8678,16 @@ mzm 86-87
 mzm 86-87
 mzm 86-87
 mzm 37-45
-""
+maz 71-73
 mzm 86-87
-""
+maz 78-87
 mzm 70-75
-""
+maz 86-87
 mzm 84-87
 mazmur 83-86
 mzm 84858687
 mazmur 86-87
-""
+maz 86-87
 mzm 60-70
 mzm 78-79
 mzm 80-81
@@ -8695,18 +8695,18 @@ mzm 82-83
 mzm 84-85
 mzm 86-87
 mzm 86-87
-""
-""
-""
-""
-""
+maz 84-87
+maz 86-87
+maz 65-67
+maz 88-89
+maz 88-89
 mzm 88-89
 mzm 88-89
-""
+maz 88-89
 mzm 88-89
 mzm 58-89
-""
-""
+maz 88-89
+maz 88-89
 mzm 84-89
 mzm 88-89
 mzm 86-89
@@ -8716,25 +8716,25 @@ mzm 78-89
 mzm 88-89
 mzm 88-89
 mzm 88-89
-""
+maz 74-75
 mzm 76-85
-""
+maz 88-89
 mazmur 87-89
 mzm 88-89
 mzm 7677787980
 mzm 88-89
-""
+maz 68-70
 mzm 88-89
 ayub 36-37
 mzm 88-89
-""
-""
+maz 90-91
+maz 90-91
 mzm 90-91
-""
+maz 43-44
 mzm 90-91
 mzm 90-91
-""
-""
+maz 90-91
+maz 61-80
 mzm 82-91
 mzm 90-91
 mzm 90-91
@@ -8742,9 +8742,9 @@ mzm 88-89
 mzm 90-91
 mzm 90-91
 mzm 90-91
-""
+maz 90-91
 mzm 90-91
-""
+maz 76-77
 mzm 90-91
 mzm 90-91
 ""
@@ -8752,12 +8752,12 @@ mzm 90-91
 mzm 81-89
 mzm 90-91
 mzm 90-91
-""
+maz 71-72
 mzm 45-52
 mazmur 30-34
 mzm 86-89
-""
-""
+maz 92-93
+maz 92-93
 mazmur 90-91
 mzm 92-93
 mzm 92-93
@@ -8782,21 +8782,21 @@ mzm 92-93
 ayub 38-41
 mzm 92-93
 mzm 92-93
-""
-""
+maz 92-93
+maz 90-93
 mazmur 92-93
-""
+maz 78-79
 mzm 92-93
 mazmur 35-38
-""
+maz 94-95
 mzm 94-95
-""
+maz 94-95
 mzm 94-95
 mzm 90-93
-""
+maz 94-95
 mzm 94-95
 mzm 94-95
-""
+maz 92-93
 mzm 94-95
 mzm 86-95
 mzm 94-95
@@ -8805,24 +8805,24 @@ mazmur 11-mazmur 12
 mazmur 13-mazmur 14
 mzm 94-95
 ""
-""
+maz 80-81
 mzm 94-95
-""
+maz 94-95
 mzm 92-95
 mzm 94-95
 mzm 94-95
 mzm 94-95
-""
+maz 90-95
 mazmur 94-95
-""
+maz 96-97
 mzm 96-97
 mzm 96-97
 mzm 96-97
 mzm 94-95
 mzm 96-97
-""
-""
-""
+maz 94-95
+maz 96-97
+maz 96-97
 mzm 96-97
 mzm 92-97
 mzm 96-97
@@ -8830,22 +8830,22 @@ mzm 96-97
 mzm 96-97
 mazmur 96-97
 mzm 90-95
-""
-""
+maz 96-97
+maz 96-97
 mzm 96-97
 mzm 96-97
-""
+maz 96-97
 mzm 53-65
 mzm 98-100
-""
+maz 98-100
 mzm 98-100
-""
-""
+maz 98-99
+maz 100
 mzm 90-100
 mzm 98-100
-""
+maz 98-100
 mzm 98-100
-""
+maz 96-97
 mzm 98-100
 mzm 98-100
 mzm 98-100
@@ -8855,33 +8855,33 @@ mzm 96-100
 mzm 96-100
 mzm 96-100
 mzm 36-45
-""
+maz 98-100
 mzm 98-100
-""
-""
-ayub 42-
+maz 73-76
+maz 94-100
+ayub 42-maz 3
 mzm 98-100
-""
+maz 82-83
 mzm 46-55
 mzm 37-40
-""
-""
+maz 45-48
+maz 77-78
 mzm 98-100
-""
-""
+maz 101-102
+maz 101-102
 mzm 98-102
 mzm 101-102
 mzm 101-102
 mzm 101-102
 mazmur 88-89
-""
+maz 17-27
 mzm 101-102
 mzm 94-102
 mazmur 94-95
 mazmur 96-97
-""
+maz 98-100
 mazmur 98-100
-""
+maz 101-102
 mazmur 101-102
 mzm 101-102
 mzm 94-100
@@ -8889,79 +8889,79 @@ mzm 101-102
 mzm 101-102
 mzm 56-65
 mzm 101-102
-""
+maz 101-102
 mzm 101-102
 mzm 101-102
 mzm 101-102
-""
+maz 84-85
 mzm 101-102
 mzm 101-102
 mzm 66-75
 mzm 101-102
 mzm 99-102
-""
-""
-""
+maz 101-102
+maz 103-104
+maz 103-104
 mzm 103-104
 mzm 103-104
-""
-""
-""
+maz 100-104
+maz 103-104
+maz 90-104
 mzm 103-104
 mzm 103-104
 mzm 103-104
 mzm 103-104
 mzm 96-104
 mzm 103-104
-""
+maz 103-104
 mzm 103-104
 mzm 103-104
 mzm 103-104
 mzm 76-85
-""
-""
-""
+maz 79-80
+maz 105-106
+maz 105-106
 mzm 105-106
 mzm 105-106
-""
+maz 49-50
 mzm 105-106
 mzm 103-104
 mzm 105-106
 mzm 86-95
 mzm 98-100
-""
+maz 105-106
 mzm 31-50
-""
+maz 103-104
 mzm 105-106
 mzm 105-106
-""
-""
+maz 86-87
+maz 88-89
 mzm 105-106
 mzm 103-106
 mzm 105-106
 mzm 105-106
 mzm 41-44
-""
-""
-""
+maz 81-82
+maz 66-78
+maz 104-105
 mzm 103-106
 mazmur 99-102
 mzm 103-106
-""
-""
+maz 107-108
+maz 107-108
 mzm 107-108
 mzm 101-102
 mazmur 103-104
 mzm 106-107
-""
+maz 81-106
 mzm 105-108
 mzm 107-108
 mzm 107-108
-""
+maz 107-108
 mazmur 103-104
 mazmur 105-106
-""
-""
+maz 107-108
+maz 107-108
 mazmur 15-mazmur 16
 mazmur 17-mazmur 18
 mazmur 19-mazmur 20
@@ -8969,21 +8969,21 @@ mzm 107-108
 mzm 45-48
 mzm 107-108
 mzm 107-108
-""
+maz 105-108
 mzm 105-108
-""
-""
+maz 90-93
+maz 81-83
 mzm 107-110
-""
+maz 107-108
 mzm 107-108
-""
-""
+maz 109-110
+maz 109-110
 mazmur 103-106
 mzm 109-110
 mzm 107-108
 mzm 109-110
 mzm 109-110
-""
+maz 109-110
 mzm 96-105
 mzm 109-110
 mzm 103-110
@@ -8991,25 +8991,25 @@ mzm 103-110
 mzm 109-110
 mzm 109-110
 mzm 109-110
-""
+maz 51-52
 mzm 109-110
-""
+maz 103-110
 mzm 101-104
-""
-""
+maz 109-110
+maz 105-110
 mzm 109-110
 mzm 109-110
-""
+maz 107-108
 mzm 49-54
-""
+maz 111-112
 mzm 111-113
-""
+maz 111-113
 mzm 111-113
 mzm 109-110
-""
+maz 111-113
 mzm 111-113
 mzm 111-113
-""
+maz 111-113
 mzm 111-113
 mzm 111-113
 mzm 105-110
@@ -9017,34 +9017,34 @@ mzm 111-113
 mzm 111-113
 mzm 109-113
 mzm 106-113
-""
-""
+maz 111-113
+maz 94-95
 mzm 111-113
-""
-""
+maz 84-85
+maz 79-87
 mzm 111-113
-""
-""
+maz 111-113
+maz 53-56
 ayub 26-27
-""
-""
+maz 111-113
+maz 86-87
 mzm 114-115
 mazmur 107-110
-""
+maz 105-113
 mzm 48-62
-""
-""
+maz 114-115
+maz 114-115
 mzm 114-115
 mzm 114-116
 mzm 114-115
 mzm 114-115
 mzm 109-114
-""
+maz 114-115
 mzm 107-115
 mzm 114-115
-""
+maz 96-99
 mzm 111-115
-""
+maz 114-115
 mzm 114-115
 mazmur 107-108
 mazmur 109-110
@@ -9052,25 +9052,25 @@ mazmur 111-113
 mazmur 114-115
 mzm 114-115
 mzm 114-115
-""
+maz 114-115
 mzm 111-115
 mzm 114-115
 mzm 111-115
-""
+maz 116-117
 mzm 116-117
-""
+maz 116-117
 mzm 116-117
-""
-""
+maz 110-117
+maz 114-115
 mzm 114-115
 mzm 116-118
-""
-""
+maz 116-118
+maz 116-118
 mzm 116-118
-""
+maz 88-91
 mzm 116-118
-""
-""
+maz 116-118
+maz 116-118
 mzm 116-118
 mzm 88-91
 mzm 116-118
@@ -9080,36 +9080,36 @@ mzm 116-118
 mzm 116-118
 mzm 116-118
 mzm 116-118
-""
-""
+maz 100-103
+maz 88-90
 mzm 109-115
 mazmur 111-114
-""
+maz 28-38
 mzm 116-120
 mzm 119
 mzm 116-118
 mzm 119
-""
-""
+maz 119
+maz 118
 mzm 118-119
 mzm 119
-""
+maz 119
 mzm 107-108
 mzm 111-113
 mzm 119
-""
+maz 119
 mzm 119
 mzm 119
-""
-""
-""
+maz 119
+maz 119
+maz 104-105
 mzm 119
 mzm 119
-""
+maz 91-93
 mzm 116-118
-""
+maz 119
 mzm 114-119
-""
+maz 120-121
 mzm 114-115
 mzm 116-118
 mzm 119
@@ -9117,30 +9117,30 @@ mazmur 100-110
 mazmur 111-118
 mzm 120-121
 mazmur 119
-""
-""
+maz 120-122
+maz 57-58
 mzm 121-122
-""
+maz 117-121
 mzm 120-121
 mzm 115-119
-""
+maz 120-121
 mzm 120-121
 mzm 120-121
 mzm 120-121
-""
+maz 119
 mzm 120-121
-""
+maz 120-121
 mzm 120-121
 mzm 120-121
 mzm 120-121
-""
+maz 106-107
 mzm 120-121
 mzm 91-100
 mzm 4-9
-""
+maz 94-95
 mzm 122-126
-""
-""
+maz 122-123
+maz 122-124
 mzm 120-121
 mzm 123-124
 mzm 120-121
@@ -9152,73 +9152,73 @@ mazmur 119
 mazmur 120-121
 mzm 120-124
 mazmur 122-124
-""
+maz 122-124
 mzm 122-124
 mzm 122-124
-""
-""
+maz 122-125
+maz 122-124
 mzm 122-124
 mzm 122-124
 mzm 122-124
 mzm 122-124
 mzm 122-124
-""
-""
+maz 108-109
+maz 122-124
 mazmur 119-122
 mzm 119
-""
-""
+maz 122-124
+maz 125-126
 mzm 125-128
 mzm 125-126
 mzm 125-127
 mzm 125-127
 mzm 125-127
-""
+maz 125-127
 mzm 125-127
 mzm 119-127
 mzm 125-127
-""
-""
+maz 125-127
+maz 120-127
 mzm 125-127
 mzm 127
 mzm 125-127
-""
+nah 125-127
 mzm 125-127
-""
-""
-""
-""
+maz 96-98
+maz 125-127
+maz 125-127
+maz 110-118
 mazmur 123-126
 mzm 114-118
 ""
 mzm 51-70
-""
-""
-""
+maz 99-101
+maz 128-129
+maz 128-130
 mzm 129-130
 mzm 128-130
 mzm 128-130
 mzm 128-130
 mzm 128-130
 mzm 125-130
-""
-""
+maz 121-130
+maz 128-130
 mzm 129-130
 mzm 128-130
 mzm 128-130
 mzm 128-130
-""
-""
+maz 128-130
+maz 128-130
 mzm 128-130
 mzm 132
-""
+maz 119
 mzm 128-130
 mzm 118-119
-""
+maz 109-130
 mzm 125-130
 mzm 120-130
-""
-""
+maz 59-62
+maz 131-132
 mzm 131-132
 mzm 131-132
 mzm 131-132
@@ -9229,28 +9229,28 @@ mzm 131-132
 mazmur 103-104
 mazmur 125-132
 mzm 131-132
-""
+maz 102-104
 mzm 131-132
-""
+maz 128-132
 mzm 131-132
 mzm 131-132
 mazmur 127-130
 mzm 131-132
-""
+maz 114-132
 mzm 120-132
 ""
-""
-""
+maz 131-132
+maz 120-123
 mzm 131-132
 mzm 131-132
 mzm 28-38
-""
-""
-""
+maz 125-136
+maz 63-66
+maz 133-135
 mzm 133-135
-""
+maz 133-135
 mzm 133-135
-""
+maz 131-132
 mzm 133-135
 mzm 133-135
 mzm 133-135
@@ -9259,12 +9259,12 @@ mzm 115-135
 mzm 133-135
 mzm 133-235
 mzm 133-135
-""
+maz 105-106
 mzm 133-135
 mzm 133-135
-""
+maz 133-135
 mzm 133-135
-""
+maz 131-135
 mzm 133-135
 mazmur 133-135
 mazmur 21-mazmur 22
@@ -9272,15 +9272,15 @@ mazmur 23-mazmur 24
 mazmur 25-mazmur 26
 mazmur 27-mazmur 28
 mzm 133-135
-""
+maz 124-127
 mzm 133-135
 ""
 mzm 133-135
-""
+maz 136-137
 mzm 136-137
-""
-""
-""
+maz 137
+maz 136-137
+mzm 136-137
 mzm 136-137
 mzm 133-135
 mzm 136-137
@@ -9292,71 +9292,71 @@ mzm 136-137
 mzm 136-137
 mzm 136-137
 mzm 136-137
-""
-""
+maz 128-131
+maz 136-137
 mzm 136-137
-""
+maz 136-137
 mzm 136-137
 mzm 136-137
 mzm 100-110
-""
-""
-""
+maz 107-108
+maz 136-137
+maz 138-139
 mzm 138-139
 mazmur 131-134
 mzm 138-139
-""
+maz 136-137
 mzm 138-139
 mazmur 125-127
 mazmur 128-130
-""
+maz 67-68
 mazmur 131-132
 mzm 138-139
 mazmur 133-135
 mazmur 136-137
 mzm 138-139
-""
+maz 138-139
 mzm 138-139
 mzm 136-137
 mzm 138-139
 mzm 138-139
 mzm 138-139
 mzm 138-139
-""
+maz 138-139
 mzm 138-139
 mzm 138-139
 mzm 150
-""
+maz 140-141
 mzm 140-141
 mzm 140-141
 mzm 140-141
 mzm 140-141
-""
-""
+maz 92-104
+maz 138-139
 mazmur 111-139
 mazmur 138-139
 mzm 140-141
-""
+maz 138-141
 mzm 140-141
 mzm 140-141
 mzm 140-141
 mzm 138-141
 mazmur 136-137
-""
-""
-""
+maz 140-141
+maz 140-141
+maz 132-141
 mzm 63-97
 mzm 140-141
-""
+maz 105-115
 mzm 140-141
 mazmur 71-74
 mzm 140-141
 mazmur 135-138
-""
+maz 109-111
 mzm 138-141
-""
+maz 142-143
 mzm 142-143
-""
+maz 140-141
 mzm 142-143
 mzm 138-139
 mzm 140-141
@@ -9364,31 +9364,31 @@ mzm 142-43
 mzm 140-143
 mazmur 140-141
 mazmur 142-142
-""
+maz 142-143
 mzm 140-143
 mzm 142-43
 mzm 142-143
-""
-""
-""
+maz 142-143
+maz 142-143
+maz 116-136
 mzm 142-143
 ayub 32-33
-""
+maz 142-143
 mzm 142-143
 mzm 142-143
-""
+maz 142-143
 mzm 133-143
 mzm 119-125
-""
+maz 138-143
 mzm 142-143
-""
+maz 112-115
 mzm 142-143
-""
+maz 144-145
 mzm 142-143
 mzm 144-145
 mzm 144-145
-""
-""
+maz 144-145
+maz 144-145
 mzm 144-145
 mzm 144-145
 mzm 137-145
@@ -9399,30 +9399,30 @@ mzm 144-145
 ayub 36-37
 mzm 75-80
 mzm 144-145
-""
 mzm 144-145
-""
-""
+mzm 144-145
+maz 144-145
+maz 144-145
 mazmur 142-143
-""
-""
+maz 144-145
+maz 130-145
 mzm 144-145
-""
+maz 116-118
 mzm 144-145
 ""
 mzm 142-145
 mazmur 139-142
-""
+maz 146-147
 mzm 146-147
 mzm 146-147
-""
+maz 146-147
 mzm 146-147
-""
+maz 146-150
 mzm 146-147
 mzm 146-147
 mzm 146-147
 mzm 144-147
-""
+maz 146-147
 mzm 146-147
 mzm 126-130
 mzm 146-147
@@ -9431,24 +9431,24 @@ ayub 40-41
 mzm 146-147
 mzm 146-147
 mzm 146-147
-""
-""
-""
+maz 146-147
+maz 146-147
+maz 144-147
 mzm 146-147
 mzm 131-135
-""
-""
+maz 119-120
+maz 148-149
 mzm 148-149
 mzm 148-149
 mazmur 143-146
 mzm 148-149
-""
+maz 148-149
 mzm 148-149
-""
+maz 146-149
 mazmur 144-145
 mazmur 146-147
 mzm 148-149
-""
+maz 148-149
 mzm 148-149
 mzm 148-149
 mzm 148-149
@@ -9456,13 +9456,13 @@ mzm 146-149
 mzm 148-149
 mzm 148-149
 mzm 148-149
-""
+nah 148-149
 mzm 148-149
-""
+maz 148-149
 mzm 148-149
-""
-""
-ams 1
+maz 121-124
+maz 148-ams 1
+maz 150-ams 1
 mzm 150-151
 mzm 150-ams 1
 mzm 137-147
@@ -9471,18 +9471,18 @@ mzm 150-ams 1
 mzm 150-ams 1
 mzm 150-ams 1
 amsal 1
-""
+maz 146-150
 mzm 150-ams 1
 mzm 144-149
 mzm 150-ams 1
 mzm 150-ams 1
-ams 1
+maz 150-ams 1
 mzm 150-ams 1
-ams 1
+maz 150-ams 1
 mzm 150-ams 1
-amsal 1
+maz 150-amsal 1
 mzm 150-ams 1
-""
+maz 125-127
 mzm 150-ams 1
 ams 2-3
 ams 1-3
@@ -9490,14 +9490,14 @@ ams 2-3
 ams 2-3
 ams 2-3
 ams 2-3
-""
+maz 150
 amsal 2-3
 ams 2-3
 ams 2-3
 ams 2-3
 mzm 146-ams 3
-ams 1
-""
+maz 150-ams 1
+maz 69-72
 ams 2-3
 ams 2-3
 ams 2-3
@@ -9507,13 +9507,13 @@ mzm 136-143
 ams 2-3
 ams 2-3
 ams 2-3
-""
+maz 128-129
 ams 2-3
 amsal 2-3
 mazmur
 ams 1-3
 mazmur 146-147 amsal 1 amsal 2-3
-""
+amsal 2-3
 ams 4-5
 ams 4-5
 ams 4-5
@@ -9526,11 +9526,11 @@ mazmur 150-amsal 1
 amsal 2-3
 amsal 4-5
 ams 4-5
-ams 5
+maz 149-ams 5
 amsal 4-5
 amsal 4-5
 ams 4-5
-""
+maz 73-74
 ams 4-5
 ams 4-5
 ams 4-5
@@ -9540,14 +9540,14 @@ ams 4-5
 ams 4-5
 ams 4-5
 mzm 70-80
-ams 5
+maz 144-ams 5
 mzm 81-100
 mzm 144-150
 ams 4-5
 ams 6-7
 ams 4-7
 ams 6-7
-""
+maz 130-134
 ams 6-7
 ams 6-7
 ams 6-7
@@ -9612,11 +9612,11 @@ ams 10-11
 ams 10-11
 ams 8-11
 ams 10-11
-""
+maz 135-137
 ams 8-9
 ams 10-11
 amsal 10-11
-""
+maz 110-135
 ams 8-9
 ams 10-13
 ams 8-11
@@ -9641,7 +9641,7 @@ mzm 81-90
 ams 12-13
 amsal 12-13
 ams 12-13
-""
+maz 138-139
 amsal 17
 ams 14-15
 ams 12-13
@@ -9665,12 +9665,12 @@ ams 6-15
 ams 14-15
 ams 14-15
 amsal 12-13
-""
+maz 75-78
 ams 14-15
 ams 12-15
 ams 16-17
-""
-""
+maz 140-141
+maz 101-110
 mazmur 131-150
 ams 16-17
 ams 16-17
@@ -9686,7 +9686,7 @@ ams 16-17
 ams 16-17
 amsal 16-17
 ams 1-17
-""
+maz 142-144
 amsal 16-17
 ams 16-17
 ams 16-17
@@ -9701,7 +9701,7 @@ ams 16-19
 ams 18-19
 ams 16-25
 ams 18-19
-""
+maz 79-80
 ams 18-19
 ams 18-19
 ams 16-18
@@ -9735,7 +9735,7 @@ ams 19-21
 amsal 16-21
 mzm 148-150
 ams 20-21
-""
+maz 145-147
 ams 20-21
 ams 20-21
 ams 20-21
@@ -9744,7 +9744,7 @@ ams 20-21
 ams 20-21
 ams 20-21
 ams 20-21
-ams 1
+maz 148-ams 1
 ams 20-21
 amsal 20-21
 ams 7-10
@@ -9818,7 +9818,7 @@ ams 25
 ams 22-25
 ams 25
 ams 25
-""
+maz 15-18
 ams 25
 ams 27-28
 ams 28-29
@@ -9834,7 +9834,7 @@ amsal 24-25
 amsal 26-28
 ams 26-28
 ams 26-28
-""
+maz 81-84
 ams 25
 ams 25
 ams 28
@@ -9854,7 +9854,7 @@ amsal 28-29
 mzm 97-128
 ams 30-31
 ams 30-31
-""
+maz 19-22
 ams 30-31
 mazmur 10-11
 ams 28
@@ -9888,10 +9888,10 @@ ams 1-4
 pkh 1-2
 pkh 1-2
 pkh 1-2
-""
+maz 85-86
 pkh 1-2
 pkh 1-2
-""
+maz 26-31
 ams 30-31
 pkh 1-2
 pkh 1-2
@@ -9950,7 +9950,7 @@ mazmur 31-mazmur 32
 mazmur 33-mazmur 34
 mazmur 35-mazmur 36
 pkh 5-6
-""
+maz 87-88
 pkh 5-6
 ams 10-11
 pkh 5-6
@@ -9985,7 +9985,7 @@ pengkhotbah 7-8
 pkh 5-8
 pkh 7-8
 pkh 5-8
-""
+pengkhotbah 1-8
 ams 12-13
 pkh 9-10
 pkh 9-10
@@ -10012,7 +10012,7 @@ mazmur 41-mazmur 42
 pkh 9-10
 pkh 9-10
 pkh 6-10
-""
+maz 39-49
 mzm 111-120
 pkh 5-10
 pkh 9-10
@@ -10083,7 +10083,7 @@ kid 1-2
 kid 3-4
 kid 3-4
 kid 3-4
-""
+maz 89-90
 kid 3-4
 kid 3-4
 kid 3-4
@@ -10116,9 +10116,9 @@ kid 5-6
 kid 5-6
 kid 5-6
 kid 5-6
-kidung agung 1-2
-kidung agung 3-4
-kidung agung 5-6
+kidung agung
+kidung agung
+kidung agung
 ams 13-25
 kid 5-6
 kid 5-6
@@ -10150,7 +10150,7 @@ kid 7-8
 mazmur 57-mazmur 58
 mazmur 59-mazmur 60
 kid 7-8
-""
+maz 91-92
 kid 7-8
 kid 7-8
 kid 5-8
@@ -10173,12 +10173,12 @@ kid 7-8
 yes 1-2
 yes 1-2
 yes 1-2
-kidung agung 7-8
+kidung agung
 yes 1-2
 yesaya 1-2
 yes 1-2
 yes 1-2
-""
+maz 93-96
 yesaya 1-2
 yesaya 1-2
 yesaya 1-2
@@ -10321,7 +10321,7 @@ pengkhotbah 11-12
 yes 13-14
 yes 13-14
 yes 13-14
-""
+maz 97-102
 yes 13-14
 yesaya 11-12
 yes 9-13
@@ -10376,7 +10376,7 @@ yes 17-18
 yes 17-18
 yes 17-18
 yes 17-18
-""
+maz 103-104
 mzm 121-150
 mazmur 32-33
 ams 31-pkh 2
@@ -10428,7 +10428,7 @@ yes 21-22
 yes 21-22
 yes 19-20
 yes 21-22
-""
+maz 105-106
 yes 1-16
 yes 21-22
 yes 21-22
@@ -10478,7 +10478,7 @@ yes 19-24
 kid 3-6
 yes 25-26
 mazmur 23-26
-""
+maz 25-26
 yes 25-26
 yes 21-22
 yes 5-8
@@ -10535,7 +10535,7 @@ yes 29-30
 yes 16-25
 yes 27-30
 yes 29-30
-""
+maz 107-110
 yes 29-30
 yes 27-28
 yes 29-30
@@ -10596,7 +10596,7 @@ yes 35-36
 yes 35-36
 yes 35-36
 yes 33-36
-""
+maz 111-114
 yes 35-36
 yes 35-36
 yes 35-36
@@ -10688,7 +10688,7 @@ yes 31-34
 yes 3-4
 yes 43-44
 yes 39-42
-""
+maz 115-118
 yes 43-44
 yes 43-44
 yes 43-44
@@ -10783,8 +10783,8 @@ yes 51-52
 yes 51-52
 yes 51-52
 yes 51-52
-""
-""
+maz 119-124
+maz 31-34
 yes 51-52
 yes 49-50
 yes 51-52
@@ -10894,7 +10894,7 @@ yes 59-60
 yes 51-54
 amsal 11-amsal 12
 amsal 13-amsal 14
-""
+maz 125-130
 amsal 15-amsal 16
 amsal 17-amsal 18
 amsal 19-amsal 20
@@ -10944,7 +10944,7 @@ yes 51-64
 yes 63-64
 yes 63-64
 yes 59-64
-""
+yesaya 61-64
 yes 6-8
 yes 61-64
 yes 63-64
@@ -10964,10 +10964,10 @@ yes 63-64
 kid
 yes 65-66
 yes 65-66
-""
-""
-""
-""
+pengkhotbah 01-pengkhotbah 02
+pengkhotbah 03-pengkhotbah 04
+pengkhotbah 05-pengkhotbah 06
+pengkhotbah 07-pengkhotbah 08
 yes 65-66
 yes 65-66
 yesaya 61-62
@@ -10983,10 +10983,10 @@ yes 63-64
 yes 65-66
 yes 63-66
 yes 65-66
-""
+maz 131-132
 yer 1-2
-""
-""
+pengkhotbah 09-pengkhotbah 10
+pengkhotbah 11-pengkhotbah 12
 yes 65-66
 yeremia 1-2
 yer 1-2
@@ -10996,9 +10996,9 @@ yer 1-2
 yes 61-66
 yer 1-2
 yer 1-2
-kidung agung 1-kidung agung 2
-kidung agung 3-kidung agung 4
-""
+kidung agung kidung agung
+kidung agung kidung agung
+maz 133-136
 mazmur 97-98
 yes 65-66
 yer 1-2
@@ -11006,7 +11006,7 @@ yes 57-58
 yes 1-2
 mzm 35-36
 yer 3-4
-""
+maz 137-140
 yer 3-4
 yer 3-4
 yer 1-2
@@ -11015,8 +11015,8 @@ yer 1-2
 yer 3-4
 yer 1-4
 yer 1-2
-kidung agung 5-kidung agung 6
-kidung agung 7-kidung agung 8
+kidung agung kidung agung
+kidung agung kidung agung
 yes 3-4
 yer 1-2
 yer 3-4
@@ -11041,7 +11041,7 @@ yer 5-6
 yeremia 5-6
 yer 3-6
 yer 3-4
-""
+maz 141-144
 yer 5-6
 yes 1-10
 yer 3-6
@@ -11084,7 +11084,7 @@ yer 5-6
 yer 5-8
 yer 7-8
 yeremia 1-2
-""
+maz 145-150
 yer 7-8
 yeremia 3-4
 yer 7-8
@@ -11507,7 +11507,7 @@ yeremia 37-38
 yeremia 39-40
 yer 39-42
 yes 31-40
-""
+maz 50-56
 ams 25-28
 yer 27-42
 yer 43-44
@@ -11556,11 +11556,11 @@ yer 45-46
 yer 45-46
 yer 45-46
 yer 39-40
-""
+maz 57-62
 amsal 13-17
 yes 26-27
 yeremia 47-48
-ams 31-
+ams 31-pengkhotbah 2
 yer 47-48
 yer 45-46
 yer 45-46
@@ -11657,7 +11657,7 @@ rat 1-2
 rat 1-2
 rat 1-2
 yer 51-52
-""
+rat 1-2
 yes 30-31
 yes 36-39
 rat 1-2
@@ -11680,7 +11680,7 @@ pkh 7-10
 rat 3-4
 rat 3-4
 rat 3-4
-""
+rat 3-4
 pkh 11-12
 yes 17-22
 rat 3-4
@@ -11790,7 +11790,7 @@ yes 42-45
 yeh 6-7
 yesaya
 yeh 8-9
-""
+maz 63-70
 yeh 8-9
 yeh 8-9
 yeh 8-9
@@ -11833,7 +11833,7 @@ yes 23-30
 yeh 10-11
 yeh 10-11
 yeh 8-11
-kidung agung 1-8
+kidung agung
 yeh 1-4
 yeh 10-11
 yeh 10-11
@@ -11889,7 +11889,7 @@ rat 1-5
 yeh 16-17
 yes 61-66
 yes 27-28
-""
+yehezkiel 16-17
 yeh 16-17
 yeh 16-17
 yeh 16-17
@@ -11910,7 +11910,7 @@ yeh 16-17
 yer 13-16
 mzm 57-60
 yeh 18-19
-""
+yeh 18-19
 yes 1-20
 yeh 14-19
 yeh 18-19
@@ -11938,9 +11938,9 @@ mzm 61-62
 yeh 18-19
 yeh 20-21
 yer 11-35
-""
+yeh 20-21
 yer 51-52
-""
+ratapan 1-5
 yeh 1-6
 yeh 20-21
 yeh 20-21
@@ -11962,7 +11962,7 @@ ratapan
 yeh 20-21
 yeh 16-17
 yeh 20-21
-kidung agung 1-2
+kidung agung
 yeh 16-17
 yeh 1-10
 yeh 18-21
@@ -11974,7 +11974,7 @@ yer 31-38
 yeh 20-23
 yeh 20-21
 yeh 22-23
-""
+yeh 22-23
 yeh 11-16
 yeremia
 yer 8-10
@@ -11982,7 +11982,7 @@ yeh 22-23
 yeh 22-23
 yeh 22-23
 yeh 22-23
-kidung agung 5-6
+kidung agung
 yeh 22-23
 yeh 22-23
 yes 30-40 yeh 12-14
@@ -11995,7 +11995,7 @@ yeh 22-23
 yer 11-12
 yeh 24-25
 yes 31-32
-""
+yeh 24-25
 yeh 24-25
 yeh 24-25
 yeh 22-23
@@ -12024,7 +12024,7 @@ yeh 24-27
 yer 13-14
 yeh 24-25
 yeh 26-27
-""
+yeh 26-27
 yeh 26-27
 yeh 26-27
 yeh 26-27
@@ -12044,7 +12044,7 @@ yer 15-17
 yeh 26-27
 yeh 28-29
 yeh 26-29
-""
+yeh 28-29
 yeh 28-29
 yeh 28-29
 yeh 28-29
@@ -12065,7 +12065,7 @@ yeh 28-29
 yer 18-20
 yer 21-24
 yeh 30-31
-""
+yeh 30-31
 yeh 30-31
 yeh 30-31
 yeh 18-29
@@ -12085,7 +12085,7 @@ yeh 30-31
 yeh 30-31
 yeh 30-31
 yeh 32-33
-""
+yeh 32-33
 yeh 32-33
 yeh 30-33
 yeh 22-23
@@ -12110,13 +12110,13 @@ yeh 1-10
 yesaya
 yeh 32-33
 yer 38-41
-amsal 31-
+amsal 31-pengkhotbah 12
 yer 23-24
 yer 29-32
 mzm 71-72
 yeh 34-35
 yeh 34-35
-""
+yeh 34-35
 yeh 34-35
 yeh 34-35
 yeh 30-35
@@ -12148,7 +12148,7 @@ yeh 36-37
 yeh 36-37
 yeh 36-37
 yesaya 21-22
-""
+yeh 36-37
 yeh 26-30
 yeh 18-30
 yeh 36-37
@@ -12159,7 +12159,7 @@ yeh 36-37
 yer 25-26
 yeh 38-39
 yeh 38-39
-""
+yeh 38-39
 yeh 31-35
 yeh 38-39
 yehezkiel 28-29
@@ -12171,7 +12171,7 @@ yehezkiel 34-35
 yesaya 25-26
 yeh 38-39
 yer 1-30
-""
+maz 71-78
 yeh 38-39
 yer 27-29
 yeh 38-39
@@ -12185,7 +12185,7 @@ yeh 38-39
 yeh 40-41
 yer 41-44
 yeh 40-41
-""
+yeh 40-41
 yeh 38-39
 yeh 40-41
 yeh 38-39
@@ -12209,7 +12209,7 @@ yeh 40-41
 mzm 73-77
 yeh 40-41
 yeh 42-43
-""
+yeh 42-43
 yeh 42-43
 yeh 42-43
 yeh 31-36
@@ -12227,7 +12227,7 @@ yeh 42-43
 yeh 44-45
 yeh 44-45
 yes 37-38
-""
+yeh 45-46
 yeh 44-45
 yeh 44-45
 yeh 44-45
@@ -12250,7 +12250,7 @@ yeh 46-47
 yeh 46-47
 yeh 40-41
 yeh 46-47
-""
+yehezkiel
 yeh 40-47
 yeh 28-31
 yeh 46-47
@@ -12376,7 +12376,7 @@ yeh 1-24
 daniel 8-9
 dan 8-9
 dan 8-9
-kidung agung 1-8
+kidung agung
 dan 8-9
 dan 4-9
 yesaya 65-66
@@ -12595,7 +12595,7 @@ hos 11-12
 dan 6-hos 1
 hos 14-yoel 3
 dan 2-yoel 3
-""
+maz 80-85
 yoel 2-3
 hos 14-yoel 3
 yeh 13-18
@@ -12633,7 +12633,7 @@ amos 1-5
 amos 1-5
 yeremia 31-32
 amos 3-5
-""
+maz 86-91
 amos 1-5
 hos 10-13
 hos 14-yoel 1
@@ -12723,7 +12723,7 @@ yunus 2-3
 obaja-yunus 1
 yunus 2-3
 yunus 2-3
-""
+maz 92-97
 yunus 2-3
 yes 45-48
 yunus 1-3
@@ -12748,7 +12748,7 @@ yunus
 yunus
 yunus 4-mikha 1
 yun 4-mikha 1
-""
+mikha 1-2
 yunus 4-mikha 1
 yeh 33-35
 yunus 4-mikha 1
@@ -12788,7 +12788,7 @@ yer 30-47
 hosea 1-14
 mikha 4-5
 mikha 4-5
-amos 8-
+amos 8-mikha 5
 yeremia 51-52
 amos 6-9
 yun 4-mikha 1
@@ -12836,7 +12836,7 @@ nahum 1-2
 nahum 1-2
 yehezkiel 2-3
 nahum 1-2
-""
+yeh 1-10
 hosea 1-14
 nahum 1-2
 nahum 1-2
@@ -12851,7 +12851,7 @@ nahum 1-2
 mikha 6-7
 nahum 1-2
 nahum 1-2
-""
+mikha 4-5
 nahum 1-2
 nahum 1-2
 mikha 6-7
@@ -12903,7 +12903,7 @@ nahum 1-2
 nahum 3-habakuk 1
 habakuk
 nahum 3-habakuk 1
-""
+yeh 21-30
 hab 2-3
 habakuk 2-3
 habakuk 2-3
@@ -12926,10 +12926,10 @@ zefanya 1-2
 habakuk 2-3
 habakuk 2-3
 zefanya 1-2
-""
+zef 1-2
 dan 9-12
 mikha 6-habakuk 3
-""
+habakuk 2-3
 zefanya 1-2
 zefanya 1-2
 zefanya 1-2
@@ -12947,7 +12947,7 @@ zefanya 1-2
 hosea 1-4
 nah 3-habakuk 3
 zefanya 1-2
-""
+maz 98-108
 habakuk
 yehezkiel
 yehezkiel 10-11
@@ -12977,32 +12977,32 @@ amos-obaja
 zefanya 1-2
 zef 3-hagai 1
 zef 3-hagai 1
-""
+yehezkiel 1-20
 hagai 2-zakharia 1
 zefanya 3-hagai-
 yes 53-56
 hagai 2-zakharia 1
 zefanya
 hagai 2-zakharia 1
-""
+za 1
 zefanya 3-hagai 1
 hagai
 hagai 1-2
 hagai 2-zakharia 1
-hagai 2-
-hagai 2-
+hagai 2-zakharia 1
+hagai 2-za 1
 zef
-hagai 2-
+hagai 2-zakharia 1
 zef 3
 hagai 1-2
-hagai 2-
+hagai 2-zakharia 1
 hag
-hagai 2-
+hagai 2-zakharia 1
 obaja yunus
 yeh
 dan 1-8
 zakharia 2-3
-""
+hagai
 zakharia 2-3
 zakharia 2-3
 yes 57-58
@@ -13010,152 +13010,152 @@ zakharia 2-3
 hagai 2-zakharia 1
 zakharia 2-3
 hagai 2-zakharia 1
-""
-""
+za 2-3
+za 2-3
 zef-hag
-""
-""
-""
-""
+za 1-3
+za 1-3
+za 2-3
+za 2-3
 daniel
-""
-""
+yeh 31-48
+za 2-3
 zakharia 2-3
 zef 3-hagai 2
-hagai 2-
-""
+hagai 2-za 1
+za 2-3
 yunus
 zakharia 2-3
-""
+za 4-5
 zakharia 2-3
-""
+za 1-3
 zakharia 4-5
 zakharia 4-5
-hagai 2-
-""
-""
+hagai 2-za 3
+za 4-5
+za 4-5
 mikha
-""
-""
-""
+za 4-5
+za 4-5
+za 6-7
 zakharia 4-5
-""
+za 4-5
 zakharia 2-3
 zakharia 4-5
-""
+za 4-5
 zakharia 4-5
-""
-""
+za 4-5
+za 4-5
 zakharia 4-7
 hosea
 zakharia 4-5
-hagai 2-
+hagai 2-za 1
 zakharia 4-5
 zef 3-hagai 1
 zakharia 6-7
-""
+za 6-7
 zakharia 6-7
-""
+za 6-7
 zakharia 4-5
-""
-hagai 2-
+za 6-7
+hagai 2-za 1
 dan 1-12
-""
+za 6-7
 yes 59-62
 zakharia 6-7
 yoel
 zakharia 6-7
-""
-""
-""
+za 6-7
+za 1-2
+za 6-7
 zakharia 6-7
-""
-""
+za 6-7
+za 6-7
 zakharia 8-9
-""
+za 8-9
 zakharia 8-9
-""
+za 8-9
 nahum-habakuk
 yeh 41-48
-hagai 2-
-""
-""
-""
+hagai 2-za 1
+za 6-9
+mi
+za 8-9
 zakharia 8-9
 zakharia 4-5
-""
-hab 3-
+za 8-9
+hab 3-za 7
 hos 1-6
 zakharia 8-9
 zakharia 2-3
 zakharia 4-5
 zakharia 6-7
 yes 63-64
-""
+za 4-9
 zakharia 8-9
-""
-""
+za 8-9
+za 8-9
 amos
-""
+za 2-3
 dan 1-12
-""
-""
+za 8-9
+za 8-9
 zefanya
-""
-""
+za 8-9
+za 4-7
 yunus
 zakharia 10-11
-""
-""
+za 10-11
+za 10-11
 zakharia 10-11
 zakharia 10-11
-""
-""
+za 6-7
+za 8-9
 hagai
-""
-""
-""
-""
+za 10-11
+za 3-4
+za 5-6
+za 10-11
 zakharia 10-11
 nahum
 zefanya
-""
-""
+za 10-11
+za 8-11
 zakharia 10-11
-""
-""
+za 10-11
+za 10-11
 zakharia 10-11
 hosea
-""
+za 6-11
 zakharia 10-11
-""
+za 10-11
 zakharia 12-14
-""
+za 12-14
 zakharia 12-14
 hosea 1-14
-""
+za 12-14
 zakharia 12-14
-""
+za 12-14
 zakharia
 zakharia 10-11
 zakharia 8-9
-""
+za 12-14
 zakharia 10-11
-""
+za 12-14
 zakharia 2-11
-""
+za 12-14
 dan 8-12
 zakharia 12-14
 nahum
 zakharia 12-14
 zakharia 1-14
 zakharia 6-7
-""
+za 12-14
 zakharia 8-9
 zakharia 12-14
 yer 20-40
 hagai
-""
+za 7-8
 hos 7-14
 zefanya 3
 zakharia 12-14
@@ -13166,28 +13166,28 @@ maleakhi 1-2
 maleakhi 1-2
 maleakhi 1-2
 mal 1-2
-""
-""
+za 12-14
+za 12-14
 mal 1-2
 zakharia 10-11
 zakharia 12-14
 maleakhi 1-2
 mal 1-2
 maleakhi 1-2
-""
+za 8-11
 maleakhi 1-2
-""
+za 12-14
 dan 2-zefanya 3
 mal 1-2
-""
+za 9-11
 maleakhi 1-2
 maleakhi 1-2
 maleakhi 1-2
 mal 1-2
 mal 1-2
 zakharia 8-maleakhi 2
-""
-""
+za
+za 1-8
 maleakhi 3-4
 mal 1-2
 mal 3-4
@@ -13204,12 +13204,12 @@ maleakhi 3-4
 maleakhi 1-2
 mal 1-2
 mal 3-4
-""
+za 10-11
 maleakhi 3-4
 mal 3-4
 hosea 1-14
-""
-""
+za 12-14
+za
 yoel
 mal 3-4
 maleakhi 3-4
@@ -13227,7 +13227,7 @@ mat 1-2
 matius 1-2
 mat 1-2
 mat 1-2
-""
+za 12-13
 yoel 1-3
 mat 1-2
 zakharia
@@ -13269,7 +13269,7 @@ mat 3-4
 mat 3-4
 hag-maleakhi 3
 zakharia
-mal 1
+za 14-mal 1
 mat 3-4
 mat 3-4
 mat 1-4
@@ -13300,7 +13300,7 @@ matius 5-6
 mat 5-6
 mat 5-6
 mat 5-6
-""
+za 12-14
 mat 1-6
 mat 5-6
 matius 5-6
@@ -13354,7 +13354,7 @@ hos 9-14
 mat 9-10
 matius 9-10
 mat 7-10
-""
+pkh 5-11
 mat 9-10
 mat 4-6
 mat 9-10
@@ -13410,7 +13410,7 @@ za 4-7
 mat 13-14
 yeh 20-33
 mat 13-14
-kid 5
+pkh 12-kid 5
 mat 13-14
 mat 13-14
 mat 13-14
@@ -13592,29 +13592,29 @@ mat 13-28
 markus 1-2
 mat 27-28
 mat 17-20
-""
-""
-""
+markus 1-2
+markus 1-2
+markus 1-2
 matius 25-26
 mat 19-22
-""
-""
+markus 1-2
+markus 1-2
 matius 27-28
-""
-""
-""
+markus 1-2
+markus 1-2
+markus 1-2
 mat 27-28
-""
+markus 1-2
 mrk 1-2
 mrk 1-2
 yes 9-12
 markus 1-2
-""
-""
-""
+markus 1-2
+markus 1-2
+markus 1-2
 mat 25-26
 mrk 1-2
-""
+markus 3-4
 markus 3-4
 matius 27-markus 2
 markus 1-2
@@ -13622,7 +13622,7 @@ mrk 3-4
 mrk 3-4
 markus 1-4
 matius 11-20
-""
+markus 3-4
 mrk 3-4
 markus 1-2
 markus 3-4
@@ -13633,7 +13633,7 @@ markus 3-4
 mrk 3-4
 mrk 3-4
 markus 3-4
-""
+markus 3-4
 yes 13-18
 mat 17-20
 yes 19-20
@@ -13641,7 +13641,7 @@ markus 1-4
 mat 9-28
 markus 3-4
 mat 27-mrk 1
-""
+markus 5-6
 markus 5-6
 markus 5-6
 mrk 5-6
@@ -13658,16 +13658,16 @@ mrk 5-6
 mrk 5-6
 markus 5-6
 markus 5-6
-""
+markus 5-6
 yes 21-24
-""
+markus 2-4
 mrk 5-6
-""
+markus 3-6
 matius
 mrk 5-6
 hos 1-11
 yes 25-26
-""
+markus 7-8
 markus 7-8
 markus 7-8
 mat 21-24
@@ -13675,37 +13675,37 @@ mrk 7-8
 amos obaja yunus mikha nahum habakuk zefanya hagai
 markus 7-9
 markus 7-9
-""
-""
-""
+markus 7-9
+markus 7-9
+markus 7-9
 mrk 1-5
-""
+markus 7-9
 matius
-""
+markus 7-9
 mrk 3-9
-""
-""
-""
-""
-""
+markus 7-8
+markus 1-6
+markus 7-9
+markus 1-4
+markus 7-9
 mrk 5-6
 mrk 7-9
 mrk 7-9
 markus 7-9
-""
-""
+markus 7-9
+markus 9-10
 mrk 9-10
 markus 9-10
 markus 7-9
 markus 9-10
 markus 9-10
-""
-""
+markus 9-10
+markus 10
 hos 11-yoel 3
 markus 1-2
-""
-""
-""
+markus 9-10
+za 1-8
+markus 1-10
 markus 9-10
 markus 9-10
 mrk 9
@@ -13714,37 +13714,37 @@ mat 25-28
 markus 5-6
 yes 27-30
 yeh
-""
+markus 11-12
 markus 11-12
 markus 1-3
 mrk 11-12
 markus 11-12
 mrk 11-12
 mrk 11-12
-""
-""
-""
+markus 9
+markus 11-12
+markus 11-12
 mrk 9
-""
-""
-""
+markus 11-12
+markus 11-12
+za 9-14
 daniel 1-5
 mrk 7-8
 markus 7-12
-""
+markus 9-12
 markus 11-12
 markus 5-6
 markus 7-8
 daniel 6-8
-""
-""
-""
+markus 9-10
+markus 11-12
+markus 13-14
 markus 13-14
 markus 13-14
 markus 13-14
 mrk 13-14
-""
-""
+markus 13-14
+markus 13-14
 markus 11-12
 mat 13-14
 mat 13-14
@@ -13760,16 +13760,16 @@ markus 13-14
 mrk 7-8
 mrk 11-14
 markus 13-14
-""
+markus 15-16
 markus 15-16
 markus 15-16
 mrk 13-14
 markus 15-16
-""
-""
-""
-""
-""
+matius 21-28
+markus 15-16
+markus 15-16
+markus 13-16
+markus 15-16
 mrk 15-16
 markus 15-16
 markus 1-4
@@ -13777,9 +13777,9 @@ mrk 15-16
 mrk 9-10
 mrk 15-16
 mrk 11-12
-""
+markus 15-16
 mrk 4-6
-""
+markus 15-16
 mrk 5-16
 mrk 13-16
 daniel
@@ -13801,8 +13801,8 @@ luk 1-2
 luk 1-2
 luk 1-2
 hagai
-luk 2
-""
+markus 15-luk 2
+markus 13-14
 lukas 1-2
 hos 1-3
 markus 15-lukas 2
@@ -13880,7 +13880,7 @@ luk 9-10
 lukas 9-10
 lukas 3-10
 lukas 9-10
-""
+markus 7-16
 luk 9-10
 luk 1-4
 lukas 9-10
@@ -14135,7 +14135,7 @@ zakharia 2-8
 yoh 9-10
 yoh 9-10
 yohanes 9-10
-""
+markus 11-16
 yoh 9-10
 yoh 9-10
 yoh 7-10
@@ -14328,7 +14328,7 @@ kis 4-5
 kis 2-5
 kis 2-5
 kis 2-3
-hab 3-
+hab 3-za 9
 kis 4-5
 kis 4-5
 kis 2-5
@@ -14346,12 +14346,12 @@ kis 6-7
 kis 4-5
 kis 4-7
 kis 6-7
-yohanes 21-para rasul 1
+yohanes 21-kis para rasul 1
 kis 6-7
 kis 6-7
-para rasul 2-3
+kis para rasul 2-3
 kis 6-7
-para rasul 4-5
+kis para rasul 4-5
 kis 6-7
 kis 6-7
 kis 6-7
@@ -14408,17 +14408,17 @@ yes 53-56
 kis 8-11
 yoh 13-21
 kis 12-13
-""
+zakharia 1-5
 kis 12-13
 kis
 kis 8-13
 kis 12-13
 kis 12-13
-para rasul 6-7
+kis para rasul 6-7
 kis 12-13
 kis 12-13
-para rasul 8-9
-para rasul 10-11
+kis para rasul 8-9
+kis para rasul 10-11
 kis 10-11
 kis 12-13
 kis 12-13
@@ -14437,11 +14437,11 @@ kis 14-15
 kis 14-15
 kis 14-15
 kis 14-15
-""
+kis
 kis 14-15
 yohanes 1-11
 kis 14-15
-para rasul 14-15
+kis para rasul 14-15
 kis 8-15
 kis 14-15
 kis 14-15
@@ -14511,7 +14511,7 @@ kis 22-23
 kis 22-23
 kis 22-23
 kis 22-23
-""
+zakharia
 kis 20-23
 kis 20-21
 kis 22-23
@@ -14522,7 +14522,7 @@ kis 20-23
 kis 10-13
 kis 22-23
 maleakhi
-mat 2
+za 9-mat 2
 yoh 9-12
 kis 24-25
 kis 20-23
@@ -14540,11 +14540,11 @@ kis 14-25
 kis 18-25
 kis 24-25
 kis 24-25
-para rasul 16-17
+kis para rasul 16-17
 kis 24-25
-para rasul 18-19
-para rasul 20-21
-para rasul 22-23
+kis para rasul 18-19
+kis para rasul 20-21
+kis para rasul 22-23
 kis 24-25
 yoh
 kis 1-10
@@ -14577,39 +14577,39 @@ kis 26-27
 kis 26-27
 kis 26-27
 kis 26-27
-kis 28-
-kis 28-
+kis 28-roma 1
+kis 28-roma 1
 roma 1
-kis 28-
+kis 28-roma 1
 kis 20-21
 kis 28-rm 1
 kis 26-27
-para rasul 24-25
+kis para rasul 24-25
 kis 21-23
-para rasul 26-27
-kis 28-
+kis para rasul 26-27
 kis 28-roma 1
-para rasul 28-roma 1
+kis 28-roma 1
+kis para rasul 28-roma 1
 kis 24-roma 1
-kis 28-
-kis 29-
-kis 28-
+kis 28-roma 1
+kis 29-roma 1
+kis 28-roma 1
 kis 26-27
 kis 28-roma 1
 kis 28-roma 1
-kis 28-
+kis 28-roma 1
 kis 22-25
-kis 26-
+kis 26-roma 1
 kis
-kis 28-
+kis 28-roma 1
 kis 24-25
 roma 2-3
-""
+roma 1-2
 kis 28
-""
+roma 3-4
 roma 2-3
 roma 2-3
-""
+roma 2-3
 roma 2-3
 kis 22-25
 rm 2-3
@@ -14625,103 +14625,103 @@ rm 2-3
 yoh 5-6
 kis 15-18
 roma 2-3
-""
+kis
 yes 63-yer 2
-""
-""
+roma 2-3
 roma 4-5
-""
 roma 4-5
-kis 28-
-""
+roma 4-5
+roma 4-5
+kis 28-roma 1
+roma 4-5
 roma 4-5
 rm 4-5
-""
-""
+roma 4-5
+roma 2-3
 rm 4-5
-""
-markus 5
+roma 4-5
+za 8-markus 5
 kis 26-28
 roma 4-5
 rm 4-5
-""
+roma 2-5
 roma 4-5
-""
-""
+roma 4-5
+roma 4-5
 roma 4-5
 roma 4-5
 yer 3-6
 kis 19-22
-""
-""
-""
+roma 6-7
+roma 6-7
+roma 6-7
 roma 6-7
 rm 1-2
 rm 6-7
 markus 6-9
 rm 6-7
-""
-""
+roma 6-7
+roma 6-7
 roma 1-5
-""
-""
-""
-""
+roma 6-7
+roma 6-7
+roma 6-7
+roma 6-7
 rm 3-4
 rm 6-7
-""
-""
+roma 6-7
+roma 6-9
 roma 6-7
 roma 2-3
 kis 23-26
-""
 roma 8-9
-""
+roma 8-9
+roma 8-9
 roma 8-9
 rm 8-9
 roma 4-5
 roma 6-7
-""
+roma 6-7
 roma 8-9
 roma 4-5
 rm 8-9
-""
+roma 8-9
 rm 8-9
-""
+roma 8-9
 rm 8-9
-""
-""
-""
+roma 8-9
+roma 8-9
+roma 8-9
 yer 7-12
 kis 27-28
-""
-""
+markus 1-16
 roma 10-11
-""
+roma 10-11
+roma 10-11
 roma 6-7
 roma 10-11
-para rasul
+kis para rasul
 roma 10-11
 rm 8-9
-""
-""
+roma 10-11
+roma 10-11
 rm 10-11
-""
+roma 10-11
 roma 10-11
 rm 5-6
 roma 8-11
 roma 8-11
-""
+roma 8-12
 rm 10-11
 rm 12-13
-""
+roma 12-13
 roma 12-13
 roma 3-6
 roma 12-13
 rm 12-13
-""
+roma 12-13
 rm 7-8
-""
+roma 12-13
 matius
 roma 6-11
 roma 12-13
@@ -14729,64 +14729,64 @@ rm 12-13
 roma 8-9
 roma 10-11
 rm 12-13
-""
+roma 6-9
 kis 1-5
 roma 2-5
 yoh 7-21
 roma 12-13
 kis 1-4
-""
+roma 12-13
 rm 11-13
 markus 9-lukas 1
 yoh 10-kis 8
-""
+roma 13-15
 roma 12-13
-""
-""
+roma 10-13
+roma 12-13
 rm 14-15
-""
-""
+roma 6-7
 roma 14-15
 roma 14-15
-""
+roma 14-15
+roma 14-15
 roma 8-9
 roma 10-11
 kis 1-11
 rm 14-15
 rm 14-15
-""
+roma 14-15
 kis 5-10
-""
-""
-""
-""
-""
-""
+roma 14-15
+roma 14-15
+roma 14-15
+roma 14-15
+roma 14-15
+roma 8-9
 rm 16-1
-1 kor 1
-1 kor 1
+roma 16-1
+roma 16-1
 roma 16-1
 roma 2-15
-1 kor 1
+roma 16-1
 rm 16-1
 roma 14-15
 roma 16-1
 rm 16-1
 mat 2-mat 6
 roma 16-1
-1 kor 1
+roma 16-1
 kis 11-16
-1 kor 1
+rut 16-1
 roma
-""
-dan 1
-1 kor 1
+roma 14-15
+roma 16 dan 1
+roma 16-1
 rm 9-11
 rm 14-1
 luk 1-2
 roma 14-1
 yoh 10-18
-1 kor 1
+roma 16-1
 1 kor 2-3
 yer 13-18 1 kor 1
 1 kor 2-3
@@ -14796,7 +14796,7 @@ yer 13-18 1 kor 1
 1 kor 2-3
 1 kor 2-3
 1 kor 2-3
-""
+roma 10-15
 1 kor 2-3
 1 kor 2-3
 1 kor 2-3
@@ -14806,7 +14806,7 @@ luk 3-4
 yoh
 rm 12-14
 1 kor 2-3
-1 kor 3
+roma 16-1
 rm 16-1
 rm 15-16
 1 kor 4-5
@@ -14815,7 +14815,7 @@ roma 12-15
 roma 16-1
 1 kor 4-5
 yer 19-24 1 kor 2-3
-""
+roma 10-15
 roma 7-10
 1 kor 4-5
 1 kor 4-5
@@ -14832,10 +14832,10 @@ roma 7-10
 1 kor 2-5
 1 kor 4-5
 1 kor 1-2
-""
+roma 16
 1 kor 4-5
 1 kor 4-5
-1 kor 1
+roma 16-1
 yer 25-28 1 kor 4-5
 1 kor 4-5
 1 kor 6-7
@@ -14845,13 +14845,13 @@ yer 25-28 1 kor 4-5
 1 kor 6-7
 1 kor 6-7
 1 kor 4-5
-""
+im
 1 kor 6-7
 1 kor 6-7
 roma 16-1
 1 kor 2-1
 1 kor 6-7
-""
+im
 1 kor 6-7
 1 kor 6-7
 1 kor 6-7
@@ -15018,7 +15018,7 @@ luk 12-21
 kis 11-22
 2 kor 8-9
 2 kor 8-9
-""
+roma 9-16
 2 kor 8-9
 2 kor 8-9
 2 kor 8-9
@@ -15117,7 +15117,7 @@ gal 3-4
 2 kor 7-10
 2 kor 12-gal 6
 gal 5-6
-""
+galatia 3-4
 galatia 5-6
 gal 5-6
 gal 3-6
@@ -15134,11 +15134,11 @@ gal 3-4
 gal 3-6
 gal 5-6
 gal 5-6
-""
+roma
 2 kor 6-13
 gal 5-6
 efesus 1-2
-""
+ef 1-2
 gal 5-6
 2 kor 11-13
 efesus 1-2
@@ -15148,7 +15148,7 @@ efesus 1-2
 ef 1-2
 gal 3-6
 2 kor 11-13
-""
+ef 1-2
 1 korintus 14-15
 efesus 1-2
 efesus 1-2
@@ -15202,7 +15202,7 @@ yoh 9-15
 ef 1-4
 efesus 5-6
 ef 5-6
-""
+ef 5-6
 ef 5-6
 ef 5-6
 galatia 1-2
@@ -15225,7 +15225,7 @@ filipi 1-2
 ef 5-6
 ef 1-4
 filipi 1-2
-lukas 18-para rasul 8
+lukas 18-kis para rasul 8
 filipi 1-2
 flp 1-2
 1 kor 1-10
@@ -15236,14 +15236,14 @@ efesus 5-6
 filipi 1-2
 filipi 1-2
 efesus
-""
+filipi 1-2
 efesus 5-filipi 2
 2 kor 8-gal 1
-""
+filipi 1-2
 efesus
 yoh 2-4
 yoh 4-9
-para rasul
+kis para rasul
 filipi 1-2
 filipi
 filipi 3-4
@@ -15253,16 +15253,16 @@ filipi 3-4
 filipi 3-4
 filipi 1-2
 filipi 1-2
-""
-""
+filipi 3-4
+filipi 3-4
 filipi 3-4
 flp 3-4
 ef 5-6
 ef 3-6
-""
+filipi 1-4
 filipi 3-4
-""
-""
+filipi
+filipi
 roma 1-8
 efesus 5-6
 filipi 1-4
@@ -15270,7 +15270,7 @@ kolose 1-2
 kolose 1-2
 kolose 1-2
 efesus 5-filipi 4
-""
+filipi 1-2
 kolose 1-2
 filipi 3-4
 kol 1-2
@@ -15279,7 +15279,7 @@ ef 1-4
 kol 1-2
 1 kor
 kolose 1-2
-""
+filipi 1-4
 kolose 1-2
 kol 1-2
 kol 1-2
@@ -15308,14 +15308,14 @@ filipi 1-4
 kolose 1-2
 kis 1-9
 2 kor gal
-para rasul 9-28
+kis para rasul 9-28
 ef 5-6
 kolose 3-4
 kolose 3-4
 kolose 3-4
 kolose 3-4
 roma 16
-para rasul
+kis para rasul
 kol 3-4
 roma
 1 tesalonika 1-2
@@ -15332,7 +15332,7 @@ gal 5-6
 1 tes 1-2
 filipi 3-4
 ef kol
-""
+filipi 1-2
 1 tes 1-2
 gal 2-efesus 6
 1 kor 1-8
@@ -15366,7 +15366,7 @@ kolose 1-4
 yoh 1-8
 kis 7-28
 1 tes 3-4
-""
+filipi 3-4
 1 tes 1-4
 1 kor 9-2
 matius
@@ -15425,7 +15425,7 @@ luk
 2 tes 2-3
 2 tes
 galatia
-lukas 10
+markus 11-lukas 10
 galatia
 1 tes 1-4
 1 tes 5-2
@@ -15575,12 +15575,12 @@ titus 1-2
 1 tim 3-6
 titus 1-2
 kis 11-28
-""
+roma 1-16
 1 tim
 titus 1-2
 titus 1-2
 1 tim 3-titus 2
-""
+1 tesalonika 1
 titus 1-2
 titus 1-2
 2 tim 3-4
@@ -15592,11 +15592,11 @@ titus 1-2
 titus 3-filemon 1
 titus 3-filemon 1
 titus 3-filemon 1
-titus 3-
-titus 3-
+titus 3-flm 1
+titus 3-flm 1
 titus
-titus 3-
-titus 3-
+titus 3-flm 1
+titus 3-flm 1
 2 timotius 1-2
 2 timotius 3-4
 2 tim
@@ -15609,7 +15609,7 @@ titus
 galatia 1-6
 titus 3-filemon 1
 titus 3-filemon 1
-titus 1-
+titus 1-flm 1
 tit
 2 tim
 2 tim 3-4
@@ -15618,7 +15618,7 @@ kis 1-15
 ibrani 1-2
 ibr 1-2
 titus
-""
+filipi
 ibr 1-2
 2 kor 1-13
 ibr 1-2
@@ -15632,7 +15632,7 @@ ibr 1-2
 ibr 1-2
 ibr 1-2
 ibr 1-2
-""
+filipi
 2 tim
 2 tes
 kis-roma 5
@@ -15640,7 +15640,7 @@ kis-roma 5
 1 tim 1-6
 ibr 1-2
 2 tim 1-4
-titus 3-
+titus 3-flm
 ibr 1-2
 ibr 3-4
 ibr 3-4
@@ -15694,7 +15694,7 @@ ibrani 3-4
 ibr 5-6
 ibrani 5-6
 ibrani 5-6
-""
+filipi 1-4
 ibr 1-6
 ibr 5-6
 ibr 3-6
@@ -15813,7 +15813,7 @@ yak 1-3
 ibr 11-12
 ibr 13-yak 1
 yak 2-3
-para rasul
+kis para rasul
 yak 2-3
 ibr 7-10
 yak 2-3
@@ -15849,7 +15849,7 @@ yak 4-5
 ibr 1-13
 1 petrus 1-4
 yak 4-5
-filemon
+1 timotius-filemon
 yak 2-3
 ibrani 13
 yak 1-5
@@ -15895,7 +15895,7 @@ filemon
 ibr 11-13
 ""
 ""
-""
+roma
 ""
 yak 4-5
 ""
@@ -15908,7 +15908,7 @@ filemon-yakobus
 1 ptr 1-5
 ""
 ""
-""
+flm 11-25
 ""
 ""
 1 petrus 3-2
@@ -16069,8 +16069,8 @@ wahyu 1-2
 wahyu 1-2
 1 yoh 3-2 yoh 1
 3 yoh 1-yudas 1
-3 yoh-
-""
+3 yoh-wahyu 2
+wahyu 1-2
 why 1-2
 ""
 ""
@@ -16078,14 +16078,14 @@ why 1-2
 1 yoh 3-5
 wahyu 1-2
 1 yohanes 3-5
-""
+wahyu 1-2
 3 yoh
 wahyu 3-4
 why 1-2
 wahyu 3-4
 wahyu 3-4
 wahyu 3-4
-""
+wahyu 3-4
 why 3-4
 why 1-4
 wahyu 1-2
@@ -16094,9 +16094,9 @@ why 1-4
 why 3-4
 wahyu 3-4
 3 yoh 1 dan yudas 1
-""
+wahyu 1-4
 why 3-4
-""
+wahyu 1-2
 why 3-4
 wahyu 1-4
 why 1-2
@@ -16124,12 +16124,12 @@ wahyu 3-6
 wahyu 5-6
 why 5-6
 galatia
-""
+efesus
 filipi
 kolose
 wahyu 3-4
 1 tesalonika
-""
+wahyu 3-6
 wahyu 3-6
 wahyu 3-6
 wahyu 3-6
@@ -16168,7 +16168,7 @@ wahyu 7-8
 wahyu 7-8
 3 yoh
 why 7-8
-""
+wahyu 5-6
 wahyu 7-8
 wahyu 9-10
 yudas 1
@@ -16180,7 +16180,7 @@ why 9-10
 wahyu 7-10
 why 9-10
 why 9-10
-""
+wahyu 7-8
 why 9-10
 why 9-10
 why 3-10
@@ -16213,7 +16213,7 @@ wahyu 11-12
 wahyu 11-12
 why 11-12
 wahyu 11-12
-""
+wahyu 9-12
 wahyu 11-12
 wahyu 11-12
 why 11-12
@@ -16237,7 +16237,7 @@ why 13-14
 wahyu 13-14
 wahyu 13-14
 why 11-14
-""
+wahyu 13-14
 why 13-14
 why 13-14
 wahyu 13-14
@@ -16282,9 +16282,9 @@ wahyu 17-18
 why 17-18
 wahyu 17-18
 wahyu 17-18
-""
-""
-""
+wahyu 17-18
+wahyu 15-18
+wahyu 17-18
 why 17-18
 yudas
 ""
@@ -16323,7 +16323,7 @@ wahyu 19-20
 wahyu 17-18
 wahyu 19-20
 wahyu 19-20
-""
+wahyu 19-20
 wahyu 19-20
 why 17-22
 wahyu 19-20
@@ -16354,7 +16354,7 @@ wahyu 19-20
 why 21-22
 wahyu
 wahyu
-""
+wahyu 21-22
 why 21-22
 why
 wahyu 21-22
