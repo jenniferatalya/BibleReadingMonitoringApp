@@ -691,7 +691,7 @@ kej 33 - 34
 kej 35 - 36
 kej 35 - 36
 kej 33 - 34
-kej 34 - 36
+jessica 34 - 36
 kej 31 - 36
 kej 35 - 36
 kej 27 - 36
@@ -983,7 +983,7 @@ kel 1 - 2
 kel 1 - 2
 kel 1 - 2
 kel 1 - 2
-kel 1 - 50
+kej 1 - 50
 kel 1 - 2
 kejadian 49 - 50
 kejadian 49 - 50
@@ -1540,7 +1540,7 @@ kel 33 - 34
 kel 31 - 32
 kel 29 - 30
 keluaran 29 - 30
-daniel 29 - 30
+kel 29 - 30
 kel 23 - 30
 kel 29 - 32
 kel 25 - 28
@@ -1576,7 +1576,7 @@ kel 35 - 36
 kel 31 - 32
 kel 33 - 36
 keluaran 35 - 36
-daniel 35 - 36
+kel 35 - 36
 kel 33 - 36
 kel 35 - 36
 kel 37 - 38
@@ -1601,7 +1601,7 @@ kel 37 - 38
 kel 33 - 34
 kel 37 - 38
 kel 30 - 31
-daniel 37 - 38
+kel 37 - 38
 kel 37 - 38
 kel 37 - 38
 keluaran 37 - 38
@@ -1637,7 +1637,7 @@ kel 37 - 40
 kel 37 - 38
 kel 39 - 40
 kel 37 - 38
-daniel 39 - 40
+kel 39 - 40
 kel 39 - 40
 imamat 1 - 2
 imamat 1 - 2
@@ -1656,7 +1656,7 @@ im 1 - 2
 im 1 - 2
 kel 36 - 40
 im 1 - 2
-aninim 1 - 2
+im 1 - 2
 im 1 - 2
 im 1 - 2
 keluaran 37 - 38
@@ -1690,7 +1690,7 @@ im 3 - 4
 imamat 3 - 4
 kel 35 - 38
 im 3 - 4
-aninim 3 - 4
+im 3 - 4
 kel 33 - 40
 kel 32 - 33
 imamat 1 - 2
@@ -1719,7 +1719,7 @@ im 1 - 2
 im 3 - 6
 im 5 - 6
 kel 39 - 40
-aninim 5 - 6
+im 5 - 6
 im 5 - 6
 im 3 - 4
 im 5 - 6
@@ -1747,17 +1747,17 @@ im 7 - 8
 im 7 - 8
 im 3 - 4
 im 7 - 8
-aninim 7 - 8
 im 7 - 8
+bu 7 - 8
 im 7 - 8
-im 7 - 8
+mat 7 - 8
 im 3 - 4
 im 5 - 8
 kel 33 - 36
 kel 35 - 40
 bu dessy saya sudah sampai im 8
 im 7 - 8
-im 7 - 8
+mat 7 - 8
 im 7 - 8
 im 7 - 8
 im 7 - 8
@@ -1789,7 +1789,7 @@ im 9 - 10
 im 9 - 10
 imamat 7 - 10
 kel 31 - im 10
-aninim 9 - 10
+im 9 - 10
 im 9 - 10
 im 9 - 10
 im 7 - 10
@@ -1864,7 +1864,7 @@ im 11 - 14
 im 13 - 14
 im 13 - 14
 im 11 - 12
-aninim 11 - 12
+im 11 - 12
 im 13 - 14
 im 7 - 8
 im 1 - 4
@@ -1892,7 +1892,7 @@ im 15 - 16
 im 15 - 16
 im 15 - 16
 imamat 15 - 16
-aninim 15 - 16
+im 15 - 16
 im 15 - 16
 im 15 - 16
 im 13 - 16
@@ -1932,7 +1932,7 @@ imamat 13 - 14
 im 16 - 18
 im 17 - 18
 im 17 - 18
-aninim 17 - 18
+im 17 - 18
 im 9 - 12
 im 17 - 18
 imamat 17 - 18
@@ -1959,10 +1959,10 @@ im 19 - 20
 im 19 - 20
 im 19 - 20
 im 13 - 16
-im 17 - 18
+ini 17 - 18
 im 19 - 20
 im 19 - 20
-aninim 19 - 20
+im 19 - 20
 im 19 - 20
 imamat 13 - 14
 im 19 - 20
@@ -1989,7 +1989,7 @@ im 21 - 22
 im 19 - 20
 im 21 - 22
 im 21 - 22
-aninim 21 - 22
+im 21 - 22
 im 21 - 22
 im 19 - 22
 im 17 - 18
@@ -2019,7 +2019,7 @@ im 23 - 24
 im 23 - 24
 im 23 - 24
 im 13 - 14
-imamat 21 - 24
+mhn 21 - 24
 imamat 21 - 24
 im 23 - 24
 im 17 - 18
@@ -2145,7 +2145,7 @@ bil 4 - 5
 bil 4 - 5
 bil 4 - 5
 bil 4 - 5
-aninbil 4 - 5
+bil 4 - 5
 im 25 - 27
 bil 4 - 5
 bil 2 - 5
@@ -2193,7 +2193,7 @@ bil 8 - 9
 bilangan 8 - 9
 im 27 - bil 1
 bilangan 8 - 9
-aninbil 6 - 7
+bil 6 - 7
 bil 6 - 9
 bil 6 - 7
 bil 8 - 9
@@ -2235,7 +2235,7 @@ bil 10 - 11
 bil 10 - 11
 bilangan 6 - 11
 bil 10 - 11
-aninbil 10 - 11
+bil 10 - 11
 bil 10 - 11
 bil 10 - 11
 bil 10 - 11
@@ -2258,7 +2258,7 @@ bil 12 - 13
 bil 10 - 11
 bil 11 - 13
 bil 3 - 4
-aninbil 12 - 13
+bil 12 - 13
 bil 12 - 13
 bil 12 - 13
 bil 10 - 11
@@ -3440,7 +3440,7 @@ ul 19 - 20
 yos 24 - hak 1
 yos 24 - hak 1
 yos 20 - 21
-hak 1 - 2
+yos 1 - 2
 yos 24 - hak 1
 yos 24 - hak 1
 yos 24 - hak 1
@@ -3738,7 +3738,7 @@ hak 20 - 21
 hak 20 - 21
 hak 20 - 21
 hak 20 - 21
-hak 12 - 13
+selamat 12 - 13
 hak 18 - 19
 hak 20 - 21
 hak 20 - 21
@@ -3806,7 +3806,7 @@ rut 3 - 4
 rut 1 - 2
 rut 3 - 4
 rut 3 - 4
-2 samuel 1 - 2
+1 1 - 2
 rut 3 - 4
 rut 3 - 4
 imamat 7 imamat 8
@@ -3821,2609 +3821,2609 @@ hak 18 - rut 1
 hak 20 - rut 4
 rut 3 - 4
 rut 3 - 4
-2 samuel 1 - 2
-2 samuel 1 - 2
-2 samuel 1 - 2
-2 samuel 1 - 2
-2 samuel 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
 yosua 5 - 8
-2 samuel 1 - 2
+1 1 - 2
 hak 2
-2 samuel 1 - 2
-2 samuel 1 - 2
+1 1 - 2
+1 1 - 2
 hak 2
-2 samuel 1 - 2
-2 samuel 1 - 2
-2 samuel 1 - 2
+1 1 - 2
+1 1 - 2
+im 1 - 2
 imamat 9 - 10
-2 samuel 1 - 2
-2 samuel 1 - 2
-2 samuel 1 - 2
-2 samuel 1 - 2
-2 samuel 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
 hak 5 - 10
-2 samuel 1 - 2
-2 samuel 1 - 2
+1 1 - 2
+1 1 - 2
 rut 3 - 4
-2 samuel 3 - 4
-2 samuel 1 - 2
-2 samuel 3 - 4
-2 samuel 3 - 4
-2 samuel 3 - 4
-2 samuel 3 - 4
-2 samuel 3 - 4
-2 samuel 3 - 4
-2 samuel 3 - 4
+1 3 - 4
+1 1 - 2
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
 hak 2 - 3
 hak 20 - 21
-2 samuel 3 - 4
-2 samuel 3 - 4
-2 samuel 3 - 4
-2 samuel 3 - 4
-2 samuel 1 - 2
-2 samuel 3 - 4
-2 samuel 1 - 2
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 1 - 2
+1 3 - 4
+1 1 - 2
 rut 3 - 4
-2 samuel 3 - 4
+1 3 - 4
 imamat 11 - 13
-2 samuel 3 - 4
-2 samuel 3 - 4
-2 samuel 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
 im 8 - 9
-2 samuel 3 - 4
-2 samuel 3 - 4
-2 samuel 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
 yos 9 - 12
 rut 1 - 4
 imamat 14 - 15
-2 samuel 5 - 6
-2 samuel 5 - 6
-2 samuel 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
 hak 18 - 21
-2 samuel 5 - 6
-2 samuel 5 - 6
-2 samuel 5 - 6
-2 samuel 5 - 6
-2 samuel 5 - 6
-2 samuel 5 - 6
-2 samuel 5 - 6
-2 samuel 5 - 6
-2 samuel 5 - 6
-2 samuel 3 - 6
-2 samuel 1 - 2
-2 samuel 3 - 4
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 3 - 6
+1 1 - 2
+1 3 - 4
 rut
-2 samuel 5 - 6
-2 samuel 1 - 6
-2 samuel 5 - 6
+1 5 - 6
+1 1 - 6
+1 5 - 6
 imamat 15 - 18
-2 samuel 5 - 6
-2 samuel 5 - 6
+im 5 - 6
+im 5 - 6
 hak 13 - 17
-2 samuel 5 - 6
+1 5 - 6
 ul 25 - 26
 rut 1 - 4
-2 samuel 5 - 6
-2 samuel 5 - 6
+1 5 - 6
+1 5 - 6
 yosua
 rut 1 - 2
-2 samuel 5 - 6
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 8
+1 5 - 6
+1 7 - 8
+1 7 - 8
+1 7 - 8
+1 7 - 8
+1 7 - 8
+1 7 - 8
+1 7 - 8
 imamat 19 - 20
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 8
+1 7 - 8
+1 7 - 8
+1 7 - 8
 hak
 ul 20 - 21
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 1 - 5
-2 samuel 7 - 8
-2 samuel 5 - 8
-2 samuel 7 - 8
-2 samuel 1 - 2
+1 7 - 8
+1 7 - 8
+1 7 - 8
+1 7 - 8
+1 7 - 8
+1 7 - 8
+1 1 - 5
+1 7 - 8
+1 5 - 8
+1 7 - 8
+1 1 - 2
 hak 3 - 4
-2 samuel 5 - 8
-2 samuel 5 - 8
-2 samuel 9 - 10
-2 samuel 9 - 10
-2 samuel 1 - 4
-2 samuel 9 - 10
-2 samuel 9 - 10
-2 samuel 7 - 8
-2 samuel 7 - 8
-2 samuel 7 - 10
-2 samuel 9 - 10
-2 samuel 9 - 10
-2 samuel 9 - 10
+1 5 - 8
+1 5 - 8
+1 9 - 10
+1 9 - 10
+1 1 - 4
+1 9 - 10
+1 9 - 10
+1 7 - 8
+1 7 - 8
+1 7 - 10
+1 9 - 10
+1 9 - 10
+1 9 - 10
 rut 3 - 4
-2 samuel 9 - 10
+1 9 - 10
 imamat 21 - 22
-2 samuel 9 - 10
-2 samuel 9 - 10
-2 samuel 9 - 10
+1 9 - 10
+1 9 - 10
+1 9 - 10
 hak 18 - 21
 rut 1 - 4
-2 samuel 9 - 10
+1 9 - 10
 hak 5 - 14
-2 samuel 9 - 10
-2 samuel 3 - 4
+1 9 - 10
+1 3 - 4
 ul 31 - 32
-2 samuel 9 - 10
-2 samuel 9 - 10
+1 9 - 10
+1 9 - 10
 yos 13 - 16
-2 samuel 9 - 10
-2 samuel 9 - 10
-2 samuel 11 - 12
-2 samuel 9 - 10
-2 samuel 3 - 10
+1 9 - 10
+1 9 - 10
+1 11 - 12
+1 9 - 10
+1 3 - 10
 rut 1 - 2
-2 samuel 3 - 6
-2 samuel 5 - 8
-2 samuel 11 - 12
-2 samuel 11 - 12
-2 samuel 11 - 12
-2 samuel 11 - 12
-2 samuel 11 - 12
-2 samuel 11 - 12
-2 samuel 11 - 12
-2 samuel 9 - 12
+1 3 - 6
+1 5 - 8
+1 11 - 12
+1 11 - 12
+1 11 - 12
+1 11 - 12
+1 11 - 12
+1 11 - 12
+1 11 - 12
+1 9 - 12
 hak 11 - 21
-2 samuel 11 - 12
-2 samuel 9 - 10
-2 samuel 11 - 12
-2 samuel 11 - 12
+1 11 - 12
+1 9 - 10
+1 11 - 12
+1 11 - 12
 imamat 23 - 24
-2 samuel 11 - 12
-2 samuel 11 - 12
-2 samuel 1 - 10
-2 samuel 11 - 12
-2 samuel 11 - 12
-2 samuel 7 - 12
-2 samuel 5 - 10
-2 samuel 11 - 12
-2 samuel 13 - 14
-2 samuel 13 - 14
-2 samuel 11 - 12
-2 samuel 9 - 12
-2 samuel 13 - 14
-2 samuel 13 - 14
-2 samuel 11 - 14
-2 samuel 9 - 12
-2 samuel 11 - 14
-2 samuel 13 - 14
-2 samuel 13 - 14
+1 11 - 12
+1 11 - 12
+1 1 - 10
+1 11 - 12
+1 11 - 12
+1 7 - 12
+1 5 - 10
+1 11 - 12
+1 13 - 14
+1 13 - 14
+1 11 - 12
+1 9 - 12
+1 13 - 14
+1 13 - 14
+1 11 - 14
+1 9 - 12
+1 11 - 14
+1 13 - 14
+1 13 - 14
 im 10 - 12
 bil 34 - ul 2
-2 samuel 13 - 14
-2 samuel 13 - 14
-2 samuel 5 - 8
+1 13 - 14
+1 13 - 14
+1 5 - 8
 imamat 25 - 26
 yos 1 - 2
 yos 17 - 20
 ul 26 - 27
-2 samuel 13 - 14
-2 samuel 13 - 14
-2 samuel 13 - 14
-2 samuel 15 - 16
-2 samuel 13 - 14
-2 samuel 15 - 16
-2 samuel 15 - 16
-2 samuel 11 - 13
-2 samuel 4 - 7
-2 samuel 15 - 16
-2 samuel 13 - 14
-2 samuel 13 - 14
-2 samuel 7 - 12
-2 samuel 11 - 16
-2 samuel 15 - 16
-2 samuel 15 - 16
-2 samuel 13 - 14
-2 samuel 15 - 16
+1 13 - 14
+1 13 - 14
+1 13 - 14
+1 15 - 16
+1 13 - 14
+1 15 - 16
+1 15 - 16
+1 11 - 13
+1 4 - 7
+1 15 - 16
+1 13 - 14
+1 13 - 14
+1 7 - 12
+1 11 - 16
+1 15 - 16
+1 15 - 16
+1 13 - 14
+1 15 - 16
 imamat 27 bilangan 1
-2 samuel 9 - 10
-2 samuel 11 - 12
+1 9 - 10
+1 11 - 12
 rut 1 - 4
-2 samuel 13 - 16
-2 samuel 15 - 16
-2 samuel 17 - 18
-2 samuel 15 - 16
+1 13 - 16
+1 15 - 16
+1 17 - 18
+1 15 - 16
 yos 21 - 24
-2 samuel 15 - 16
-2 samuel 11 - 16
-2 samuel 9 - 12
-2 samuel 15 - 16
+1 15 - 16
+1 11 - 16
+1 9 - 12
+1 15 - 16
 rut
 bilangan 2 - 3
 im 13 - 14
 yos 6 - 7
 ul 32 - 33
-2 samuel 15 - 16
-2 samuel 13 - 14
-2 samuel 15 - 16
-2 samuel 15 - 16
+1 15 - 16
+1 13 - 14
+1 15 - 16
+1 15 - 16
 im 15 - 16
-2 samuel 14 - 16
-2 samuel 17 - 18
-2 samuel 17 - 18
-2 samuel 17 - 18
-2 samuel 17 - 18
-2 samuel 15 - 16
-2 samuel 17 - 18
-2 samuel 17 - 18
-2 samuel 17 - 18
-2 samuel 17 - 18
-2 samuel 17 - 18
-2 samuel 11 - 18
-2 samuel 17 - 18
-2 samuel 5 - 18
+1 14 - 16
+1 17 - 18
+1 17 - 18
+1 17 - 18
+1 17 - 18
+1 15 - 16
+1 17 - 18
+1 17 - 18
+1 17 - 18
+1 17 - 18
+1 17 - 18
+1 11 - 18
+1 17 - 18
+1 5 - 18
 bilangan 4 - 5
-2 samuel 17 - 18
-2 samuel 17 - 18
-2 samuel 13 - 18
-2 samuel 17 - 18
+1 17 - 18
+1 17 - 18
+1 13 - 18
+1 17 - 18
 yos 11 - 12
 yos 4 - 5
-2 samuel 17 - 18
-2 samuel 15 - 16
-2 samuel 17 - 18
-2 samuel 17 - 18
-2 samuel 13 - 14
-2 samuel 19 - 20
-2 samuel 7 - 10
-2 samuel 1 - 5
-2 samuel 19 - 20
-2 samuel 15 - 16
-2 samuel 19 - 20
-2 samuel 19 - 20
-2 samuel 19 - 20
-2 samuel 1 - 10
-2 samuel 19 - 20
-2 samuel 19 - 20
+1 17 - 18
+1 15 - 16
+1 17 - 18
+1 17 - 18
+1 13 - 14
+1 19 - 20
+1 7 - 10
+1 1 - 5
+1 19 - 20
+1 15 - 16
+1 19 - 20
+1 19 - 20
+1 19 - 20
+1 1 - 10
+1 19 - 20
+1 19 - 20
 im 17 - 22
-2 samuel 19 - 20
-2 samuel 15 - 20
-2 samuel 19 - 20
-2 samuel 19 - 20
-2 samuel 19 - 20
+1 19 - 20
+1 15 - 20
+1 19 - 20
+1 19 - 20
+1 19 - 20
 bilangan 6 - 7
-2 samuel 13 - 14
-2 samuel 15 - 16
-2 samuel 19 - 20
-2 samuel 13 - 20
-2 samuel 19 - 20
-2 samuel 19 - 20
-2 samuel 19 - 20
-2 samuel 19 - 20
-2 samuel 11 - 14
-2 samuel 15 - 16
+1 13 - 14
+1 15 - 16
+1 19 - 20
+1 13 - 20
+1 19 - 20
+1 19 - 20
+1 19 - 20
+1 19 - 20
+1 11 - 14
+1 15 - 16
 yos 10 - 11
 yos 16 - 17
-2 samuel 19 - 20
-2 samuel 19 - 20
-2 samuel 11 - 15
-2 samuel 8 - 12
-2 samuel 19 - 20
-2 samuel 19 - 20
-2 samuel 21 - 22
-2 samuel 21 - 22
-2 samuel 21 - 22
+1 19 - 20
+1 19 - 20
+1 11 - 15
+1 8 - 12
+1 19 - 20
+1 19 - 20
+1 21 - 22
+1 21 - 22
+1 21 - 22
 hak 1 - 2
-2 samuel 21 - 22
-2 samuel 21 - 22
-2 samuel 21 - 22
-2 samuel 21 - 22
+1 21 - 22
+1 21 - 22
+1 21 - 22
+1 21 - 22
 ul 3 - 6
-2 samuel 19 - 20
-2 samuel 21 - 22
-2 samuel 21 - 22
+1 19 - 20
+1 21 - 22
+1 21 - 22
 sy sdh smp 1 sam 22 ya bu
-2 samuel 21 - 22
-2 samuel 21 - 22
-2 samuel 13 - 14
-2 samuel 15 - 16
-2 samuel 21 - 22
-2 samuel 17 - 18
-2 samuel 19 - 20
-2 samuel 21 - 22
-2 samuel 6 - 15
-2 samuel 21 - 22
-2 samuel 21 - 22
-2 samuel 17 - 18
+1 21 - 22
+1 21 - 22
+1 13 - 14
+1 15 - 16
+1 21 - 22
+1 17 - 18
+1 19 - 20
+1 21 - 22
+1 6 - 15
+1 21 - 22
+1 21 - 22
+1 17 - 18
 bilangan 8 - 9
-2 samuel 21 - 22
-2 samuel 21 - 22
+1 21 - 22
+1 21 - 22
 yos 16 - 17
-2 samuel 19 - 22
-2 samuel 21 - 22
-2 samuel 17 - 20
-2 samuel 16 - 20
-2 samuel 21 - 22
-2 samuel 21 - 22
-2 samuel 15 - 22
-2 samuel 21 - 22
+1 19 - 22
+1 21 - 22
+1 17 - 20
+1 16 - 20
+1 21 - 22
+1 21 - 22
+1 15 - 22
+1 21 - 22
 im 23 - 27
-2 samuel 19 - 22
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 17 - 22
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 21 - 24
-2 samuel 21 - 24
-2 samuel 23 - 24
+1 19 - 22
+1 23 - 24
+1 23 - 24
+1 17 - 22
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 21 - 24
+1 21 - 24
+1 23 - 24
 yos 22 - 23
-2 samuel 23 - 24
-2 samuel 21 - 22
-2 samuel 23 - 24
+1 23 - 24
+1 21 - 22
+1 23 - 24
 bilangan 10 - 11
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 23 - 24
-2 samuel 19 - 20
-2 samuel 23 - 24
-2 samuel 25 - 26
-2 samuel 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+jojo 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 19 - 20
+1 23 - 24
+1 25 - 26
+1 23 - 24
 hak 3 - 4
-2 samuel 23 - 24
-2 samuel 25 - 26
-2 samuel 25 - 26
-2 samuel 25 - 26
-2 samuel 25 - 26
-2 samuel 21 - 22
-2 samuel 23 - 24
-2 samuel 25 - 26
-2 samuel 25 - 26
-2 samuel 25 - 26
-2 samuel 25 - 26
-2 samuel 25 - 26
-2 samuel 25 - 26
-2 samuel 25 - 26
+1 23 - 24
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 21 - 22
+1 23 - 24
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 25 - 26
 bilangan 12 - 13
-2 samuel 25 - 26
-2 samuel 23 - 24
-2 samuel 25 - 26
-2 samuel 25 - 26
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 25 - 26
-2 samuel 23 - 26
-2 samuel 25 - 26
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 23 - 26
-2 samuel 27 - 28
-2 samuel 25 - 26
-2 samuel 23 - 26
-2 samuel 25 - 26
-2 samuel 25 - 28
-2 samuel 25 - 26
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 27 - 28
+1 25 - 26
+1 23 - 24
+1 25 - 26
+1 25 - 26
+1 27 - 28
+1 27 - 28
+1 25 - 26
+1 23 - 26
+1 25 - 26
+1 27 - 28
+1 27 - 28
+1 27 - 28
+1 27 - 28
+1 27 - 28
+1 23 - 26
+1 27 - 28
+1 25 - 26
+1 23 - 26
+1 25 - 26
+1 25 - 28
+1 25 - 26
+1 27 - 28
+1 27 - 28
+1 27 - 28
+1 27 - 28
+1 27 - 28
+1 27 - 28
 bilangan 14 - 15
-2 samuel 27 - 28
+1 27 - 28
 bil 1 - 9
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 27 - 28
-2 samuel 25 - 28
-2 samuel 27 - 28
-2 samuel 25 - 26
-2 samuel 25 - 28
+1 27 - 28
+1 27 - 28
+1 27 - 28
+1 27 - 28
+1 25 - 28
+1 27 - 28
+1 25 - 26
+1 25 - 28
 bilangan 16 - 18
-2 samuel 27 - 28
+1 27 - 28
 hak 4 - 5
-2 samuel 29 - 30
-2 samuel 29 - 30
-2 samuel 21 - 24
-2 samuel 29 - 30
-2 samuel 29 - 30
-2 samuel 29 - 30
-2 samuel 29 - 31
-2 samuel 29 - 30
-2 samuel 16 - 20
-2 samuel 29 - 30
-2 samuel 27 - 28
-2 samuel 23 - 26
-2 samuel 27 - 28
-2 samuel 29 - 30
+1 29 - 30
+1 29 - 30
+1 21 - 24
+1 29 - 30
+1 29 - 30
+1 29 - 30
+1 29 - 31
+1 29 - 30
+1 16 - 20
+1 29 - 30
+1 27 - 28
+1 23 - 26
+1 27 - 28
+1 29 - 30
 bil 6 - ul 1
-2 samuel 29 - 30
-2 samuel 23 - 30
+1 29 - 30
+1 23 - 30
 bilangan 19 - 20
-2 samuel 29 - 30
+1 29 - 30
 bilangan 10 - 15
 hak 15 - rut
-2 samuel 29 - 30
-2 samuel 29 - 30
-2 samuel 29 - 30
-2 samuel 29 - 30
-2 samuel 25 - 26
-2 samuel 13 - 18
-2 samuel 29 - 30
-2 samuel 29 - 30
-2 samuel 29 - 30
-2 samuel 29 - 30
-2 samuel 29 - 30
-2 samuel 2 - 31
-2 samuel 2 - 31
-2 samuel 2 - 31
-2 samuel 2 - 31
-2 samuel 2 - 31
-2 samuel 1 - 2
-2 samuel 2 - 31
-2 samuel 2 - 29
-2 samuel 2 - 31
-2 samuel 29 - 30
-2 samuel 2 - 31
-2 samuel 2 - 31
-2 samuel 2 - 31
-2 samuel 21 - 25
-2 samuel 2 - 31
+1 29 - 30
+1 29 - 30
+1 29 - 30
+1 29 - 30
+1 25 - 26
+1 13 - 18
+1 29 - 30
+1 29 - 30
+1 29 - 30
+1 29 - 30
+1 29 - 30
+1 2 - 31
+1 2 - 31
+1 2 - 31
+1 2 - 31
+1 2 - 31
+2 1 - 2
+1 2 - 31
+1 2 - 29
+1 2 - 31
+1 29 - 30
+1 2 - 31
+1 2 - 31
+1 2 - 31
+1 21 - 25
+1 2 - 31
 ul 2 - ul 10
 bil 21 - 22
-2 samuel 2 - 31
+1 2 - 31
 yosua 1 - 4
-2 samuel 2 - 31
-2 samuel 2 - 31
-2 samuel 1 - 2
-2 samuel 2 - 31
-2 samuel 2 - 29
-2 samuel 2 - 31
-2 samuel 27 - 30
-2 samuel 27 - 28
-2 samuel 2 - 31
-2 samuel 2 - 31
+1 2 - 31
+1 2 - 31
+1 1 - 2
+1 2 - 31
+1 2 - 29
+1 2 - 31
+1 27 - 30
+1 27 - 28
+1 2 - 31
+1 2 - 31
 1 sam
-2 samuel 2 - 29
-2 samuel 2 - 3
-2 samuel 15 - 18
-2 samuel 2 - 3
-2 samuel 2 - 3
+1 2 - 29
+2 2 - 3
+1 15 - 18
+2 2 - 3
+2 2 - 3
 hak 6 - 7
-2 samuel 2 - 3
-2 samuel 2 - 31
-2 samuel 2 - 3
-2 samuel 2 - 3
-2 samuel 29 - 30
-2 samuel 2 - 3
-2 samuel 2 - 31
-2 samuel 2 - 31
-2 samuel 2 - 3
-2 samuel 3 - 4
-2 samuel 2 - 3
-2 samuel 2 - 3
-2 samuel 2 - 3
-2 samuel 2 - 3
-2 samuel 2 - 3
+2 2 - 3
+1 2 - 31
+2 2 - 3
+2 2 - 3
+1 29 - 30
+2 2 - 3
+1 2 - 31
+1 2 - 31
+2 2 - 3
+2 3 - 4
+2 2 - 3
+2 2 - 3
+daniel 2 - 3
+2 2 - 3
+2 2 - 3
 bil 23 - 24
-2 samuel 2 - 31
-2 samuel 2 - 3
+1 2 - 31
+2 2 - 3
 hak 10 - 11
-2 samuel 2 - 3
-2 samuel 2 - 3
-2 samuel 2 - 3
-2 samuel 2 - 3
-2 samuel 2 - 3
-2 samuel 19 - 22
-2 samuel 2 - 5
-2 samuel 2 - 5
-2 samuel 4 - 5
-2 samuel 19 - 22
-2 samuel 4 - 5
-2 samuel 4 - 5
-2 samuel 4 - 5
-2 samuel 4 - 5
-2 samuel 4 - 5
-2 samuel 5 - 6
+2 2 - 3
+2 2 - 3
+jojo 2 - 3
+2 2 - 3
+2 2 - 3
+1 19 - 22
+2 2 - 5
+2 2 - 5
+2 4 - 5
+1 19 - 22
+2 4 - 5
+2 4 - 5
+2 4 - 5
+2 4 - 5
+2 4 - 5
+2 5 - 6
 yosua 5 - 8
-2 samuel 4 - 5
-2 samuel 4 - 5
-2 samuel 2 - 31
-2 samuel 4 - 5
-2 samuel 4 - 5
+2 4 - 5
+2 4 - 5
+1 2 - 31
+2 4 - 5
+2 4 - 5
 hak 16 - 17
-2 samuel 2 - 5
+2 2 - 5
 ul 11 - ul 15
-2 samuel 4 - 5
-2 samuel 2 - 5
-2 samuel 10 - 20
-2 samuel 2 - 3
-2 samuel 4 - 5
-2 samuel 4 - 5
+2 4 - 5
+2 2 - 5
+1 10 - 20
+2 2 - 3
+2 4 - 5
+2 4 - 5
 ul 7 - 9
-2 samuel 6 - 7
-2 samuel 6 - 7
-2 samuel 21 - 31
-2 samuel 2 - 28
-2 samuel 6 - 7
-2 samuel 6 - 7
-2 samuel 4 - 5
-2 samuel 6 - 7
-2 samuel 7 - 8
-2 samuel 6 - 7
-2 samuel 6 - 7
-2 samuel 6 - 7
-2 samuel 6 - 7
-2 samuel 4 - 7
-2 samuel 6 - 7
-2 samuel 4 - 5
-2 samuel 6 - 7
-2 samuel 2 - 4
+2 6 - 7
+2 6 - 7
+1 21 - 31
+1 2 - 28
+2 6 - 7
+2 6 - 7
+2 4 - 5
+2 6 - 7
+2 7 - 8
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 4 - 7
+2 6 - 7
+2 4 - 5
+2 6 - 7
+2 2 - 4
 bilangan 25 - 26
-2 samuel 6 - 7
-2 samuel 6 - 7
-2 samuel 1 - 5
-2 samuel 4 - 5
-2 samuel 6 - 7
-2 samuel 6 - 7
-2 samuel 2 - 3
-2 samuel 8 - 9
-2 samuel 8 - 9
-2 samuel 8 - 9
-2 samuel 8 - 9
-2 samuel 4 - 5
-2 samuel 8 - 9
-2 samuel 6 - 7
-2 samuel 8 - 9
-2 samuel 8 - 9
-2 samuel 4 - 7
-2 samuel 8 - 9
-2 samuel 6 - 7
-2 samuel 2 - 3
-2 samuel 4 - 5
-2 samuel 8 - 9
-2 samuel 8 - 9
-2 samuel 8 - 9
-2 samuel 8 - 9
+2 6 - 7
+2 6 - 7
+2 1 - 5
+2 4 - 5
+2 6 - 7
+2 6 - 7
+2 2 - 3
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 4 - 5
+2 8 - 9
+2 6 - 7
+2 8 - 9
+2 8 - 9
+2 4 - 7
+2 8 - 9
+2 6 - 7
+2 2 - 3
+2 4 - 5
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
 bilangan 27 - 28
-2 samuel 9 - 10
-2 samuel 8 - 9
-2 samuel 6 - 9
-2 samuel 6 - 7
-2 samuel 8 - 9
-2 samuel 8 - 9
-2 samuel 2 - 3
-2 samuel 5 - 6
-2 samuel 8 - 9
-2 samuel 8 - 9
-2 samuel 8 - 9
-2 samuel 8 - 9
-2 samuel 4 - 5
+2 9 - 10
+2 8 - 9
+2 6 - 9
+2 6 - 7
+2 8 - 9
+2 8 - 9
+2 2 - 3
+2 5 - 6
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 4 - 5
 hak 11 - 21
-2 samuel 2 - 8
-2 samuel 2 - 19
+2 2 - 8
+1 2 - 19
 yosua 9 - 12
-2 samuel 6 - 7
-2 samuel 26 - 30
-2 samuel 8 - 9
-2 samuel 6 - 9
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 11 - 12
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 6 - 7
-2 samuel 8 - 9
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
+2 6 - 7
+1 26 - 30
+2 8 - 9
+2 6 - 9
+2 10 - 11
+2 10 - 11
+2 11 - 12
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 6 - 7
+2 8 - 9
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
 bilangan 29 - 30
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
 2 6 - 11
-2 samuel 10 - 11
-2 samuel 4 - 6
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
-2 samuel 10 - 11
+2 10 - 11
+daniel 4 - 6
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
 1 sam 31
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 4 - 7
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 13 - 14
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 10 - 11
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 10 - 12
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 9 - 12
-2 samuel 12 - 13
-2 samuel 23 - 30
-2 samuel 12 - 13
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 4 - 7
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 13 - 14
+2 12 - 13
+2 12 - 13
+2 10 - 11
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 10 - 12
+2 12 - 13
+2 12 - 13
+2 9 - 12
+2 12 - 13
+1 23 - 30
+2 12 - 13
 rut 1 - 2
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 5 - 10
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 12 - 13
-2 samuel 6 - 7
-2 samuel 14 - 15
-2 samuel 14 - 15
-2 samuel 14 - 15
-2 samuel 12 - 13
-2 samuel 14 - 15
+2 12 - 13
+2 12 - 13
+2 5 - 10
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 6 - 7
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 12 - 13
+2 14 - 15
 hak 8 - 9
-2 samuel 14 - 15
+2 14 - 15
 ul 10 - 17
-2 samuel 15 - 16
-2 samuel 14 - 15
-2 samuel 14 - 15
-2 samuel 2 - 13
-2 samuel 14 - 15
-2 samuel 14 - 15
-2 samuel 14 - 15
-2 samuel 14 - 15
-2 samuel 13 - 15
-2 samuel 14 - 15
-2 samuel 14 - 15
-2 samuel 14 - 15
-2 samuel 14 - 15
-2 samuel 8 - 13
-2 samuel 14 - 15
+2 15 - 16
+2 14 - 15
+2 14 - 15
+2 2 - 13
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 13 - 15
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 8 - 13
+2 14 - 15
 yosua 13 - 16
-2 samuel 11 - 15
-2 samuel 16 - 17
-2 samuel 16 - 17
-2 samuel 14 - 15
-2 samuel 14 - 15
-2 samuel 16 - 17
-2 samuel 14 - 15
-2 samuel 16 - 17
-2 samuel 16 - 17
-2 samuel 13 - 15
-2 samuel 16 - 17
-2 samuel 12 - 17
-2 samuel 17 - 18
-2 samuel 21 - 31
-2 samuel 16 - 17
-2 samuel 14 - 15
-2 samuel 16 - 17
+2 11 - 15
+2 16 - 17
+2 16 - 17
+2 14 - 15
+2 14 - 15
+2 16 - 17
+2 14 - 15
+2 16 - 17
+2 16 - 17
+2 13 - 15
+2 16 - 17
+2 12 - 17
+2 17 - 18
+1 21 - 31
+2 16 - 17
+2 14 - 15
+2 16 - 17
 1 sam 31
-2 samuel 16 - 17
-2 samuel 16 - 17
-2 samuel 16 - 17
-2 samuel 14 - 17
-2 samuel 16 - 17
-2 samuel 16 - 17
-2 samuel 16 - 17
-2 samuel 16 - 17
-2 samuel 16 - 17
-2 samuel 16 - 17
-2 samuel 16 - 17
-2 samuel 16 - 17
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 14 - 17
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 16 - 17
 yosua 17 - 20
-2 samuel 3 - 4
-2 samuel 14 - 17
-2 samuel 14 - 15
-2 samuel 1 - 20
-2 samuel 16 - 17
-2 samuel 8 - 11
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 19 - 20
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 18 - 19
+1 3 - 4
+2 14 - 17
+2 14 - 15
+im 1 - 20
+2 16 - 17
+2 8 - 11
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 19 - 20
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
 bu desi sy blm sampai 2 sam 23 maaf bu
-2 samuel 16 - 17
-2 samuel 18 - 19
-2 samuel 4 - 9
-2 samuel 18 - 20
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 12 - 15
-2 samuel 3 - 6
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 20 - 21
-2 samuel 20 - 21
-2 samuel 12 - 15
-2 samuel 20 - 21
-2 samuel 20 - 21
-2 samuel 20 - 21
-2 samuel 16 - 17
-2 samuel 20 - 21
-2 samuel 18 - 19
-2 samuel 20 - 21
-2 samuel 20 - 21
-2 samuel 18 - 19
-2 samuel 20 - 21
-2 samuel 20 - 21
-2 samuel 20 - 21
-2 samuel 21 - 25
-2 samuel 18 - 19
-2 samuel 18 - 19
-2 samuel 20 - 21
-2 samuel 20 - 21
-2 samuel 20 - 21
-2 samuel 20 - 21
-2 samuel 21 - 30
-2 samuel 20 - 21
-2 samuel 16 - 21
-2 samuel 16 - 21
+2 16 - 17
+2 18 - 19
+2 4 - 9
+1 18 - 20
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 12 - 15
+1 3 - 6
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 20 - 21
+2 20 - 21
+2 12 - 15
+2 20 - 21
+2 20 - 21
+2 20 - 21
+2 16 - 17
+2 20 - 21
+2 18 - 19
+2 20 - 21
+2 20 - 21
+2 18 - 19
+2 20 - 21
+2 20 - 21
+2 20 - 21
+1 21 - 25
+2 18 - 19
+2 18 - 19
+2 20 - 21
+2 20 - 21
+2 20 - 21
+2 20 - 21
+1 21 - 30
+2 20 - 21
+2 16 - 21
+2 16 - 21
 yosua 21 - 24
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 20 - 23
-2 samuel 21 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
-2 samuel 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 20 - 23
+2 21 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
 1 sam 31
-2 samuel 22 - 23
-2 samuel 18 - 23
-2 samuel 1 - 24
+2 22 - 23
+2 18 - 23
+2 1 - 24
 hak 10 - 11
-2 samuel 1 - 24
-2 samuel 20 - 21
-2 samuel 1 - 24
-2 samuel 1 - 24
-2 samuel 18 - 19
-2 samuel 1 - 24
-2 samuel 20 - 21
-2 samuel 22 - 23
-2 samuel 1 - 18
-2 samuel 22 - 23
-2 samuel 1 - 24
-2 samuel 1 - 24
-2 samuel 20 - 23
-2 samuel 1 - 24
-2 samuel 1 - 24
-2 raja 1 - 2
-2 samuel 1 - 24
-2 samuel 1 - 4
-2 sam
-2 samuel 1 - 24
-2 samuel 1 - 24
-2 samuel 1 - 24
-2 samuel 1 - 24
-2 samuel 3 - 5
-2 samuel 1 - 24
-2 samuel 1 - 24
-2 samuel 22 - 23
-2 samuel 1 - 24
-2 samuel 1 - 24
-2 raja 2 - 3
-2 raja 2 - 3
-2 raja 2 - 3
-2 raja 2 - 3
-2 raja 2 - 3
-2 samuel 1 - 24
-2 raja 3 - 4
-2 raja 2 - 3
-2 samuel 22 - 23
-2 samuel 1 - 24
-bil 16 - 25
-2 raja 2 - 3
-2 raja 2 - 3
-2 raja 2 - 3
-2 raja 2 - 3
-2 raja 2 - 3
-2 samuel 1 - 24
-2 samuel 14 - 24
-2 samuel 12 - 13
-2 raja 2 - 3
-2 samuel
-2 raja 1 - 3
-2 raja 2 - 3
-2 raja 2 - 3
-2 sam 24
-2 raja 2 - 3
-2 samuel 7 - 11
-2 raja 1 - 2
-2 raja 2 - 3
-2 raja 4 - 5
-2 raja 4 - 5
+2 1 - 24
+2 20 - 21
+2 1 - 24
+2 1 - 24
+2 18 - 19
+2 1 - 24
+2 20 - 21
+2 22 - 23
+2 1 - 18
+2 22 - 23
+2 1 - 24
+2 1 - 24
+2 20 - 23
+2 1 - 24
+2 1 - 24
+2 1 - 2
+2 1 - 24
 2 1 - 4
-2 samuel 10 - 13
-2 raja 4 - 5
-2 raja 4 - 5
-2 raja 4 - 5
-2 raja 2 - 3
-2 raja 4 - 5
-2 samuel 16 - 17
-2 raja 2 - 3
-2 raja 2 - 5
-2 raja 4 - 5
+2 sam
+2 1 - 24
+2 1 - 24
+2 1 - 24
+2 1 - 24
+2 3 - 5
+2 1 - 24
+2 1 - 24
+2 22 - 23
+2 1 - 24
+2 1 - 24
+1 2 - 3
+1 2 - 3
+1 2 - 3
+1 2 - 3
+1 2 - 3
+2 1 - 24
+1 3 - 4
+1 2 - 3
+2 22 - 23
+2 1 - 24
+bil 16 - 25
+1 2 - 3
+1 2 - 3
+1 2 - 3
+1 2 - 3
+1 2 - 3
+2 1 - 24
+2 14 - 24
+2 12 - 13
+1 2 - 3
+2 samuel
+1 1 - 3
+1 2 - 3
+1 2 - 3
 2 sam 24
-2 raja 4 - 5
-2 raja 4 - 5
-2 raja 4 - 5
-2 raja 4 - 5
-2 raja 4 - 5
+1 2 - 3
+daniel 7 - 11
+1 1 - 2
+1 2 - 3
+1 4 - 5
+1 4 - 5
+hak 1 - 4
+2 10 - 13
+1 4 - 5
+1 4 - 5
+1 4 - 5
+1 2 - 3
+1 4 - 5
+2 16 - 17
+1 2 - 3
+1 2 - 5
+1 4 - 5
+2 sam 24
+1 4 - 5
+1 4 - 5
+1 4 - 5
+1 4 - 5
+1 4 - 5
 ul 16 - 20
 ul 21 - 30
-2 samuel 1 - 24
-2 raja 1 - 5
+2 1 - 24
+1 1 - 5
 ul 18 - 22
-2 raja 2 - 3
+1 2 - 3
 kel 16 - ulangan 19
-2 samuel 6 - 10
+1 6 - 10
 ul 31 - 34
 bilangan 28 - ulangan 2
-2 raja 4 - 5
-2 raja 4 - 5
+1 4 - 5
+1 4 - 5
 yos 1 - 24
-2 raja 4 - 5
-2 raja 6 - 7
-2 samuel 1 - 24
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 4 - 7
-2 raja 6 - 7
-2 samuel 20 - 21
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 samuel 14 - 19
+1 4 - 5
+1 6 - 7
+2 1 - 24
+1 6 - 7
+1 6 - 7
+1 6 - 7
+1 4 - 7
+1 6 - 7
+2 20 - 21
+1 6 - 7
+1 6 - 7
+1 6 - 7
+1 6 - 7
+1 6 - 7
+2 14 - 19
 hak 1 - 21
-2 raja 4 - 5
+2 4 - 5
 rut 1 - 4
-2 raja 3 - 5
-2 raja 2 - 3
-2 raja 6 - 7
+1 3 - 5
+1 2 - 3
+1 6 - 7
 ulangan 3 - ulangan 17
-2 raja 6 - 7
-2 raja 4 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 4 - 7
-2 samuel 12 - 16
-2 raja 4 - 7
-2 samuel 1 - 20
-2 raja 6 - 7
-2 raja 4 - 5
-2 raja 4 - 5
-2 raja 4 - 5
-2 raja 6 - 7
-2 raja 6 - 7
+1 6 - 7
+1 4 - 7
+1 6 - 7
+1 6 - 7
+1 4 - 7
+daniel 12 - 16
+1 4 - 7
+1 1 - 20
+1 6 - 7
+1 4 - 5
+1 4 - 5
+1 4 - 5
+1 6 - 7
+1 6 - 7
 hak 1 - 8
-2 raja 4 - 7
+1 4 - 7
 hak 5 - 8
-2 samuel 20 - 21
-2 samuel 21 - 31
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 samuel 22 - 23
+2 20 - 21
+1 21 - 31
+1 8 - 9
+1 8 - 9
+1 8 - 9
+1 8 - 9
+1 8 - 9
+2 22 - 23
 hak 12 - 16
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 7 - 9
-2 samuel 17 - 21
-2 raja 8 - 9
-2 samuel 6 - 11
-2 raja 8 - 9
-2 raja 8 - 9
+1 8 - 9
+1 8 - 9
+1 8 - 9
+1 8 - 9
+2 7 - 9
+daniel 17 - 21
+1 8 - 9
+2 6 - 11
+1 8 - 9
+1 8 - 9
 hak 17 - 20
-2 samuel 5 - 14
-2 raja 8 - 9
-2 samuel 1 - 24
-2 raja 7 - 9
-2 raja 8 - 9
-2 samuel 22 - 24
+2 5 - 14
+1 8 - 9
+2 1 - 24
+1 7 - 9
+1 8 - 9
+daniel 22 - 24
 ulangan 18 - ulangan 34
 bil 26 - 31
-2 raja 4 - 5
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 8 - 9
-2 raja 6 - 7
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 samuel 11 - 14
-2 raja 6 - 7
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 10 - 11
-2 samuel 1 - 11
+1 4 - 5
+1 6 - 7
+1 6 - 7
+1 8 - 9
+1 6 - 7
+1 8 - 9
+1 8 - 9
+1 8 - 9
+1 11 - 14
+1 6 - 7
+1 8 - 9
+1 8 - 9
+1 10 - 11
+2 1 - 11
 hak 21 - rut 2
-2 raja 10 - 11
+1 10 - 11
 hak 9 - 12
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 8 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 8 - 11
+1 10 - 11
+1 10 - 11
+1 8 - 11
+1 10 - 11
+1 10 - 11
+1 10 - 11
+1 10 - 11
+1 10 - 11
+1 8 - 11
 bil 32 - 36
-2 raja 10 - 11
-2 raja 6 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 samuel 9 - 10
+1 10 - 11
+1 6 - 11
+1 10 - 11
+1 10 - 11
+1 9 - 10
 ul 23 - 28
-2 raja 10 - 11
-2 raja 3 - 7
-2 raja 10 - 11
+im 10 - 11
+daniel 3 - 7
+1 10 - 11
 ul 24
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 8 - 10
-2 raja 10 - 11
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 10 - 11
-2 samuel 1 - 20
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
+1 10 - 11
+1 10 - 11
+1 10 - 11
+1 8 - 10
+1 10 - 11
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 10 - 11
+2 1 - 20
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
 rut 3 - 4
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 8 - 9
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+daniel 8 - 9
 ul 29
-2 raja 12 - 13
-2 raja 8 - 9
-2 raja 4 - 11
-2 raja 10 - 11
-2 raja 4 - 5
-2 raja 12 - 13
-2 raja 12 - 13
-2 samuel 15 - 16
-2 raja 6 - 7
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 14 - 15
+1 12 - 13
+1 8 - 9
+1 4 - 11
+1 10 - 11
+1 4 - 5
+1 12 - 13
+1 12 - 13
+1 15 - 16
+1 6 - 7
+1 12 - 13
+1 12 - 13
+1 14 - 15
 hak 13 - 16
-2 samuel 12 - 24
-2 samuel 1 - 4
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
+2 12 - 24
+1 1 - 4
+1 14 - 15
+1 14 - 15
+1 14 - 15
+1 14 - 15
+1 14 - 15
+1 14 - 15
+1 14 - 15
+1 14 - 15
+1 14 - 15
+1 14 - 15
+1 14 - 15
+1 14 - 15
 yosua 04 - yosua 24
-2 raja 8 - 11
-2 samuel 5 - 6
-2 raja 14 - 15
+1 8 - 11
+1 5 - 6
+1 14 - 15
 hak - hak 1 - hakim - hakim 13
-2 raja 10 - 11
-2 raja 14 - 15
-2 raja 12 - 15
-2 raja 14 - 15
-2 raja 12 - 13
-2 samuel 15 - 17
+daniel 10 - 11
+1 14 - 15
+1 12 - 15
+1 14 - 15
+1 12 - 13
+1 15 - 17
 hak 17 - 20
 yosua 1
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 11 - 14
+1 14 - 15
+1 14 - 15
+1 14 - 15
+1 11 - 14
 2 samuel
-2 raja 16 - 17
-2 raja 14 - 15
-2 raja 12 - 13
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 10 - 11
-2 raja 12 - 13
-2 samuel 15 - 21
-2 raja 16 - 17
-2 samuel 7 - 8
-2 raja 2 - 15
+1 16 - 17
+1 14 - 15
+1 12 - 13
+1 16 - 17
+1 16 - 17
+1 16 - 17
+1 16 - 17
+1 16 - 17
+1 16 - 17
+1 10 - 11
+1 12 - 13
+2 15 - 21
+1 16 - 17
+1 7 - 8
+1 2 - 15
 hak - hak 14 - hakim - hakim 21
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 samuel 18 - 19
+1 16 - 17
+1 16 - 17
+1 16 - 17
+1 16 - 17
+1 16 - 17
+1 18 - 19
 yos 6
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 14 - 15
-2 raja 16 - 17
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 18 - 19
+1 16 - 17
+1 16 - 17
+1 14 - 15
+1 16 - 17
+1 18 - 19
+1 18 - 19
+1 18 - 19
+1 16 - 17
+1 16 - 17
+1 18 - 19
 ul 29 - 32
-2 raja 16 - 17
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 14 - 15
-2 raja 18 - 19
-2 raja 18 - 19
-2 samuel 1 - 6
-2 raja 18 - 19
+1 16 - 17
+1 18 - 19
+1 18 - 19
+1 18 - 19
+1 18 - 19
+1 14 - 15
+1 18 - 19
+1 18 - 19
+1 1 - 6
+1 18 - 19
 yos 11
-2 samuel 3 - 17
-2 raja 16 - 17
-2 raja 1 - 6
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 12 - 14
-2 raja 16 - 19
-2 raja 16 - 17
-2 raja 18 - 19
-2 raja 10 - 13
-2 samuel 20 - 21
-2 raja 18 - 19
+1 3 - 17
+1 16 - 17
+1 1 - 6
+1 18 - 19
+1 18 - 19
+daniel 12 - 14
+1 16 - 19
+1 16 - 17
+1 18 - 19
+1 10 - 13
+1 20 - 21
+1 18 - 19
 ul 1 - 7
-2 raja 18 - 19
-2 raja 12 - 19
-2 raja 15 - 18
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 18 - 19
-2 raja 20 - 21
-2 samuel 9 - 10
-2 raja 20 - 21
-2 raja 18 - 19
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 20 - 21
-2 samuel 1 - 24
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 14 - 17
-2 raja 20 - 21
-2 raja 16 - 21
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 18 - 21
-2 samuel 22 - 23
-2 raja 20 - 21
+1 18 - 19
+1 12 - 19
+1 15 - 18
+1 20 - 21
+1 20 - 21
+1 20 - 21
+1 18 - 19
+1 20 - 21
+1 9 - 10
+1 20 - 21
+1 18 - 19
+1 20 - 21
+1 20 - 21
+1 20 - 21
+1 1 - 24
+1 20 - 21
+1 20 - 21
+1 14 - 17
+1 20 - 21
+1 16 - 21
+1 20 - 21
+1 20 - 21
+1 18 - 21
+1 22 - 23
+1 20 - 21
 yos 16
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 12 - 21
-2 raja 20 - 21
-2 raja 8 - 9
+1 20 - 21
+1 20 - 21
+1 12 - 21
+1 20 - 21
+1 8 - 9
 hak 21
-2 raja 20 - 21
-2 raja 15 - 16
-2 samuel 2 - 13
-2 samuel 11 - 14
+1 20 - 21
+daniel 15 - 16
+2 2 - 13
+1 11 - 14
 ul 8 - 14
-2 raja 19 - 21
+1 19 - 21
 yos 21
-2 raja 1 - 10
-2 raja 18 - 21
-2 raja 2 - 22
-2 raja 2 - 22
-2 raja 2 - 22
-2 raja 2 - 22
-2 raja 2 - 22
-2 raja 2 - 22
-2 raja 2 - 22
-2 raja 2 - 22
-2 raja 2 - 22
-2 raja 2 - 20
-2 raja 2 - 22
-2 raja 17 - 21
-2 raja 20 - 22
-2 raja 1 - 9
-2 raja 2 - 22
-2 raja 14 - 22
-2 raja 18 - 19
-2 raja 20 - 21
-2 raja 2 - 22
-2 raja 2 - 22
-2 raja 2 - 22
-2 raja 16 - 17
-2 raja 18 - 19
-2 raja 2 - 22
-2 samuel 15 - 18
-2 raja 2 - 22
-2 raja 20 - 21
-2 raja 2 - 22
+1 1 - 10
+1 18 - 21
+1 2 - 22
+1 2 - 22
+1 2 - 22
+1 2 - 22
+1 2 - 22
+1 2 - 22
+1 2 - 22
+1 2 - 22
+1 2 - 22
+1 2 - 20
+1 2 - 22
+daniel 17 - 21
+1 20 - 22
+1 1 - 9
+1 2 - 22
+1 14 - 22
+1 18 - 19
+1 20 - 21
+daniel 2 - 22
+1 2 - 22
+1 2 - 22
+1 16 - 17
+1 18 - 19
+1 2 - 22
+1 15 - 18
+1 2 - 22
+1 20 - 21
+1 2 - 22
 rut 4
-2 raja 2 - 3
-2 raja 2 - 3
+2 2 - 3
+2 2 - 3
 ul 33 - yosua 1
-2 raja 2 - 3
+2 2 - 3
 1 raj 22
-2 raja 1 - 3
-2 raja 2 - 22
-2 raja 2 - 3
-2 raja 2 - 3
-2 raja 2 - 3
-2 raja 2 - 3
-2 raja 2 - 22
-2 raja 2 - 3
-2 samuel 18 - 25
-2 raja 7 - 15
-2 raja 2 - 3
+2 1 - 3
+1 2 - 22
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 2 - 3
+1 2 - 22
+2 2 - 3
+1 18 - 25
+1 7 - 15
+2 2 - 3
 ul 15 - 21
-2 raja 2 - 22
-2 samuel 12 - 15
-2 raja 2 - 2
-2 raja 2 - 3
-2 raja 20 - 21
-2 raja 2 - 3
-2 raja 2 - 3
-2 raja 2 - 3
-2 samuel 22 - 24
+1 2 - 22
+2 12 - 15
+2 2 - 2
+2 2 - 3
+1 20 - 21
+2 2 - 3
+2 2 - 3
+2 2 - 3
+1 22 - 24
 hak - hak 2
-2 raja 2 - 22
-2 raja 2 - 3
-2 raja 4 - 5
-2 raja 4 - 5
-2 samuel 1 - 4
-2 raja 2 - 5
-2 raja 4 - 5
-2 raja 4 - 5
-2 raja 4 - 5
-2 samuel 19 - 20
-2 raja 4 - 5
-2 raja 1 - 24
-2 raja 4 - 5
-2 raja 2 - 5
-2 raja 2 - 5
-2 raja 4 - 5
-2 raja 2 - 5
-2 raja 4 - 5
-2 raja 4 - 5
-2 raja 2 - 5
-2 raja 2 - 4
+1 2 - 22
+2 2 - 3
+2 4 - 5
+2 4 - 5
+1 1 - 4
+2 2 - 5
+2 4 - 5
+2 4 - 5
+2 4 - 5
+1 19 - 20
+2 4 - 5
+2 1 - 24
+2 4 - 5
+2 2 - 5
+2 2 - 5
+2 4 - 5
+2 2 - 5
+2 4 - 5
+2 4 - 5
+2 2 - 5
+2 2 - 4
 ul 22 - 28
-2 raja 2 - 16
-2 raja 4 - 5
-2 raja 1 - 16
+1 2 - 16
+2 4 - 5
+1 1 - 16
 hak 7
-2 raja 4 - 5
-2 raja 4 - 5
-2 raja 2 - 22
-2 raja 4 - 5
-2 samuel 25 - 26
-2 raja 4 - 5
-2 samuel 1 - 22
-2 raja 4 - 5
-2 raja 2 - 21
-2 raja 2 - 22
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 4 - 7
+2 4 - 5
+2 4 - 5
+1 2 - 22
+2 4 - 5
+1 25 - 26
+2 4 - 5
+2 1 - 22
+2 4 - 5
+1 2 - 21
+1 2 - 22
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 4 - 7
 yosua 2 - 5
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 20 - 21
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 2 - 3
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 4 - 5
-2 samuel 21 - 22
-2 samuel 26 - 31
-2 samuel 1 - 4
-2 raja 6 - 7
-2 raja 1 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+1 20 - 21
+2 6 - 7
+2 6 - 7
+2 2 - 3
+2 6 - 7
+2 6 - 7
+2 4 - 5
+1 21 - 22
+1 26 - 31
+2 1 - 4
+2 6 - 7
+2 1 - 7
 ul 29 - 34
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 6 - 7
-2 raja 2 - 6
-2 raja 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 2 - 6
+2 6 - 7
 hak 12
-2 raja 6 - 7
-2 raja 5 - 7
-2 raja 6 - 7
-2 raja 8 - 9
-2 samuel 23 - 26
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 6 - 7
-2 raja 8 - 9
-2 raja 8 - 9
+2 6 - 7
+2 5 - 7
+2 6 - 7
+2 8 - 9
+1 23 - 26
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 6 - 7
+2 8 - 9
+2 8 - 9
 yosua 2 - 7
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 2 - 16
-2 raja 6 - 7
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 2 - 8
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
+2 8 - 9
+2 8 - 9
+1 2 - 16
+2 6 - 7
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 2 - 8
+2 8 - 9
+2 8 - 9
+2 8 - 9
 yos 1 - 8
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 8 - 9
-2 raja 4 - 6
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 8 - 9
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 4 - 6
+2 10 - 11
+2 10 - 11
+2 8 - 9
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
 hak 12 - hak 17
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 8 - 11
-2 raja 10 - 11
-2 raja 2 - 5
-2 raja 8 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 samuel 16 - 20
-2 raja 4 - 7
-2 raja 2 - 20
-2 raja 8 - 9
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 8 - 11
-2 raja 10 - 11
-2 raja 10 - 11
-2 raja 7 - 11
-2 raja 6 - 7
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 8 - 11
+2 10 - 11
+2 2 - 5
+2 8 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 16 - 20
+2 4 - 7
+1 2 - 20
+2 8 - 9
+2 10 - 11
+2 10 - 11
+2 10 - 11
+daniel 8 - 11
+2 10 - 11
+2 10 - 11
+2 7 - 11
+2 6 - 7
 hak 13 - 18
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 samuel 27 - 28
-2 raja 12 - 13
-2 samuel 1 - 24
-2 raja 12 - 13
-2 samuel 5 - 8
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 2 - 10
-2 raja 2 - 12
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 12 - 13
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 12 - 13
+1 27 - 28
+2 12 - 13
+2 1 - 24
+2 12 - 13
+1 5 - 8
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 2 - 10
+2 2 - 12
+2 12 - 13
+2 12 - 13
+2 12 - 13
 yos 17 - 24
 yosua 8 - 12
-2 raja 12 - 13
-2 raja 8 - 9
-2 raja 12 - 13
-2 raja 12 - 13
-2 samuel 27 - 31
-2 raja 12 - 13
-2 raja 12 - 13
-2 raja 10 - 11
-2 raja 8 - 9
+2 12 - 13
+2 8 - 9
+2 12 - 13
+2 12 - 13
+1 27 - 31
+2 12 - 13
+2 12 - 13
+2 10 - 11
+daniel 8 - 9
 hak 18 - rut 1
-2 raja 8 - 11
-2 raja 10 - 13
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
+2 8 - 11
+2 10 - 13
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 14 - 15
 1 raj
-2 raja 1 - 5
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 12 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 12 - 13
-2 raja 14 - 15
-2 raja 12 - 15
-2 raja 14 - 15
+2 1 - 5
+2 14 - 15
+2 14 - 15
+2 12 - 15
+2 14 - 15
+2 14 - 15
+2 12 - 13
+2 14 - 15
+2 12 - 15
+2 14 - 15
 hak 1 - 7
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 10 - 11
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 14 - 15
-2 raja 7 - 13
-2 samuel 9 - 12
-2 raja 16 - 17
-2 raja 16 - 17
+2 14 - 15
+2 14 - 15
+2 10 - 11
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 7 - 13
+1 9 - 12
+2 16 - 17
+2 16 - 17
 rut 1 - 2
-2 raja 16 - 17
-2 raja 16 - 17
+2 16 - 17
+2 16 - 17
 yosua 13 - 21
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 10 - 22
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 2 - 5
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 samuel 29 - 30
-2 raja 10 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 12 - 13
-2 raja 14 - 15
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 14 - 15
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 16 - 17
-2 raja 6 - 15
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 16 - 17
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 14 - 18
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 14 - 15
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 18 - 19
-2 raja 12 - 13
-2 samuel 1 - 2
-2 raja 14 - 15
-2 samuel 1 - 3
-2 raja 18 - 19
-2 raja 21 - 22
-2 raja 20 - 23
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 18 - 19
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 6 - 9
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 20 - 21
-2 raja 10 - 11
-2 raja 20 - 21
-2 raja 14 - 15
-2 raja 18 - 21
-2 raja 14 - 15
-2 raja 20 - 21
-2 samuel 3 - 4
-2 raja 20 - 21
-2 raja 22 - 23
-2 raja 12 - 15
-2 raja 22 - 23
-2 raja 16 - 17
-2 raja 18 - 19
-2 raja 20 - 21
-2 raja 22 - 23
-2 raja 22 - 23
-2 raja 22 - 23
-2 raja 22 - 23
-yosua 22 - 24
-2 raja 22 - 23
-2 raja 20 - 21
-2 raja 22 - 23
-2 raja 22 - 23
-2 raja 22 - 23
-2 samuel 9 - 13
-2 raja 22 - 23
-hak 8 - 14
-2 samuel 4 - 14
-2 raja 19 - 23
-2 raja 16 - 17
-2 raja 16 - 20
-2 raja 22 - 23
-2 raja 22 - 23
-2 samuel 2 - 31
-2 raja 16 - 17
-2 raja 18 - 23
-2 raja 18 - 21
-2 raja 10 - 23
-2 raja 22 - 23
-2 raja 20 - 23
-2 raja 18 - 19
-2 raja 22 - 23
-2 raja 18 - 19
-2 samuel 5 - 6
-2 raja 22 - 23
-yos 22 - 24
-2 samuel 14 - 18
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 1 - 11
-hak 15 - 21
-2 raja 18 - 19
-2 raja 24 - 25
-2 raja 22 - 23
-2 raja 24 - 25
-2 raja 20 - 21
-2 raja 22 - 23
-2 raja 24 - 25
-2 raja 3 - 12
-2 raja 20 - 21
-2 raja 24 - 25
-2 raja 18 - 25
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 22 - 23
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 24 - 25
-2 raja 20 - 21
-2 raja 24 - 25
-2 raja 24 - 25
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 raja 1 - 20
-2 tawarikh 1 - 2
-2 samuel 2 - 15
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-rut 1 - 4
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 raja 24 - 25
-2 tawarikh 1 - 2
-2 tawarikh 1 - 2
-2 raja 21 - 25
-2 raja 22 - 23
-2 samuel 19 - 23
-2 raja 19 - 22
-1 raja 2
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 tawarikh 1 - 2
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-hak 1 - 3
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 raja 13 - 19
-2 raja 1 - 18
-2 tawarikh 1 - 2
-2 tawarikh 3 - 4
-2 tawarikh 1 - 4
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 raja 18 - 25
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 tawarikh 3 - 4
-2 raja 23 - 25
-2 tawarikh 3 - 4
-2 samuel 24 - 28
-2 tawarikh 3 - 4
-2 tawarikh 5 - 6
-2 tawarikh 5 - 6
-2 raja 12 - 16
-2 tawarikh 5 - 6
-2 tawarikh 5 - 6
-2 tawarikh 5 - 6
-2 samuel 3 - 4
-2 tawarikh 5 - 6
-2 tawarikh 3 - 6
-2 tawarikh 5 - 6
-2 tawarikh 1 - 5
-hak 4 - 6
-2 tawarikh 5 - 6
-2 tawarikh 5 - 6
-2 raja 24 - 25
-2 tawarikh 5 - 6
-2 tawarikh 5 - 6
-2 tawarikh 5 - 6
-2 raja 24 - 25
-2 tawarikh 5 - 6
-2 tawarikh 3 - 6
-2 tawarikh 1 - 4
-2 tawarikh 5 - 6
-2 tawarikh 5 - 6
-2 tawarikh 5 - 6
-2 samuel 13 - 16
-2 tawarikh 7 - 8
-2 tawarikh 7 - 8
-2 tawarikh 7 - 8
-2 tawarikh 7 - 8
-hak 7 - 9
-2 tawarikh 1 - 2
-2 tawarikh 5 - 6
-2 tawarikh 3 - 4
-2 tawarikh 7 - 8
-2 tawarikh 5 - 6
-2 tawarikh 7 - 8
-2 tawarikh 7 - 8
-2 samuel 5 - 6
-2 tawarikh 5 - 8
-2 tawarikh 7 - 8
-bil 30
-2 tawarikh 7 - 8
-bil 31
-2 tawarikh 7 - 8
-2 tawarikh 1 - 7
-2 tawarikh 7 - 8
-2 tawarikh 7 - 8
-2 tawarikh 7 - 8
-2 samuel 1 - 7
-2 samuel 7 - 8
-2 tawarikh 7 - 8
-2 tawarikh 5 - 6
-2 tawarikh 1 - 2
-2 tawarikh 5 - 6
-2 samuel 2 - 29
-2 tawarikh 9 - 10
-2 tawarikh 9 - 10
-2 tawarikh 1 - 2
-2 tawarikh 9 - 10
-2 tawarikh 9 - 10
-2 tawarikh 9 - 10
-2 tawarikh 7 - 8
-2 tawarikh 7 - 8
-2 tawarikh 9 - 10
-2 tawarikh 9 - 10
-2 tawarikh 9 - 10
-2 tawarikh 5 - 10
-2 tawarikh 9 - 10
-2 tawarikh 9 - 10
-2 tawarikh 1 - 9
-2 tawarikh 9 - 10
-2 tawarikh 9 - 10
-2 tawarikh 9 - 10
-2 tawarikh 3 - 4
-2 tawarikh 7 - 10
-2 tawarikh 7 - 10
-2 samuel 7 - 8
-2 tawarikh 7 - 10
-2 samuel 3 - 8
-2 tawarikh 5 - 10
-2 raja - raja 3 - 10
-2 samuel 14 - 19
-2 tawarikh 3 - 4
-2 tawarikh 5 - 6
-hak 10 - 12
-2 tawarikh 7 - 8
-2 tawarikh 9 - 10
-2 raja 11 - 25
-2 tawarikh 5 - 6
-2 tawarikh 7 - 10
-2 tawarikh 7 - 8
-2 tawarikh 7 - 10
-2 samuel 9 - 13
-2 tawarikh 1 - 11
-2 tawarikh 1 - 4
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 9 - 10
-2 tawarikh 7 - 8
-2 tawarikh 9 - 10
-2 tawarikh 11 - 12
-2 samuel 17 - 20
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 9 - 12
-2 samuel 20 - 25
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 9 - 12
-2 tawarikh 1 - 2
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 9 - 10
-2 tawarikh 7 - 8
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 13 - 14
-2 tawarikh 5 - 6
-2 tawarikh 13 - 14
-2 tawarikh 5 - 6
-2 tawarikh 1 - 13
-2 samuel 14 - 20
-2 tawarikh 11 - 12
-2 tawarikh 13 - 14
-2 tawarikh 13 - 14
-2 samuel 9 - 10
-2 tawarikh 11 - 12
-2 raja 24 - 25
-2 tawarikh 13 - 14
-2 tawarikh 13 - 14
-2 tawarikh 11 - 14
-2 tawarikh 13 - 14
-2 samuel 11 - 12
-2 tawarikh 13 - 14
-2 samuel 26 - 31
-2 tawarikh 13 - 14
-2 tawarikh 13 - 14
-2 tawarikh 13 - 14
-2 tawarikh 13 - 14
-2 tawarikh 13 - 14
-2 tawarikh 9 - 10
-2 tawarikh 13 - 14
-2 tawarikh 13 - 14
-2 tawarikh 7 - 8
-2 tawarikh 15 - 16
-2 tawarikh 13 - 14
-2 tawarikh 11 - 14
-2 tawarikh 15 - 16
-2 tawarikh 7 - 10
-2 samuel 1 - 21
-2 tawarikh 15 - 16
-2 tawarikh 15 - 16
-2 samuel 13 - 14
-2 tawarikh 11 - 12
-2 tawarikh 11 - 12
-2 tawarikh 13 - 14
-2 tawarikh 15 - 16
-2 tawarikh 15 - 16
-2 tawarikh 15 - 16
-2 tawarikh 15 - 16
-2 tawarikh 11 - 12
-2 tawarikh 9 - 16
-2 tawarikh 15 - 16
-2 samuel 20 - 25
-2 raja 19 - 25
-2 samuel 1 - 7
-2 tawarikh 15 - 16
-2 tawarikh 15 - 16
-2 tawarikh 9 - 10
-2 raja 17 - 22
-2 tawarikh 15 - 16
-2 tawarikh 15 - 16
-2 tawarikh 1 - 15
-2 tawarikh 15 - 16
-2 tawarikh 15 - 16
-2 raja 9 - 12
-2 raja raja
-2 tawarikh 15 - 16
-2 tawarikh 13 - 14
-2 raja 2 - 6
-2 tawarikh 17 - 18
-2 tawarikh 17 - 18
-2 tawarikh 17 - 18
-2 samuel 15 - 16
-2 tawarikh 17 - 18
-2 tawarikh 17 - 18
-2 tawarikh 17 - 18
-2 tawarikh 17 - 18
-2 tawarikh 15 - 16
-2 tawarikh 13 - 18
-2 tawarikh 15 - 16
-2 tawarikh 11 - 18
-2 tawarikh 17 - 18
-2 tawarikh 17 - 18
-hak 13 - 17
-2 samuel 17 - 18
-2 tawarikh 17 - 18
-2 tawarikh 17 - 18
-2 raja - raja 1 - 11
-2 tawarikh 13 - 14
-2 tawarikh 1 - 17
-2 tawarikh 15 - 16
-2 tawarikh 15 - 18
-2 tawarikh 17 - 18
-2 tawarikh 17 - 18
-2 tawarikh 17 - 18
-2 tawarikh 11 - 12
-2 tawarikh 17 - 18
-2 tawarikh 19 - 20
-2 tawarikh 7 - 8
-2 tawarikh 17 - 18
-2 tawarikh 17 - 18
-2 tawarikh 13 - 14
-2 tawarikh 15 - 18
-2 raja 7 - 11
-2 samuel 19 - 20
-2 tawarikh 19 - 20
-2 tawarikh 19 - 20
-2 tawarikh 19 - 20
-2 tawarikh 15 - 16
-2 samuel 21 - 22
-2 tawarikh 19 - 20
-2 tawarikh 19 - 20
-2 tawarikh 19 - 20
-2 tawarikh 17 - 20
+2 16 - 17
+2 16 - 17
+2 16 - 17
+1 10 - 22
+2 16 - 17
+2 16 - 17
+2 16 - 17
+1 2 - 5
+2 16 - 17
+2 16 - 17
+2 16 - 17
+1 29 - 30
+2 10 - 17
+2 16 - 17
+2 16 - 17
+2 12 - 13
+2 14 - 15
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 16 - 17
+daniel 14 - 15
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 6 - 15
+2 18 - 19
+2 18 - 19
+2 16 - 17
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 14 - 18
+2 18 - 19
+2 18 - 19
+2 14 - 15
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 12 - 13
+2 1 - 2
+2 14 - 15
+1 1 - 3
+2 18 - 19
+2 21 - 22
+2 20 - 23
+2 20 - 21
+2 20 - 21
+2 18 - 19
+2 20 - 21
+2 20 - 21
+2 20 - 21
+1 6 - 9
+2 20 - 21
+2 20 - 21
+2 20 - 21
+2 20 - 21
+2 20 - 21
+1 10 - 11
+2 20 - 21
+2 14 - 15
 2 18 - 21
-2 tawarikh 19 - 20
-2 tawarikh 19 - 20
-2 tawarikh 19 - 20
-2 samuel 13 - 24
-2 tawarikh 19 - 20
-2 tawarikh 19 - 20
+2 14 - 15
+2 20 - 21
+2 3 - 4
+2 20 - 21
+2 22 - 23
+2 12 - 15
+2 22 - 23
+2 16 - 17
+2 18 - 19
+2 20 - 21
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+yosua 22 - 24
+2 22 - 23
+2 20 - 21
+2 22 - 23
+2 22 - 23
+2 22 - 23
+1 9 - 13
+2 22 - 23
+hak 8 - 14
+2 4 - 14
+2 19 - 23
+2 16 - 17
+2 16 - 20
+2 22 - 23
+2 22 - 23
+1 2 - 31
+2 16 - 17
+2 18 - 23
+2 18 - 21
+2 10 - 23
+2 22 - 23
+2 20 - 23
+2 18 - 19
+2 22 - 23
+2 18 - 19
+2 5 - 6
+2 22 - 23
+yos 22 - 24
+1 14 - 18
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 1 - 11
+hak 15 - 21
+2 18 - 19
+2 24 - 25
+2 22 - 23
+2 24 - 25
+2 20 - 21
+2 22 - 23
+2 24 - 25
+2 3 - 12
+2 20 - 21
+2 24 - 25
+2 18 - 25
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 22 - 23
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 20 - 21
+2 24 - 25
+2 24 - 25
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+2 1 - 20
+1 1 - 2
+2 2 - 15
+1 1 - 2
+1 1 - 2
+rut 1 - 4
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+2 24 - 25
+1 1 - 2
+1 1 - 2
+2 21 - 25
+2 22 - 23
+1 19 - 23
+2 19 - 22
+1 raja 2
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 1 - 2
+1 3 - 4
+1 3 - 4
+hak 1 - 3
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+2 13 - 19
+2 1 - 18
+1 1 - 2
+1 3 - 4
+1 1 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+2 18 - 25
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+2 23 - 25
+1 3 - 4
+1 24 - 28
+1 3 - 4
+1 5 - 6
+1 5 - 6
+1 12 - 16
+1 5 - 6
+1 5 - 6
+1 5 - 6
+2 3 - 4
+1 5 - 6
+1 3 - 6
+1 5 - 6
+1 1 - 5
+hak 4 - 6
+1 5 - 6
+1 5 - 6
+2 24 - 25
+1 5 - 6
+1 5 - 6
+1 5 - 6
+2 24 - 25
+1 5 - 6
+1 3 - 6
+1 1 - 4
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 13 - 16
+1 7 - 8
+1 7 - 8
+1 7 - 8
+1 7 - 8
+hak 7 - 9
+1 1 - 2
+1 5 - 6
+1 3 - 4
+1 7 - 8
+1 5 - 6
+1 7 - 8
+1 7 - 8
+2 5 - 6
+1 5 - 8
+1 7 - 8
+bil 30
+1 7 - 8
+bil 31
+1 7 - 8
+1 1 - 7
+1 7 - 8
+1 7 - 8
+1 7 - 8
+1 1 - 7
+2 7 - 8
+1 7 - 8
+1 5 - 6
+1 1 - 2
+1 5 - 6
+1 2 - 29
+1 9 - 10
+1 9 - 10
+1 1 - 2
+1 9 - 10
+1 9 - 10
+1 9 - 10
+1 7 - 8
+daniel 7 - 8
+1 9 - 10
+1 9 - 10
+1 9 - 10
+1 5 - 10
+1 9 - 10
+1 9 - 10
+1 1 - 9
+1 9 - 10
+1 9 - 10
+1 9 - 10
+1 3 - 4
+1 7 - 10
+1 7 - 10
+2 7 - 8
+1 7 - 10
+2 3 - 8
+1 5 - 10
+2 3 - 10
+1 14 - 19
+1 3 - 4
+1 5 - 6
+hak 10 - 12
+1 7 - 8
+1 9 - 10
+2 11 - 25
+1 5 - 6
+1 7 - 10
+daniel 7 - 8
+1 7 - 10
+2 9 - 13
+1 1 - 11
+1 1 - 4
+1 11 - 12
+1 11 - 12
+1 11 - 12
+1 11 - 12
+1 11 - 12
+1 9 - 10
+1 7 - 8
+1 9 - 10
+1 11 - 12
+2 17 - 20
+1 11 - 12
+1 11 - 12
+1 9 - 12
+1 20 - 25
+1 11 - 12
+1 11 - 12
+1 11 - 12
+1 9 - 12
+1 1 - 2
+1 11 - 12
+1 11 - 12
+daniel 9 - 10
+1 7 - 8
+1 11 - 12
+1 11 - 12
+1 11 - 12
+1 13 - 14
+1 5 - 6
+1 13 - 14
+1 5 - 6
+1 1 - 13
+2 14 - 20
+1 11 - 12
+1 13 - 14
+1 13 - 14
+2 9 - 10
+1 11 - 12
+2 24 - 25
+1 13 - 14
+1 13 - 14
+1 11 - 14
+1 13 - 14
+2 11 - 12
+1 13 - 14
+1 26 - 31
+1 13 - 14
+1 13 - 14
+1 13 - 14
+1 13 - 14
+1 13 - 14
+1 9 - 10
+1 13 - 14
+1 13 - 14
+1 7 - 8
+1 15 - 16
+1 13 - 14
+1 11 - 14
+1 15 - 16
+1 7 - 10
+2 1 - 21
+1 15 - 16
+1 15 - 16
+2 13 - 14
+1 11 - 12
+1 11 - 12
+1 13 - 14
+1 15 - 16
+1 15 - 16
+1 15 - 16
+1 15 - 16
+1 11 - 12
+1 9 - 16
+1 15 - 16
+1 20 - 25
+2 19 - 25
+2 1 - 7
+1 15 - 16
+1 15 - 16
+1 9 - 10
+1 17 - 22
+1 15 - 16
+1 15 - 16
+1 1 - 15
+1 15 - 16
+1 15 - 16
+2 9 - 12
+2 raja raja
+1 15 - 16
+1 13 - 14
+1 2 - 6
+1 17 - 18
+1 17 - 18
+1 17 - 18
+2 15 - 16
+1 17 - 18
+1 17 - 18
+1 17 - 18
+1 17 - 18
+1 15 - 16
+1 13 - 18
+1 15 - 16
+1 11 - 18
+1 17 - 18
+1 17 - 18
+hak 13 - 17
+2 17 - 18
+1 17 - 18
+1 17 - 18
+2 1 - 11
+1 13 - 14
+1 1 - 17
+1 15 - 16
+1 15 - 18
+1 17 - 18
+1 17 - 18
+1 17 - 18
+1 11 - 12
+1 17 - 18
+1 19 - 20
+1 7 - 8
+1 17 - 18
+1 17 - 18
+1 13 - 14
+1 15 - 18
+1 7 - 11
+2 19 - 20
+1 19 - 20
+1 19 - 20
+1 19 - 20
+1 15 - 16
+2 21 - 22
+1 19 - 20
+1 19 - 20
+1 19 - 20
+1 17 - 20
+hak 18 - 21
+1 19 - 20
+1 19 - 20
+1 19 - 20
+2 13 - 24
+1 19 - 20
+1 19 - 20
 2 raja 2
-2 samuel 23 - 24
-2 tawarikh 19 - 20
-2 tawarikh 19 - 20
-2 tawarikh 19 - 20
-2 tawarikh 1 - 19
-2 tawarikh 19 - 20
-2 tawarikh 19 - 20
-2 tawarikh 13 - 14
-2 tawarikh 19 - 20
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 raja 1 - 2
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 raja 1 - 4
-2 tawarikh 13 - 14
-2 tawarikh 21 - 22
-2 tawarikh 19 - 22
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 tawarikh 17 - 18
-2 tawarikh 19 - 20
-2 tawarikh 21 - 22
-2 tawarikh 11 - 15
-2 tawarikh 19 - 22
+2 23 - 24
+1 19 - 20
+1 19 - 20
+1 19 - 20
+1 1 - 19
+1 19 - 20
+1 19 - 20
+1 13 - 14
+1 19 - 20
+1 21 - 22
+1 21 - 22
+1 21 - 22
+1 21 - 22
+1 21 - 22
+1 21 - 22
+1 21 - 22
+1 1 - 2
+1 21 - 22
+1 21 - 22
+1 21 - 22
+1 21 - 22
+2 1 - 4
+1 13 - 14
+1 21 - 22
+1 19 - 22
+1 21 - 22
+1 21 - 22
+1 17 - 18
+1 19 - 20
+1 21 - 22
+1 11 - 15
+1 19 - 22
 2 2 raja - raja maksudnya bu
-2 raja 3 - 6
-2 tawarikh 17 - 18
-2 tawarikh 19 - 20
-2 tawarikh 15 - 16
-2 tawarikh 1 - 15
-2 samuel 1 - 1
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 tawarikh 21 - 22
-2 samuel 26 - 29
-2 tawarikh 15 - 18
-2 tawarikh 1 - 10
-2 tawarikh 16 - 17
-2 tawarikh 21 - 22
-2 raja 7 - 10
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
+1 3 - 6
+1 17 - 18
+1 19 - 20
+1 15 - 16
+1 1 - 15
+2 1 - 1
+1 21 - 22
+1 21 - 22
+1 21 - 22
+1 21 - 22
+1 26 - 29
+1 15 - 18
+1 1 - 10
+1 16 - 17
+1 21 - 22
+1 7 - 10
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
 rut 1 - 1
-2 tawarikh 19 - 24
-2 tawarikh 23 - 24
-2 raja 11 - 12
-2 tawarikh 23 - 24
-2 tawarikh 17 - 24
-2 tawarikh 23 - 24
-2 tawarikh 1 - 21
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 19 - 24
-2 tawarikh 19 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 23 - 24
-2 tawarikh 25 - 26
-2 tawarikh 15 - 18
-2 raja 12 - 16
-2 tawarikh 27 - 28
-2 raja 13 - 14
-2 tawarikh 25 - 26
-2 tawarikh 25 - 26
-2 tawarikh 25 - 26
-2 tawarikh 25 - 26
-2 tawarikh 25 - 26
-2 tawarikh 25 - 26
-2 tawarikh 25 - 26
-2 tawarikh 23 - 24
-2 tawarikh 1 - 15
-2 tawarikh 25 - 26
-2 tawarikh 25 - 26
-2 tawarikh 25 - 26
-2 tawarikh 23 - 24
-2 tawarikh 18 - 22
-2 tawarikh 25 - 26
-2 tawarikh 25 - 26
-2 tawarikh 25 - 26
-2 raja 15 - 18
-2 tawarikh 23 - 24
-2 tawarikh 19 - 20
-2 tawarikh 27 - 28
-2 tawarikh 25 - 26
-2 samuel 29 - 31
-2 samuel 1 - 3
-2 tawarikh 27 - 28
-2 tawarikh 25 - 28
-2 tawarikh 25 - 28
-2 tawarikh 27 - 28
-2 raja 5 - 6
-2 tawarikh 25 - 26
-2 tawarikh 21 - 22
-2 tawarikh 27 - 28
-2 tawarikh 23 - 28
-2 raja 19 - 20
-2 tawarikh 1 - 25
-2 tawarikh 25 - 26
-2 tawarikh 27 - 28
-2 tawarikh 25 - 28
-2 tawarikh 27 - 28
-2 tawarikh 27 - 28
-2 tawarikh 15 - 28
-2 tawarikh 25 - 28
-2 raja 5 - 16
-2 tawarikh 27 - 28
-2 tawarikh 27 - 28
-2 tawarikh 27 - 28
-2 tawarikh 27 - 28
-2 tawarikh 25 - 28
-2 tawarikh 23 - 26
-2 tawarikh 25 - 27
-2 tawarikh 15 - 20
-2 tawarikh 19 - 22
-2 tawarikh 23 - 24
-2 tawarikh 27 - 28
-2 tawarikh 2 - 29
-2 raja 7 - 10
-2 tawarikh 2 - 29
-2 tawarikh 2 - 29
-2 tawarikh 2 - 29
-2 tawarikh 2 - 29
-2 raja 21 - 22
-2 tawarikh 27 - 28
-2 tawarikh 2 - 27
-2 samuel 2 - 8
-2 tawarikh 27 - 28
-2 tawarikh 2 - 29
-2 tawarikh 2 - 29
-2 tawarikh 2 - 29
-2 tawarikh 2 - 29
-2 tawarikh 2 - 29
+1 19 - 24
+1 23 - 24
+1 11 - 12
+1 23 - 24
+1 17 - 24
+1 23 - 24
+1 1 - 21
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 19 - 24
+daniel 19 - 24
+1 23 - 24
+1 23 - 24
+1 23 - 24
+1 25 - 26
+1 15 - 18
+1 12 - 16
+1 27 - 28
+1 13 - 14
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 23 - 24
+1 1 - 15
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 23 - 24
+1 18 - 22
+1 25 - 26
+1 25 - 26
+1 25 - 26
+1 15 - 18
+1 23 - 24
+1 19 - 20
+1 27 - 28
+1 25 - 26
+1 29 - 31
+2 1 - 3
+1 27 - 28
+1 25 - 28
+1 25 - 28
+1 27 - 28
+2 5 - 6
+1 25 - 26
+1 21 - 22
+1 27 - 28
+1 23 - 28
+1 19 - 20
+1 1 - 25
+1 25 - 26
+1 27 - 28
+1 25 - 28
+1 27 - 28
+1 27 - 28
+1 15 - 28
+1 25 - 28
+1 5 - 16
+1 27 - 28
+1 27 - 28
+1 27 - 28
+1 27 - 28
+1 25 - 28
+1 23 - 26
+1 25 - 27
+1 15 - 20
+1 19 - 22
+1 23 - 24
+1 27 - 28
+1 2 - 29
+2 7 - 10
+1 2 - 29
+1 2 - 29
+1 2 - 29
+1 2 - 29
+1 21 - 22
+1 27 - 28
+1 2 - 27
+1 2 - 8
+1 27 - 28
+1 2 - 29
+1 2 - 29
+1 2 - 29
+1 2 - 29
+1 2 - 29
 1 taw 29 dan 2 taw 1
-2 tawarikh 2 - 29
-2 tawarikh 2 - 29
-2 tawarikh 2 - 29
-2 raja 17 - 22
-2 tawarikh 2 - 29
-2 tawarikh 2 - 29
-2 tawarikh 15 - 25
-2 tawarikh 23 - 24
-2 tawarikh 2 - 29
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
-2 samuel 4 - 7
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
+1 2 - 29
+1 2 - 29
+1 2 - 29
+1 17 - 22
+1 2 - 29
+1 2 - 29
+1 15 - 25
+1 23 - 24
+1 2 - 29
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 4 - 7
+2 2 - 3
+2 2 - 3
 1 taw 29
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
-2 tawarikh 2 - 29
-2 tawarikh 2 - 3
-2 raja 11 - 14
-2 tawarikh 2 - 29
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
-2 tawarikh 1 - 29
-2 raja 1 - 7
-2 samuel 8 - 12
-2 tawarikh 2 - 3
-2 raja 1 - 2
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
-2 tawarikh 2 - 3
-2 raja 3 - 6
-2 raja 1 - 4
-2 tawarikh 4 - 5
-2 tawarikh 2 - 3
-2 samuel 13 - 17
-2 tawarikh 2 - 3
-2 tawarikh 4 - 5
-2 tawarikh 4 - 5
-2 tawarikh 4 - 5
-2 tawarikh 4 - 5
-2 tawarikh 19 - 20
-2 tawarikh 2 - 29
-2 tawarikh 2 - 3
-2 tawarikh 2 - 29
-2 tawarikh 4 - 6
-2 tawarikh 4 - 5
-2 tawarikh 4 - 6
-2 tawarikh 4 - 5
-2 tawarikh 4 - 6
-2 tawarikh 4 - 6
-2 raja 7 - 10
-2 tawarikh 25 - 29
-2 tawarikh 11 - 20
-2 tawarikh 4 - 6
-2 tawarikh 4 - 6
-2 tawarikh 4 - 6
-2 tawarikh 27 - 29
-2 raja 5 - 8
-2 raja 17 - 21
-2 tawarikh 19 - 24
-2 tawarikh 4 - 6
-2 tawarikh 25 - 26
-2 tawarikh 4 - 5
-2 raja 7 - 14
-2 samuel 18 - 24
-2 tawarikh 1 - 4
-2 raja 11 - 16
-2 raja 9 - 10
-2 tawarikh 4 - 5
-2 raja 1 - 3
-2 tawarikh 1 - 12
-2 tawarikh 2 - 28
-2 tawarikh 6 - 7
-2 tawarikh 4 - 5
-2 raja 4 - 7
-2 tawarikh 6 - 7
-2 tawarikh 6 - 7
-2 tawarikh 4 - 5
-2 tawarikh 6 - 7
-2 tawarikh 6 - 7
-2 tawarikh 3 - 7
-2 tawarikh 6 - 7
-2 raja 11 - 16
-2 samuel 9 - 12
-2 tawarikh 6 - 7
-2 tawarikh 2 - 3
-2 tawarikh 4 - 7
-2 raja 8 - 11
-2 tawarikh 6 - 7
-2 tawarikh 4 - 6
-2 tawarikh 6 - 7
-2 raja 17 - 18
-2 tawarikh 6 - 7
-2 tawarikh 6 - 7
-2 tawarikh 6 - 7
-2 tawarikh 6 - 7
-2 tawarikh 6 - 7
-2 tawarikh 2 - 25
-2 tawarikh 1 - 4
-2 tawarikh 3 - 6
-2 tawarikh 6 - 7
-2 tawarikh 6 - 7
-2 raja 15 - 19
-2 tawarikh 21 - 26
-2 tawarikh 8 - 9
-2 tawarikh 8 - 9
-2 tawarikh 8 - 9
-2 tawarikh 8 - 9
-2 raja 12 - 16
-2 raja 19 - 22
-2 raja 17 - 19
-2 tawarikh 4 - 5
-2 tawarikh 8 - 9
-2 tawarikh 8 - 9
-2 tawarikh 8 - 9
+2 2 - 3
+2 2 - 3
+1 2 - 29
+2 2 - 3
+2 11 - 14
+1 2 - 29
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 2 - 3
+1 1 - 29
+2 1 - 7
+2 8 - 12
+2 2 - 3
+2 1 - 2
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 3 - 6
+1 1 - 4
+2 4 - 5
+2 2 - 3
+2 13 - 17
+2 2 - 3
+2 4 - 5
+2 4 - 5
+2 4 - 5
+2 4 - 5
+1 19 - 20
+1 2 - 29
+2 2 - 3
+1 2 - 29
+2 4 - 6
+2 4 - 5
+2 4 - 6
+2 4 - 5
+2 4 - 6
+2 4 - 6
+2 7 - 10
+1 25 - 29
+1 11 - 20
+2 4 - 6
+2 4 - 6
+2 4 - 6
+1 27 - 29
+1 5 - 8
+1 17 - 21
+1 19 - 24
+2 4 - 6
+1 25 - 26
+2 4 - 5
+2 7 - 14
+2 18 - 24
+2 1 - 4
+2 11 - 16
+1 9 - 10
+2 4 - 5
+1 1 - 3
+1 1 - 12
+1 2 - 28
+2 6 - 7
+2 4 - 5
+1 4 - 7
+2 6 - 7
+2 6 - 7
+2 4 - 5
+2 6 - 7
+2 6 - 7
+2 3 - 7
+2 6 - 7
+2 11 - 16
+1 9 - 12
+2 6 - 7
+2 2 - 3
+2 4 - 7
+2 8 - 11
+2 6 - 7
+2 4 - 6
+2 6 - 7
+2 17 - 18
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+1 2 - 25
+2 1 - 4
+2 3 - 6
+2 6 - 7
+2 6 - 7
+2 15 - 19
+1 21 - 26
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+1 12 - 16
+2 19 - 22
+1 17 - 19
+2 4 - 5
+2 8 - 9
+2 8 - 9
+2 8 - 9
 1 taw
-2 tawarikh 8 - 9
-2 tawarikh 8 - 9
-2 tawarikh 8 - 9
-2 raja 23 - 24
-2 tawarikh 6 - 9
-2 tawarikh 4 - 5
-2 tawarikh 6 - 7
-2 tawarikh 8 - 9
-2 tawarikh 2 - 27
-2 tawarikh 8 - 9
-2 raja 19 - 25
-2 tawarikh 8 - 9
-2 tawarikh 8 - 9
-2 tawarikh 6 - 7
-2 tawarikh 8 - 9
-2 raja 1 - 25
-2 tawarikh 6 - 7
-2 tawarikh 8 - 9
-2 raja 20 - 22
-2 tawarikh 8 - 9
-2 tawarikh 5 - 9
-2 tawarikh 8 - 9
-2 tawarikh 7 - 8
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 raja 2 - 6
-2 tawarikh 6 - 11
-2 tawarikh 8 - 9
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 tawarikh 5 - 8
-2 tawarikh 10 - 11
-2 tawarikh 8 - 11
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 raja 7 - 9
-2 tawarikh 10 - 11
-2 tawarikh 1 - 7
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 raja 10 - 13
-2 tawarikh 10 - 11
-2 tawarikh 10 - 11
-2 tawarikh 9 - 12
-2 tawarikh 2 - 25
-2 tawarikh 4 - 7
-2 tawarikh 8 - 9
-2 tawarikh 8 - 11
-2 tawarikh 5 - 8
-2 tawarikh 2 - 25
-2 tawarikh 10 - 11
-2 tawarikh 12 - 13
-2 tawarikh 12 - 13
-2 tawarikh 13 - 16
-2 tawarikh 12 - 13
-2 tawarikh 12 - 13
-2 tawarikh 12 - 13
-2 tawarikh 12 - 13
-2 tawarikh 8 - 9
-2 tawarikh 12 - 13
-2 raja 14 - 17
-2 tawarikh 12 - 13
-2 tawarikh 12 - 13
-2 raja 2 - 16
-2 tawarikh 12 - 13
-2 tawarikh 17 - 20
-2 raja 2 - 4
-2 tawarikh 12 - 13
-2 raja 5 - 10
-2 tawarikh 10 - 11
-2 tawarikh 7 - 14
-2 tawarikh 12 - 13
-2 tawarikh 12 - 13
-2 tawarikh 2 - 2
-2 tawarikh 21 - 29
-2 raja 17 - 18
-2 tawarikh 12 - 13
-2 samuel 21 - 22
-2 tawarikh 12 - 13
-2 samuel 21 - 22
-2 tawarikh 12 - 13
-2 tawarikh 14 - 15
-2 tawarikh 10 - 11
-2 raja 2 - 21
-2 raja 19 - 24
-2 tawarikh 14 - 15
-2 tawarikh 14 - 15
-2 tawarikh 12 - 13
-2 raja 18 - 21
-2 tawarikh 10 - 15
-2 tawarikh 12 - 13
-2 tawarikh 12 - 15
-2 tawarikh 14 - 15
-2 tawarikh 14 - 15
-2 tawarikh 2 - 14
-2 tawarikh 21 - 22
-2 tawarikh 14 - 15
-2 tawarikh 14 - 15
-2 tawarikh 14 - 15
-2 tawarikh 12 - 15
-2 tawarikh 14 - 15
-2 raja 11 - 16
-2 tawarikh 14 - 15
-2 tawarikh 14 - 15
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 23 - 24
+2 6 - 9
+2 4 - 5
+2 6 - 7
+2 8 - 9
+1 2 - 27
+2 8 - 9
+2 19 - 25
+2 8 - 9
+2 8 - 9
+2 6 - 7
+2 8 - 9
+2 1 - 25
+2 6 - 7
+2 8 - 9
+1 20 - 22
+2 8 - 9
+2 5 - 9
+2 8 - 9
+2 7 - 8
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 2 - 6
+2 6 - 11
+2 8 - 9
+2 10 - 11
+2 10 - 11
+1 5 - 8
+2 10 - 11
+2 8 - 11
+2 10 - 11
+2 10 - 11
+2 7 - 9
+2 10 - 11
+1 1 - 7
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 11
+2 10 - 13
+2 10 - 11
+2 10 - 11
+1 9 - 12
+1 2 - 25
+2 4 - 7
+2 8 - 9
+2 8 - 11
+2 5 - 8
+1 2 - 25
+2 10 - 11
+2 12 - 13
+2 12 - 13
+1 13 - 16
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 8 - 9
+2 12 - 13
+2 14 - 17
+2 12 - 13
+2 12 - 13
+1 2 - 16
+2 12 - 13
+1 17 - 20
+2 2 - 4
+2 12 - 13
+2 5 - 10
+2 10 - 11
+1 7 - 14
+2 12 - 13
+2 12 - 13
+2 2 - 2
+1 21 - 29
+2 17 - 18
+2 12 - 13
+1 21 - 22
+2 12 - 13
+2 21 - 22
+2 12 - 13
+2 14 - 15
+2 10 - 11
+1 2 - 21
+2 19 - 24
+2 14 - 15
+2 14 - 15
+2 12 - 13
+2 18 - 21
+2 10 - 15
+2 12 - 13
+2 12 - 15
+2 14 - 15
+2 14 - 15
+2 2 - 14
+1 21 - 22
+2 14 - 15
+2 14 - 15
+2 14 - 15
+2 12 - 15
+2 14 - 15
+2 11 - 16
+2 14 - 15
+2 14 - 15
 2 raja 25
-2 tawarikh 21 - 29
-2 tawarikh 14 - 15
-2 tawarikh 9 - 10
-2 tawarikh 11 - 12
-2 tawarikh 12 - 13
-2 raja 8 - 12
-2 tawarikh 16 - 17
-2 tawarikh 6 - 10
-2 tawarikh 23 - 24
-2 tawarikh 16 - 17
-2 tawarikh 14 - 15
-2 tawarikh 16 - 17
-2 tawarikh 16 - 17
-2 tawarikh 16 - 17
-2 tawarikh 16 - 17
-2 tawarikh 14 - 17
-2 tawarikh 16 - 17
-2 tawarikh 16 - 17
-2 tawarikh 15 - 18
-2 tawarikh 16 - 17
-2 tawarikh 14 - 15
-2 tawarikh 12 - 13
-2 tawarikh 14 - 15
-2 tawarikh 16 - 17
-2 tawarikh 15 - 18
-2 raja 22 - 25
-2 tawarikh 2 - 29
-2 tawarikh 16 - 17
-2 tawarikh 16 - 17
-2 tawarikh 16 - 17
-2 tawarikh 11 - 13
-2 tawarikh 12 - 15
-2 raja 3 - 4
-2 samuel 29 - 30
-2 tawarikh 16 - 17
-2 tawarikh 16 - 17
-2 tawarikh 16 - 17
-2 tawarikh 6 - 15
-2 tawarikh 1 - 2
+1 21 - 29
+2 14 - 15
+2 9 - 10
+2 11 - 12
+2 12 - 13
+2 8 - 12
+2 16 - 17
+1 6 - 10
+1 23 - 24
+2 16 - 17
+2 14 - 15
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 14 - 17
+2 16 - 17
+2 16 - 17
+2 15 - 18
+2 16 - 17
+2 14 - 15
+2 12 - 13
+2 14 - 15
+2 16 - 17
+1 15 - 18
+2 22 - 25
+1 2 - 29
+2 16 - 17
+2 16 - 17
+2 16 - 17
+1 11 - 13
+2 12 - 15
+1 3 - 4
+1 29 - 30
+2 16 - 17
+2 16 - 17
+2 16 - 17
+2 6 - 15
+1 1 - 2
 1 tawarikh
-2 tawarikh 25 - 28
-2 tawarikh 3 - 4
-2 tawarikh 2 - 3
-2 tawarikh 16 - 17
-2 tawarikh 8 - 15
-2 tawarikh 12 - 17
-2 tawarikh 2 - 29
-2 raja 9 - 10
-2 tawarikh 2 - 6
-2 raja 17 - 20
-2 tawarikh 16 - 17
-2 raja 13 - 17
-2 tawarikh 11 - 15
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 5 - 8
-2 tawarikh 16 - 17
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 15 - 17
-2 tawarikh 18 - 19
-2 tawarikh 16 - 19
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 16 - 20
-2 tawarikh 21 - 22
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 1 - 10
-2 tawarikh 18 - 26
-2 tawarikh 18 - 19
-2 tawarikh 18 - 19
-2 tawarikh 13 - 16
-2 tawarikh 18 - 19
-2 tawarikh 14 - 17
-2 tawarikh 6 - 17
-2 tawarikh 20 - 21
-2 tawarikh 7 - 10
-2 tawarikh 4 - 6
-2 tawarikh 20 - 21
-2 tawarikh 23 - 29
-2 tawarikh 9 - 10
-2 tawarikh 20 - 21
-2 tawarikh 18 - 21
-2 tawarikh 20 - 21
-2 tawarikh 20 - 21
-2 tawarikh 18 - 19
-2 tawarikh 20 - 21
-2 tawarikh 14 - 15
-2 tawarikh 16 - 17
-2 tawarikh 18 - 19
-2 tawarikh 20 - 21
-2 tawarikh 20 - 21
-2 tawarikh 20 - 21
-2 tawarikh 18 - 19
-2 tawarikh 11 - 12
-2 tawarikh 20 - 21
-2 tawarikh 20 - 21
-2 tawarikh 27 - 29
-2 tawarikh 20 - 21
-2 tawarikh 7 - 8
-2 tawarikh 20 - 21
-2 tawarikh 20 - 21
-2 tawarikh 20 - 21
-2 raja 12 - 13
-2 samuel 6 - 7
+1 25 - 28
+1 3 - 4
+2 2 - 3
+2 16 - 17
+2 8 - 15
+2 12 - 17
+1 2 - 29
+1 9 - 10
+2 2 - 6
+2 17 - 20
+2 16 - 17
+2 13 - 17
+1 11 - 15
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+1 5 - 8
+2 16 - 17
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 15 - 17
+2 18 - 19
+2 16 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+1 16 - 20
+1 21 - 22
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 18 - 19
+2 1 - 10
+1 18 - 26
+2 18 - 19
+2 18 - 19
+2 13 - 16
+2 18 - 19
+2 14 - 17
+2 6 - 17
+2 20 - 21
+2 7 - 10
+2 4 - 6
+2 20 - 21
+1 23 - 29
+1 9 - 10
+2 20 - 21
+2 18 - 21
+2 20 - 21
+2 20 - 21
+2 18 - 19
+2 20 - 21
+2 14 - 15
+2 16 - 17
+2 18 - 19
+2 20 - 21
+2 20 - 21
+2 20 - 21
+2 18 - 19
+1 11 - 12
+2 20 - 21
+2 20 - 21
+1 27 - 29
+2 20 - 21
+2 7 - 8
+2 20 - 21
+2 20 - 21
+2 20 - 21
+1 12 - 13
+2 6 - 7
 2 sam - 1 taw 1
-2 tawarikh 20 - 21
-2 tawarikh 20 - 21
-2 tawarikh 18 - 19
-2 tawarikh 20 - 21
-2 tawarikh 17 - 19
-2 tawarikh 20 - 21
-2 raja 18 - 22
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 20 - 21
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 13 - 16
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 18 - 19
-2 tawarikh 22 - 23
-2 tawarikh 20 - 23
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 16 - 23
-2 tawarikh 22 - 23
-2 raja 21 - 22
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 22 - 23
-2 tawarikh 20 - 22
-2 tawarikh 24 - 25
-2 tawarikh 17 - 18
-2 tawarikh 24 - 25
-2 tawarikh 24 - 25
-2 tawarikh 24 - 25
-2 tawarikh 24 - 25
-2 tawarikh 9 - 12
-2 samuel 14 - 15
-2 tawarikh 24 - 25
-2 tawarikh 24 - 25
-2 tawarikh 20 - 21
-2 tawarikh 24 - 24
-2 tawarikh 22 - 23
-2 tawarikh 24 - 25
-2 tawarikh 22 - 23
-2 tawarikh 24 - 25
-2 tawarikh 20 - 25
-2 tawarikh 24 - 25
-2 tawarikh 1 - 6
-2 tawarikh 19 - 22
-2 tawarikh 24 - 25
-2 tawarikh 24 - 25
-2 tawarikh 24 - 25
-2 tawarikh 22 - 23
-2 tawarikh 24 - 25
-2 tawarikh 24 - 25
-2 tawarikh 20 - 23
-2 raja 3 - 4
-2 tawarikh 23 - 24
-2 tawarikh 24 - 25
-2 tawarikh 24 - 25
-2 raja 1 - 23
-2 tawarikh 13 - 16
-2 tawarikh 26 - 27
-2 tawarikh 25 - 28
-2 tawarikh 26 - 27
-2 tawarikh 26 - 27
-2 tawarikh 26 - 27
-2 tawarikh 26 - 27
-2 tawarikh 24 - 25
-2 tawarikh 10 - 11
-2 tawarikh 26 - 27
-2 tawarikh 26 - 27
-2 tawarikh 2 - 28
-2 tawarikh 26 - 27
-2 tawarikh 26 - 27
-2 tawarikh 1 - 8
-2 tawarikh 26 - 27
-2 tawarikh 11 - 22
-2 tawarikh 26 - 27
-2 tawarikh 26 - 27
-2 tawarikh 26 - 27
-2 tawarikh 26 - 27
-2 tawarikh 24 - 27
+2 20 - 21
+2 20 - 21
+2 18 - 19
+2 20 - 21
+2 17 - 19
+2 20 - 21
+2 18 - 22
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 20 - 21
+2 22 - 23
+2 22 - 23
+2 22 - 23
+1 13 - 16
+2 22 - 23
+2 22 - 23
+2 22 - 23
+daniel 18 - 19
+2 22 - 23
+2 20 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 16 - 23
+2 22 - 23
+1 21 - 22
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 22 - 23
+2 20 - 22
+2 24 - 25
+1 17 - 18
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 9 - 12
+2 14 - 15
+2 24 - 25
+2 24 - 25
+2 20 - 21
+2 24 - 24
+2 22 - 23
+2 24 - 25
+2 22 - 23
+2 24 - 25
+2 20 - 25
+2 24 - 25
+2 1 - 6
+1 19 - 22
+2 24 - 25
+2 24 - 25
+2 24 - 25
+2 22 - 23
+2 24 - 25
+2 24 - 25
+2 20 - 23
+2 3 - 4
+1 23 - 24
+2 24 - 25
+2 24 - 25
+2 1 - 23
+2 13 - 16
+2 26 - 27
+1 25 - 28
+2 26 - 27
+2 26 - 27
+2 26 - 27
+2 26 - 27
+2 24 - 25
+2 10 - 11
+2 26 - 27
+2 26 - 27
+1 2 - 28
+2 26 - 27
+2 26 - 27
+2 1 - 8
+2 26 - 27
+2 11 - 22
+2 26 - 27
+2 26 - 27
+2 26 - 27
+2 26 - 27
+2 24 - 27
 1 taw 29
-2 tawarikh 26 - 27
-2 tawarikh 28 - 29
-2 tawarikh 28 - 29
-2 tawarikh 26 - 27
-2 tawarikh 26 - 27
-2 tawarikh 7 - 10
-2 tawarikh 8 - 12
-2 tawarikh 24 - 25
-2 tawarikh 26 - 27
-2 tawarikh 17 - 20
-2 tawarikh 2 - 4
-2 tawarikh 26 - 27
-2 tawarikh 23 - 24
-2 tawarikh 2 - 12
-2 tawarikh 28 - 29
-2 tawarikh 28 - 29
-2 tawarikh 28 - 29
-2 tawarikh 28 - 29
-2 tawarikh 28 - 29
-2 tawarikh 28 - 29
-2 tawarikh 11 - 16
-2 tawarikh 28 - 29
-2 tawarikh 28 - 29
-2 tawarikh 13 - 16
-2 tawarikh 2 - 5
-2 tawarikh 16 - 21
-2 tawarikh 28 - 29
-2 tawarikh 22 - 27
-2 tawarikh 28 - 29
-2 tawarikh 28 - 29
-2 tawarikh 17 - 26
-2 tawarikh 28 - 29
-2 tawarikh 28 - 29
-2 samuel 22 - 23
-2 tawarikh 28 - 29
-2 tawarikh 24 - 29
-2 tawarikh 17 - 20
-2 tawarikh 3 - 7
-2 tawarikh 28 - 29
-2 tawarikh 24 - 25
-2 tawarikh 26 - 27
-2 tawarikh 28 - 29
-2 tawarikh 28 - 29
-2 tawarikh 24 - 29
-2 tawarikh 17 - 20
-2 tawarikh 21 - 24
-2 tawarikh 26 - 29
-2 raja 6 - 7
-2 tawarikh 5 - 14
-2 tawarikh 28 - 29
-2 tawarikh 6 - 9
-2 tawarikh 10 - 14
-2 tawarikh 15 - 16
-2 tawarikh 8 - 12
-2 tawarikh 21 - 24
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 10 - 11
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 11 - 20
-2 tawarikh 26 - 27
-2 tawarikh 17 - 22
-2 tawarikh 30 - 31
-2 raja 7 - 8
-2 raja 14 - 15
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 25 - 28
-2 tawarikh 28 - 31
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 30 - 31
-2 tawarikh 12 - 13
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 13 - 17
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 14 - 17
-2 tawarikh 32 - 33
-2 tawarikh 16 - 17
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 32 - 33
-2 tawarikh 28 - 29
-2 tawarikh 18 - 19
-2 tawarikh 34 - 35
-2 tawarikh 30 - 35
-2 tawarikh 34 - 35
-2 tawarikh 34 - 35
-2 tawarikh 34 - 35
-2 tawarikh 28 - 31
-2 tawarikh 20 - 21
-2 tawarikh 30 - 35
-2 tawarikh 34 - 35
-2 tawarikh 28 - 35
-2 tawarikh 34 - 35
-2 tawarikh 32 - 35
-2 tawarikh 20 - 28
-2 tawarikh 34 - 35
-2 tawarikh 34 - 35
-2 tawarikh 34 - 35
-2 raja 17 - 18
-2 tawarikh 34 - 35
-2 tawarikh 34 - 35
-2 tawarikh 34 - 35
-2 tawarikh 30 - 31
-2 tawarikh 26 - 27
-2 tawarikh 34 - 35
-2 tawarikh 32 - 35
-2 tawarikh 25 - 28
-2 tawarikh 26 - 35
-2 tawarikh 29 - 30
-2 tawarikh 24 - 25
-2 tawarikh 32 - 35
-2 tawarikh 32 - 35
-2 tawarikh 25 - 30
-2 tawarikh 32 - 35
+2 26 - 27
+2 28 - 29
+2 28 - 29
+2 26 - 27
+2 26 - 27
+2 7 - 10
+2 8 - 12
+2 24 - 25
+2 26 - 27
+2 17 - 20
+1 2 - 4
+2 26 - 27
+2 23 - 24
+1 2 - 12
+2 28 - 29
+2 28 - 29
+2 28 - 29
+2 28 - 29
+2 28 - 29
+2 28 - 29
+2 11 - 16
+2 28 - 29
+2 28 - 29
+2 13 - 16
+bil 2 - 5
+2 16 - 21
+2 28 - 29
+2 22 - 27
+2 28 - 29
+2 28 - 29
+2 17 - 26
+2 28 - 29
+2 28 - 29
+2 22 - 23
+2 28 - 29
+2 24 - 29
+2 17 - 20
+1 3 - 7
+2 28 - 29
+2 24 - 25
+2 26 - 27
+2 28 - 29
+2 28 - 29
+2 24 - 29
+2 17 - 20
+2 21 - 24
+2 26 - 29
+1 6 - 7
+1 5 - 14
+2 28 - 29
+2 6 - 9
+2 10 - 14
+2 15 - 16
+1 8 - 12
+2 21 - 24
+2 30 - 31
+2 30 - 31
+2 10 - 11
+2 30 - 31
+2 30 - 31
+2 30 - 31
+2 30 - 31
+2 30 - 31
+2 30 - 31
+2 30 - 31
+2 30 - 31
+2 30 - 31
+2 30 - 31
+2 11 - 20
+2 26 - 27
+2 17 - 22
+2 30 - 31
+2 7 - 8
+1 14 - 15
+2 30 - 31
+2 30 - 31
+2 25 - 28
+2 28 - 31
+2 30 - 31
+2 30 - 31
+2 30 - 31
+2 12 - 13
+2 32 - 33
+2 32 - 33
+1 13 - 17
+2 32 - 33
+2 32 - 33
+2 32 - 33
+2 32 - 33
+2 32 - 33
+2 32 - 33
+2 14 - 17
+2 32 - 33
+2 16 - 17
+2 32 - 33
+2 32 - 33
+2 32 - 33
+2 32 - 33
+2 32 - 33
+2 32 - 33
+2 28 - 29
+2 18 - 19
+2 34 - 35
+2 30 - 35
+2 34 - 35
+2 34 - 35
+2 34 - 35
+2 28 - 31
+2 20 - 21
+2 30 - 35
+2 34 - 35
+2 28 - 35
+2 34 - 35
+2 32 - 35
+2 20 - 28
+2 34 - 35
+2 34 - 35
+2 34 - 35
+2 17 - 18
+2 34 - 35
+2 34 - 35
+2 34 - 35
+2 30 - 31
+2 26 - 27
+2 34 - 35
+2 32 - 35
+2 25 - 28
+2 26 - 35
+2 29 - 30
+2 24 - 25
+2 32 - 35
+2 32 - 35
+2 25 - 30
+2 32 - 35
 2 taw 36 - ezra 1
 2 taw 36 - ezra 1
 2 taw 36 - ezr 1
 2 taw 36 - ezra 1
 2 taw 36 - ezra 1
-2 tawarikh 22 - 25
-2 raja 2 - 22
+2 22 - 25
+1 2 - 22
 2 taw 36 - ezra 1
-2 tawarikh 34 - 35
-2 tawarikh 31 - 36
-2 tawarikh 34 - 36
+2 34 - 35
+2 31 - 36
+2 34 - 36
 2 taw 36 - ezra 1
 2 taw 36 - ezra 1
-2 tawarikh 29 - 36
-2 tawarikh 29 - 30
+2 29 - 36
+2 29 - 30
 2 taw 23 - ezra 1
 2 taw 36 - ezra 1
 2 taw 36 - ezra 1
@@ -6434,80 +6434,80 @@ rut 1 - 1
 2 taw 36 - ezra 1
 2 taw 36 - ezra 1
 2 taw 36 - ezra 1
-2 tawarikh 31 - 34
+2 31 - 34
 ezra 2 - 3
-2 tawarikh 31 - 34
-2 tawarikh 26 - 27
+2 31 - 34
+2 26 - 27
 ezra 2 - 3
 ezra 2 - 3
 2 taw 32 - ezr 1
 ezra 2 - 3
 ezra 1 - 2
-2 tawarikh 30 - 31
+2 30 - 31
 2 taw
-2 tawarikh 32 - 33
+2 32 - 33
 ezra 2 - 3
-2 tawarikh 34 - 35
+2 34 - 35
 ezra 2 - 3
 ezra 2 - 3
 ezra 1 - 2
-2 tawarikh 21 - 28
+2 21 - 28
 ezra 2 - 3
 2 tawarikh 36 - ezra 1
 ezra 2 - 3
-2 tawarikh 32 - 33
+2 32 - 33
 ezra 2 - 3
-2 tawarikh 31 - 33
-2 tawarikh 1 - 2
+2 31 - 33
+1 1 - 2
 ezra 2 - 3
-2 tawarikh 14 - 18
+1 14 - 18
 ezra 2 - 3
-2 tawarikh 28 - 31
+2 28 - 31
 ezr 2 - 3
 ezra 2 - 3
 daniel 2 taw 36 - ezra 1
-ezra 2 - 3
+daniel 2 - 3
 ezra 2 - 3
 ezra 4 - 5
-2 tawarikh 18 - 23
+1 18 - 23
 ezra 4 - 5
 ezr 2 - 3
 ezra 4 - 5
 ezra 4 - 5
 ezra 4 - 5
 ezra 4 - 5
-2 tawarikh 35 - 36
+2 35 - 36
 ezra 4 - 5
 ezra 2 - 5
 ezra 4 - 5
-2 tawarikh 35 - 36
+2 35 - 36
 ezr 4 - 5
 ezra 4 - 5
-2 tawarikh 34 - 35
+2 34 - 35
 ezra 1 - 5
 ezra 4 - 5
-2 tawarikh 32 - 35
-2 tawarikh 2 - 16
+2 32 - 35
+2 2 - 16
 2 taw 36 - ezra 1
-ezra 4 - 5
+daniel 4 - 5
 2 taw 36 - ezra 1
 ezra 2 - 3
 ezra 4 - 5
-2 tawarikh 11 - 12
+1 11 - 12
 ezra 4 - 5
 ezra 4 - 5
 ezra 4 - 5
-2 tawarikh 32 - 33
+2 32 - 33
 2 taw 36
 ezra 2 - 3
 ezra 4 - 5
-2 raja 10 - 11
+2 10 - 11
 ezra 2 - 3
 ezra 4 - 5
-2 tawarikh 34 - 36
+2 34 - 36
 ezra 2 - 3
-2 tawarikh 2 - 19
-2 tawarikh 24 - 29
+1 2 - 19
+1 24 - 29
 ezra 1 - 5
 ezra 6 - 7
 ezra 6 - 7
@@ -6516,7 +6516,7 @@ ezra 6 - 7
 ezra 6 - 7
 ezra 3 - 7
 ezra 6 - 7
-2 tawarikh 29 - 36
+2 29 - 36
 ezra 6 - 7
 ezra 4 - 5
 ezra 4 - 5
@@ -6529,7 +6529,7 @@ ezra 6 - 7
 ezra 6 - 7
 ezra 6 - 7
 ezra 6 - 7
-2 tawarikh 1 - 19
+2 1 - 19
 ezra 6 - 7
 ezra 6 - 7
 ezra 1 - 4
@@ -6558,16 +6558,16 @@ ezra 8 - 9
 ezra 1 - 9
 ezra 6 - 9
 ezra 7 - 10
-2 tawarikh 23 - 28
+2 23 - 28
 ezra 8 - 9
 ezr 4 - 5
 ezra 6789
 ezra 1 - 3
-2 tawarikh 2 - 6
+2 2 - 6
 ezra 8 - 9
 ezra 8 - 9
 ezra 10 - neh 1
-2 tawarikh 1 - 5
+2 1 - 5
 ezra 10 - neh 1
 ezra 10 - neh 1
 ezra 10 - neh 1
@@ -6583,9 +6583,9 @@ ezra 10 - neh 1
 ezra 10 - neh 1
 ezra 8 - neh 1
 ezra 10 - nehemia 1
-2 raja 20 - 21
+2 20 - 21
 ezra 6 - 7
-2 tawarikh 17 - 18
+1 17 - 18
 ezra 10 - neh 1
 ezra 10
 2 taw 36 - ezra 1
@@ -6621,7 +6621,7 @@ neh 2 - 3
 ezra 2 - neh 1
 nehemia 2 - 3
 ezr 8 - 9
-2 tawarikh 20 - 27
+2 20 - 27
 neh 2 - 3
 neh 2 - 3
 neh 2 - 3
@@ -6636,7 +6636,7 @@ neh 4 - 5
 neh 4 - 5
 nehemia 4 - 5
 neh 4 - 5
-2 tawarikh 3 - 4
+1 3 - 4
 neh 4 - 5
 neh 4 - 5
 neh 4 - 5
@@ -6673,10 +6673,10 @@ neh 6 - 7
 neh 4 - 7
 neh 4 - 7
 neh 4 - 7
-2 tawarikh 27 - 29
+1 27 - 29
 neh 6 - 7
 ezra 10 - nehemia 3
-2 tawarikh 11 - 16
+2 11 - 16
 2 taw 36 - neh 7
 neh 6 - 7
 neh 8 - 9
@@ -6704,7 +6704,7 @@ neh 8 - 9
 neh 8 - 9
 nehemia 8 - 9
 neh 2 - 3
-2 tawarikh 7 - 12
+2 7 - 12
 neh 8 - 9
 ezra 8 - 10
 neh 6 - 7
@@ -6712,7 +6712,7 @@ neh 8 - 9
 nehemia 8 - 9
 neh 8 - 9
 neh 8 - 9
-2 tawarikh 26 - 31
+2 26 - 31
 neh 8 - 9
 neh 8 - 9
 neh 4 - 5
@@ -6730,7 +6730,7 @@ neh 8 - 9
 neh 10 - 11
 neh 10 - 11
 nehemia 10 - 11
-2 tawarikh 32 - 36
+2 32 - 36
 neh 10 - 11
 neh 10 - 11
 neh 10 - 11
@@ -6741,17 +6741,17 @@ ezra 1 - 10
 neh 7 - 8
 neh 10 - 11
 neh 10 - 11
-2 tawarikh 13 - 14
+1 13 - 14
 neh 10 - 11
 neh 6 - 7
-2 tawarikh 17 - 20
+2 17 - 20
 neh 10 - 11
 nehemia 10 - 11
 neh 10 - 11
 neh 10 - 11
 neh 1 - 3
 neh 10 - 11
-2 tawarikh 6 - 11
+2 6 - 11
 neh 10 - 11
 neh 12 - 13
 neh 12 - 13
@@ -6802,8 +6802,8 @@ est 1 - 2
 ester 1 - 2
 est 1 - 2
 neh 6 - 7
-2 tawarikh 23 - 24
-2 tawarikh 21 - 24
+1 23 - 24
+2 21 - 24
 est 1 - 2
 ester 1 - 2
 est 1 - 2
@@ -6840,7 +6840,7 @@ est 3 - 4
 est 3 - 4
 ester 3 - 4
 est 3 - 4
-2 tawarikh 13 - 17
+2 13 - 17
 neh 8 - 9
 est 3 - 4
 ester 5 - 6
@@ -6858,13 +6858,13 @@ ester 5 - 6
 ester 5 - 6
 est 5 - 6
 ester 5 - 6
-2 tawarikh 28 - 36
+2 28 - 36
 est 5 - 6
 neh 10 - 11
 ester 5 - 6
-2 tawarikh 4 - 5
-2 tawarikh 12 - 17
-2 tawarikh 18 - 21
+2 4 - 5
+2 12 - 17
+2 18 - 21
 est 5 - 6
 ester 5 - 6
 nehemia 8 - 13
@@ -6906,7 +6906,7 @@ ester 7 - 8
 ester 9 - 10
 neh 2 - 13
 est 5 - 8
-2 tawarikh 29 - 33
+2 29 - 33
 ester 9 - 10
 ester 1 - 4
 ester 9 - 10
@@ -6933,12 +6933,12 @@ est 9 - 10
 2 taw 34 - ezr 3
 nehemia
 est 9 - 10
-2 tawarikh 22 - 26
+2 22 - 26
 ester 1 - 8
 ester 7 - 10
 ester 7 - 10
 ester 9 - 10
-2 tawarikh 18 - 23
+2 18 - 23
 est 3 - 6
 ayub 1 - 2
 ayub 1 - 2
@@ -7028,8 +7028,8 @@ ayb 5 - 6
 ayub 5 - 6
 ayub 3 - 6
 ayub 5 - 6
-2 tawarikh 12 - 13
-2 tawarikh 25 - 30
+2 12 - 13
+2 25 - 30
 ayub 5 - 6
 ayub 5 - 6
 est 3 - 6
@@ -7053,10 +7053,10 @@ ayub 7 - 8
 ayub 7 - 8
 ayub 1 - 2
 ayub 7 - 8
-2 tawarikh 20 - 21
+2 20 - 21
 ayub 7 - 8
 ayb 3 - 4
-2 tawarikh 24 - 29
+2 24 - 29
 ayub 9 - 10
 ayub 7 - 8
 ayub 5678
@@ -7068,7 +7068,7 @@ ayb 7 - 8
 ayub 7 - 8
 ayub 7 - 8
 2 taw 27 - ezra 2
-2 tawarikh 30 - 35
+2 30 - 35
 ayub 9 - 10
 ayub 9 - 10
 ayub 9 - 10
@@ -7113,11 +7113,11 @@ ayb 11 - 12
 ayb 11 - 12
 ayb 11 - 12
 ayub 11 - 12
-2 tawarikh 26 - 27
+2 26 - 27
 ayub 11 - 12
 ayub 11 - 12
 ayub 11 - 12
-2 tawarikh 31 - 36
+2 31 - 36
 ayb 11 - 14
 ayub 11 - 12
 ayub 1 - 3
@@ -7206,7 +7206,7 @@ ayub 15 - 18
 ayub 19 - 20
 ayb 19 - 20
 ayub 17 - 20
-ayub 17 - 20
+daniel 17 - 20
 ayub 17 - 20
 ayub 19 - 20
 ayub 19 - 20
@@ -7239,7 +7239,7 @@ ayub 07 - ayub 08
 ayub 4 - 6
 ayub 21 - 22
 ayub 17 - 20
-2 tawarikh 32 - 33
+2 32 - 33
 ayub 21 - 22
 ayub 18 - 22
 ayub 19 - 22
@@ -7254,7 +7254,7 @@ ayub 21 - 22
 ayub 21 - 22
 ayub 21 - 22
 ayub 21 - 22
-ayub 21 - 22
+daniel 21 - 22
 ayb 21 - 22
 ayub 21 - 22
 ayub 14 - 15
@@ -7316,7 +7316,7 @@ ayub 23 - 26
 ayub 25 - 26
 ayub 23 - 24
 ayub 23 - 26
-ayub 23 - 26
+daniel 23 - 26
 ayub 25 - 26
 ayb 23 - 26
 ayub 25 - 26
@@ -7390,7 +7390,7 @@ ayub 31 - 32
 ayb 31 - 32
 ayub 31 - 32
 ayub 31 - 32
-ayub 23 - 26
+jojo 23 - 26
 ayb 27 - 28
 ayub 27 - 32
 ayub 27 - 32
@@ -7529,7 +7529,7 @@ ayub 41 - 42
 ayub 41 - 42
 ayub 41 - 42
 ayub 37 - 42
-ayub 37 - 42
+daniel 37 - 42
 ayb 9 - 20
 ayub 29 - 32
 ayb 41 - 42
@@ -7562,9 +7562,9 @@ mzm 1 - 2
 mazmur 1 - 2
 ayub 26 - 35
 ayub 33 - 42
+daniel 1 - 2
 mzm 1 - 2
-mzm 1 - 2
-mzm 1 - 42
+ayub 1 - 42
 mzm 1 - 2
 mzm 1 - 2
 ayub 39 - 42
@@ -7701,7 +7701,7 @@ ayb 33 - 42
 mzm 11 - 12
 mzm 11 - 12
 ayub 38 - 42
-mzm 11 - 12
+daniel 11 - 12
 maz 11 - 12
 mzm 11 - 12
 ayub 29 - 32
@@ -8452,7 +8452,7 @@ mzm 68 - 69
 mzm 68 - 69
 mzm 68 - 69
 mzm 68 - 69
-mzm 66 - 69
+daniel 66 - 69
 mzm 68 - 69
 maz 57 - 58
 maz 64 - 69
@@ -8637,7 +8637,7 @@ maz 82 - 83
 mzm 82 - 83
 mzm 82 - 83
 mzm 82 - 83
-mzm 70 - 75
+daniel 70 - 75
 mzm 82 - 83
 mzm 82 - 83
 mzm 82 - 83
@@ -9512,7 +9512,7 @@ ams 2 - 3
 amsal 2 - 3
 mazmur
 ams 1 - 3
-amsal 2 - 149
+mazmur 2 - 149
 amsal 2 - 3
 ams 4 - 5
 ams 4 - 5
@@ -9720,7 +9720,7 @@ amsal 14 - 19
 ams 18 - 19
 ams 18 - 19
 ams 18 - 19
-ams 16 - 19
+daniel 16 - 19
 amsal 18 - 19
 ams 18 - 19
 ams 7 - 10
@@ -9977,7 +9977,7 @@ pkh 5 - 8
 pkh 7 - 8
 pkh 7 - 8
 daniel amsal
-pkh 1 - 3
+daniel 1 - 3
 ams 23 - 27
 ams 1 - 10
 pengkhotbah 5 - 6
@@ -10116,9 +10116,9 @@ kid 5 - 6
 kid 5 - 6
 kid 5 - 6
 kid 5 - 6
-agung 1 - 2
-agung 3 - 4
-agung 5 - 6
+kidung agung 1 - 2
+kidung agung 3 - 4
+kidung agung 5 - 6
 ams 13 - 25
 kid 5 - 6
 kid 5 - 6
@@ -10173,7 +10173,7 @@ kid 7 - 8
 yes 1 - 2
 yes 1 - 2
 yes 1 - 2
-agung 7 - 8
+kidung agung 7 - 8
 yes 1 - 2
 yesaya 1 - 2
 yes 1 - 2
@@ -10417,7 +10417,7 @@ yes 19 - 20
 yes 19 - 20
 yes 19 - 20
 yes 19 - 20
-yes 19 - 20
+daniel 19 - 20
 kidung agung agung
 yes 15 - 20
 yes 19 - 20
@@ -11833,7 +11833,7 @@ yes 23 - 30
 yeh 10 - 11
 yeh 10 - 11
 yeh 8 - 11
-agung 1 - 8
+kidung agung 1 - 8
 yeh 1 - 4
 yeh 10 - 11
 yeh 10 - 11
@@ -11962,7 +11962,7 @@ ratapan
 yeh 20 - 21
 yeh 16 - 17
 yeh 20 - 21
-agung 1 - 2
+kidung agung 1 - 2
 yeh 16 - 17
 yeh 1 - 10
 yeh 18 - 21
@@ -11982,10 +11982,10 @@ yeh 22 - 23
 yeh 22 - 23
 yeh 22 - 23
 yeh 22 - 23
-agung 5 - 6
+kidung agung 5 - 6
 yeh 22 - 23
 yeh 22 - 23
-yeh 12 - 40
+yes 12 - 40
 yeh 22 - 23
 yeh 14 - 17
 yeh 22 - 23
@@ -12178,7 +12178,7 @@ yeh 38 - 39
 yeh 31 - 32
 yer 37 - 40
 yeh 36 - 39
-yeh 36 - 39
+jojo 36 - 39
 yeh 36 - 39
 yeh 38 - 39
 yeh 38 - 39
@@ -12376,7 +12376,7 @@ yeh 1 - 24
 daniel 8 - 9
 dan 8 - 9
 dan 8 - 9
-agung 1 - 8
+kidung agung 1 - 8
 dan 8 - 9
 dan 4 - 9
 yesaya 65 - 66
@@ -13178,7 +13178,7 @@ za 8 - 11
 maleakhi 1 - 2
 za 12 - 14
 jojo dan 2 - zefanya 3
-mal 1 - 2
+febe 1 - 2
 za 9 - 11
 maleakhi 1 - 2
 maleakhi 1 - 2
@@ -13385,7 +13385,7 @@ mat 11 - 12
 mat 11 - 12
 mat 11 - 12
 mat 11 - 12
-mat 1 - 8
+jojo 1 - 8
 mat 9 - 12
 mat 11 - 12
 mat 3 - 12
@@ -13638,7 +13638,7 @@ yes 13 - 18
 mat 17 - 20
 yes 19 - 20
 markus 1 - 4
-mat 9 - 28
+jojo 9 - 28
 markus 3 - 4
 mat 27 - mrk 1
 markus 5 - 6
@@ -13891,7 +13891,7 @@ luk 11 - 12
 lukas 11 - 12
 luk 11 - 12
 lukas 7 - 8
-luk 9 - 10
+selamat 9 - 10
 luk 11 - 12
 lukas 9 - 10
 luk 11 - 12
@@ -13986,7 +13986,7 @@ luk 19 - 20
 luk 19 - 20
 luk 19 - 20
 luk 13 - 20
-luk 1 - 8
+jojo 1 - 8
 luk 19 - 20
 luk 13 - 16
 luk 17 - 18
@@ -14015,7 +14015,7 @@ lukas 21 - 22
 lukas 21 - 22
 luk 21 - 22
 luk 15 - 18
-markus 1 - 16
+jojo 1 - 16
 lukas 21 - 22
 luk 19 - 20
 luk 21 - 22
@@ -14298,7 +14298,7 @@ yoh 21 - kis 1
 kis 2 - 3
 yoh 21 - kis 1
 kis 2 - 3
-rasul 2 - 3
+kis 2 - 3
 kis 2 - 3
 lukas 21 - 24
 kis 2 - 3
@@ -14319,7 +14319,7 @@ nahum n habakuk
 kis 4 - 5
 kis 2 - 5
 kis 4 - 5
-rasul 4 - 5
+kis 4 - 5
 kis 2 - 3
 kis 4 - 5
 kis 4 - 5
@@ -14339,7 +14339,7 @@ yoh 19 - kis 1
 kis 4 - 5
 kis 6 - 7
 kis 6 - 7
-rasul 6 - 7
+kis 6 - 7
 kis 6 - 7
 yoh 1 - 8
 kis 6 - 7
@@ -14349,9 +14349,9 @@ kis 6 - 7
 yohanes 21 - kis para rasul 1
 kis 6 - 7
 kis 6 - 7
-rasul 2 - 3
+kis 2 - 3
 kis 6 - 7
-rasul 4 - 5
+kis 4 - 5
 kis 6 - 7
 kis 6 - 7
 kis 6 - 7
@@ -14389,7 +14389,7 @@ kis 8 - 9
 yes 53 - 56
 kis 10 - 11
 kis 10 - 11
-rasul 10 - 11
+kis 10 - 11
 kis 10 - 11
 kis 10 - 11
 kis 10 - 11
@@ -14410,15 +14410,15 @@ yoh 13 - 21
 kis 12 - 13
 zakharia 1 - 5
 kis 12 - 13
-rasul 12 - 13
+kis 12 - 13
 kis 8 - 13
 kis 12 - 13
 kis 12 - 13
-rasul 6 - 7
+kis 6 - 7
 kis 12 - 13
 kis 12 - 13
-rasul 8 - 9
-rasul 10 - 11
+kis 8 - 9
+kis 10 - 11
 kis 10 - 11
 kis 12 - 13
 kis 12 - 13
@@ -14437,11 +14437,11 @@ kis 14 - 15
 kis 14 - 15
 kis 14 - 15
 kis 14 - 15
-rasul 12 - 13
+kis 12 - 13
 kis 14 - 15
 yohanes 1 - 11
 kis 14 - 15
-rasul 14 - 15
+kis 14 - 15
 kis 8 - 15
 kis 14 - 15
 kis 14 - 15
@@ -14472,7 +14472,7 @@ kis 18 - 19
 kis 18 - 19
 kis 18 - 19
 kis 18 - 19
-rasul 18 - 19
+kis 18 - 19
 kis 18 - 19
 kis 18 - 19
 kis 18 - 19
@@ -14502,7 +14502,7 @@ kis 18 - 21
 kis 14 - 15
 kis 20 - 21
 kis 20 - 21
-rasul 22 - 23
+kis 22 - 23
 kis 22 - 23
 kis 22 - 23
 kis 22 - 23
@@ -14540,11 +14540,11 @@ kis 14 - 25
 kis 18 - 25
 kis 24 - 25
 kis 24 - 25
-rasul 16 - 17
+kis 16 - 17
 kis 24 - 25
-rasul 18 - 19
-rasul 20 - 21
-rasul 22 - 23
+kis 18 - 19
+kis 20 - 21
+kis 22 - 23
 kis 24 - 25
 yoh
 kis 1 - 10
@@ -14584,9 +14584,9 @@ kis 28 - roma 1
 kis 20 - 21
 kis 28 - rm 1
 kis 26 - 27
-rasul 24 - 25
+kis 24 - 25
 kis 21 - 23
-rasul 26 - 27
+kis 26 - 27
 kis 28 - roma 1
 kis 28 - roma 1
 kis para rasul 28 - roma 1
@@ -14785,312 +14785,312 @@ rm 9 - 11
 rm 1 - 14
 luk 1 - 2
 roma 1 - 14
-yoh 10 - 18
+jojo 10 - 18
 roma 1 - 16
-kol 2 - 3
-roma 1 - 18
-kol 2 - 3
-kol 2 - 3
-kol 2 - 3
-kol 2 - 3
-kol 2 - 3
-kol 2 - 3
-kol 2 - 3
+1 2 - 3
+yer 1 - 18
+1 2 - 3
+1 2 - 3
+1 2 - 3
+1 2 - 3
+1 2 - 3
+1 2 - 3
+1 2 - 3
 roma 10 - 15
-kol 2 - 3
-kol 2 - 3
-kol 2 - 3
-kol 1 - 3
-kol 2 - 3
+1 2 - 3
+1 2 - 3
+1 2 - 3
+1 1 - 3
+1 2 - 3
 luk 3 - 4
 yoh
 rm 12 - 14
-kol 2 - 3
+1 2 - 3
 roma 1 - 16
 rm 1 - 16
 rm 15 - 16
-kol 4 - 5
+1 4 - 5
 roma 16
 roma 12 - 15
 roma 1 - 16
-kol 4 - 5
-kol 2 - 24
+1 4 - 5
+yer 2 - 24
 roma 10 - 15
 roma 7 - 10
-kol 4 - 5
-kol 4 - 5
-kol 4 - 5
-2 korintus 4 - 5
-kol 2 - 3
-2 korintus 2 - 3
-2 korintus 4 - 5
-kol 4 - 5
-kol 4 - 5
-kol 4 - 5
-kol 4 - 5
-kol 2 - 5
-kol 2 - 5
-kol 4 - 5
-kol 1 - 2
+1 4 - 5
+1 4 - 5
+1 4 - 5
+1 4 - 5
+1 2 - 3
+1 2 - 3
+1 4 - 5
+1 4 - 5
+1 4 - 5
+1 4 - 5
+1 4 - 5
+1 2 - 5
+1 2 - 5
+1 4 - 5
+1 1 - 2
 roma 16
-kol 4 - 5
-kol 4 - 5
+1 4 - 5
+1 4 - 5
 roma 1 - 16
-kol 4 - 28
-kol 4 - 5
-kol 6 - 7
-kol 4 - 5
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
-kol 4 - 5
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
+yer 4 - 28
+1 4 - 5
+1 6 - 7
+1 4 - 5
+1 6 - 7
+1 6 - 7
+1 6 - 7
+1 6 - 7
+1 4 - 5
+im 6 - 7
+1 6 - 7
+1 6 - 7
 roma 1 - 16
-kol 1 - 2
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
-kol 3 - 4
-kol 6 - 32
+1 1 - 2
+1 6 - 7
+im 6 - 7
+1 6 - 7
+1 6 - 7
+1 6 - 7
+1 6 - 7
+1 3 - 4
+yer 6 - 32
 roma 11 - 14
-kol 8 - 9
-kol 8 - 9
-kol 6 - 7
-kol 8 - 9
-kol 8 - 9
-kol 6 - 7
-kol 8 - 9
-kol 8 - 9
-kol 8 - 9
-kol 8 - 9
-kol 8 - 9
-kol 2 - 9
+1 8 - 9
+1 8 - 9
+1 6 - 7
+1 8 - 9
+1 8 - 9
+1 6 - 7
+1 8 - 9
+1 8 - 9
+1 8 - 9
+1 8 - 9
+1 8 - 9
+1 2 - 9
 markus 1 - 11
-kol 8 - 9
-kol 6 - 9
-kol 8 - 9
-kol 8 - 9
-kol 8 - 9
-kol 2 - 3
-kol 10 - 11
-kol 10 - 11
-kol 10 - 11
-kol 10 - 11
-kol 10 - 11
+1 8 - 9
+1 6 - 9
+1 8 - 9
+1 8 - 9
+1 8 - 9
+1 2 - 3
+1 10 - 11
+1 10 - 11
+1 10 - 11
+1 10 - 11
+1 10 - 11
 kis 17 - 28
-kol 8 - 9
-2 korintus 6 - 7
-kol 10 - 11
-kol 10 - 11
-kol 6 - 9
-kol 5 - 6
-kol 10 - 11
-kol 10 - 11
-kol 10 - 11
+1 8 - 9
+1 6 - 7
+1 10 - 11
+1 10 - 11
+1 6 - 9
+1 5 - 6
+1 10 - 11
+1 10 - 11
+1 10 - 11
 roma 15 - 16
-kol 1 - 2
-kol 10 - 11
-kol 8 - 11
-kol 10 - 11
-kol 4 - 7
-kol 10 - 11
-kol 12 - 13
-kol 10 - 11
-kol 12 - 13
-kol 10 - 11
-kol 12 - 13
-kol 12 - 13
-kol 12 - 13
-kol 12 - 13
-kol 12 - 13
-kol 12 - 13
-kol 12 - 13
-kol 12 - 13
-kol 14 - 15
+1 1 - 2
+1 10 - 11
+1 8 - 11
+1 10 - 11
+1 4 - 7
+1 10 - 11
+1 12 - 13
+1 10 - 11
+1 12 - 13
+1 10 - 11
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 12 - 13
+1 14 - 15
 1 korintus
-kol 7 - 8
-kol 14 - 15
-kol 12 - 13
-kol 12 - 15
-kol 14 - 15
-kol 8 - 15
-kol 14 - 15
-kol 14 - 15
-kol 12 - 13
-kol 14 - 15
-kol 12 - 15
-kol 14 - 15
+1 7 - 8
+1 14 - 15
+1 12 - 13
+1 12 - 15
+1 14 - 15
+1 8 - 15
+1 14 - 15
+1 14 - 15
+1 12 - 13
+1 14 - 15
+1 12 - 15
+1 14 - 15
 markus 12 - 16
-kol 14 - 15
+1 14 - 15
 luk 5 - 12
-kol 12 - 15
-kol 14 - 15
+1 12 - 15
+1 14 - 15
 kis
-kol 14 - 15
-kol 8 - 13
-kol 3 - 6
-kol 9 - 12
-kol 8 - 11
-kol 14 - 15
-kol 12 - 15
-kol 2 - 16
+1 14 - 15
+1 8 - 13
+1 3 - 6
+1 9 - 12
+1 8 - 11
+1 14 - 15
+1 12 - 15
+1 2 - 16
 2 korintus 1
-kol 2 - 16
-kol 2 - 16
-kol 2 - 16
+1 2 - 16
+1 2 - 16
+1 2 - 16
 1 kor
-kol 2 - 16
-kol 1 - 16
+1 2 - 16
+1 1 - 16
 kis 17 - 28
-kol 2 - 16
-kol 2 - 16
-kol 11 - 16
+1 2 - 16
+1 2 - 16
+1 11 - 16
 lukas 1 - 8
-kol 2 - 16
+1 2 - 16
 1 kor 16
-kol 2 - 16
-kol 13 - 14
-kol 2 - 16
-kol 2 - 10
-kol 3 - 4
-kol 14 - 15
-kol 7 - 10
-kol 2 - 3
-kol 2 - 3
-kol 2 - 16
-kol 2 - 3
-kol 2 - 3
-kol 2 - 3
-kol 2 - 3
-kol 2 - 3
-kol 3 - 4
-kol 2 - 16
-kol 2 - 3
-kol 15 - 16
-kol 2 - 3
-kol 2 - 3
-kol 2 - 16
-kol 4 - 5
+1 2 - 16
+1 13 - 14
+1 2 - 16
+1 2 - 10
+2 3 - 4
+1 14 - 15
+1 7 - 10
+2 2 - 3
+2 2 - 3
+1 2 - 16
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 3 - 4
+1 2 - 16
+2 2 - 3
+1 15 - 16
+2 2 - 3
+2 2 - 3
+1 2 - 16
+2 4 - 5
 2 kor 5
-kol 2 - 5
-kol 4 - 5
-kol 2 - 5
-kol 4 - 5
-kol 4 - 5
-kol 4 - 5
-kol 4 - 5
-kol 4 - 5
-kol 4 - 5
-kol 4 - 5
-kol 4 - 5
-kol 2 - 3
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
-kol 2 - 3
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
-kol 6 - 7
+2 2 - 5
+2 4 - 5
+2 2 - 5
+2 4 - 5
+2 4 - 5
+2 4 - 5
+2 4 - 5
+2 4 - 5
+2 4 - 5
+2 4 - 5
+2 4 - 5
+2 2 - 3
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 2 - 3
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
+2 6 - 7
 luk 12 - 21
-kol 1 - 7
-kol 6 - 7
-kol 10 - 14
-kol 2 - 7
-kol 4 - 7
-kol 1 - 2
-kol 6 - 7
-kol 6 - 7
-kol 8 - 9
-kol 2 - 5
-kol 12 - 15
-kol 4 - 10
-kol 8 - 9
-kol 8 - 9
+2 1 - 7
+2 6 - 7
+1 10 - 14
+2 2 - 7
+2 4 - 7
+2 1 - 2
+2 6 - 7
+2 6 - 7
+2 8 - 9
+2 2 - 5
+1 12 - 15
+1 4 - 10
+2 8 - 9
+2 8 - 9
 kis 11 - 22
-kol 8 - 9
-kol 8 - 9
+2 8 - 9
+2 8 - 9
 roma 9 - 16
-kol 8 - 9
-kol 8 - 9
-kol 8 - 9
-kol 8 - 9
-kol 8 - 9
-kol 4 - 5
-kol 8 - 9
-kol 10 - 11
-kol 2 - 16
-kol 10 - 11
-kol 2 - 16
-kol 10 - 11
-kol 6 - 11
-kol 3 - 5
-kol 8 - 9
-kol 10 - 11
-kol 8 - 9
-kol 10 - 11
-kol 10 - 11
-kol 10 - 11
-yoh 1 - 19
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 8 - 9
+2 4 - 5
+2 8 - 9
+2 10 - 11
+1 2 - 16
+2 10 - 11
+1 2 - 16
+2 10 - 11
+2 6 - 11
+2 3 - 5
+2 8 - 9
+2 10 - 11
+2 8 - 9
+2 10 - 11
+2 10 - 11
+2 10 - 11
+jojo 1 - 19
 lukas 1 - 24
-kol 10 - 11
-kol 8 - 11
-kol 4 - 7
-kol 4 - 5
-kol 6 - 7
+2 10 - 11
+2 8 - 11
+2 4 - 7
+2 4 - 5
+2 6 - 7
 1 korintus
-kol 8 - 9
-kol 10 - 11
-kol 4 - 9
-kol 15 - 16
-kol 1 - 2
-kol 12 - 13
-kol 12 - 13
+2 8 - 9
+2 10 - 11
+2 4 - 9
+1 15 - 16
+2 1 - 2
+2 12 - 13
+2 12 - 13
 2 kor
-kol 12 - 13
-kol 8 - 11
-kol 10 - 11
-kol 12 - 13
-2 korintus 8 - 9
-2 korintus 10 - 11
+2 12 - 13
+2 8 - 11
+2 10 - 11
+2 12 - 13
+1 8 - 9
+1 10 - 11
 kis 23 - 28
-2 korintus 12 - 13
-kol 12 - 13
-kol 12 - 13
-kol 12 - 13
-kol 8 - 13
-kol 12 - 13
-kol 12 - 13
+1 12 - 13
+2 12 - 13
+2 12 - 13
+2 12 - 13
+2 8 - 13
+2 12 - 13
+2 12 - 13
 2 kor
-kol 12 - 13
-kol 10 - 13
-kol 10 - 13
-kol 12 - 13
-kol 12 - 13
-kol 3 - 6
+2 12 - 13
+2 10 - 13
+2 10 - 13
+2 12 - 13
+2 12 - 13
+2 3 - 6
 gal 1 - 2
-kol 12 - 13
+2 12 - 13
 galatia 1 - 2
 gal 1 - 2
 gal 1 - 2
 kis 11 - 28
-kol 1 - 11
+2 1 - 11
 galatia 1 - 2
 gal 1 - 2
 gal 1 - 2
 luk 9 - 13
-kol 6 - 10
+2 6 - 10
 gal 1 - 2
 gal 1 - 2
-kol 2 - 5
+jojo 2 - 5
 gal 1 - 2
 gal 1 - 2
 gal 1 - 2
@@ -15103,7 +15103,7 @@ gal 1 - 2
 galatia 3 - 4
 gal 3 - 4
 1 korintus
-kol 1 - 3
+2 1 - 3
 gal 3 - 4
 galatia 3 - 4
 gal 1 - 2
@@ -15114,7 +15114,7 @@ gal 3 - 4
 gal 3 - 4
 gal 1 - 2
 gal 3 - 4
-kol 7 - 10
+2 7 - 10
 2 kor 12 - gal 6
 gal 5 - 6
 galatia 3 - 4
@@ -15135,30 +15135,30 @@ gal 3 - 6
 gal 5 - 6
 gal 5 - 6
 roma
-kol 6 - 13
+2 6 - 13
 gal 5 - 6
 efesus 1 - 2
 ef 1 - 2
 gal 5 - 6
-kol 11 - 13
+2 11 - 13
 efesus 1 - 2
 ef 1 - 2
 efesus 1 - 2
-kol 4 - 9
+2 4 - 9
 ef 1 - 2
 gal 3 - 6
-kol 11 - 13
+2 11 - 13
 ef 1 - 2
-2 korintus 14 - 15
+1 14 - 15
 efesus 1 - 2
 efesus 1 - 2
 ef 1 - 2
-2 korintus 2 - 16
-2 korintus 2 - 3
-2 korintus 4 - 5
-2 korintus 6 - 7
-2 korintus 8 - 9
-2 korintus 10 - 11
+1 2 - 16
+2 2 - 3
+2 4 - 5
+2 6 - 7
+2 8 - 9
+2 10 - 11
 ef 1 - 2
 gal 6 - ef 2
 ef 1 - 2
@@ -15184,7 +15184,7 @@ ef 3 - 4
 efesus 1 - 2
 ef 3 - 4
 ef 1 - 4
-kol 5 - 7
+jojo 5 - 7
 lukas
 efesus 3 - 4
 ef 3 - 4
@@ -15193,7 +15193,7 @@ ef 3 - 4
 galatia
 luk 21 - yoh 1
 gal 1 - 2
-2 korintus 12 - 13
+2 12 - 13
 yohanes
 galatia
 ef 1 - 3
@@ -15228,7 +15228,7 @@ filipi 1 - 2
 lukas 18 - kis para rasul 8
 filipi 1 - 2
 flp 1 - 2
-kol 1 - 10
+1 1 - 10
 gal 3 - 6
 efesus 1 - 2
 efesus 3 - 4
@@ -15303,12 +15303,12 @@ markus
 kolose 3 - 4
 kolose 3 - 4
 yohanes
-kol 1 - 4
+1 1 - 4
 filipi 1 - 4
 kolose 1 - 2
 kis 1 - 9
 2 kor gal
-rasul 9 - 28
+kis 9 - 28
 ef 5 - 6
 kolose 3 - 4
 kolose 3 - 4
@@ -15318,261 +15318,261 @@ roma 16
 kis para rasul
 kol 3 - 4
 roma
-2 tesalonika 1 - 2
-yes 1 - 2
+1 1 - 2
+1 1 - 2
 kolose
 yoh 16 - kis 6
-yes 1 - 2
-yes 1 - 2
-yes 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
 kol 1 - 4
-yes 1 - 2
+1 1 - 2
 gal 1 - 4
 gal 5 - 6
-yes 1 - 2
+1 1 - 2
 filipi 3 - 4
 ef fil kol
 filipi 1 - 2
-yes 1 - 2
+1 1 - 2
 jojo gal 2 - efesus 6
-kol 1 - 8
+1 1 - 8
 kis 6 - 21
 kol 1 - 4
-yes 1 - 2
-yes 1 - 2
+1 1 - 2
+1 1 - 2
 kolose
 filipi kolose
-yes 1 - 2
-yes 1 - 2
+1 1 - 2
+1 1 - 2
 filipi
-yes 1 - 2
-kol 5 - 16
+1 1 - 2
+1 5 - 16
 matius
-yes 1 - 2
-2 tesalonika 3 - 4
-yes 3 - 4
-yes 3 - 4
-yes 3 - 4
+1 1 - 2
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
 kolose 1 - 4
-yes 3 - 4
-yes 3 - 4
-yes 3 - 4
-kol 1 - 12
-yes 3 - 4
-yes 3 - 4
-yes 1 - 4
-kol 1 - 6
-yes 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 1 - 12
+1 3 - 4
+1 3 - 4
+1 1 - 4
+2 1 - 6
+1 3 - 4
 yoh 1 - 8
 kis 7 - 28
-yes 3 - 4
+1 3 - 4
 filipi 3 - 4
-yes 1 - 4
-kol 2 - 9
+1 1 - 4
+1 2 - 9
 matius
-kol 7 - 13
+2 7 - 13
 kis
 markus - luk 7
-kol 8 - 35
-yes 3 - 4
-yes 3 - 4
-yes 1 - 6
-yes 2 - 5
-yes 2 - 5
-yes 2 - 5
-yes 3 - 4
-yes 2 - 5
-yes 1 - 2
-yes 2 - 5
-yes 2 - 5
-yes 2 - 5
-yes 2 - 5
+yer 8 - 35
+1 3 - 4
+1 3 - 4
+1 1 - 6
+1 2 - 5
+1 2 - 5
+1 2 - 5
+1 3 - 4
+1 2 - 5
+1 1 - 2
+1 2 - 5
+1 2 - 5
+1 2 - 5
+1 2 - 5
 1 tes
-yes 2 - 5
-kol 13 - 16
+1 2 - 5
+1 13 - 16
 1 kor 7 - roma 2
-yes 2 - 5
-yes 2 - 5
-yes 2 - 5
-yes 2 - 5
+1 2 - 5
+1 2 - 5
+1 2 - 5
+1 2 - 5
 roma 1 - 16
 1 tes
 markus 1 - 10
 kol 1 - 4
 2 kor 10 - efesus 6
 luk 8 - yoh 19
-yes 2 - 5
+1 2 - 5
 1 1 - 2
 1 1 - 2
-yes 2 - 5
-yes 2 - 3
-yes 2 - 3
+1 2 - 5
+2 2 - 3
+2 2 - 3
 2 tes
-yes 2 - 3
-yes 3 - 4
-yes 2 - 5
-yes 2 - 3
+2 2 - 3
+1 3 - 4
+1 2 - 5
+2 2 - 3
 2 kor
-yes 2 - 3
-yes 2 - 3
-yes 2 - 3
-yes 2 - 3
-yes 2 - 3
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 2 - 3
+2 2 - 3
 luk
-2 tesalonika 1 - 2
-2 tesalonika 3 - 4
-2 tesalonika 2 - 5
-yes 2 - 3
+1 1 - 2
+1 3 - 4
+1 2 - 5
+2 2 - 3
 2 tes
 galatia
 markus 11 - lukas 10
 galatia
-yes 1 - 4
-yes 2 - 5
+1 1 - 4
+1 2 - 5
 efesus 1 - 6
 kol 1 - 4
-yes 2 - 3
+2 2 - 3
 jojo filipi - 1 tes 3
-kol 10 - 40
+yer 10 - 40
 kis 15
-yes 2 - 3
+2 2 - 3
 filipi
-tit 1 - 2
-tit 1 - 2
-tit 1 - 2
-yes 2 - 3
-tit 1 - 2
-yes 2 - 3
-tit 1 - 2
-tit 1 - 2
-yes 2 - 3
-tit 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+2 2 - 3
+1 1 - 2
+2 2 - 3
+1 1 - 2
+1 1 - 2
+2 2 - 3
+1 1 - 2
 galatia
-tit 1 - 2
-tit 1 - 2
-tit 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
 galatia 1 - 3
-tit 1 - 2
-tit 1 - 2
-yes 2 - 5
-tit 1 - 2
-yes 2 - 5
+1 1 - 2
+1 1 - 2
+1 2 - 5
+1 1 - 2
+1 2 - 5
 filipi
-tit 1 - 2
+1 1 - 2
 lukas 11 - 20
-tit 1 - 2
+1 1 - 2
 kis
-tit 1 - 2
-tit 3 - 4
-tit 3 - 4
-tit 3 - 4
+1 1 - 2
+1 3 - 4
+1 3 - 4
+1 3 - 4
 efesus
-tit 3 - 4
-tit 3 - 4
-tit 3 - 4
-tit 1 - 4
-tit 3 - 4
-tit 3 - 4
-yes 2 - 3
-tit 3 - 4
-tit 3 - 4
-tit 1 - 2
-tit 3 - 4
-yes 1 - 4
-tit 3 - 4
-tit 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 1 - 4
+1 3 - 4
+1 3 - 4
+2 2 - 3
+1 3 - 4
+1 3 - 4
+1 1 - 2
+1 3 - 4
+1 1 - 4
+1 3 - 4
+1 3 - 4
 1 tes 5 selei sai
-yes 1 - 3
-tit 3 - 4
-tit 3 - 4
+2 1 - 3
+1 3 - 4
+1 3 - 4
 roma
 yohanes 2
-tit 5 - 6
+1 5 - 6
 filipi 1 - 4
 1 tim
-tit 5 - 6
-tit 5 - 6
-tit 5 - 6
-tit 5 - 6
-tit 5 - 6
-tit 5 - 6
-tit 5 - 6
-tit 3 - 4
-tit 5 - 6
-tit 5 - 6
-tit 1 - 2
-yes 1 - 3
-tit 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 5 - 6
+1 3 - 4
+1 5 - 6
+1 5 - 6
+1 1 - 2
+2 1 - 3
+1 5 - 6
 1 tesalonika
-tit 1 - 5
+1 1 - 5
 1 tim
 filipi
-tit 5 - 6
-tit 1 - 2
-2 tesalonika 2 - 3
-2 timotius 1 - 2
-2 timotius 3 - 4
-tit 3 - 4
-2 timotius 5 - 6
-tit 5 - 6
+1 5 - 6
+1 1 - 2
+2 2 - 3
+1 1 - 2
+1 3 - 4
+1 3 - 4
+1 5 - 6
+1 5 - 6
 galatia
 kolose
-2 korintus 1 - 16
+1 1 - 16
 kolose
 1 timotius
 1 tim
-tit 1 - 2
-tit 1 - 2
-tit 1 - 2
-tit 1 - 2
-tit 5 - 6
-tit 1 - 2
-tit 1 - 2
-tit 1 - 2
-tit 1 - 2
-tit 5 - 6
-tit 4 - 6
+2 1 - 2
+2 1 - 2
+2 1 - 2
+2 1 - 2
+1 5 - 6
+2 1 - 2
+2 1 - 2
+2 1 - 2
+2 1 - 2
+1 5 - 6
+1 4 - 6
 lukas
-tit 1 - 2
-tit 2 - 6
+2 1 - 2
+1 2 - 6
 2 tim 2
-tit 1 - 2
+2 1 - 2
 roma
-tit 5 - 6
-tit 3 - 4
-tit 3 - 4
-tit 3 - 4
-tit 3 - 4
-tit 1 - 2
+1 5 - 6
+2 3 - 4
+2 3 - 4
+2 3 - 4
+2 3 - 4
+2 1 - 2
 1 tes
 2 tim
-tit 3 - 4
-tit 3 - 4
-tit 1 - 4
-tit 1 - 2
-tit 3 - 4
-tit 3 - 4
-tit 3 - 4
-tit 3 - 4
-2 korintus 1 - 13
-tit 3 - 4
-tit 3 - 4
-tit 1 - 2
+2 3 - 4
+2 3 - 4
+2 1 - 4
+2 1 - 2
+2 3 - 4
+2 3 - 4
+2 3 - 4
+2 3 - 4
+2 1 - 13
+2 3 - 4
+2 3 - 4
+2 1 - 2
 1 tesalonika
 1 timotius
 2 tes
 1 korintus
-tit 3 - 4
+2 3 - 4
 titus
 titus 1 - 2
 titus 1 - 2
-tit 3 - 4
-tit 1 - 4
+2 3 - 4
+2 1 - 4
 titus 1 - 2
 titus 1 - 2
 titus 1 - 2
 titus 1 - 2
-tit 3 - 6
+1 3 - 6
 titus 1 - 2
 kis 11 - 28
 roma 1 - 16
@@ -15583,7 +15583,7 @@ jojo 1 tim 3 - titus 2
 2 tesalonika 1
 titus 1 - 2
 titus 1 - 2
-tit 3 - 4
+2 3 - 4
 yoh
 titus 1 - 2
 titus 3 - filemon 1
@@ -15597,14 +15597,14 @@ titus 3 - flm 1
 titus
 titus 3 - flm 1
 titus 3 - flm 1
-2 timotius 1 - 2
-2 timotius 3 - 4
+2 1 - 2
+2 3 - 4
 2 tim
 2 timotius
 titus 1 - 2
-kol 1 - 10
+1 1 - 10
 titus 3 - filemon 1
-kol 1 - 16
+1 1 - 16
 titus
 galatia 1 - 6
 titus 3 - filemon 1
@@ -15612,7 +15612,7 @@ jojo titus 3 - filemon 1
 titus 1 - flm 1
 tit
 2 tim
-tit 3 - 4
+2 3 - 4
 kis 1 - 15
 2 korintus 8
 ibrani 1 - 2
@@ -15620,7 +15620,7 @@ ibr 1 - 2
 titus
 filipi
 ibr 1 - 2
-kol 1 - 13
+2 1 - 13
 ibr 1 - 2
 ibr 1 - 2
 titus 3 - filemon
@@ -15630,16 +15630,16 @@ ibr 1 - 2
 ibr 1 - 2
 ibr 1 - 2
 ibr 1 - 2
-ibr 1 - 2
+jojo 1 - 2
 ibr 1 - 2
 filipi
 2 tim
 2 tes s
 kis - roma 5
 2 tim
-tit 1 - 6
+1 1 - 6
 ibr 1 - 2
-tit 1 - 4
+2 1 - 4
 titus 3 - flm
 ibr 1 - 2
 ibr 3 - 4
@@ -15700,7 +15700,7 @@ ibr 5 - 6
 ibr 3 - 6
 ibr 5 - 6
 ibr 5 - 6
-ibr 5 - 6
+jojo 5 - 6
 ibr 7 - 8
 ibr 7 - 8
 ibr 5 - 6
@@ -15715,9 +15715,9 @@ ibr 7 - 8
 ibrani 7 - 8
 ibr 7 - 8
 ibr 7 - 8
-yes 1 - 5
+1 1 - 5
 ibr 5 - 8
-yes 1 - 3
+2 1 - 3
 ibr 7 - 8
 ibr 7 - 8
 ibr 7 - 8
@@ -15748,7 +15748,7 @@ ibr 11 - 12
 ibr 9 - 10
 ibr 11 - 12
 kol 1 - 4
-yes 1 - 5
+2 1 - 5
 ibr 11 - 12
 ibr 11 - 12
 ibr 7 - 12
@@ -15766,7 +15766,7 @@ ibr 11 - 12
 ibr 11 - 12
 ibr 9 - 10
 ibr 11 - 12
-tit 1 - 6
+1 1 - 6
 galatia
 ibrani 9 - 12
 ibr 11 - 12
@@ -15781,9 +15781,9 @@ ibr 13 - yak 1
 ibrani
 yak 1 - 2
 ibr 13 - yak 1
-tit 1 - 4
+2 1 - 4
 ibr 11 - 13
-2 tesalonika 1 - 5
+1 1 - 5
 ibr 11 - yak 1
 ibr 13 - yak 1
 efesus
@@ -15815,7 +15815,7 @@ ibr 13 - yak 1
 yak 2 - 3
 kis para rasul
 yak 2 - 3
-ibr 7 - 10
+jojo 7 - 10
 yak 2 - 3
 yak 2 - 3
 yak 2 - 3
@@ -15847,188 +15847,188 @@ yak 4 - 5
 yak 4 - 5
 yak 4 - 5
 ibr 1 - 13
-2 petrus 1 - 4
+1 1 - 4
 yak 4 - 5
 2 timotius - filemon
 yak 2 - 3
 ibrani 13
 yak 1 - 5
-2 petrus 1 - 2
-2 petrus 1 - 2
+1 1 - 2
+1 1 - 2
 yak 4 - 5
 yakobus 1 - 5
-2 petrus 1 - 2
+1 1 - 2
 yakobus
-2 petrus 1 - 2
+1 1 - 2
 yak 2 - 5
 yak 1 - 4
-2 petrus 1 - 2
-2 petrus 1 - 2
-2 petrus 1 - 2
-2 petrus 1 - 2
-2 petrus 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
 - 1 pet 2
-2 petrus 1 - 2
+1 1 - 2
 1 tim - titus
 yak 4 - 5
 1 tes
 titus
 2 tim
-2 petrus 1 - 2
-2 petrus 1 - 2
+1 1 - 2
+1 1 - 2
 yak 4 - 5
 yak 4 - 5
 yak 4 - 5
 yak
-2 petrus 3 - 4
-2 petrus 3 - 4
-2 petrus 3 - 4
-2 petrus 3 - 4
-2 petrus 1 - 4
-2 petrus 1 - 2
-2 petrus 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 1 - 4
+1 1 - 2
+1 3 - 4
 titus filemon ibrani yakobus
-2 petrus 3 - 4
-2 petrus 3 - 4
-2 petrus 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
 filemon
 ibr 11 - 13
-2 petrus 3 - 4
-2 petrus 3 - 4
+1 3 - 4
+1 3 - 4
 rm
-2 petrus 1 - 2
+1 1 - 2
 yak 4 - 5
-2 petrus 3 - 4
+1 3 - 4
 1 petrus
-2 petrus 1 - 4
+1 1 - 4
 yak 1 - 4
 jojo ibr 11 - yak 5
 2 pet 1
 filemon - yakobus
-2 petrus 1 - 5
-2 petrus 2 - 5
-2 petrus 3 - 4
+1 1 - 5
+1 2 - 5
+1 3 - 4
 flm 11 - 25
-2 petrus 2 - 5
-2 petrus 1 - 2
-2 petrus 2 - 3
-2 petrus 3 - 4
-2 petrus 2 - 5
-2 petrus 2 - 5
-2 petrus 2 - 5
+1 2 - 5
+1 1 - 2
+1 2 - 3
+1 3 - 4
+1 2 - 5
+1 2 - 5
+1 2 - 5
 1 pet
-2 petrus 2 - 5
-2 petrus 2 - 3
-2 petrus 2 - 5
-2 petrus 2 - 5
-2 petrus 2 - 5
-2 petrus 3 - 4
-2 petrus 2 - 5
-2 petrus 2 - 5
-2 petrus 2 - 5
-2 petrus 2 - 5
-2 petrus 2 - 5
+1 2 - 5
+1 2 - 3
+1 2 - 5
+1 2 - 5
+1 2 - 5
+1 3 - 4
+1 2 - 5
+1 2 - 5
+1 2 - 5
+1 2 - 5
+1 2 - 5
 ibr - 1 pet
-2 petrus 2 - 3
-2 petrus 2 - 3
+2 2 - 3
+2 2 - 3
 2 petrus
 2 petrus
 1 petrus
-2 petrus 2 - 3
-2 petrus 2 - 5
+2 2 - 3
+1 2 - 5
 yakobus 4 - 5
-2 petrus 2 - 3
-2 petrus 1 - 2
-2 petrus 3 - 4
-2 petrus 2 - 5
-2 petrus 2 - 3
-2 petrus 2 - 3
-2 petrus 1 - 3
-2 petrus 3 - 4
-2 petrus 2 - 3
-2 petrus 2 - 5
+2 2 - 3
 1 1 - 2
-2 petrus 2 - 3
-yoh 1 - 2
-yoh 1 - 2
-yoh 1 - 2
-yoh 1 - 2
-2 petrus 2 - 5
+1 3 - 4
+1 2 - 5
+2 2 - 3
+2 2 - 3
+2 1 - 3
+1 3 - 4
+2 2 - 3
+1 2 - 5
+1 1 - 2
+2 2 - 3
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 1 - 2
+1 2 - 5
 yak 1 - 5
-2 petrus 2 - 3
-yoh 1 - 2
-2 petrus 2 - 5
-yoh 1 - 2
-yoh 1 - 2
-2 petrus 2 - 3
-2 petrus 2 - 3
+2 2 - 3
+1 1 - 2
+1 2 - 5
+1 1 - 2
+1 1 - 2
+2 2 - 3
+2 2 - 3
 1 tes - 2 pet
-2 petrus 2 - 3
-yoh 1 - 2
+2 2 - 3
+1 1 - 2
 roma
-2 petrus 2 - 3
-yoh 1 - 2
-2 petrus 2 - 3
-yoh 1 - 2
+2 2 - 3
+1 1 - 2
+2 2 - 3
+1 1 - 2
 1 pet 3
 2 pet - 1 yoh
-yoh 1 - 2
-2 petrus 1 - 5
-yoh 1 - 2
-yoh 3 - 4
-yoh 3 - 4
-yoh 3 - 4
-yoh 3 - 4
-yoh 3 - 4
-2 petrus 2 - 5
-yoh 3 - 4
-2 petrus 2 - 3
-yohanes 1 - 2
+1 1 - 2
+1 1 - 5
+1 1 - 2
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 2 - 5
+1 3 - 4
+2 2 - 3
+1 1 - 2
 yak 1 - 4
 2 petrus
-yoh 1 - 2
-yoh 3 - 4
-yoh 1 - 4
-yoh 3 - 4
-yoh 3 - 4
-2 petrus 2 - 5
-yoh 3 - 4
+1 1 - 2
+1 3 - 4
+1 1 - 4
+1 3 - 4
+1 3 - 4
+2 2 - 5
+1 3 - 4
 1 korintus
-yoh 3 - 4
-yoh 3 - 4
-yoh 3 - 4
-yoh 3 - 4
-yoh 2 - 5
-yoh 2 - 5
-yoh 2 - 5
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 3 - 4
+1 2 - 5
+1 2 - 5
+1 2 - 5
 1 yoh
-yoh 2 - 5
-yoh 1 - 4
-yohanes 3 - 4
+1 2 - 5
+1 1 - 4
+1 3 - 4
 1 yohanes
-yohanes 2 - 5
-yoh 2 - 5
-yoh 2 - 5
-2 petrus 2 - 3
-yoh 3 - 5
-yoh 2 - 5
-yoh 2 - 5
-yoh 1 - 4
-yoh 1 - 4
+1 2 - 5
+1 2 - 5
+1 2 - 5
+2 2 - 3
+1 3 - 5
+1 2 - 5
+1 2 - 5
+1 1 - 4
+2 1 - 4
 1 yoh 5 dan 2 yoh 1
-yoh 2 - 5
-yoh 2 - 5
+1 2 - 5
+1 2 - 5
 ibr
-yoh 2 - 5
-yoh 1 - 2
-yoh 2 - 5
+1 2 - 5
+2 1 - 2
+1 2 - 5
 jojo 1 pet - 1 yoh 3
 3 yoh 1 - yudas 1
 3 yoh 1
 3 yoh 1 - yudas 1
-yoh 1 - 2
-yoh 3 - 4
-yoh 2 - 5
+1 1 - 2
+1 3 - 4
+1 2 - 5
 3 yoh 1 - yudas 1
 2 pet 3 - yudas
 1 yoh 5 - yudas
@@ -16036,16 +16036,16 @@ yoh 2 - 5
 3 yohanes 1 - yudas 1
 3 yoh 1 - yudas 1
 3 yoh - yud
-yoh 2 - 3
+1 2 - 3
 3 yoh 1 - yudas 1
 3 yoh 1 - yudas 1
 3 yoh 1 - yudas 1
-yoh 2 - 5
+1 2 - 5
 3 yoh 1 - yudas 1
-yoh 2 - 5
+1 2 - 5
 1 yoh
 3 yoh
-yoh 2 - 5
+1 2 - 5
 1 yoh 5 - yud
 3 yoh 1 - yudas 1
 3 yoh 1 - yudas 1
@@ -16067,17 +16067,17 @@ why 1 - 2
 wahyu 1 - 2
 3 yoh 1
 wahyu 1 - 2
-yoh 2 - 3
+1 2 - 3
 3 yoh 1 - yudas 1
 3 yoh - wahyu 2
 wahyu 1 - 2
 why 1 - 2
-2 petrus 1 - 5
+1 1 - 5
 2 koruntus
 3 yoh 1 - yudas
-yoh 3 - 5
+1 3 - 5
 wahyu 1 - 2
-yohanes 3 - 5
+1 3 - 5
 wahyu 1 - 2
 1 1 - 3
 wahyu 3 - 4
@@ -16101,7 +16101,7 @@ why 3 - 4
 wahyu 1 - 4
 why 1 - 2
 why 3 - 4
-2 petrus 3 - 4
+1 3 - 4
 yudas
 why 1 - 2
 wahyu 5 - 6
@@ -16162,7 +16162,7 @@ wahyu 7 - 8
 wahyu 7 - 8
 wahyu 7 - 8
 wahyu 3 - 8
-yoh 1 - 5
+1 1 - 5
 why 7 - 8
 wahyu 7 - 8
 wahyu 7 - 8
@@ -16335,7 +16335,7 @@ wahyu 17 - 18
 wahyu 19 - 20
 why 11 - 20
 why 19 - 20
-why 13 - 20
+jojo 13 - 20
 wahyu 19 - 20
 why 15 - 20
 wahyu 19 - 20
@@ -16363,7 +16363,7 @@ wahyu 21 - 22
 wahyu 1 - 5
 wahyu 21 - 22
 why 21 - 22
-why 13 - 22
+jojo 13 - 22
 wahyu 7 - 22
 wahyu 21 - 22
 wahyu 19 - 22
