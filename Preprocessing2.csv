@@ -3495,8 +3495,8 @@ hak 4-5
 yos 22-23
 yosua 22-23
 yosua
-yosua 24-hakim-hakim 1
-hakim-hakim 2-hakim-hakim 3
+yosua 24-hakimhakim 1
+hakimhakim 2-hakimhakim 3
 hak 4-5
 hak 4-5
 yosua
@@ -3533,10 +3533,10 @@ hak 6-7
 hak 4-5
 hak 6-7
 hak 6-7
-hakim-hakim 4-hakim-hakim 5
+hakimhakim 4-hakimhakim 5
 hak 6-7
 hak 6-7
-hakim-hakim 6-hakim-hakim 7
+hakimhakim 6-hakimhakim 7
 hak 6-7
 hak
 kel 27-28
@@ -3617,12 +3617,12 @@ hak 10-11
 hak 12-13
 yosua 6-7
 hak 2-11
-hakim-hakim 8-hakim-hakim 9
+hakimhakim 8-hakimhakim 9
 hak 12-13
 hak 12-13
 hak 12-13
-hakim-hakim 10-hakim-hakim 11
-hakim-hakim 12-hakim-hakim 13
+hakimhakim 10-hakimhakim 11
+hakimhakim 12-hakimhakim 13
 kel 33-34
 hak 12-13
 hak 12-13
@@ -3661,7 +3661,7 @@ hak 10-11
 hak 14-15
 hak 14-15
 hak 14-15
-hakim-hakim 14-hakim-hakim 15
+hakimhakim 14-hakimhakim 15
 kel 35-kel 36
 hak 14-15
 hak 12-15
@@ -3757,9 +3757,9 @@ hak 20-21
 hak 9-17
 hak 10-11
 hak 20-21
-hakim-hakim 16-hakim-hakim 17
-hakim-hakim 18-hakim-hakim 19
-hakim-hakim 20-hakim-hakim 21
+hakimhakim 16-hakimhakim 17
+hakimhakim 18-hakimhakim 19
+hakimhakim 20-hakimhakim 21
 rut 3-4
 hak 18-21
 rut 1-2
@@ -3890,11 +3890,11 @@ hak 18-21
 1 sam 5-6
 1 sam 5-6
 1 sam 3-6
-1 samuel 1-2
-1 samuel 3-4
+1 sam
+1 sam
 rut
-1 samuel 5-6
-1 samuel 1-6
+1 sam
+1 sam
 1 sam 5-6
 imamat 15-18
 im
@@ -3921,7 +3921,7 @@ imamat 19-20
 1 sam 7-8
 hak
 ul 20-21
-1 samuel 7-8
+1 sam
 1 sam 7-8
 1 sam 7-8
 1 sam 7-8
@@ -3940,7 +3940,7 @@ hak 3-4
 1 sam 1-4
 1 sam 9-10
 1 sam 9-10
-1 samuel 7-8
+1 sam
 1 sam 7-8
 1 sam 7-10
 1 sam 9-10
@@ -3956,7 +3956,7 @@ hak 18-21
 rut 1-4
 1 sam 9-10
 hak 5-14
-1 samuel 9-10
+1 sam
 1 sam 3-4
 ul 31-32
 1 sam 9-10
@@ -3968,7 +3968,7 @@ yos 13-16
 1 sam 9-10
 1 sam 3-10
 rut 2-1
-1 samuel 3-6
+1 sam
 1 sam 5-8
 1 sam 11-12
 1 sam 11-12
@@ -3980,11 +3980,11 @@ rut 2-1
 1 sam 9-12
 hak 11-21
 1 sam 11-12
-1 samuel 9-10
-1 samuel 11-12
+1 sam
+1 sam
 1 sam 11-12
 imamat 23-24
-1 samuel 11-12
+1 sam
 1 sam 11-12
 1 sam 1-10
 1 sam 11-12
@@ -4005,7 +4005,7 @@ imamat 23-24
 1 sam 13-14
 im 10-12
 bil ul 2
-1 samuel 13-14
+1 sam
 1 sam 13-14
 1 sam 5-8
 imamat 25-26
@@ -4024,7 +4024,7 @@ ul 26-27
 1 sam 15-16
 1 sam 13-14
 1 sam 13-14
-1 samuel 7-12
+1 sam
 1 sam 11-16
 1 sam 15-16
 1 sam 15-16
@@ -4049,8 +4049,8 @@ im 13-14
 yos 6-7
 ul 32-33
 1 sam 15-16
-1 samuel 13-14
-1 samuel 15-16
+1 sam
+1 sam
 1 sam 15-16
 im 15-16
 1 sam 14-16
@@ -4058,12 +4058,12 @@ im 15-16
 1 sam 17-18
 1 sam 17-18
 1 sam 17-18
-1 samuel 15-16
+1 sam
 1 sam 17-18
 1 sam 17-18
 1 sam 17-18
 1 sam 17-18
-1 samuel 17-18
+1 sam
 1 sam 11-18
 1 sam 17-18
 1 sam 5-18
@@ -4104,7 +4104,7 @@ bilangan 6-7
 1 sam 19-20
 1 sam 19-20
 1 sam 19-20
-1 samuel 19-20
+1 sam
 1 sam 11-14
 1 sam 15-16
 yos 10-11
@@ -4124,7 +4124,7 @@ hak 1-2
 1 sam 21-22
 1 sam 21-22
 ul 3-6
-1 samuel 19-20
+1 sam
 1 sam 21-22
 1 sam 21-22
 1 sam 22-yak
@@ -4148,7 +4148,7 @@ yos 16-17
 1 sam 21-22
 1 sam 17-20
 1 sam 16-20
-1 samuel 21-22
+1 sam
 1 sam 21-22
 1 sam 15-22
 1 sam 21-22
@@ -4187,9 +4187,9 @@ hak 3-4
 1 sam 25-26
 1 sam 25-26
 1 sam 25-26
-1 samuel 21-22
-1 samuel 23-24
-1 samuel 25-26
+1 sam
+1 sam
+1 sam
 1 sam 25-26
 1 sam 25-26
 1 sam 25-26
@@ -4198,8 +4198,8 @@ hak 3-4
 1 sam 25-26
 bilangan 12-13
 1 sam 25-26
-1 samuel 23-24
-1 samuel 25-26
+1 sam
+1 sam
 1 sam 25-26
 1 sam 27-28
 1 sam 27-28
@@ -4222,7 +4222,7 @@ bilangan 12-13
 1 sam 27-28
 1 sam 27-28
 1 sam 27-28
-1 samuel 27-28
+1 sam
 1 sam 27-28
 bilangan 14-15
 1 sam 27-28
@@ -4230,7 +4230,7 @@ bil 1-9
 1 sam 27-28
 1 sam 27-28
 1 sam 27-28
-1 samuel 27-28
+1 sam
 1 sam 25-28
 1 sam 27-28
 1 sam 25-26
@@ -4296,7 +4296,7 @@ yosua 1-4
 1 sam 29-2
 1 sam 31-2
 1 sam 27-30
-1 samuel 27-28
+1 sam
 1 sam 31-2
 1 sam 31-2
 1 sam
@@ -4310,9 +4310,9 @@ hak 6-7
 1 sam 31-2
 2 sam 2-3
 2 sam 2-3
-1 samuel 29-30
+1 sam
 2 sam 2-3
-1 samuel 31-2
+1 sam-2 sam
 1 sam 31-2
 2 sam 2-3
 2 sam 3-4
@@ -4328,7 +4328,7 @@ hak 10-11
 2 sam 2-3
 2 sam 2-3
 2 sam 2-3
-2 samuel 2-3
+2 sam
 2 sam 2-3
 1 sam 19-22
 2 sam 2-5
@@ -4372,7 +4372,7 @@ ul 7-9
 2 sam 6-7
 2 sam 4-7
 2 sam 6-7
-2 samuel 4-5
+2 sam
 2 sam 6-7
 2 sam 2-4
 bilangan 25-26
@@ -4382,15 +4382,15 @@ bilangan 25-26
 2 sam 4-5
 2 sam 6-7
 2 sam 6-7
-2 samuel 2-3
+2 sam
 2 sam 8-9
 2 sam 8-9
 2 sam 8-9
 2 sam 8-9
-2 samuel 4-5
+2 sam
 2 sam 8-9
-2 samuel 6-7
-2 samuel 8-9
+2 sam
+2 sam
 2 sam 8-9
 2 sam 4-7
 2 sam 8-9
@@ -4412,8 +4412,8 @@ bilangan 27-28
 2 sam 5-6
 2 sam 8-9
 2 sam 8-9
-2 samuel 8-9
-2 samuel 8-9
+2 sam
+2 sam
 2 sam 4-5
 hak 11-21
 2 sam 2-8
@@ -4428,7 +4428,7 @@ yosua 9-12
 2 sam 11-12
 2 sam 10-11
 2 sam 10-11
-2 samuel 10-11
+2 sam
 2 sam 10-11
 2 sam 10-11
 2 sam 6-7
@@ -4463,11 +4463,11 @@ bilangan 29-30
 2 sam 13-14
 2 sam 12-13
 2 sam 12-13
-2 samuel 10-11
+2 sam
 2 sam 12-13
 2 sam 12-13
 2 sam 12-13
-2 samuel 12-13
+2 sam
 2 sam 10-12
 2 sam 12-13
 2 sam 12-13
@@ -4540,7 +4540,7 @@ yosua 13-16
 yosua 17-20
 1 sam 3-4
 2 sam 14-17
-2 samuel 14-15
+2 sam
 im
 2 sam 16-17
 2 sam 8-11
@@ -4555,7 +4555,7 @@ im
 2 sam 18-19
 2 sam 18-19
 flm-2 sam 23-maz
-2 samuel 16-17
+2 sam
 2 sam 18-19
 2 sam 4-9
 1 sam 18-20
@@ -4624,13 +4624,13 @@ hak 10-11
 2 sam 20-21
 2 sam 24-1
 2 sam 24-1
-2 samuel 18-19
+2 sam
 2 sam 24-1
-2 samuel 20-21
-2 samuel 22-23
+2 sam
+2 sam
 2 sam 18-1
 2 sam 22-23
-2 samuel 24-1
+2 sam-1 raj
 2 sam 24-1
 2 sam 20-23
 2 sam 24-1
@@ -4656,22 +4656,22 @@ hak 10-11
 1 raj 2-3
 2 sam 24-1
 1 raj 3-4
-1 raja 2-3
+1 raj
 2 sam 22-23
 2 sam 24-1
 bil 16-25
-1 raja 2-3
-1 raja 2-3
+1 raj
+1 raj
 1 raj 2-3
 1 raj 2-3
-1 raja 2-3
+1 raj
 2 sam 24-1
 2 sam 14-24
-2 samuel 12-13
-1 raja 2-3
-2 samuel
+2 sam
+1 raj
+2 sam
 1 raj 1-3
-1 raja 2-3
+1 raj
 1 raj 2-3
 2 sam 24
 1 raj 2-3
@@ -4684,55 +4684,55 @@ hak
 2 sam 10-13
 1 raj 4-5
 1 raj 4-5
-1 raja 4-5
-1 raja 2-3
-1 raja 4-5
-2 samuel 16-17
-1 raja-raja 2-3
+1 raj
+1 raj
+1 raj
+2 sam
+1 raj
 1 raj 2-5
-1 raja-raja 4-5
+1 raj
 2 sam 24
-1 raja 4-5
-1 raja 4-5
-1 raja 4-5
-1 raja 4-5
-1 raja 4-5
+1 raj
+1 raj
+1 raj
+1 raj
+1 raj
 ul 16-20
 ul 21-30
 2 sam 24-1
-1 raja 1-5
+1 raj
 ul 18-22
 1 raj 2-3
 kel 16-ulangan 19
 1 sam 6-10
 ul 31-34
 bilangan 28-ulangan 2
-1 raja 4-5
+1 raj
 1 raj 4-5
 yos 1-24
 1 raj 4-5
 1 raj 6-7
 2 sam 24-1
-1 raja 6-7
+1 raj
 1 raj 6-7
 1 raj 6-7
-1 raja 4-7
-1 raja 6-7
-2 samuel 20-21
-1 raja 6-7
-1 raja 6-7
-1 raja-raja 6-7
-1 raja 6-7
-1 raja 6-7
+1 raj
+1 raj
+2 sam
+1 raj
+1 raj
+1 raj
+1 raj
+1 raj
 2 sam 14-19
 hak 1-21
 2 raj 4-5
 rut 1-4
-1 raja 3-5
+1 raj
 1 raj 2-3
-1 raja 6-7
+1 raj
 ulangan 3-ulangan 17
-1 raja 6-7
+1 raj
 1 raj 4-7
 1 raj 6-7
 1 raj 6-7
@@ -4743,15 +4743,15 @@ ulangan 3-ulangan 17
 1 raj 6-7
 1 raj 4-5
 1 raj 4-5
-1 raja 4-5
-1 raja 6-7
+1 raj
+1 raj
 1 raj 6-7
 hak 8-1
 1 raj 4-7
 hak 5-8
 2 sam 20-21
 1 sam 21-31
-1 raja 8-9
+1 raj
 1 raj 8-9
 1 raj 8-9
 1 raj 8-9
@@ -4759,9 +4759,9 @@ hak 5-8
 2 sam 22-23
 hak 12-16
 1 raj 8-9
-1 raja 8-9
-1 raja 8-9
-1 raja 8-9
+1 raj
+1 raj
+1 raj
 2 raj 7-9
 2 sam 17-21
 1 raj 8-9
@@ -4771,41 +4771,41 @@ hak 12-16
 hak 17-20
 2 sam 5-14
 1 raj 8-9
-2 samuel 24-1
+2 sam-1 raj
 1 raj 7-9
 1 raj 8-9
 2 sam 22-24
 ulangan 18-ulangan 34
 bil 26-31
-1 raja 4-5
-1 raja 6-7
-1 raja 6-7
-1 raja 8-9
+1 raj
+1 raj
+1 raj
+1 raj
 1 raj 6-7
-1 raja 8-9
-1 raja 8-9
-1 raja-raja 8-9
+1 raj
+1 raj
+1 raj
 1 sam 11-14
-1 raja 6-7
-1 raja 8-9
+1 raj
+1 raj
 1 raj 8-9
 1 raj 10-11
 2 sam 1-11
 hak rut 2
-1 raja 10-11
+1 raj
 hak 9-12
-1 raja 10-11
-1 raja 10-11
+1 raj
+1 raj
 1 raj 8-11
 1 raj 10-11
-1 raja 10-11
-1 raja 10-11
+1 raj
+1 raj
 1 raj 10-11
 1 raj 10-11
 1 raj 8-11
 bil 32-36
-1 raja 10-11
-1 raja 6-11
+1 raj
+1 raj
 1 raj 10-11
 1 raj 10-11
 1 sam 9-10
@@ -4823,55 +4823,55 @@ ul 24
 1 raj 12-13
 1 raj 12-13
 1 raj 12-13
-1 raja 12-13
-1 raja-raja 10-11
+1 raj
+1 raj
 2 sam 1-20
-1 raja-raja 12-13
+1 raj
 1 raj 12-13
 1 raj 12-13
 1 raj 12-13
-1 raja 12-13
+1 raj
 1 raj 12-13
 rut 3-4
-1 raja 12-13
-1 raja 12-13
-1 raja 12-13
+1 raj
+1 raj
+1 raj
 1 raj 12-13
-1 raja 12-13
+1 raj
 ""
 ul 29
 1 raj 12-13
 1 raj 8-9
 1 raj 4-11
 1 raj 10-11
-1 raja
+1 raj
 1 raj 12-13
 1 raj 12-13
 1 sam 15-16
-1 raja 6-7
+1 raj
 1 raj 12-13
 1 raj 12-13
-1 raja 14-15
+1 raj
 hak 13-16
 2 sam 12-24
 1 sam 1-4
 1 raj 14-15
-1 raja 14-15
-1 raja 14-15
+1 raj
+1 raj
 1 raj 14-15
 1 raj 14-15
-1 raja 14-15
-1 raja-raja 14-15
+1 raj
+1 raj
 1 raj 14-15
 1 raj 14-15
-1 raja 14-15
+1 raj
 1 raj 14-15
-1 raja 14-15
+1 raj
 yosua 4-yosua 24
-1 raja 8-11
+1 raj
 1 sam 5-6
-1 raja 14-15
-hakim-hakim 1-hakim-hakim 13
+1 raj
+hak-hak-hak-hak
 1 raj 10-11
 1 raj 14-15
 1 raj 12-15
@@ -4884,27 +4884,27 @@ yosua 1
 1 raj 14-15
 1 raj 14-15
 1 raj 11-14
-2 samuel
+2 sam
 1 raj 16-17
 1 raj 14-15
 1 raj 12-13
 1 raj 16-17
-1 raja 16-17
+1 raj
 1 raj 16-17
 1 raj 16-17
-1 raja 16-17
+1 raj
 1 raj 16-17
-1 raja 10-11
-1 raja 12-13
+1 raj
+1 raj
 2 sam 15-21
 1 raj 16-17
 1 sam 7-8
 1 raj 2-15
-hakim-hakim 14-hakim-hakim 21
-1 raja 16-17
-1 raja 16-17
-1 raja 16-17
-1 raja 16-17
+hak-hak-hak-hak
+1 raj
+1 raj
+1 raj
+1 raj
 1 raj 16-17
 1 sam 18-19
 yos 6
@@ -4912,59 +4912,59 @@ yos 6
 1 raj 16-17
 1 raj 14-15
 1 raj 16-17
-1 raja 18-19
-1 raja 18-19
-1 raja 18-19
+1 raj
+1 raj
+1 raj
 1 raj 16-17
-1 raja 16-17
-1 raja 18-19
+1 raj
+1 raj
 ul 29-32
-1 raja-raja 16-17
+1 raj
 1 raj 18-19
-1 raja 18-19
-1 raja-raja 18-19
+1 raj
+1 raj
 1 raj 18-19
-1 raja 14-15
-1 raja 18-19
+1 raj
+1 raj
 1 raj 18-19
-1 samuel 6-1
+1 sam-1 sam
 1 raj 18-19
 yos 11
 1 sam 3-17
-1 raja 16-17
+1 raj
 1 raj 1-6
-1 raja 18-19
+1 raj
 1 raj 18-19
 1 raj 12-14
 1 raj 16-19
 1 raj 16-17
-1 raja 18-19
+1 raj
 1 raj 10-13
 1 sam 20-21
 1 raj 18-19
 ul 1-7
 1 raj 18-19
-1 raja 12-19
-1 raja 15-18
-1 raja 20-21
-1 raja 20-21
-1 raja 20-21
+1 raj
+1 raj
+1 raj
+1 raj
+1 raj
 1 raj 18-19
 1 raj 20-21
 1 sam 9-10
-1 raja 20-21
-1 raja 18-19
-1 raja-raja 20-21
-1 raja 20-21
+1 raj
+1 raj
+1 raj
+1 raj
 1 raj 20-21
-1 samuel 24-1
+1 sam-1 sam
 1 raj 20-21
-1 raja 20-21
+1 raj
 1 raj 14-17
-1 raja 20-21
+1 raj
 1 raj 16-21
-1 raja 20-21
-1 raja 20-21
+1 raj
+1 raj
 1 raj 18-21
 1 sam 22-23
 1 raj 20-21
@@ -4973,39 +4973,39 @@ yos 16
 1 raj 20-21
 1 raj 12-21
 1 raj 20-21
-1 raja-raja 8-9
+1 raj
 hak 21
 1 raj 20-21
 1 raj 15-16
-2 samuel 13-2
+2 sam-2 sam
 1 sam 11-14
 ul 8-14
-1 raja 19-21
+1 raj
 yos 21
-1 raja 1-10
+1 raj
 1 raj 18-21
 1 raj 22-2
-1 raja 22-2 raja 1
-1 raja 22-2
+1 raj-2 raj
+1 raj-2 raj
 1 raj 22-2
 1 raj 22-2
-1 raja-raja 22-2
+1 raj-2 raj
 1 raj 22-2
 1 raj 22-2
 1 raj 22-2
 1 raj 20-2
 1 raj 22-2
 1 raj 17-21
-1 raja 20-22-2
-1 raja-raja 9-1
+1 raj-2 raj
+1 raj-1 raj
 1 raj 22-2
-1 raja 14-22
-1 raja 18-19
-1 raja 20-21
+1 raj
+1 raj
+1 raj
 1 raj 22-2
-1 raja 22-2
+1 raj-2 raj
 1 raj 22-2
-1 raja-raja 16-17
+1 raj
 1 raj 18-19
 1 raj 22-2
 1 sam 15-18
@@ -5014,32 +5014,32 @@ yos 21
 1 raj 22-2
 rut 4
 2 raj 2-3
-2 raja 2-3
+2 raj
 ul 33-yosua 1
 2 raj 2-3
 1 raj 22
 2 raj 1-3
 1 raj 22-2
 2 raj 2-3
-2 raja 2-3
+2 raj
 2 raj 2-3
-2 raja 2-3
-1 raja 22-2
-2 raja 2-3
+2 raj
+1 raj-2 raj
+2 raj
 1 sam 18-25
 1 raj 7-15
-2 raja 2-3
+2 raj
 ul 15-21
 1 raj 22-2
 2 sam 12-15
-2 raja-raja 2-2
-2 raja 2-3
+2 raj-2 raj
+2 raj
 1 raj 20-21
 2 raj 2-3
 2 raj 2-3
 2 raj 2-3
 1 sam 22-24
-hakim-hakim 2
+hak-hak
 1 raj 22-2
 2 raj 2-3
 2 raj 4-5
@@ -5047,20 +5047,20 @@ hakim-hakim 2
 1 sam 1-4
 2 raj 2-5
 2 raj 4-5
-2 raja 4-5
-2 raja 4-5
+2 raj
+2 raj
 1 sam 19-20
 2 raj 4-5
-2 sam 21-24-1 raja 1-10
+2 sam 21-24-1 raj
 2 raj 4-5
 2 raj 2-5
 2 raj 2-5
 2 raj 4-5
-2 raja 2-5
-2 raja 4-5
+2 raj
+2 raj
 2 raj 4-5
-2 raja 2-5
-2 raja-raja 4-2
+2 raj
+2 raj-2 raj
 ul 22-28
 1 raj 16-2
 2 raj 4-5
@@ -5071,7 +5071,7 @@ hak 7
 1 raj 22-2
 2 raj 4-5
 1 sam 25-26
-2 raja 4-5
+2 raj
 2 sam 22-1
 2 raj 4-5
 1 raj 21-2
@@ -5081,37 +5081,37 @@ hak 7
 2 raj 6-7
 2 raj 6-7
 2 raj 6-7
-2 raja 4-7
+2 raj
 yosua 2-5
 2 raj 6-7
 2 raj 6-7
 2 raj 6-7
-1 raja
-2 raja 6-7
-2 raja 6-7
-2 raja-raja 2-3
+1 raj
+2 raj
+2 raj
+2 raj
 2 raj 6-7
 2 raj 6-7
-2 raja-raja 4-5
+2 raj
 1 sam 21-22
 1 sam 26-31
 2 sam 1-4
 2 raj 6-7
-2 raja 1-7
+2 raj
 ul 29-34
 2 raj 6-7
 2 raj 6-7
 2 raj 6-7
-2 raja 6-7
+2 raj
 2 raj 6-7
 2 raj 6-7
-2 raja-raja 6-2
+2 raj-2 raj
 2 raj 6-7
 hak 12
 2 raj 6-7
 2 raj 5-7
 2 raj 6-7
-2 raja 8-9
+2 raj
 1 sam 23-26
 2 raj 8-9
 2 raj 8-9
@@ -5124,18 +5124,18 @@ yosua 2-7
 2 raj 8-9
 2 raj 8-9
 1 raj 16-2
-2 raja-raja 6-7
-2 raja-raja 8-9
-2 raja 8-9
-2 raja-raja 8-9
+2 raj
+2 raj
+2 raj
+2 raj
 2 raj 8-9
-2 raja 8-9
-2 raj 8-9
-2 raj 8-9
-2 raja-raja 8-2
+2 raj
 2 raj 8-9
 2 raj 8-9
-2 raja-raja 8-9
+2 raj-2 raj
+2 raj 8-9
+2 raj 8-9
+2 raj
 yos 1-8
 2 raj 8-9
 2 raj 8-9
@@ -5143,7 +5143,7 @@ yos 1-8
 2 raj 8-9
 2 raj 4-6
 2 raj 10-11
-2 raja 10-11
+2 raj
 2 raj 8-9
 2 raj 10-11
 2 raj 10-11
@@ -5153,11 +5153,11 @@ hak 12-hak 17
 2 raj 10-11
 2 raj 10-11
 2 raj 10-11
-2 raja 10-11
+2 raj
 2 raj 10-11
 2 raj 10-11
 2 raj 10-11
-2 raja-raja 10-11
+2 raj
 2 raj 8
 2 raj 10-11
 2 raj 2-5
@@ -5168,42 +5168,42 @@ hak 12-hak 17
 2 sam 16-20
 2 raj 4-7
 1 raj 20-2
-2 raja 8-9
-2 raja 10-11
+2 raj
+2 raj
 2 raj 10-11
-2 raja 10-11
+2 raj
 2 raj 8-11
-2 raja-raja 10-11
-2 raja-raja 10-11
+2 raj
+2 raj
 2 raj 7-11
 2 raj 6-7
 hak 13-18
-2 raja 12-13
-2 raja 12-13
+2 raj
+2 raj
 2 raj 12-13
-2 raja 12-13
+2 raj
 2 raj 12-13
 1 sam 27-28
-2 raja 12-13
+2 raj
 2 sam 24-1
-2 raja 12-13
+2 raj
 1 sam 5-8
-2 raja 12-13
-2 raja 12-13
-2 raja 12-13
-2 raja-raja 12-13
-2 raja 12-13
-2 raja-raja 10-2
-2 raja-raja 12-2
+2 raj
+2 raj
+2 raj
+2 raj
+2 raj
+2 raj-2 raj
+2 raj-2 raj
 2 raj 12-13
 2 raj 12-13
 2 raj 12-13
 yos 17-24
 yosua 8-12
-2 raja 12-13
+2 raj
 2 raj 8-9
 2 raj 12-13
-2 raja-raja 12-13
+2 raj
 1 sam 27-31
 2 raj 12-13
 2 raj 12-13
@@ -5214,84 +5214,84 @@ hak 18-rut 1
 2 raj 10-13
 2 raj 14-15
 2 raj 14-15
-2 raja 14-15
-2 raja 14-15
-2 raja 14-15
+2 raj
+2 raj
+2 raj
 2 raj 14-15
 1 raj
 2 raj 1-5
 2 raj 14-15
-2 raja-raja 14-15
+2 raj
 2 raj 12-15
 2 raj 14-15
 2 raj 14-15
 2 raj 12-13
-2 raja 14-15
+2 raj
 2 raj 12-15
 2 raj 14-15
 hak 1-7
-2 raja-raja 14-15
+2 raj
 2 raj 14-15
 2 raj 10-11
 2 raj 14-15
 2 raj 14-15
 2 raj 14-15
 2 raj 14-15
-2 raja-raja 14-15
+2 raj
 2 raj 14-15
 2 raj 7-13
 1 sam 9-12
 2 raj 16-17
 2 raj 16-17
 rut 2-1
-2 raja 16-17
+2 raj
 2 raj 16-17
 yosua 13-21
-2 raja 16-17
-2 raja 16-17
+2 raj
+2 raj
 2 raj 16-17
-1 raja 10-22
+1 raj
 2 raj 16-17
 2 raj 16-17
 2 raj 16-17
-1 raja 2-5
+1 raj
 2 raj 16-17
-2 raja 16-17
-2 raja 16-17
+2 raj
+2 raj
 1 sam 29-30
-2 raja-raja 10-17
+2 raj
 2 raj 16-17
 2 raj 16-17
-2 raja 12-13
-2 raja 14-15
+2 raj
+2 raj
 2 raj 16-17
 2 raj 16-17
 2 raj 16-17
-2 raja 16-17
+2 raj
 2 raj 16-17
 2 raj 14-15
-2 raja-raja 16-17
-2 raja-raja 16-17
+2 raj
+2 raj
 2 raj 16-17
 2 raj 6-15
 2 raj 18-19
 2 raj 18-19
-2 raja-raja 16-17
+2 raj
 2 raj 18-19
 2 raj 18-19
 2 raj 18-19
 2 raj 18-19
-2 raja 18-19
-2 raja 18-19
+2 raj
+2 raj
 2 raj 18-19
 2 raj 18-19
-2 raja 14-18
-2 raja 18-19
+2 raj
+2 raj
 2 raj 18-19
-2 raja 14-15
+2 raj
 2 raj 18-19
 2 raj 18-19
-2 raja 18-19
+2 raj
 2 raj 12-13
 2 sam 1-2
 2 raj 14-15
@@ -5300,18 +5300,18 @@ yosua 13-21
 2 raj 21-22
 2 raj 20-23
 2 raj 20-21
-2 raja 20-21
-2 raja 18-19
+2 raj
+2 raj
 2 raj 20-21
 2 raj 20-21
-2 raja 20-21
-1 raja 6-9
+2 raj
+1 raj
 2 raj 20-21
 2 raj 20-21
 2 raj 20-21
-2 raja 20-21
+2 raj
 2 raj 20-21
-1 raja 10-11
+1 raj
 2 raj 20-21
 2 raj 14-15
 2 raj 18-21
@@ -5319,22 +5319,22 @@ yosua 13-21
 2 raj 20-21
 2 sam 3-4
 2 raj 20-21
-2 raja 22-23
+2 raj
 2 raj 12-15
 2 raj 22-23
-2 raja 16-17
-2 raja 18-19
-2 raja 20-21
+2 raj
+2 raj
+2 raj
 2 raj 22-23
-2 raja 22-23
+2 raj
 2 raj 22-23
 2 raj 22-23
 yosua 22-24
 2 raj 22-23
 2 raj 20-21
 2 raj 22-23
-2 raja 22-23
-2 raja 22-23
+2 raj
+2 raj
 1 sam 9-13
 2 raj 22-23
 hak 8-14
@@ -5342,7 +5342,7 @@ hak 8-14
 2 raj 19-23
 2 raj 16-17
 2 raj 16-20
-2 raja 22-23
+2 raj
 2 raj 22-23
 1 sam 31-2
 2 raj 16-17
@@ -5351,7 +5351,7 @@ hak 8-14
 2 raj 10-23
 2 raj 22-23
 2 raj 20-23
-2 raja-raja 18-19
+2 raj
 2 raj 22-23
 2 raj 18-19
 2 sam 5-6
@@ -5359,34 +5359,34 @@ hak 8-14
 yos 22-24
 1 sam 14-18
 2 raj 24-25
-2 raja 24-25
+2 raj
 2 raj 24-25
 2 raj 24-25
 2 raj 24-25
-2 raja 1-11
+2 raj
 hak 15-21
-2 raja-raja 18-19
+2 raj
 2 raj 24-25
-2 raja 22-23
-2 raja 24-25
-2 raja-raja 20-21
-2 raja-raja 22-23
-2 raja-raja 24-25
+2 raj
+2 raj
+2 raj
+2 raj
+2 raj
 2 raj 3-12
-2 raja 20-21
+2 raj
 2 raj 24-25
-2 raja 18-25
-2 raj 24-25
-2 raj 24-25
+2 raj
 2 raj 24-25
 2 raj 24-25
-2 raja 22-23
-2 raja-raja 24-25
-2 raja 24-25
-2 raja 24-25
-2 raja 24-25
 2 raj 24-25
-2 raja 24-25
+2 raj 24-25
+2 raj
+2 raj
+2 raj
+2 raj
+2 raj
+2 raj 24-25
+2 raj
 2 raj 20-21
 2 raj 24-25
 2 raj 24-25
@@ -5398,7 +5398,7 @@ hak 15-21
 1 taw 1-2
 1 taw 1-2
 1 taw 1-2
-1 tawarikh 1-2
+1 taw
 1 taw 1-2
 1 taw 1-2
 2 raj 20-1
@@ -5418,7 +5418,7 @@ rut 1-4
 2 raj 22-23
 1 sam 19-23
 2 raj 19-22
-1 raja 2
+1 raj
 1 taw 3-4
 1 taw 3-4
 1 taw 3-4
@@ -5432,12 +5432,12 @@ hak 1-3
 1 taw 3-4
 1 taw 3-4
 2 raj 13-19
-2 raja 18-1
+2 raj-1 taw 4
 1 taw 1-2
 1 taw 3-4
 1 taw 1-4
 1 taw 3-4
-1 tawarikh 3-4
+1 taw
 1 taw 3-4
 2 raj 18-25
 1 taw 3-4
@@ -5450,7 +5450,7 @@ hak 1-3
 1 taw 3-4
 1 taw 5-6
 1 taw 5-6
-1 raja 12-16
+1 raj
 1 taw 5-6
 1 taw 5-6
 1 taw 5-6
@@ -5458,7 +5458,7 @@ hak 1-3
 1 taw 5-6
 1 taw 3-6
 1 taw 5-6
-1 tawarikh 5-1
+1 taw-1 taw
 hak
 1 taw 5-6
 1 taw 5-6
@@ -5466,7 +5466,7 @@ hak
 1 taw 5-6
 1 taw 5-6
 1 taw 5-6
-2 raja 24-25
+2 raj
 1 taw 5-6
 1 taw 3-6
 1 taw 1-4
@@ -5479,11 +5479,11 @@ hak
 1 taw 7-8
 1 taw 7-8
 hak
-1 tawarikh 1-2
+1 taw
 1 taw 5-6
-1 tawarikh 3-4
+1 taw
 1 taw 7-8
-1 tawarikh 5-6
+1 taw
 1 taw 7-8
 1 taw 7-8
 2 sam 5-6
@@ -5493,7 +5493,7 @@ bil 30
 1 taw 7-8
 bil 31
 1 taw 7-8
-1 tawarikh 7-1
+1 taw-1 taw
 1 taw 7-8
 1 taw 7-8
 1 taw 7-8
@@ -5518,7 +5518,7 @@ bil 31
 1 taw 5-10
 1 taw 9-10
 1 taw 9-10
-1 tawarikh 9-1
+1 taw-1 taw
 1 taw 9-10
 1 taw 9-10
 1 taw 9-10
@@ -5529,20 +5529,20 @@ bil 31
 1 taw 7-10
 2 sam 3-8
 1 taw 5-10
-2 raja-raja 3-10
+2 raj
 1 sam 14-19
 1 taw 3-4
 1 taw 5-6
 hak 10-12
 1 taw 7-8
 1 taw 9-10
-2 raja 11-25
+2 raj
 1 taw 5-6
 1 taw 7-10
 1 taw 7-8
 1 taw 7-10
 2 sam 9-13
-1 tawarikh 11-1
+1 taw-1 taw
 1 taw 1-4
 1 taw 11-12
 1 taw 11-12
@@ -5550,8 +5550,8 @@ hak 10-12
 1 taw 11-12
 1 taw 11-12
 1 taw 9-10
-1 tawarikh 7-8
-1 tawarikh 9-10
+1 taw
+1 taw
 1 taw 11-12
 2 sam 17-20
 1 taw 11-12
@@ -5562,7 +5562,7 @@ hak 10-12
 1 taw 11-12
 1 taw 11-12
 1 taw 9-12
-1 tawarikh 1-2
+1 taw
 1 taw 11-12
 1 taw 11-12
 1 taw 9-10
@@ -5574,7 +5574,7 @@ hak 10-12
 1 taw 5-6
 1 taw 13-14
 1 taw 5-6
-1 tawarikh 13-1
+1 taw-1 taw
 2 sam 14-20
 1 taw 11-12
 1 taw 13-14
@@ -5614,7 +5614,7 @@ hak 10-12
 1 taw 15-16
 1 taw 15-16
 1 taw 15-16
-1 tawarikh 11-12
+1 taw
 1 taw 9-16
 1 taw 15-16
 1 sam 20-25
@@ -5623,14 +5623,14 @@ hak 10-12
 1 taw 15-16
 1 taw 15-16
 1 taw 9-10
-1 raja 17-22
+1 raj
 1 taw 15-16
 1 taw 15-16
-1 tawarikh 15-1
+1 taw-1 taw
 1 taw 15-16
 1 taw 15-16
 2 raj 9-12
-2 raja
+2 raj
 1 taw 15-16
 1 taw 13-14
 1 raj 2-6
@@ -5652,10 +5652,10 @@ hak
 2 sam 17-18
 1 taw 17-18
 1 taw 17-18
-2 raja-raja 11-1
-1 tawarikh 13-14
-1 tawarikh 17-1
-1 tawarikh 15-16
+2 raj-1 taw 14
+1 taw
+1 taw-1 taw
+1 taw
 1 taw 15-18
 1 taw 17-18
 1 taw 17-18
@@ -5663,7 +5663,7 @@ hak
 1 taw 11-12
 1 taw 17-18
 1 taw 19-20
-1 tawarikh 7-8
+1 taw
 1 taw 17-18
 1 taw 17-18
 1 taw 13-14
@@ -5686,12 +5686,12 @@ hak
 2 sam 13-24
 1 taw 19-20
 1 taw 19-20
-2 raja 2
+2 raj
 2 sam 23-24
 1 taw 19-20
 1 taw 19-20
 1 taw 19-20
-1 tawarikh 19-1
+1 taw-1 taw
 1 taw 19-20
 1 taw 19-20
 1 taw 13-14
@@ -5708,22 +5708,22 @@ hak
 1 taw 21-22
 1 taw 21-22
 1 taw 21-22
-2 raja 1-4
-1 tawarikh 13-14
+2 raj
+1 taw
 1 taw 21-22
 1 taw 19-22
 1 taw 21-22
 1 taw 21-22
-1 tawarikh 17-18
-1 tawarikh 19-20
-1 tawarikh 21-22
+1 taw
+1 taw
+1 taw
 1 taw 11-15
 1 taw 19-22
-2 raja-raja-markus
+2 raj-markus
 1 raj 3-6
 1 taw 17-18
 1 taw 19-20
-1 tawarikh 15-16
+1 taw
 1 taw 1-15
 2 sam 1-1
 1 taw 21-22
@@ -5743,7 +5743,7 @@ hak
 1 taw 23-24
 1 taw 23-24
 1 taw 23-24
-1 tawarikh 23-24
+1 taw
 1 taw 23-24
 1 taw 23-24
 rut 1-1
@@ -5753,7 +5753,7 @@ rut 1-1
 1 taw 23-24
 1 taw 17-24
 1 taw 23-24
-1 tawarikh 21-1
+1 taw-1 taw
 1 taw 23-24
 1 taw 23-24
 1 taw 23-24
@@ -5795,13 +5795,13 @@ rut 1-1
 1 taw 25-28
 1 taw 25-28
 1 taw 27-28
-2 raja 5-6
-1 tawarikh 25-26
+2 raj
+1 taw
 1 taw 21-22
 1 taw 27-28
 1 taw 23-28
 1 raj 19-20
-1 tawarikh 25-1
+1 taw-1 taw
 1 taw 25-26
 1 taw 27-28
 1 taw 25-28
@@ -5822,20 +5822,20 @@ rut 1-1
 1 taw 23-24
 1 taw 27-28
 1 taw 29-2
-2 raja 7-10
+2 raj
 1 taw 29-2
 1 taw 29-2
 1 taw 29-2
 1 taw 29-2
 1 raj 21-22
-1 tawarikh 27-28
+1 taw
 1 taw 27-2
 1 sam 2-8
 1 taw 27-28
 1 taw 29-2
 1 taw 29-2
 1 taw 29-2
-1 tawarikh 29-2
+1 taw-2 taw
 1 taw 29-2
 1 taw 29 dan 2
 1 taw 29-2
@@ -5858,7 +5858,7 @@ rut 1-1
 2 taw 2-3
 1 taw 29-2
 2 taw 2-3
-2 raja 11-14
+2 raj
 1 taw 29-2
 2 taw 2-3
 2 taw 2-3
@@ -5884,9 +5884,9 @@ rut 1-1
 2 taw 4-5
 2 taw 4-5
 2 taw 4-5
-1 tawarikh 19-20
-1 tawarikh 29-2
-2 tawarikh 2-3
+1 taw
+1 taw-2 taw
+2 taw
 1 taw 29-2
 2 taw 4-6
 2 taw 4-5
@@ -5905,7 +5905,7 @@ rut 1-1
 1 raj 17-21
 1 taw 19-24
 2 taw 4-6
-1 tawarikh 25-26
+1 taw
 2 taw 4-5
 2 raj 7-14
 2 sam 18-24
@@ -5921,13 +5921,13 @@ rut 1-1
 1 raj 4-7
 2 taw 6-7
 2 taw 6-7
-2 tawarikh 4-5
-2 tawarikh 6-7
+2 taw
+2 taw
 2 taw 6-7
 2 taw 3-7
 2 taw 6-7
-2 raja 11-16
-1 samuel 9-12
+2 raj
+1 sam
 2 taw 6-7
 2 taw 2-3
 2 taw 4-7
@@ -5991,9 +5991,9 @@ rut 1-1
 2 taw 10-11
 2 raj 2-6
 2 taw 6-11
-2 tawarikh 8-9
+2 taw
 2 taw 10-11
-2 tawarikh 10-11
+2 taw
 1 taw 5-8
 2 taw 10-11
 2 taw 8-11
@@ -6039,9 +6039,9 @@ rut 1-1
 1 taw 7-14
 2 taw 12-13
 2 taw 12-13
-2 tawarikh 2-2
+2 taw-2 taw
 1 taw 21-29
-2 raja 17-18
+2 raj
 2 taw 12-13
 1 sam 21-22
 2 taw 12-13
@@ -6050,7 +6050,7 @@ rut 1-1
 2 taw 14-15
 2 taw 10-11
 1 raj 21-2
-2 raja 19-24
+2 raj
 2 taw 14-15
 2 taw 14-15
 2 taw 12-13
@@ -6060,7 +6060,7 @@ rut 1-1
 2 taw 12-15
 2 taw 14-15
 2 taw 14-15
-2 tawarikh 14-2
+2 taw-2 taw
 1 taw 21-22
 2 taw 14-15
 2 taw 14-15
@@ -6070,7 +6070,7 @@ rut 1-1
 2 raj 11-16
 2 taw 14-15
 2 taw 14-15
-2 raja 25
+2 raj
 1 taw 21-29
 2 taw 14-15
 2 taw 9-10
@@ -6078,7 +6078,7 @@ rut 1-1
 2 taw 12-13
 2 raj 8-12
 2 taw 16-17
-1 tawarikh 6-10
+1 taw
 1 taw 23-24
 2 taw 16-17
 2 taw 14-15
@@ -6092,16 +6092,16 @@ rut 1-1
 2 taw 15-18
 2 taw 16-17
 2 taw 14-15
-2 tawarikh 12-13
-2 tawarikh 14-15
-2 tawarikh 16-17
+2 taw
+2 taw
+2 taw
 1 taw 15-18
 2 raj 22-25
 1 taw 29-2
 2 taw 16-17
 2 taw 16-17
 2 taw 16-17
-1 tawarikh 11-13
+1 taw
 2 taw 12-15
 1 raj 3-4
 1 sam 29-30
@@ -6110,10 +6110,10 @@ rut 1-1
 2 taw 16-17
 2 taw 6-15
 1 taw 1-2
-1 tawarikh
+1 taw
 1 taw 25-28
 1 taw 3-4
-2 tawarikh 2-3
+2 taw
 2 taw 16-17
 2 taw 8-15
 2 taw 12-17
@@ -6123,16 +6123,16 @@ rut 1-1
 2 raj 17-20
 2 taw 16-17
 2 raj 13-17
-1 tawarikh 11-15
+1 taw
 2 taw 18-19
 2 taw 18-19
 2 taw 18-19
 2 taw 18-19
-2 tawarikh 18-19
-2 tawarikh 18-19
+2 taw
+2 taw
 1 taw 5-8
 2 taw 16-17
-2 tawarikh 18-19
+2 taw
 2 taw 18-19
 2 taw 18-19
 2 taw 15-17
@@ -6141,8 +6141,8 @@ rut 1-1
 2 taw 18-19
 2 taw 18-19
 2 taw 18-19
-1 tawarikh 16-20
-1 tawarikh 21-22
+1 taw
+1 taw
 2 taw 18-19
 2 taw 18-19
 2 taw 18-19
@@ -6159,7 +6159,7 @@ rut 1-1
 2 taw 7-10
 2 taw 4-6
 2 taw 20-21
-1 tawarikh 23-29
+1 taw
 1 taw 9-10
 2 taw 20-21
 2 taw 18-21
@@ -6230,15 +6230,15 @@ rut 1-1
 2 sam 14-15
 2 taw 24-25
 2 taw 24-25
-2 tawarikh 20-21
+2 taw
 2 taw 24-24
-2 tawarikh 22-23
+2 taw
 2 taw 24-25
 2 taw 22-23
 2 taw 24-25
 2 taw 20-25
 2 taw 24-25
-2 tawarikh 1-6
+2 taw
 1 taw 19-22
 2 taw 24-25
 2 taw 24-25
@@ -6260,7 +6260,7 @@ rut 1-1
 2 taw 26-27
 2 taw 26-27
 2 taw 24-25
-2 tawarikh 10-11
+2 taw
 2 taw 26-27
 2 taw 26-27
 1 taw 28-2
@@ -6280,7 +6280,7 @@ rut 1-1
 2 taw 28-29
 2 taw 26-27
 2 taw 26-27
-2 tawarikh 7-10
+2 taw
 2 taw 8-12
 2 taw 24-25
 2 taw 26-27
@@ -6295,7 +6295,7 @@ rut 1-1
 2 taw 28-29
 2 taw 28-29
 2 taw 28-29
-2 tawarikh 11-16
+2 taw
 2 taw 28-29
 2 taw 28-29
 2 taw 13-16
@@ -6311,18 +6311,18 @@ bil 2
 2 sam 22-23
 2 taw 28-29
 2 taw 24-29
-2 tawarikh 17-20
+2 taw
 1 taw 3-7
 2 taw 28-29
-2 tawarikh 24-25
-2 tawarikh 26-27
-2 tawarikh 28-29
+2 taw
+2 taw
+2 taw
 2 taw 28-29
 2 taw 24-29
 2 taw 17-20
-2 tawarikh 21-24
+2 taw
 2 taw 26-29
-1 raja-raja 6-7
+1 raj
 1 taw 5-14
 2 taw 28-29
 2 taw 6-9
@@ -6348,7 +6348,7 @@ bil 2
 2 taw 17-22
 2 taw 30-31
 2 raj 7-8
-1 raja-raja 14-15
+1 raj
 2 taw 30-31
 2 taw 30-31
 2 taw 25-28
@@ -6368,7 +6368,7 @@ bil 2
 2 taw 32-33
 2 taw 14-17
 2 taw 32-33
-2 tawarikh 16-17
+2 taw
 2 taw 32-33
 2 taw 32-33
 2 taw 32-33
@@ -6398,7 +6398,7 @@ bil 2
 2 taw 34-35
 2 taw 34-35
 2 taw 30-31
-2 tawarikh 26-27
+2 taw
 2 taw 34-35
 2 taw 32-35
 2 taw 25-28
@@ -6407,7 +6407,7 @@ bil 2
 2 taw 24-25
 2 taw 32-35
 2 taw 32-35
-2 tawarikh 25-30
+2 taw
 2 taw 32-35
 2 taw 36-ezra 1
 2 taw ezra 1
@@ -6415,7 +6415,7 @@ bil 2
 2 taw ezra 1
 2 taw 36-ezra 1
 2 taw 22-25
-1 raja-raja 22-2
+1 raj-2 raj
 2 taw 36-ezra 1
 2 taw 34-35
 2 taw 31-36
@@ -6436,24 +6436,24 @@ bil 2
 2 taw 36-ezra 1
 2 taw 31-34
 ezra 2-3
-2 tawarikh 31-34
+2 taw
 2 taw 26-27
 ezra 2-3
 ezra 2-3
 2 taw 32-ezr 1
 ezra 2-3
 ezra 1-2
-2 tawarikh 30-31
 2 taw
-2 tawarikh 32-33
+2 taw
+2 taw
 ezra 2-3
-2 tawarikh 34-35
+2 taw
 ezra 2-3
 ezra 2-3
 ezra 1-2
 2 taw 21-28
 ezra 2-3
-2 tawarikh 36-ezra 1
+2 taw-ezra 1
 ezra 2-3
 2 taw 32-33
 ezra 2-3
@@ -6480,14 +6480,14 @@ ezra 4-5
 ezra 4-5
 ezra 2-5
 ezra 4-5
-2 tawarikh 35-36
+2 taw
 ezr 4-5
 ezra 4-5
 2 taw 34-35
 ezra 1-5
 ezra 4-5
 2 taw 32-35
-2 tawarikh 16-2
+2 taw-2 taw
 2 taw 36-ezra 1
 ezra 4-5
 2 taw ezra 1
@@ -6497,11 +6497,11 @@ ezra 4-5
 ezra 4-5
 ezra 4-5
 ezra 4-5
-2 tawarikh 32-33
+2 taw
 2 taw 36
 ezra 2-3
 ezra 4-5
-2 raja-raja 10-11
+2 raj
 ezra 2-3
 ezra 4-5
 2 taw 34-36
@@ -6583,7 +6583,7 @@ ezra 10-neh 1
 ezra neh 1
 ezra 8-neh 1
 ezra 10-nehemia 1
-2 raja-raja 20-21
+2 raj
 ezra 6-7
 1 taw 17-18
 ezra neh 1
@@ -10116,9 +10116,9 @@ kid 5-6
 kid 5-6
 kid 5-6
 kid 5-6
-kidung agung 1-2
-kidung agung 3-4
-kidung agung 5-6
+kid
+kid
+kid
 ams 13-25
 kid 5-6
 kid 5-6
@@ -10173,7 +10173,7 @@ kid 7-8
 yes 1-2
 yes 1-2
 yes 1-2
-kidung agung 7-8
+kid
 yes 1-2
 yesaya 1-2
 yes 1-2
@@ -10418,7 +10418,7 @@ yes 19-20
 yes 19-20
 yes 19-20
 yes 19-20
-kidung agung
+kid
 yes 15-20
 yes 19-20
 yes 21-22
@@ -10608,7 +10608,7 @@ yes 35-36
 yes 31-36
 yes 23-26
 yes 25-28
-kidung agung
+kid
 pkh
 yes 29-34
 yes 35-36
@@ -10996,8 +10996,8 @@ yer 1-2
 yes 61-66
 yer 1-2
 yer 1-2
-kidung agung 1-kidung agung 2
-kidung agung 3-kidung agung 4
+kid-kid
+kid-kid
 maz 133-136
 mazmur 97-98
 yes 65-66
@@ -11015,8 +11015,8 @@ yer 1-2
 yer 3-4
 yer 1-4
 yer 1-2
-kidung agung 5-kidung agung 6
-kidung agung 7-kidung agung 8
+kid-kid
+kid-kid
 yes 3-4
 yer 1-2
 yer 3-4
@@ -11833,7 +11833,7 @@ yes 23-30
 yeh 10-11
 yeh 10-11
 yeh 8-11
-kidung agung 1-8
+kid
 yeh 1-4
 yeh 10-11
 yeh 10-11
@@ -11962,7 +11962,7 @@ ratapan
 yeh 20-21
 yeh 16-17
 yeh 20-21
-kidung agung 1-2
+kid
 yeh 16-17
 yeh 1-10
 yeh 18-21
@@ -11982,7 +11982,7 @@ yeh 22-23
 yeh 22-23
 yeh 22-23
 yeh 22-23
-kidung agung 5-6
+kid
 yeh 22-23
 yeh 22-23
 yes 30-40-yeh 12-14
@@ -12376,7 +12376,7 @@ yeh 1-24
 daniel 8-9
 dan 8-9
 dan 8-9
-kidung agung 1-8
+kid
 dan 8-9
 dan 4-9
 yesaya 65-66
@@ -14277,7 +14277,7 @@ yoh 19-20
 yoh 13-11
 yoh 13-15
 yoh kis 1
-yoh kis rasul 1
+yoh-kis
 yohanes 21
 yoh kis 1
 yohanes
@@ -14298,7 +14298,7 @@ yoh kis 1
 kis 2-3
 yoh kis 1
 kis 2-3
-kis rasul 2-3
+kis
 kis 2-3
 lukas 21-24
 kis 2-3
@@ -14319,7 +14319,7 @@ nahum-neh-habakuk
 kis 4-5
 kis 2-5
 kis 4-5
-kis rasul 4-5
+kis
 kis 2-3
 kis 4-5
 kis 4-5
@@ -14339,19 +14339,19 @@ yoh 19-kis 1
 kis 4-5
 kis 6-7
 kis 6-7
-kis rasul 6-7
+kis
 kis 6-7
 yoh 1-8
 kis 6-7
 kis 4-5
 kis 4-7
 kis 6-7
-yohanes 21-kisah para rasul 1
+yohanes 21-kis
 kis 6-7
 kis 6-7
-kisah para rasul 2-3
+kis
 kis 6-7
-kisah para rasul 4-5
+kis
 kis 6-7
 kis 6-7
 kis 6-7
@@ -14389,7 +14389,7 @@ kis 8-9
 yes 53-56
 kis 10-11
 kis 10-11
-kis rasul 10-11
+kis
 kis 10-11
 kis 10-11
 kis 10-11
@@ -14410,15 +14410,15 @@ yoh 13-21
 kis 12-13
 zakharia 1-5
 kis 12-13
-kis rasul 12-13
+kis
 kis 8-13
 kis 12-13
 kis 12-13
-kisah para rasul 6-7
+kis
 kis 12-13
 kis 12-13
-kisah para rasul 8-9
-kisah para rasul 10-11
+kis
+kis
 kis 10-11
 kis 12-13
 kis 12-13
@@ -14437,11 +14437,11 @@ kis 14-15
 kis 14-15
 kis 14-15
 kis 14-15
-kisah para rasul 12-13
+kis
 kis 14-15
 yohanes 1-11
 kis 14-15
-kisah para rasul 14-15
+kis
 kis 8-15
 kis 14-15
 kis 14-15
@@ -14472,7 +14472,7 @@ kis 18-19
 kis 18-19
 kis 18-19
 kis 18-19
-kis rasul 18-19
+kis
 kis 18-19
 kis 18-19
 kis 18-19
@@ -14502,7 +14502,7 @@ kis 18-21
 kis 14-15
 kis 20-21
 kis 20-21
-kis rasul 22-23
+kis
 kis 22-23
 kis 22-23
 kis 22-23
@@ -14540,11 +14540,11 @@ kis 14-25
 kis 18-25
 kis 24-25
 kis 24-25
-kisah para rasul 16-17
+kis
 kis 24-25
-kisah para rasul 18-19
-kisah para rasul 20-21
-kisah para rasul 22-23
+kis
+kis
+kis
 kis 24-25
 yoh
 kis 1-10
@@ -14561,7 +14561,7 @@ kis 18-19
 kis 24-25
 kis 24-25
 kis 26-27
-kis rasul
+kis
 kis 26-27
 kis 26-27
 kis 26-27
@@ -14584,12 +14584,12 @@ kis 28
 kis 20-21
 kis rm 1
 kis 26-27
-kisah para rasul 24-25
+kis
 kis 21-23
-kisah para rasul 26-27
+kis
 kis 28-roma 1
 kis roma 1
-kisah para rasul 28-roma 1
+kis-roma 1
 kis 24-roma 1
 kis 28
 kis 29-roma 1
@@ -14625,7 +14625,7 @@ rm 2-3
 yoh 5-6
 kis 15-18
 roma 2-3
-kis-rasul
+kis
 yes 63-yer 2
 roma 2-3
 roma 4-5
@@ -14700,7 +14700,7 @@ roma 10-11
 roma 10-11
 roma 6-7
 roma 10-11
-kisah para rasul
+kis
 roma 10-11
 rm 8-9
 roma 10-11
@@ -14820,10 +14820,10 @@ roma 7-10
 1 kor 4-5
 1 kor 4-5
 1 kor 4-5
-1 korintus 4-5
+1 kor
 1 kor 2-3
-1 korintus 2-3
-1 korintus 4-5
+1 kor
+1 kor
 1 kor 4-5
 1 kor 4-5
 1 kor 4-5
@@ -14885,7 +14885,7 @@ markus 1-11
 1 kor 10-11
 kis 17-28
 1 kor 8-9
-1 korintus 6-7
+1 kor
 1 kor 10-11
 1 kor 10-11
 1 kor 6-9
@@ -14913,7 +14913,7 @@ roma 15-16
 1 kor 12-13
 1 kor 12-13
 1 kor 14-15
-1 korintus
+1 kor
 1 kor 7-8
 1 kor 14-15
 1 kor 12-13
@@ -14940,7 +14940,7 @@ kis
 1 kor 14-15
 1 kor 12-15
 1 kor 16-2
-2 korintus 1
+2 kor
 1 kor 16-2
 1 kor 16-2
 1 kor 16-2
@@ -15046,7 +15046,7 @@ lukas 1-24
 2 kor 4-7
 2 kor 4-5
 2 kor 6-7
-1 korintus
+1 kor
 2 kor 8-9
 2 kor 10-11
 2 kor 4-9
@@ -15059,10 +15059,10 @@ lukas 1-24
 2 kor 8-11
 2 kor 10-11
 2 kor 12-13
-1 korintus 8-9
-1 korintus 10-11
+1 kor
+1 kor
 kis 23-28
-1 korintus 12-13
+1 kor
 2 kor 12-13
 2 kor 12-13
 2 kor 12-13
@@ -15102,7 +15102,7 @@ gal 3-4
 gal 1-2
 galatia 3-4
 gal 3-4
-1 korintus
+1 kor
 2 kor 1-3
 gal 3-4
 galatia 3-4
@@ -15149,16 +15149,16 @@ ef 1-2
 gal 3-6
 2 kor 11-13
 ef 1-2
-1 korintus 14-15
+1 kor
 efesus 1-2
 efesus 1-2
 ef 1-2
-1 korintus 16-2
-2 korintus 2-3
-2 korintus 4-5
-2 korintus 6-7
-2 korintus 8-9
-2 korintus 10-11
+1 kor-2 kor
+2 kor
+2 kor
+2 kor
+2 kor
+2 kor
 ef 1-2
 gal 6-ef 2
 ef 1-2
@@ -15169,9 +15169,9 @@ efesus 3-4
 ef 3-4
 matius
 ef 1-2
-2 korintus
+2 kor
 yoh 4-8
-2 korintus
+2 kor
 ef 3-4
 efesus 1-2
 efesus 3-4
@@ -15193,7 +15193,7 @@ ef 3-4
 galatia
 luk yoh 1
 gal 1-2
-2 korintus 12-13
+2 kor
 yohanes
 galatia
 ef 1-3
@@ -15225,7 +15225,7 @@ filipi 1-2
 ef 5-6
 ef 1-4
 filipi 1-2
-lukas 18-kisah para rasul 8
+lukas 18-kis
 filipi 1-2
 flp 1-2
 1 kor 1-10
@@ -15243,7 +15243,7 @@ filipi 1-2
 efesus
 yoh 2-4
 yoh 4-9
-kisah para rasul
+kis
 filipi 1-2
 kis-filipi
 filipi 3-4
@@ -15308,17 +15308,17 @@ filipi 1-4
 kolose 1-2
 kis 1-9
 2 kor-gal
-kisah para rasul 9-28
+kis
 ef 5-6
 kolose 3-4
 kolose 3-4
 kolose 3-4
 kolose 3-4
 roma 16
-kisah para rasul
+kis
 kol 3-4
 roma
-1 tesalonika 1-2
+1 tes
 1 tes 1-2
 kolose
 yoh kis 6
@@ -15349,7 +15349,7 @@ filipi
 1 kor 5-16
 matius
 1 tes 1-2
-1 tesalonika 3-4
+1 tes
 1 tes 3-4
 1 tes 3-4
 1 tes 3-4
@@ -15402,8 +15402,8 @@ kol 1-4
 2 kor 10-efesus 6
 luk yoh 19
 1 tes 5-2
-2 korintus
-2 korintus
+2 kor
+2 kor
 1 tes 5-2
 2 tes 2-3
 2 tes 2-3
@@ -15419,9 +15419,9 @@ luk yoh 19
 2 tes 2-3
 2 tes 2-3
 luk
-1 tesalonika 1-2
-1 tesalonika 3-4
-1 tesalonika 5-2
+1 tes
+1 tes
+1 tes-2 tes
 2 tes 2-3
 2 tes
 galatia
@@ -15503,23 +15503,23 @@ filipi 1-4
 1 tim 1-2
 2 tes 3-1
 1 tim 5-6
-1 tesalonika
+1 tes
 1 tim 5-1
 1 tim
 filipi
 1 tim 5-6
 1 tim 1-2
-2 tesalonika 2-3
-1 timotius 1-2
-1 timotius 3-4
+2 tes
+1 tim
+1 tim
 1 tim 3-4
-1 timotius 5-6
+1 tim
 1 tim 5-6
 galatia
 kolose
-1 korintus 1-16
+1 kor
 kolose
-1 timotius
+1 tim
 1 tim
 2 tim 1-2
 2 tim 1-2
@@ -15554,14 +15554,14 @@ roma
 2 tim 3-4
 2 tim 3-4
 2 tim 3-4
-2 korintus 1-13
+2 kor
 2 tim 3-4
 2 tim 3-4
 2 tim 1-2
-1 tesalonika
-1 timotius
+1 tes
+1 tim
 2 tes
-1 korintus
+1 kor
 2 tim 3-4
 titus
 titus 1-2
@@ -15597,10 +15597,10 @@ titus 3-flm 1
 titus
 titus 3-flm 1
 titus 3-flm 1
-2 timotius 1-2
-2 timotius 3-4
 2 tim
-2 timotius
+2 tim
+2 tim
+2 tim
 titus 1-2
 1 kor 1-10
 titus 3-filemon 1
@@ -15614,7 +15614,7 @@ tit
 2 tim
 2 tim 3-4
 kis 1-15
-2 korintus 8
+2 kor
 ibrani 1-2
 ibr 1-2
 titus
@@ -15783,7 +15783,7 @@ yak 1-2
 ibr yak 1
 2 tim 1-4
 ibr 11-13-yak 1
-1 tesalonika 1-5
+1 tes
 ibr yak 1
 ibr 13-yak 1
 efesus
@@ -15813,7 +15813,7 @@ yak 1-3
 ibr 11-12
 ibr yak 1
 yak 2-3
-kisah para rasul
+kis
 yak 2-3
 ibr 7-10
 yak 2-3
@@ -15847,34 +15847,34 @@ yak 4-5
 yak 4-5
 yak 4-5
 ibr 1-13
-1 petrus 1-4
+1 pet
 yak 4-5
 ""
 yak 2-3
 ibrani 13
 yak 1-5
 1 pet 1-2
-1 petrus 1-2
+1 pet
 yak 4-5
 yakobus 1-5
-1 petrus 1-2
+1 pet
 yakobus
-1 petrus 1-2
+1 pet
 yak 2-5
 yak 4-1
-1 petrus 1-2
-1 petrus 1-2
-1 petrus 1-2
+1 pet
+1 pet
+1 pet
 1 pet 1-2
 1 pet 1-2
 1 pet 2
 1 pet 1-2
-1 timotius
+1 tim
 yak 4-5
 1 tes
 titus
 2 tim
-1 petrus 1-2
+1 pet
 1 pet 1-2
 yak 4-5
 yak 4-5
@@ -15899,7 +15899,7 @@ roma
 1 pet 1-2
 yak 4-5
 1 pet 3-4
-1 petrus
+1 pet
 1 pet 1-4
 yak 4-1
 ibr yak 5
@@ -15911,14 +15911,14 @@ filemon
 flm 11-25
 1 pet 5-2
 1 pet 1-2
-1 petrus 3-2
+1 pet-2 pet
 1 pet 3-4
 1 pet 5-2
 1 pet 5-2
 1 pet 5-2
 1 pet
 1 pet 5-2
-1 petrus 3-2
+1 pet-2 pet
 1 pet 5-2
 1 pet 5-2
 1 pet 5-2
@@ -15931,23 +15931,23 @@ flm 11-25
 ibr-1
 2 pet 2-3
 2 pet 2-3
-2 petrus
-2 petrus
-1 petrus
+2 pet
+2 pet
+1 pet
 2 pet 2-3
 1 pet 5-2
 yakobus 4-5
 2 pet 2-3
-1 petrus 1-2
-1 petrus 3-4
+1 pet
+1 pet
 1 pet 5-2
 2 pet 2-3
 2 pet 2-3
 2 pet 1-3
-1 petrus 3-4
+1 pet
 2 pet 2-3
 1 pet 5-2
-2 petrus
+2 pet
 2 pet 2-3
 1 yoh 1-2
 1 yoh 1-2
@@ -15973,19 +15973,19 @@ roma
 1 pet 3
 2 pet 1-yoh
 1 yoh 1-2
-1 petrus 1-5
+1 pet
 1 yoh 1-2
 1 yoh 3-4
 1 yoh 3-4
 1 yoh 3-4
 1 yoh 3-4
 1 yoh 3-4
-1 petrus 5-2
+1 pet-2 pet
 1 yoh 3-4
-2 petrus 2-3
-1 yohanes 1-2
+2 pet
+1 yoh
 yak 4-1 yoh 4
-2 petrus
+2 pet
 1 yoh 1-2
 1 yoh 3-4
 1 yoh 1-4
@@ -15993,7 +15993,7 @@ yak 4-1 yoh 4
 1 yoh 3-4
 2 pet 2-5
 1 yoh 3-4
-1 korintus
+1 kor
 1 yoh 3-4
 1 yoh 3-4
 1 yoh 3-4
@@ -16004,9 +16004,9 @@ yak 4-1 yoh 4
 1 yoh
 1 yoh 5-2 yoh 1
 1 yoh 1-4
-1 yohanes 3-4
-1 yohanes
-1 yohanes 5-2 yohanes 1
+1 yoh
+1 yoh
+1 yoh-2 yoh
 1 yoh 5-2 yoh 1
 1 yoh 5-2 yoh 1
 2 pet 2-3
@@ -16033,7 +16033,7 @@ ibr
 2 pet 3-yudas
 1 yoh 5-yudas
 3 yoh 1-yudas 1
-3 yohanes 1-yudas 1
+3 yoh-yudas 1
 3 yoh yudas 1
 3 yoh-yud
 1 yoh 3-2 yoh 1
@@ -16061,7 +16061,7 @@ why 1-2
 why 1-2
 wahyu 1-2
 wahyu 1-2
-3 yohanes
+3 yoh
 why 1-2
 why 1-2
 wahyu 1-2
@@ -16073,11 +16073,11 @@ wahyu 1-2
 wahyu 1-2
 why 1-2
 1 pet 1-5
-2 korintus
+2 kor
 3 yoh 1-yudas
 1 yoh 3-5
 wahyu 1-2
-1 yohanes 3-5
+1 yoh
 wahyu 1-2
 3 yoh
 wahyu 3-4
@@ -16128,7 +16128,7 @@ efesus
 filipi
 kolose
 wahyu 3-4
-1 tesalonika
+1 tes
 wahyu 3-6
 wahyu 3-6
 wahyu 3-6
@@ -16138,9 +16138,9 @@ wahyu 1-6
 2 yoh wahyu 1
 wahyu 5-6
 wahyu 5-6
-2 tesalonika
-1 timotius
-2 timotius
+2 tes
+1 tim
+2 tim
 titus
 filemon
 why 6-7
@@ -16295,11 +16295,11 @@ wahyu 17-18
 wahyu 1-18
 ibrani
 yakobus
-1 petrus
-2 petrus
-1 yohanes
-2 yohanes
-3 yohanes
+1 pet
+2 pet
+1 yoh
+2 yoh
+3 yoh
 yudas
 wahyu 1-18
 why 17-18
@@ -16346,7 +16346,7 @@ wahyu 21-22
 why 21-22
 wahyu 19-22
 wahyu 21-22
-wahyu-hosea
+wahyu
 wahyu 21-22
 wahyu 17-18
 why 21-22
