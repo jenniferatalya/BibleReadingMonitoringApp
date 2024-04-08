@@ -100,13 +100,13 @@ Index,Sender,Message,Category,Parse Text,Context
 99,~ 🪸Martha 🍁,kej 3-4 done,report,"kejadian 3, kejadian 4",kejadian
 100,~ Bento,Kej 3-4 done,report,"kejadian 3, kejadian 4",kejadian
 101,Yozef Tjandra,Kej 3-4 done,report,"kejadian 3, kejadian 4",kejadian
-102,~ Endang Surati,Kej 3- 4 selesai 🙏,report,"kejadian 3, kejadian",kejadian
+102,~ Endang Surati,Kej 3- 4 selesai 🙏,report,"kejadian 3, kejadian 4",kejadian
 103,~ Gracia,Kej 3-4 done,report,"kejadian 3, kejadian 4",kejadian
 104,~ Ivan teguh,Kej 3-4 done,report,"kejadian 3, kejadian 4",kejadian
 105,~ Oma Lisa,Kej 3-4 done,report,"kejadian 3, kejadian 4",kejadian
 106,Sim Ay Tjan,Kej 3-4 done,report,"kejadian 3, kejadian 4",kejadian
 107,~ Helen Fransiska Margarita,Kej 3-4 done,report,"kejadian 3, kejadian 4",kejadian
-108,~ Andrie HG,Kejadian 1 - 2 selesai,report,"kejadian 1 , kejadian",kejadian
+108,~ Andrie HG,Kejadian 1 - 2 selesai,report,"kejadian 1, kejadian 2",kejadian
 109,~ Andrie HG,Mau tanya bu Dessy,not report,,
 110,Ci Ina Paperku,‎Lenny Pandjidharma menambahkan Ci Ina Paperku,not report,,
 111,Matthew Henry 2,Kej 3-4 done,report,"kejadian 3, kejadian 4",kejadian
@@ -123,7 +123,7 @@ Index,Sender,Message,Category,Parse Text,Context
 122,Ibu Kartika,Kejadian 4:20 (TB)  Ada itu melahirkan Yabal; dialah yang menjadi bapa orang yang diam dalam kemah dan memelihara ternak.,not report,,
 123,~ Lidia,‎Lenny Pandjidharma menambahkan ~ Lidia,not report,,
 124,Sherly Cahyadi,Kej 3-4 done,report,"kejadian 3, kejadian 4",kejadian
-125,~ LF,Kej 1-4 done,report,"kejadian 1, kejadian 4",kejadian
+125,~ LF,Kej 1-4 done,report,"kejadian 1, kejadian 2, kejadian 3, kejadian 4",kejadian
 126,~ LF,Mau tanya :,not report,,
 127,~ Andrie HG,Berarti manusia makan binatang karena jatuh dalam dosa ya?,not report,,
 128,Ibu Kartika,o iya Habel juga penggembala,not report,,
@@ -380,7 +380,7 @@ Index,Sender,Message,Category,Parse Text,Context
 379,Dicky Andrian,Kejadian 11 - 12 selesai,report,"kejadian 11, kejadian 12",kejadian
 380,~ Helen Fransiska Margarita,Kej 11-12 done,report,"kejadian 11, kejadian 12",kejadian
 381,Melanie Chandra,Kejadian 11-12 selesai,report,"kejadian 11, kejadian 12",kejadian
-382,Ibu Kartika,_Kej 11-12_ ✓,report,"kejadian 11, kejadian 12_",kejadian
+382,Ibu Kartika,_Kej 11-12_ ✓,report,"kejadian 11, kejadian 12",kejadian
 383,~ Andrie HG,Mau tanya,not report,,
 384,Yozef Tjandra,Kej 11-12 done,report,"kejadian 11, kejadian 12",kejadian
 385,~ 🪸Martha 🍁,terimakasih bu Dessy untuk penjelasannya 🙏🏼🙏🏼,not report,,
@@ -415,10 +415,10 @@ Index,Sender,Message,Category,Parse Text,Context
 414,~ Wiwik,Kej 11-12 selesai,report,"kejadian 11, kejadian 12",kejadian
 415,~ Villas Bakery,kej 9-12done,report,"kejadian 9, kejadian 10, kejadian 11, kejadian 12",kejadian
 416,~ Bento,Kej 11-12 done,report,"kejadian 11, kejadian 12",kejadian
-417,Ko Martin,Kej 2-12 done,report,"kejadian 2, kejadian 3, kejadian 4, kejadian 5, kejadian 6, kejadian 7, kejadian 8, kejadian 9, kejadian10, kejadian 11, kejadian 12",kejadian
+417,Ko Martin,Kej 2-12 done,report,"kejadian 2, kejadian 3, kejadian 4, kejadian 5, kejadian 6, kejadian 7, kejadian 8, kejadian 9, kejadian 10, kejadian 11, kejadian 12",kejadian
 418,Ruri Handoko,Kej 11 - 12 ✅,report,"kejadian 11, kejadian 12",kejadian
 419,~ Tan,Kej 11 - 12 ✔,report,"kejadian 11, kejadian 12",kejadian
-420,~ Wesley and Mom😇🥰,Kej 7-12🙏🏻,report,"kejadian 7, kejadian 8, kejadian 8, kejadian 10, kejadian 11, kejadian 12",kejadian
+420,~ Wesley and Mom😇🥰,Kej 7-12🙏🏻,report,"kejadian 7, kejadian 8, kejadian 9, kejadian 10, kejadian 11, kejadian 12",kejadian
 421,~ piccer,kej 11-12 done,report,"kejadian 11, kejadian 12",kejadian
 422,~ Yoshua,Kej 9 - 12 done,report,"kejadian 9, kejadian 10, kejadian 11, kejadian 12",kejadian
 423,~ Agnes,Kej 11 - 12 done,report,"kejadian 11, kejadian 12",kejadian
@@ -451,7 +451,7 @@ Index,Sender,Message,Category,Parse Text,Context
 450,~ BL katering,Kej 13 -14 done,report,"kejadian 13, kejadian 14",kejadian
 451,~ Tjunfebelyana,Kej  13-14 selesai,report,"kejadian 13, kejadian 14",kejadian
 452,~ Tan,Kej 13 - 14 ✔,report,"kejadian 13, kejadian 14",kejadian
-453,Ibu Kartika,_Kej 13-14_ ✓,report,"kejadian 13, kejadian 14_",kejadian
+453,Ibu Kartika,_Kej 13-14_ ✓,report,"kejadian 13, kejadian 14",kejadian
 454,~ Lidia,kej 13-14 done,report,"kejadian 13, kejadian 14",kejadian
 455,Ibu Kartika,Oh beda sama nama anaknya ya😊,not report,,
 456,Ruri Handoko,Kej 13-14 ✅,report,"kejadian 13, kejadian 14",kejadian
@@ -511,7 +511,7 @@ Index,Sender,Message,Category,Parse Text,Context
 510,~ Helen Fransiska Margarita,Kej 15-16 done,report,"kejadian 15, kejadian 16",kejadian
 511,Ko Martin,Kej 15-16 done,report,"kejadian 15, kejadian 16",kejadian
 512,~ scarlet,kej 15-16 done,report,"kejadian 15, kejadian 16",kejadian
-513,Ibu Kartika,_Kej 15-16_ ✓,report,"kejadian 15, kejadian 16_",kejadian
+513,Ibu Kartika,_Kej 15-16_ ✓,report,"kejadian 15, kejadian 16",kejadian
 514,Vik. Dessy Waiman,*Update BRC2*,not report,,
 515,Vik. Dessy Waiman,"**Bible Reading Cycle 2, Rabu, 12 Agst 2020**",not report,,
 516,~ Bento,Kej 17-18 done,report,"kejadian 17, kejadian 18",kejadian
@@ -688,11 +688,11 @@ Index,Sender,Message,Category,Parse Text,Context
 687,~ 🪸Martha 🍁,Kej 21-24 done,report,"kejadian 21, kejadian 22, kejadian 23, kejadian 24",kejadian
 688,~ Villas Bakery,Kej 19-24done,report,"kejadian 19, kejadian 20, kejadian 21, kejadian 22, kejadian 23, kejadian 24",kejadian
 689,~ Wesley and Mom😇🥰,Kej 21-24🙏🏻,report,"kejadian 21, kejadian 22, kejadian 23, kejadian 24",kejadian
-690,~ LF,Kej 15-24 done,report,"kejadian 15, kejadian 16, kejadian 17, kejadian 18, kejadian 19, kejadian 20, kejadian 21, kejadian 23, kejadian 24",kejadian
+690,~ LF,Kej 15-24 done,report,"kejadian 15, kejadian 16, kejadian 17, kejadian 18, kejadian 19, kejadian 20, kejadian 21, kejadian 22, kejadian 23, kejadian 24",kejadian
 691,~ susianawati309,Kej 23-24 done,report,"kejadian 23, kejadian 24",kejadian
 692,~ Gracia,Kej 23-24 done,report,"kejadian 23, kejadian 24",kejadian
 693,~ Tejo Jayadi,Kejadian 21-22 done,report,"kejadian 21, kejadian 22",kejadian
-694,Ko Martin,Kejadian 17 - 24 done,report,"kejadian 17, kejadian 24",kejadian
+694,Ko Martin,Kejadian 17 - 24 done,report,"kejadian 17, kejadian 18, kejadian 19, kejadian 20, kejadian 21, kejadian 22, kejadian 23, kejadian 24",kejadian
 695,~ Lindawati Haryanto,Kej 25-26 done,report,"kejadian 25, kejadian 26",kejadian
 696,Vik. Dessy Waiman,*Update BRC2*,not report,,
 697,Vik. Dessy Waiman,"**Bible Reading Cycle 2, Senin, 17 Agst 2020**",not report,,
