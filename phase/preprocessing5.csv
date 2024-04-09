@@ -519,7 +519,7 @@ kejadian 27 - kejadian 28
 kejadian 27 - kejadian 28
 kejadian 27 - kejadian 28
 kejadian 27 - kejadian 28
-kejadian 27
+kejadian 27 - kejadian 28
 kejadian 27 - kejadian 28
 kejadian 27 - kejadian 28
 kejadian 27 - kejadian 28
@@ -540,7 +540,7 @@ kejadian 27 - kejadian 28
 kejadian 25 - kejadian 28
 kejadian 27 - kejadian 28
 kejadian 25 - kejadian 28
-kejadian 27
+kejadian 27 - kejadian 28
 kejadian 25 - kejadian 28
 kejadian 27 - kejadian 28
 kejadian 27 - kejadian 28
@@ -738,7 +738,7 @@ kejadian 37 - kejadian 38
 kejadian 37 - kejadian 38
 kejadian 37 - kejadian 38
 kejadian 37 - kejadian 38
-kejadian 32
+kejadian 32 37 - kejadian 32 38
 kejadian 37 - kejadian 38
 kejadian 37 - kejadian 38
 kejadian 37 - kejadian 38
@@ -769,7 +769,7 @@ kejadian 39 - kejadian 40
 kejadian 39 - kejadian 40
 kejadian 39 - kejadian 40
 kejadian 39 - kejadian 40
-kejadian 33 - kejadian 36
+kejadian 33 - 36 39 - kejadian 33 - 36 40
 kejadian 37 - kejadian 40
 kejadian 37 - kejadian 40
 kejadian 39 - kejadian 40
@@ -996,11 +996,11 @@ keluaran 1 - keluaran 2
 keluaran 1 - keluaran 2
 keluaran 1 - keluaran 2
 keluaran 1 - keluaran 2
-kejadian keluaran 2
+kejadian 48 - keluaran 2
 keluaran 1 - keluaran 2
 keluaran 3 - keluaran 4
 keluaran 3 - keluaran 4
-kejadian 49 kel 1
+kejadian 49 - keluaran 1
 keluaran 3 - keluaran 4
 keluaran 1 - keluaran 4
 keluaran 3 - keluaran 4
@@ -1016,7 +1016,7 @@ keluaran 3 - keluaran 4
 keluaran 3 - keluaran 4
 keluaran 3 - keluaran 4
 keluaran 1 - keluaran 2
-kejadian 47 kel 2
+kejadian 47 - keluaran 2
 keluaran 3 - keluaran 4
 keluaran 3 - keluaran 4
 keluaran 3 - keluaran 4
@@ -1043,7 +1043,7 @@ keluaran 5 - keluaran 6
 keluaran 5 - keluaran 6
 keluaran 5 - keluaran 6
 keluaran 3 - keluaran 6
-kejadian keluaran 2
+kejadian 45 - keluaran 2
 keluaran 1 - keluaran 4
 keluaran 3 - keluaran 4
 keluaran 5 - keluaran 6
@@ -1120,7 +1120,7 @@ keluaran 9 - keluaran 10
 keluaran 9 - keluaran 10
 keluaran 9 - keluaran 10
 keluaran 7 - keluaran 10
-kejadian 47 kel 4
+kejadian 47 - keluaran 4
 keluaran 9 - keluaran 10
 keluaran 5 - keluaran 6
 keluaran 9 - keluaran 10
@@ -1232,7 +1232,7 @@ keluaran 15 - keluaran 16
 keluaran 15 - keluaran 16
 keluaran 15 - keluaran 16
 keluaran 15 - keluaran 16
-kejadian 36 keluaran 7
+kejadian 36 - keluaran 7
 keluaran 13 - keluaran 16
 keluaran 5 - keluaran 6
 keluaran 15 - keluaran 16
@@ -1380,7 +1380,7 @@ keluaran 23 - keluaran 24
 keluaran 19 - keluaran 22
 keluaran 25 - keluaran 26
 keluaran 25 - keluaran 26
-keluaran 17 - keluaran 18
+keluaran 17 - 18 19 - keluaran 17 - 18 20
 keluaran 25 - keluaran 26
 keluaran 25 - keluaran 26
 keluaran 25 - keluaran 26
@@ -1540,7 +1540,7 @@ keluaran 33 - keluaran 34
 keluaran 31 - keluaran 32
 keluaran 29 - keluaran 30
 keluaran 29 - keluaran 30
-keluaran 29 - 30 daniel 29 - 30
+keluaran 29 - 30 keluaran 29 - 30
 keluaran 23 - keluaran 30
 keluaran 29 - keluaran 32
 keluaran 25 - keluaran 28
@@ -1576,7 +1576,7 @@ keluaran 35 - keluaran 36
 keluaran 31 - keluaran 32
 keluaran 33 - keluaran 36
 keluaran 35 - keluaran 36
-keluaran 35 - 36 daniel 35 - 36
+keluaran 35 - 36 keluaran 35 - 36
 keluaran 33 - keluaran 36
 keluaran 35 - keluaran 36
 keluaran 37 - keluaran 38
@@ -1601,7 +1601,7 @@ keluaran 37 - keluaran 38
 keluaran 33 - keluaran 34
 keluaran 37 - keluaran 38
 keluaran 30 - keluaran 31
-keluaran 37 - 38 daniel 37 - 38
+keluaran 37 - 38 keluaran 37 - 38
 keluaran 37 - keluaran 38
 keluaran 37 - keluaran 38
 keluaran 37 - keluaran 38
@@ -1637,7 +1637,7 @@ keluaran 37 - keluaran 40
 keluaran 37 - keluaran 38
 keluaran 39 - keluaran 40
 keluaran 37 - keluaran 38
-keluaran 39 - 40 daniel 39 - 40
+keluaran 39 - 40 keluaran 39 - 40
 keluaran 39 - keluaran 40
 imamat 1 - imamat 2
 imamat 1 - imamat 2
@@ -1712,7 +1712,7 @@ imamat 3 - imamat 4
 imamat 5 - imamat 6
 imamat 5 - imamat 6
 imamat 5 - imamat 6
-imamat 3 - imamat 4
+imamat 3 - 4 5 - imamat 3 - 4 6
 imamat 5 - imamat 6
 imamat 3 - imamat 6
 imamat 1 - imamat 2
@@ -1788,7 +1788,7 @@ imamat 7 - imamat 10
 imamat 9 - imamat 10
 imamat 9 - imamat 10
 imamat 7 - imamat 10
-keluaran imamat 10
+keluaran 31 - imamat 10
 imamat 9 - 10 imamat 9 - 10
 imamat 9 - imamat 10
 imamat 9 - imamat 10
@@ -1917,7 +1917,7 @@ imamat 17 - imamat 18
 imamat 17 - imamat 18
 imamat 16 - imamat 17
 imamat 15 - imamat 16
-kejadian imamat 2
+kejadian 37 - imamat 2
 imamat 13 - imamat 14
 imamat 17 - imamat 18
 imamat 17 - imamat 18
@@ -2055,31 +2055,31 @@ imamat 25 - imamat 26
 imamat 25 - imamat 26
 imamat 21 - imamat 22
 imamat 25 - imamat 26
-imamat 27 bil 1
-imamat 27 bilangan 1
-imamat 27 bil 1
-imamat bilangan 1
+imamat 27 - bilangan 1
+imamat 27 - bilangan 1
+imamat 27 - bilangan 1
+imamat 27 - bilangan 1
 imamat 25 - imamat 26
-imamat 27 bil 1
+imamat 27 - bilangan 1
 imamat 25 - imamat 26
 imamat 15 - imamat 16
 imamat 21 - imamat 22
-imamat 27 bil 1
-imamat 27 bil 1
+imamat 27 - bilangan 1
+imamat 27 - bilangan 1
 imamat
 imamat 25 - imamat 26
-imamat 27 bil 1
-imamat 27 bil 1
-imamat 24 bil 1
-imamat 27 bil 1
-imamat bilangan 1
+imamat 27 - bilangan 1
+imamat 27 - bilangan 1
+imamat 24 - bilangan 1
+imamat 27 - bilangan 1
+imamat 27 - bilangan 1
 imamat 24 - imamat 25
 imamat 15 - imamat 20
-imamat 27 bil 1
-imamat 27 bil 1
-imamat 27 bil 1
+imamat 27 - bilangan 1
+imamat 27 - bilangan 1
+imamat 27 - bilangan 1
 imamat 17 - imamat 18
-imamat 27 bil 1
+imamat 27 - bilangan 1
 imamat 21 - imamat 24
 bilangan 2 - bilangan 3
 bilangan 2 - bilangan 3
@@ -2088,22 +2088,22 @@ bilangan 2 - bilangan 3
 bilangan 2 - bilangan 3
 bilangan 2 - bilangan 3
 bilangan 2 - bilangan 3
-imamat 25 bil 1
+imamat 25 - bilangan 1
 bilangan 2 - bilangan 3
 bilangan 2 - bilangan 3
-imamat 27 bil 1
-imamat 27 bil 1
-imamat 25 bil 1
+imamat 27 - bilangan 1
+imamat 27 - bilangan 1
+imamat 25 - bilangan 1
 imamat 21 - imamat 24
 bilangan 2 - bilangan 3
 imamat 21 - imamat 22
 bilangan 2 - bilangan 3
 imamat 25 - imamat 26
 bilangan 2 - bilangan 3
-imamat 27 bil 3
+imamat 27 - bilangan 3
 bilangan 2 - bilangan 3
 imamat 13 - imamat 18
-imamat 27 bilangan 1
+imamat 27 - bilangan 1
 imamat 25 - imamat 26
 imamat 23 - imamat 24
 imamat 27
@@ -2114,9 +2114,9 @@ bilangan 2 - bilangan 3
 bilangan 2 - bilangan 3
 imamat
 imamat 19 - imamat 20
-imamat bilangan 3
+imamat 25 - bilangan 3
 imamat 25 - imamat 27
-imamat 27 bilangan 1
+imamat 27 - bilangan 1
 bilangan 2 - bilangan 3
 imamat 25 - imamat 27
 bilangan 1 - bilangan 2
@@ -2127,7 +2127,7 @@ imamat 25 - imamat 27
 bilangan 3 - bilangan 4
 imamat 21 - imamat 24
 imamat 17 - imamat 20
-imamat 23 bil 1
+imamat 23 - bilangan 1
 bilangan 4 - bilangan 5
 bilangan 4 - bilangan 5
 bilangan 4 - bilangan 5
@@ -2191,7 +2191,7 @@ bilangan 8 - bilangan 9
 bilangan 8 - bilangan 9
 bilangan 8 - bilangan 9
 bilangan 8 - bilangan 9
-imamat 27 bil 1
+imamat 27 - bilangan 1
 bilangan 8 - bilangan 9
 bilangan 6 - 7 bilangan 6 - 7
 bilangan 6 - bilangan 9
@@ -2199,7 +2199,7 @@ bilangan 6 - bilangan 7
 bilangan 8 - bilangan 9
 bilangan 6 - bilangan 7
 bilangan 8 - bilangan 9
-imamat 25 bil 1
+imamat 25 - bilangan 1
 bilangan 6 - bilangan 9
 bilangan 8 - bilangan 9
 bilangan 8 - bilangan 9
@@ -2208,7 +2208,7 @@ bilangan 2 - bilangan 9
 bilangan 8 - bilangan 9
 bilangan 8 - bilangan 9
 bilangan 9 - bilangan 10
-imamat 27 bil 2
+imamat 27 - bilangan 2
 bilangan 8 - bilangan 9
 bilangan 5 - bilangan 6
 bilangan 8 - bilangan 9
@@ -2307,7 +2307,7 @@ bilangan 5 - bilangan 6
 bilangan 14 - bilangan 15
 bilangan 8 - bilangan 9
 bilangan 7 - bilangan 8
-imamat 21 bil 1
+imamat 21 - bilangan 1
 imamat 25 - imamat 26
 bilangan 16 - bilangan 17
 bilangan 11 - bilangan 13
@@ -2363,7 +2363,7 @@ bilangan 18 - bilangan 19
 bilangan 1 - bilangan 5
 bilangan 18 - bilangan 19
 bilangan 18 - bilangan 19
-bilangan 18 - 19 efesus
+bilangan 18 - bilangan 19
 bilangan 7 - bilangan 10
 bilangan 9 - bilangan 10
 bilangan 20 - bilangan 21
@@ -2446,7 +2446,7 @@ bilangan 22 - bilangan 25
 bilangan 26 - bilangan 27
 bilangan 22 - bilangan 25
 bilangan 22 - bilangan 23
-imamat 1 bil 6
+imamat 1 - bilangan 6
 bilangan 26 - bilangan 27
 bilangan 26 - bilangan 27
 bilangan 26 - bilangan 27
@@ -2601,45 +2601,45 @@ bilangan 34 - bilangan 35
 bilangan 30 - bilangan 31
 bilangan 23 - bilangan 24
 bilangan 21 - bilangan 30
-bilangan 36 ul 1
-bilangan 36 ul 1
-bilangan 36 ul 1
-bilangan ulangan 1
-bilangan ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
 bilangan 34 - bilangan 35
-bilangan ulangan 1
-bilangan 34 ulangan 1
-bilangan ulangan 1
-bilangan 36 ul 1
-bilangan ulangan 1
-bilangan ulangan 1
-bilangan 36 ul 1
-bilangan 36 ul 1
+bilangan 36 - ulangan 1
+bilangan 34 - ulangan 1
+bilangan 35 - ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
 bilangan 14 - bilangan 15
-bilangan 36 ul 1
+bilangan 36 - ulangan 1
 bilangan 24 - bilangan 25
-bilangan 36 ul 1
-bilangan 36 ul 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
 bilangan 32 - bilangan 33
 bilangan 16 - bilangan 20
-bilangan 36 ul 1
-bilangan 36 ul 1
-bilangan ulangan 1
-bilangan ulangan 1
-bilangan 36 ul 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
+bilangan 36 - ulangan 1
 ulangan 2 - ulangan 3
 bilangan 16 - bilangan 19
 ulangan 2 - ulangan 3
 ulangan 2 - ulangan 3
 ulangan 2 - ulangan 3
-bilangan ulangan 1
+bilangan 36 - ulangan 1
 bilangan 35 - 36 daniel ulangan 1
 ulangan 2 - ulangan 3
 ulangan 2 - ulangan 3
-bilangan ulangan 3
+bilangan 36 - ulangan 3
 imamat 24 - imamat 27
 bilangan 34 - bilangan 35
-bilangan 36 ulangan 1
+bilangan 36 - ulangan 1
 ulangan 2 - ulangan 3
 ulangan 2 - ulangan 3
 ulangan 2 - ulangan 3
@@ -2649,13 +2649,13 @@ ulangan 2 - ulangan 3
 ulangan 2 - ulangan 3
 ulangan 2 - ulangan 3
 ulangan 2 - ulangan 3
-bilangan 36 ul 1
+bilangan 36 - ulangan 1
 ulangan 2 - ulangan 3
-bilangan ulangan 1
-bilangan ulangan 1
+bilangan 30 - ulangan 1
+bilangan 36 - ulangan 1
 ulangan 2 - ulangan 3
 bilangan 1 - bilangan 3
-bilangan 36 ul 1
+bilangan 36 - ulangan 1
 ulangan 2 - ulangan 3
 ulangan 2 - ulangan 3
 ulangan 2 - ulangan 3
@@ -2663,7 +2663,7 @@ bilangan 1 - bilangan 2
 bilangan 34 - bilangan 35
 bilangan 14 - bilangan 19
 bilangan 25 - bilangan 26
-ulangan ulangan 3
+ulangan 2 - ulangan 3
 bilangan 23 - bilangan 26
 ulangan 2 - ulangan 3
 ulangan 4 - ulangan 5
@@ -2684,7 +2684,7 @@ ulangan 4 - ulangan 5
 ulangan 4 - ulangan 5
 ulangan 4 - ulangan 5
 bilangan 28 - bilangan 29
-bilangan 36 ul 1
+bilangan 36 - ulangan 1
 bilangan 4 - bilangan 5
 ulangan 4 - ulangan 5
 ulangan 4 - ulangan 5
@@ -2739,7 +2739,7 @@ ulangan 8 - ulangan 9
 bilangan 27 - bilangan 28
 ulangan 8 - ulangan 9
 ulangan 8 - ulangan 9
-bilangan 36 ul 1
+bilangan 36 - ulangan 1
 ulangan 8 - ulangan 9
 bilangan 24 - bilangan 27
 ulangan 8 - ulangan 9
@@ -2905,7 +2905,7 @@ ulangan 18 - ulangan 19
 ulangan 18 - ulangan 19
 ulangan 18 - ulangan 19
 ulangan 20 - ulangan 21
-bilangan 36 ulangan 5
+bilangan 36 - ulangan 5
 ulangan 20 - ulangan 21
 bilangan 35 - bilangan 36
 ulangan 20 - ulangan 21
@@ -2932,7 +2932,7 @@ ulangan 20 - ulangan 21
 ulangan 20 - ulangan 21
 ulangan 1 - ulangan 2
 ulangan 16 - ulangan 21
-bilangan ulangan 1
+bilangan 34 - ulangan 1
 ulangan 20 - ulangan 21
 ulangan 20 - ulangan 21
 ulangan 18 - ulangan 21
@@ -3008,7 +3008,7 @@ ulangan 26 - ulangan 27
 ulangan 24 - ulangan 25
 ulangan 24 - ulangan 25
 ulangan 26 - ulangan 27
-bilangan ulangan 1
+bilangan 34 - ulangan 1
 ulangan 26 - ulangan 27
 ulangan 26 - ulangan 27
 ulangan 12 - ulangan 13
@@ -3109,60 +3109,60 @@ ulangan 28 - ulangan 33
 ulangan 32 - ulangan 33
 ulangan 32 - ulangan 33
 ulangan 32 - ulangan 33
-ulangan 1 - ulangan 3
+ulangan 1 - 3 2
 ulangan 30 - ulangan 33
 ulangan 32 - ulangan 33
 ulangan 30 - ulangan 33
 ulangan 24 - ulangan 27
-ulangan 34 yosua 1
+ulangan 34 - yosua 1
 ulangan 32 - ulangan 33
 ulangan 32 - ulangan 33
 ulangan 14 - ulangan 21
 ulangan 22 - ulangan 25
-ulangan 34 yos 1
+ulangan 34 - yosua 1
 ulangan 32 - ulangan 33
 ulangan 9 - ulangan 10
-ulangan 34 yosua 1
-ulangan 34 dan yos 1
+ulangan 34 - yosua 1
+ulangan 34 daniel yosua 1
 ulangan 32 - ulangan 33
-ulangan 34 yos 1
-ulangan yosua 1
-ulangan yosua 1
-ulangan yosua 1
+ulangan 34 - yosua 1
+ulangan 32 - yosua 1
+ulangan 34 - yosua 1
+ulangan 34 - yosua 1
 ulangan 30 - ulangan 31
-ulangan 34 yos 1
-ulangan 34 yos 1
+ulangan 34 - yosua 1
+ulangan 34 - yosua 1
 ulangan 20 - ulangan 25
-ulangan 34 yos 1
-ulangan 34 yos 1
+ulangan 34 - yosua 1
+ulangan 34 - yosua 1
 ulangan 32 - ulangan 33
 ulangan 32 - ulangan 33
-ulangan 34 yos 1
-ulangan 34 yos 1
-ulangan 34 yos 1
-ulangan yosua 1
+ulangan 34 - yosua 1
+ulangan 34 - yosua 1
+ulangan 34 - yosua 1
+ulangan 34 - yosua 1
 yosua 2 - yosua 3
-ulangan yosua 1
+ulangan 34 - yosua 1
 ulangan 32 - ulangan 33
 ulangan 32 - ulangan 33
 ulangan 28 - ulangan 31
 yosua 2 - yosua 3
 yosua 2 - yosua 3
 yosua 2 - yosua 3
-ulangan 34 yos 1
+ulangan 34 - yosua 1
 yosua 2 - yosua 3
 yosua 2 - yosua 3
-ulangan 34 yosua 1
-ulangan 34 yos 1
+ulangan 34 - yosua 1
+ulangan 34 - yosua 1
 yosua 2 - yosua 3
-ulangan 34 yos 1
-yosua 2 - yosua 3
-yosua 2 - yosua 3
+ulangan 34 - yosua 1
 yosua 2 - yosua 3
 yosua 2 - yosua 3
 yosua 2 - yosua 3
-ulangan 34 yos 1
-ulangan 34 yos 3
+yosua 2 - yosua 3
+yosua 2 - yosua 3
+ulangan 34 - yosua 1
+ulangan 34 - yosua 3
 yosua 2 - yosua 3
 yosua 2 - yosua 3
 yosua 2 - yosua 3
@@ -3180,13 +3180,13 @@ ulangan 11 - ulangan 12
 ulangan 26 - ulangan 34
 yosua 4 - yosua 5
 yosua 4 - yosua 5
-ulangan 34 yosua 1
+ulangan 34 - yosua 1
 yosua 4 - yosua 5
 yosua 2 - yosua 3
 yosua 4 - yosua 5
 yosua 4 - yosua 5
 yosua 4 - yosua 5
-ulangan 34 yos 1
+ulangan 34 - yosua 1
 yosua 4 - yosua 5
 yosua 4 - yosua 5
 yosua 4 - yosua 5
@@ -3194,7 +3194,7 @@ yosua 2 - yosua 5
 ulangan
 yosua 2 - yosua 5
 yosua 2 - yosua 5
-ulangan 34 yos 1
+ulangan 34 - yosua 1
 yosua 4 - yosua 5
 yosua 4 - yosua 5
 ulangan 2 - ulangan 13
@@ -3214,7 +3214,7 @@ yosua 6 - yosua 7
 ulangan 4 - ulangan 7
 ulangan 29 - ulangan 34
 yosua 6 - yosua 7
-ulangan 2 yos 7
+ulangan 2 - yosua 7
 yosua 6 - yosua 7
 yosua 4 - yosua 5
 yosua 6 - yosua 7
@@ -3249,7 +3249,7 @@ yosua 8 - yosua 9
 yosua 8 - yosua 9
 yosua 8 - yosua 9
 yosua 10 - yosua 11
-ulangan 26 yos 1
+ulangan 26 - yosua 1
 yosua 10 - yosua 11
 yosua 10 - yosua 11
 yosua 10 - yosua 11
@@ -3312,7 +3312,7 @@ yosua 14 - yosua 15
 yosua 14 - yosua 15
 yosua 14 - yosua 15
 yosua 14 - yosua 15
-keluaran 9
+keluaran 9 11
 yosua 14 - yosua 15
 yosua 8 - yosua 9
 yosua 14 - yosua 15
@@ -3323,7 +3323,7 @@ yosua 14 - yosua 15
 yosua 14 - yosua 15
 yosua 14 - yosua 15
 yosua 6 - yosua 8
-ulangan yosua 1
+ulangan 26 - yosua 1
 yosua 14 - yosua 15
 yosua 2 - yosua 5
 yosua 6 - yosua 7
@@ -3437,32 +3437,32 @@ yosua 22 - yosua 23
 yosua 22 - yosua 23
 yosua 22 - yosua 23
 ulangan 19 - ulangan 20
-yosua 24 hak 1
-yosua 24 hak
+yosua 24 - hakimhakim 1
+yosua 24 - hakimhakim 1
 yosua 20 - yosua 21
-yosua 24 hak 1 - 2
-yosua 24 hak 1
-yosua 24 hak 1
-yosua 24 hak 1
-yosua 21 hak 1
-yosua 24 hak 1
-ulangan yosua 5
-yosua 24 hak 1
-yosua hakimhakim 1
-yosua hakimhakim 1
+yosua 24 - hakimhakim 1 - yosua 24 - hakimhakim 2
+yosua 24 - hakimhakim 1
+yosua 24 - hakimhakim 1
+yosua 24 - hakimhakim 1
+yosua 21 - hakimhakim 1
+yosua 24 - hakimhakim 1
+ulangan 25 - yosua 5
+yosua 24 - hakimhakim 1
+yosua 34 - hakimhakim 1
+yosua 20 - hakimhakim 1
 yosua 16 - yosua 17
-yosua 24 hak 1
-yosua 22 hak 1
+yosua 24 - hakimhakim 1
+yosua 22 - hakimhakim 1
 keluaran 21 - keluaran 22
-yosua 34 hak 1
-yosua 22 hak 1
+yosua 34 - hakimhakim 1
+yosua 22 - hakimhakim 1
 yosua 16 - yosua 17
-yosua 24 hak 1
+yosua 24 - hakimhakim 1
 yosua 19 - yosua 21
 yosua 22 - yosua 24
-yosua 24 hak 1
-yosua 24 hak 1
-hakimhakim
+yosua 24 - hakimhakim 1
+yosua 24 - hakimhakim 1
+hakimhakim 2 - hakimhakim 3
 yosua 20 - yosua 22
 hakimhakim 2 - hakimhakim 3
 yosua 4 - yosua 7
@@ -3471,13 +3471,13 @@ hakimhakim 2 - hakimhakim 3
 hakimhakim 2 - hakimhakim 3
 yosua 20 - yosua 23
 hakimhakim 2 - hakimhakim 3
-yosua hakimhakim 3
-yosua 24 hak 1
+yosua 22 - hakimhakim 3
+yosua 24 - hakimhakim 1
 hakimhakim 2 - hakimhakim 3
 hakimhakim 2 - hakimhakim 3
-yosua 24 hak 3
+yosua 24 - hakimhakim 3
 hakimhakim 2 - hakimhakim 3
-keluaran keluaran 24
+keluaran 23 - keluaran 24
 hakimhakim 2 - hakimhakim 3
 hakimhakim 2 - hakimhakim 3
 yosua 18 - yosua 19
@@ -3495,25 +3495,25 @@ hakimhakim 4 - hakimhakim 5
 yosua 22 - yosua 23
 yosua 22 - yosua 23
 yosua
-yosua 24 hakimhakim 1
-hakimhakim 2 hakimhakim 3
+yosua 24 - hakimhakim 1
+hakimhakim 2 - hakimhakim 3
 hakimhakim 4 - hakimhakim 5
 hakimhakim 4 - hakimhakim 5
 yosua
 hakimhakim 1 - hakimhakim 5
 hakimhakim 4 - hakimhakim 5
 hakimhakim 2 - hakimhakim 6
-keluaran 25 kel 26
+keluaran 25 - keluaran 26
 yosua 22 - yosua 24
 hakimhakim 2 - hakimhakim 3
 hakimhakim 4 - hakimhakim 5
 hakimhakim 4 - hakimhakim 5
-yosua 22 hak 5
+yosua 22 - hakimhakim 5
 yosua 20 - yosua 21
 hakimhakim 4 - hakimhakim 5
 hakimhakim 4 - hakimhakim 5
 yosua 23 - yosua 24
-yosua 24 hak 1
+yosua 24 - hakimhakim 1
 ulangan 21 - ulangan 24
 hakimhakim 4 - hakimhakim 5
 bilangan 19 - bilangan 20
@@ -3527,22 +3527,22 @@ hakimhakim 6 - hakimhakim 7
 hakimhakim 2 - hakimhakim 5
 hakimhakim 2 - hakimhakim 3
 hakimhakim 6 - hakimhakim 7
-hakimhakim
-hakimhakim
+hakimhakim 6 - hakimhakim 7
+hakimhakim 6 - hakimhakim 7
 hakimhakim 6 - hakimhakim 7
 hakimhakim 4 - hakimhakim 5
 hakimhakim 6 - hakimhakim 7
 hakimhakim 6 - hakimhakim 7
-hakimhakim 4 hakimhakim 5
+hakimhakim 4 - hakimhakim 5
 hakimhakim 6 - hakimhakim 7
 hakimhakim 6 - hakimhakim 7
-hakimhakim 6 hakimhakim 7
 hakimhakim 6 - hakimhakim 7
-hakimhakim
+hakimhakim 6 - hakimhakim 7
+hakimhakim 6 - hakimhakim 7
 keluaran 27 - keluaran 28
-hakimhakim
-hakimhakim
-hakimhakim
+hakimhakim 6 - hakimhakim 7
+hakimhakim 6 - hakimhakim 7
+hakimhakim 1 - hakimhakim 4
 hakimhakim 6 - hakimhakim 7
 hakimhakim 6 - hakimhakim 7
 hakimhakim 4 - hakimhakim 7
@@ -3550,7 +3550,7 @@ hakimhakim 8 - hakimhakim 9
 hakimhakim 6 - hakimhakim 7
 hakimhakim 6 - hakimhakim 7
 hakimhakim 6 - hakimhakim 7
-hakimhakim
+hakimhakim 8 - hakimhakim 9
 hakimhakim 8 - hakimhakim 9
 hakimhakim 6 - hakimhakim 7
 hakimhakim 8 - hakimhakim 9
@@ -3558,10 +3558,10 @@ hakimhakim 8 - hakimhakim 9
 hakimhakim 4 - hakimhakim 5
 hakimhakim 6 - hakimhakim 7
 ulangan 25 - ulangan 26
-hakimhakim
-yosua 24 hak 1
-hakimhakim
-hakimhakim
+hakimhakim 8 - hakimhakim 9
+yosua 24 - hakimhakim 1
+hakimhakim 8 - hakimhakim 9
+hakimhakim 8 - hakimhakim 9
 hakimhakim 8 - hakimhakim 9
 hakimhakim 8 - hakimhakim 9
 hakimhakim 8 - hakimhakim 9
@@ -3578,10 +3578,10 @@ hakimhakim 8 - hakimhakim 9
 hakimhakim 10 - hakimhakim 11
 hakimhakim 1 - hakimhakim 4
 hakimhakim 8 - hakimhakim 9
-hakimhakim
-yosua 24 hak 1
+hakimhakim 5 - hakimhakim 7
+yosua 24 - hakimhakim 1
 hakimhakim 8 - hakimhakim 9
-hakimhakim
+hakimhakim 10 - hakimhakim 11
 ulangan 27 - ulangan 28
 hakimhakim 10 - hakimhakim 11
 hakimhakim 10 - hakimhakim 11
@@ -3591,7 +3591,7 @@ hakimhakim 10 - hakimhakim 11
 hakimhakim 10 - hakimhakim 11
 hakimhakim 10 - hakimhakim 11
 hakimhakim 10 - hakimhakim 11
-keluaran 31 kel 32
+keluaran 31 - keluaran 32
 hakimhakim 10 - hakimhakim 12
 hakimhakim 10 - hakimhakim 11
 hakimhakim 10 - hakimhakim 11
@@ -3602,27 +3602,27 @@ hakimhakim 10 - hakimhakim 11
 hakimhakim 8 - hakimhakim 11
 hakimhakim 12 - hakimhakim 15
 hakimhakim 5 - hakimhakim 6
-hakimhakim
-hakimhakim
-yosua hakimhakim 5
-hakimhakim
+hakimhakim 12 - hakimhakim 13
+hakimhakim 8 - hakimhakim 9
+yosua 21 - hakimhakim 5
+hakimhakim 1 - hakimhakim 11
 hakimhakim 12 - hakimhakim 13
 hakimhakim 12 - hakimhakim 13
 hakimhakim 8 - hakimhakim 9
 ulangan 29 - ulangan 30
 hakimhakim 12 - hakimhakim 13
-hakimhakim
+hakimhakim 12 - hakimhakim 13
 hakimhakim 6 - hakimhakim 7
 hakimhakim 10 - hakimhakim 11
 hakimhakim 12 - hakimhakim 13
 yosua 6 - yosua 7
 hakimhakim 2 - hakimhakim 11
-hakimhakim 8 hakimhakim 9
+hakimhakim 8 - hakimhakim 9
 hakimhakim 12 - hakimhakim 13
 hakimhakim 12 - hakimhakim 13
 hakimhakim 12 - hakimhakim 13
-hakimhakim 10 hakimhakim 11
-hakimhakim 12 hakimhakim 13
+hakimhakim 10 - hakimhakim 11
+hakimhakim 12 - hakimhakim 13
 keluaran 33 - keluaran 34
 hakimhakim 12 - hakimhakim 13
 hakimhakim 12 - hakimhakim 13
@@ -3640,10 +3640,10 @@ hakimhakim 12 - hakimhakim 13
 yosua 1 - yosua 24
 hakimhakim 10 - hakimhakim 11
 hakimhakim 14 - hakimhakim 15
-hakimhakim
+hakimhakim 14 - hakimhakim 15
 hakimhakim 14 - hakimhakim 15
 hakimhakim 12 - hakimhakim 15
-hakimhakim
+hakimhakim 12 - hakimhakim 15
 hakimhakim 14 - hakimhakim 15
 yosua 8 - yosua 15
 hakimhakim 14 - hakimhakim 15
@@ -3661,8 +3661,8 @@ hakimhakim 10 - hakimhakim 11
 hakimhakim 14 - hakimhakim 15
 hakimhakim 14 - hakimhakim 15
 hakimhakim 14 - hakimhakim 15
-hakimhakim 14 hakimhakim 15
-keluaran 35 kel 36
+hakimhakim 14 - hakimhakim 15
+keluaran 35 - keluaran 36
 hakimhakim 14 - hakimhakim 15
 hakimhakim 12 - hakimhakim 15
 hakimhakim 14 - hakimhakim 15
@@ -3671,7 +3671,7 @@ hakimhakim 12 - hakimhakim 13
 hakimhakim 11 - hakimhakim 12
 hakimhakim 16 - hakimhakim 17
 hakimhakim 16 - hakimhakim 17
-hakimhakim
+hakimhakim 16 - hakimhakim 17
 hakimhakim 16 - hakimhakim 17
 hakimhakim 16 - hakimhakim 17
 hakimhakim 14 - hakimhakim 15
@@ -3693,23 +3693,23 @@ yosua 16 - yosua 24
 ulangan 31 - ulangan 32
 hakimhakim 16 - hakimhakim 17
 hakimhakim 16 - hakimhakim 17
-keluaran 37 - 38 keluaran 39 kel 40
+keluaran 37 - 38 keluaran 39 - keluaran 40
 hakimhakim 14 - hakimhakim 17
 hakimhakim 1 - hakimhakim 4
 hakimhakim 16 - hakimhakim 17
 hakimhakim 14 - hakimhakim 17
 yosua 13 - yosua 16
 hakimhakim 16 - hakimhakim 17
-hakimhakim
 hakimhakim 18 - hakimhakim 19
 hakimhakim 18 - hakimhakim 19
-hakimhakim 16 - hakimhakim 17
 hakimhakim 18 - hakimhakim 19
 hakimhakim 16 - hakimhakim 17
 hakimhakim 18 - hakimhakim 19
-hakimhakim
-hakimhakim
-hakimhakim
+hakimhakim 16 - hakimhakim 17
+hakimhakim 18 - hakimhakim 19
+hakimhakim 18 - hakimhakim 19
+hakimhakim 18 - hakimhakim 19
+hakimhakim 18 - hakimhakim 19
 hakimhakim 18 - hakimhakim 19
 hakimhakim 16 - hakimhakim 17
 hakimhakim 16 - hakimhakim 19
@@ -3730,14 +3730,14 @@ hakimhakim 18 - hakimhakim 19
 ulangan 1 - ulangan 2
 hakimhakim 16 - hakimhakim 19
 hakimhakim 20 - hakimhakim 21
-hakimhakim
+hakimhakim 20 - hakimhakim 21
 hakimhakim 18 - hakimhakim 19
 rut 1 - rut 2
-hakimhakim
 hakimhakim 20 - hakimhakim 21
 hakimhakim 20 - hakimhakim 21
 hakimhakim 20 - hakimhakim 21
-hakimhakim
+hakimhakim 20 - hakimhakim 21
+hakimhakim 20 - hakimhakim 21
 hagai hakimhakim 12 - hagai hakimhakim 13
 hakimhakim 18 - hakimhakim 19
 hakimhakim 20 - hakimhakim 21
@@ -3757,9 +3757,9 @@ hakimhakim 20 - hakimhakim 21
 hakimhakim 9 - hakimhakim 17
 hakimhakim 10 - hakimhakim 11
 hakimhakim 20 - hakimhakim 21
-hakimhakim 16 hakimhakim 17
-hakimhakim 18 hakimhakim 19
-hakimhakim 20 hakimhakim 21
+hakimhakim 16 - hakimhakim 17
+hakimhakim 18 - hakimhakim 19
+hakimhakim 20 - hakimhakim 21
 rut 3 - rut 4
 hakimhakim 18 - hakimhakim 21
 rut 1 - rut 2
@@ -3817,8 +3817,8 @@ hakimhakim 16 - hakimhakim 19
 rut 3 - rut 4
 rut 1 - rut 4
 rut 3 - rut 4
-hakimhakim rut 1
-hakimhakim 20 rut 4
+hakimhakim 18 - rut 1
+hakimhakim 20 - rut 4
 rut 3 - rut 4
 rut 3 - rut 4
 1samuel 1 - 1samuel 2
@@ -3834,7 +3834,7 @@ hakimhakim
 hakimhakim
 1samuel 1 - 1samuel 2
 1samuel 1 - 1samuel 2
-imamat sam  - imamat sam 2
+1samuel 1 - 1samuel 2
 imamat 9 - imamat 10
 1samuel 1 - 1samuel 2
 1samuel 1 - 1samuel 2
@@ -3854,7 +3854,7 @@ rut 3 - rut 4
 1samuel 3 - 1samuel 4
 1samuel 3 - 1samuel 4
 1samuel 3 - 1samuel 4
-hakimhakim hakimhakim
+hakimhakim 2 - hakimhakim 3
 hakimhakim 20 - hakimhakim 21
 1samuel 3 - 1samuel 4
 1samuel 3 - 1samuel 4
@@ -3890,15 +3890,15 @@ hakimhakim 18 - hakimhakim 21
 1samuel 5 - 1samuel 6
 1samuel 5 - 1samuel 6
 1samuel 3 - 1samuel 6
-1samuel
-1samuel
+1samuel 1 - 1samuel 2
+1samuel 3 - 1samuel 4
 rut
-1samuel
-1samuel
+1samuel 5 - 1samuel 6
+1samuel 1 - 1samuel 6
 1samuel 5 - 1samuel 6
 imamat 15 - imamat 18
-imamat sam  - imamat sam 6
-imamat sam  - imamat sam 6
+1samuel 5 - 1samuel 6
+1samuel 5 - 1samuel 6
 hakimhakim 13 - hakimhakim 17
 1samuel 5 - 1samuel 6
 ulangan 25 - ulangan 26
@@ -3919,9 +3919,9 @@ imamat 19 - imamat 20
 1samuel 7 - 1samuel 8
 1samuel 7 - 1samuel 8
 1samuel 7 - 1samuel 8
-hakimhakim
+hakimhakim 2
 ulangan 20 - ulangan 21
-1samuel
+1samuel 7 - 1samuel 8
 1samuel 7 - 1samuel 8
 1samuel 7 - 1samuel 8
 1samuel 7 - 1samuel 8
@@ -3940,7 +3940,7 @@ hakimhakim 3 - hakimhakim 4
 1samuel 1 - 1samuel 4
 1samuel 9 - 1samuel 10
 1samuel 9 - 1samuel 10
-1samuel
+1samuel 7 - 1samuel 8
 1samuel 7 - 1samuel 8
 1samuel 7 - 1samuel 10
 1samuel 9 - 1samuel 10
@@ -3956,7 +3956,7 @@ hakimhakim 18 - hakimhakim 21
 rut 1 - rut 4
 1samuel 9 - 1samuel 10
 hakimhakim 5 - hakimhakim 14
-1samuel
+1samuel 9 - 1samuel 10
 1samuel 3 - 1samuel 4
 ulangan 31 - ulangan 32
 1samuel 9 - 1samuel 10
@@ -3968,7 +3968,7 @@ yosua 13 - yosua 16
 1samuel 9 - 1samuel 10
 1samuel 3 - 1samuel 10
 rut 2 - 1samuel 3
-1samuel
+1samuel 3 - 1samuel 6
 1samuel 5 - 1samuel 8
 1samuel 11 - 1samuel 12
 1samuel 11 - 1samuel 12
@@ -3980,11 +3980,11 @@ rut 2 - 1samuel 3
 1samuel 9 - 1samuel 12
 hakimhakim 11 - hakimhakim 21
 1samuel 11 - 1samuel 12
-1samuel
-1samuel
+1samuel 9 - 1samuel 10
+1samuel 11 - 1samuel 12
 1samuel 11 - 1samuel 12
 imamat 23 - imamat 24
-1samuel
+1samuel 11 - 1samuel 12
 1samuel 11 - 1samuel 12
 1samuel 1 - 1samuel 10
 1samuel 11 - 1samuel 12
@@ -4004,8 +4004,8 @@ imamat 23 - imamat 24
 1samuel 13 - 1samuel 14
 1samuel 13 - 1samuel 14
 imamat 10 - imamat 12
-bilangan ulangan 2
-1samuel
+bilangan 34 - ulangan 2
+1samuel 13 - 1samuel 14
 1samuel 13 - 1samuel 14
 1samuel 5 - 1samuel 8
 imamat 25 - imamat 26
@@ -4024,7 +4024,7 @@ ulangan 26 - ulangan 27
 1samuel 15 - 1samuel 16
 1samuel 13 - 1samuel 14
 1samuel 13 - 1samuel 14
-1samuel
+1samuel 7 - 1samuel 12
 1samuel 11 - 1samuel 16
 1samuel 15 - 1samuel 16
 1samuel 15 - 1samuel 16
@@ -4049,8 +4049,8 @@ imamat 13 - imamat 14
 yosua 6 - yosua 7
 ulangan 32 - ulangan 33
 1samuel 15 - 1samuel 16
-1samuel
-1samuel
+1samuel 13 - 1samuel 14
+1samuel 15 - 1samuel 16
 1samuel 15 - 1samuel 16
 imamat 15 - imamat 16
 1samuel 14 - 1samuel 16
@@ -4058,12 +4058,12 @@ imamat 15 - imamat 16
 1samuel 17 - 1samuel 18
 1samuel 17 - 1samuel 18
 1samuel 17 - 1samuel 18
-1samuel
+1samuel 15 - 1samuel 16
 1samuel 17 - 1samuel 18
 1samuel 17 - 1samuel 18
 1samuel 17 - 1samuel 18
 1samuel 17 - 1samuel 18
-1samuel
+1samuel 17 - 1samuel 18
 1samuel 11 - 1samuel 18
 1samuel 17 - 1samuel 18
 1samuel 5 - 1samuel 18
@@ -4104,7 +4104,7 @@ bilangan 6 - bilangan 7
 1samuel 19 - 1samuel 20
 1samuel 19 - 1samuel 20
 1samuel 19 - 1samuel 20
-1samuel
+1samuel 19 - 1samuel 20
 1samuel 11 - 1samuel 14
 1samuel 15 - 1samuel 16
 yosua 10 - yosua 11
@@ -4124,10 +4124,10 @@ hakimhakim 1 - hakimhakim 2
 1samuel 21 - 1samuel 22
 1samuel 21 - 1samuel 22
 ulangan 3 - ulangan 6
-1samuel
+1samuel 19 - 1samuel 20
 1samuel 21 - 1samuel 22
 1samuel 21 - 1samuel 22
-1samuel 22 yak
+1samuel 22 yakobus
 1samuel 21 - 1samuel 22
 1samuel 21 - 1samuel 22
 1samuel 13 - 1samuel 14
@@ -4148,7 +4148,7 @@ yosua 16 - yosua 17
 1samuel 21 - 1samuel 22
 1samuel 17 - 1samuel 20
 1samuel 16 - 1samuel 20
-1samuel
+1samuel 21 - 1samuel 22
 1samuel 21 - 1samuel 22
 1samuel 15 - 1samuel 22
 1samuel 21 - 1samuel 22
@@ -4187,9 +4187,9 @@ hakimhakim 3 - hakimhakim 4
 1samuel 25 - 1samuel 26
 1samuel 25 - 1samuel 26
 1samuel 25 - 1samuel 26
-1samuel
-1samuel
-1samuel
+1samuel 21 - 1samuel 22
+1samuel 23 - 1samuel 24
+1samuel 25 - 1samuel 26
 1samuel 25 - 1samuel 26
 1samuel 25 - 1samuel 26
 1samuel 25 - 1samuel 26
@@ -4198,8 +4198,8 @@ hakimhakim 3 - hakimhakim 4
 1samuel 25 - 1samuel 26
 bilangan 12 - bilangan 13
 1samuel 25 - 1samuel 26
-1samuel
-1samuel
+1samuel 23 - 1samuel 24
+1samuel 25 - 1samuel 26
 1samuel 25 - 1samuel 26
 1samuel 27 - 1samuel 28
 1samuel 27 - 1samuel 28
@@ -4222,7 +4222,7 @@ bilangan 12 - bilangan 13
 1samuel 27 - 1samuel 28
 1samuel 27 - 1samuel 28
 1samuel 27 - 1samuel 28
-1samuel
+1samuel 27 - 1samuel 28
 1samuel 27 - 1samuel 28
 bilangan 14 - bilangan 15
 1samuel 27 - 1samuel 28
@@ -4230,7 +4230,7 @@ bilangan 1 - bilangan 9
 1samuel 27 - 1samuel 28
 1samuel 27 - 1samuel 28
 1samuel 27 - 1samuel 28
-1samuel
+1samuel 27 - 1samuel 28
 1samuel 25 - 1samuel 28
 1samuel 27 - 1samuel 28
 1samuel 25 - 1samuel 26
@@ -4252,13 +4252,13 @@ hakimhakim 4 - hakimhakim 5
 1samuel 23 - 1samuel 26
 1samuel 27 - 1samuel 28
 1samuel 29 - 1samuel 30
-bilangan 6 ul 1
+bilangan 6 - ulangan 1
 1samuel 29 - 1samuel 30
 1samuel 23 - 1samuel 30
 bilangan 19 - bilangan 20
 1samuel 29 - 1samuel 30
 bilangan 10 - bilangan 15
-hakimhakim rut
+hakimhakim 15 - hakimhakim rut
 1samuel 29 - 1samuel 30
 1samuel 29 - 1samuel 30
 1samuel 29 - 1samuel 30
@@ -4285,7 +4285,7 @@ hakimhakim rut
 1samuel 31 - 2samuel 1
 1samuel 21 - 1samuel 25
 1samuel 31 - 2samuel 1
-ulangan 2 ul 10
+ulangan 2 - ulangan 10
 bilangan 21 - bilangan 22
 1samuel 31 - 2samuel 1
 yosua 1 - yosua 4
@@ -4296,7 +4296,7 @@ yosua 1 - yosua 4
 1samuel 29 - 2samuel 1
 1samuel 31 - 2samuel 1
 1samuel 27 - 1samuel 30
-1samuel
+1samuel 27 - 1samuel 28
 1samuel 31 - 2samuel 1
 1samuel 31 - 2samuel 1
 1samuel
@@ -4310,9 +4310,9 @@ hakimhakim 6 - hakimhakim 7
 1samuel 31 - 2samuel 3
 2samuel 2 - 2samuel 3
 2samuel 2 - 2samuel 3
-1samuel
+1samuel 29 - 1samuel 30
 2samuel 2 - 2samuel 3
-1samuel 2samuel
+1samuel 31 - 2samuel 1
 1samuel 31 - 2samuel 3
 2samuel 2 - 2samuel 3
 2samuel 3 - 2samuel 4
@@ -4328,7 +4328,7 @@ hakimhakim 10 - hakimhakim 11
 2samuel 2 - 2samuel 3
 2samuel 2 - 2samuel 3
 2samuel 2 - 2samuel 3
-2samuel
+2samuel 2 - 2samuel 3
 2samuel 2 - 2samuel 3
 1samuel 19 - 1samuel 22
 2samuel 2 - 2samuel 5
@@ -4349,7 +4349,7 @@ yosua 5 - yosua 8
 2samuel 4 - 2samuel 5
 hakimhakim 16 - hakimhakim 17
 2samuel 2 - 2samuel 5
-ulangan 11 ul 15
+ulangan 11 - ulangan 15
 2samuel 4 - 2samuel 5
 2samuel 2 - 2samuel 5
 1samuel 10 - 1samuel 20
@@ -4372,7 +4372,7 @@ ulangan 7 - ulangan 9
 2samuel 6 - 2samuel 7
 2samuel 4 - 2samuel 7
 2samuel 6 - 2samuel 7
-2samuel
+2samuel 4 - 2samuel 5
 2samuel 6 - 2samuel 7
 2samuel 2 - 2samuel 4
 bilangan 25 - bilangan 26
@@ -4382,15 +4382,15 @@ bilangan 25 - bilangan 26
 2samuel 4 - 2samuel 5
 2samuel 6 - 2samuel 7
 2samuel 6 - 2samuel 7
-2samuel
+2samuel 2 - 2samuel 3
 2samuel 8 - 2samuel 9
 2samuel 8 - 2samuel 9
 2samuel 8 - 2samuel 9
 2samuel 8 - 2samuel 9
-2samuel
+2samuel 4 - 2samuel 5
 2samuel 8 - 2samuel 9
-2samuel
-2samuel
+2samuel 6 - 2samuel 7
+2samuel 8 - 2samuel 9
 2samuel 8 - 2samuel 9
 2samuel 4 - 2samuel 7
 2samuel 8 - 2samuel 9
@@ -4412,8 +4412,8 @@ bilangan 27 - bilangan 28
 2samuel 5 - 2samuel 6
 2samuel 8 - 2samuel 9
 2samuel 8 - 2samuel 9
-2samuel
-2samuel
+2samuel 8 - 2samuel 9
+2samuel 8 - 2samuel 9
 2samuel 4 - 2samuel 5
 hakimhakim 11 - hakimhakim 21
 2samuel 2 - 2samuel 8
@@ -4428,7 +4428,7 @@ yosua 9 - yosua 12
 2samuel 11 - 2samuel 12
 2samuel 10 - 2samuel 11
 2samuel 10 - 2samuel 11
-2samuel
+2samuel 10 - 2samuel 11
 2samuel 10 - 2samuel 11
 2samuel 10 - 2samuel 11
 2samuel 6 - 2samuel 7
@@ -4463,11 +4463,11 @@ bilangan 29 - bilangan 30
 2samuel 13 - 2samuel 14
 2samuel 12 - 2samuel 13
 2samuel 12 - 2samuel 13
-2samuel
+2samuel 10 - 2samuel 11
 2samuel 12 - 2samuel 13
 2samuel 12 - 2samuel 13
 2samuel 12 - 2samuel 13
-2samuel
+2samuel 12 - 2samuel 13
 2samuel 10 - 2samuel 12
 2samuel 12 - 2samuel 13
 2samuel 12 - 2samuel 13
@@ -4522,7 +4522,7 @@ yosua 13 - yosua 16
 2samuel 17 - 2samuel 18
 1samuel 21 - 1samuel 31
 2samuel 16 - 2samuel 17
-2samuel 14
+2samuel 14 - 2samuel 15
 2samuel 16 - 2samuel 17
 1samuel 31
 2samuel 16 - 2samuel 17
@@ -4540,8 +4540,8 @@ yosua 13 - yosua 16
 yosua 17 - yosua 20
 1samuel 3 - 1samuel 4
 2samuel 14 - 2samuel 17
-2samuel
-imamat sam  - imamat sam 20
+2samuel 14 - 2samuel 15
+1samuel 1 - 1samuel 20
 2samuel 16 - 2samuel 17
 2samuel 8 - 2samuel 11
 2samuel 18 - 2samuel 19
@@ -4554,8 +4554,8 @@ imamat sam  - imamat sam 20
 2samuel 18 - 2samuel 19
 2samuel 18 - 2samuel 19
 2samuel 18 - 2samuel 19
-filemon 2samuel 23 maz
-2samuel
+filemon 2samuel 23 mazmur
+2samuel 16 - 2samuel 17
 2samuel 18 - 2samuel 19
 2samuel 4 - 2samuel 9
 1samuel 18 - 1samuel 20
@@ -4618,60 +4618,60 @@ yosua 21 - yosua 24
 1samuel 31
 2samuel 22 - 2samuel 23
 2samuel 18 - 2samuel 23
-2samuel 24 - 2samuel 1
+2samuel 24 - 1rajaraja 1
 hakimhakim 10 - hakimhakim 11
-2samuel 24 - 2samuel 1
+2samuel 24 - 1rajaraja 1
 2samuel 20 - 2samuel 21
-2samuel 24 - 2samuel 1
-2samuel 24 - 2samuel 1
-2samuel
-2samuel 24 - 2samuel 1
-2samuel
-2samuel
-2samuel 18 - 2samuel 1
+2samuel 24 - 1rajaraja 1
+2samuel 24 - 1rajaraja 1
+2samuel 18 - 2samuel 19
+2samuel 24 - 1rajaraja 1
+2samuel 20 - 2samuel 21
 2samuel 22 - 2samuel 23
-2samuel 1rajaraja
-2samuel 24 - 2samuel 1
+2samuel 18 - 1rajaraja 1
+2samuel 22 - 2samuel 23
+2samuel 24 - 1rajaraja 1
+2samuel 24 - 1rajaraja 1
 2samuel 20 - 2samuel 23
-2samuel 24 - 2samuel 1
-2samuel 24 - 2samuel 1
-2samuel 24 dan 1
-2samuel 24 - 2samuel 1
+2samuel 24 - 1rajaraja 1
+2samuel 24 - 1rajaraja 1
+2samuel 24 daniel 1rajaraja 1 - 2
+2samuel 24 - 1rajaraja 1
 2samuel 1 - 2samuel 4
 2samuel
-2samuel 24 - 2samuel 1
-2samuel 24 - 2samuel 1
-2samuel 24 - 2samuel 1
-2samuel 24 - 2samuel 1
+2samuel 24 - 1rajaraja 1
+2samuel 24 - 1rajaraja 1
+2samuel 24 - 1rajaraja 1
+2samuel 24 - 1rajaraja 1
 2samuel 3 - 2samuel 5
-2samuel 24 - 2samuel 1
-2samuel 24 - 2samuel 1
+2samuel 24 - 1rajaraja 1
+2samuel 24 - 1rajaraja 1
 2samuel 22 - 2samuel 23
-2samuel 24 - 2samuel 1
-2samuel 24 - 2samuel 1
+2samuel 24 - 1rajaraja 1
+2samuel 24 - 1rajaraja 1
 1rajaraja 2 - 1rajaraja 3
 1rajaraja 2 - 1rajaraja 3
 1rajaraja 2 - 1rajaraja 3
 1rajaraja 2 - 1rajaraja 3
 1rajaraja 2 - 1rajaraja 3
-2samuel 24 - 2samuel 1
+2samuel 24 - 1rajaraja 1
 1rajaraja 3 - 1rajaraja 4
-1rajaraja
+1rajaraja 2 - 1rajaraja 3
 2samuel 22 - 2samuel 23
-2samuel 24 - 2samuel 1
+2samuel 24 - 1rajaraja 1
 bilangan 16 - bilangan 25
-1rajaraja
-1rajaraja
 1rajaraja 2 - 1rajaraja 3
 1rajaraja 2 - 1rajaraja 3
-1rajaraja
-2samuel 24 - 2samuel 1
+1rajaraja 2 - 1rajaraja 3
+1rajaraja 2 - 1rajaraja 3
+1rajaraja 2 - 1rajaraja 3
+2samuel 24 - 1rajaraja 1
 2samuel 14 - 2samuel 24
-2samuel
-1rajaraja
+2samuel 12 - 2samuel 13
+1rajaraja 2 - 1rajaraja 3
 2samuel
 1rajaraja 1 - 1rajaraja 3
-1rajaraja
+1rajaraja 2 - 1rajaraja 3
 1rajaraja 2 - 1rajaraja 3
 2samuel 24
 1rajaraja 2 - 1rajaraja 3
@@ -4680,59 +4680,59 @@ bilangan 16 - bilangan 25
 1rajaraja 2 - 1rajaraja 3
 1rajaraja 4 - 1rajaraja 5
 1rajaraja 4 - 1rajaraja 5
-hakimhakim
+hakimhakim 1 - hakimhakim 4
 2samuel 10 - 2samuel 13
 1rajaraja 4 - 1rajaraja 5
 1rajaraja 4 - 1rajaraja 5
-1rajaraja
-1rajaraja
-1rajaraja
-2samuel
-1rajaraja
+1rajaraja 4 - 1rajaraja 5
+1rajaraja 2 - 1rajaraja 3
+1rajaraja 4 - 1rajaraja 5
+2samuel 16 - 2samuel 17
+1rajaraja 2 - 1rajaraja 3
 1rajaraja 2 - 1rajaraja 5
-1rajaraja
+1rajaraja 4 - 1rajaraja 5
 2samuel 24
-1rajaraja
-1rajaraja
-1rajaraja
-1rajaraja
-1rajaraja
+1rajaraja 4 - 1rajaraja 5
+1rajaraja 4 - 1rajaraja 5
+1rajaraja 4 - 1rajaraja 5
+1rajaraja 4 - 1rajaraja 5
+1rajaraja 4 - 1rajaraja 5
 ulangan 16 - ulangan 20
 ulangan 21 - ulangan 30
-2samuel 24 - 2samuel 1
-1rajaraja
+2samuel 24 - 1rajaraja 1
+1rajaraja 1 - 1rajaraja 5
 ulangan 18 - ulangan 22
 1rajaraja 2 - 1rajaraja 3
-keluaran 16 ulangan 19
+keluaran 16 - ulangan 19
 1samuel 6 - 1samuel 10
 ulangan 31 - ulangan 34
-bilangan 28 ulangan 2
-1rajaraja
+bilangan 28 - ulangan 2
+1rajaraja 4 - 1rajaraja 5
 1rajaraja 4 - 1rajaraja 5
 yosua 1 - yosua 24
 1rajaraja 4 - 1rajaraja 5
 1rajaraja 6 - 1rajaraja 7
-2samuel 24 - 2samuel 1
-1rajaraja
+2samuel 24 - 1rajaraja 3
 1rajaraja 6 - 1rajaraja 7
 1rajaraja 6 - 1rajaraja 7
-1rajaraja
-1rajaraja
-2samuel
-1rajaraja
-1rajaraja
-1rajaraja
-1rajaraja
-1rajaraja
+1rajaraja 6 - 1rajaraja 7
+1rajaraja 4 - 1rajaraja 7
+1rajaraja 6 - 1rajaraja 7
+2samuel 20 - 2samuel 21
+1rajaraja 6 - 1rajaraja 7
+1rajaraja 6 - 1rajaraja 7
+1rajaraja 6 - 1rajaraja 7
+1rajaraja 6 - 1rajaraja 7
+1rajaraja 6 - 1rajaraja 7
 2samuel 14 - 2samuel 19
 hakimhakim 1 - hakimhakim 21
 2rajaraja 4 - 2rajaraja 5
 rut 1 - rut 4
-1rajaraja
+1rajaraja 3 - 1rajaraja 5
 1rajaraja 2 - 1rajaraja 3
-1rajaraja
-ulangan 3 ulangan 17
-1rajaraja
+1rajaraja 6 - 1rajaraja 7
+ulangan 3 - ulangan 17
+1rajaraja 6 - 1rajaraja 7
 1rajaraja 4 - 1rajaraja 7
 1rajaraja 6 - 1rajaraja 7
 1rajaraja 6 - 1rajaraja 7
@@ -4743,15 +4743,15 @@ ulangan 3 ulangan 17
 1rajaraja 6 - 1rajaraja 7
 1rajaraja 4 - 1rajaraja 5
 1rajaraja 4 - 1rajaraja 5
-1rajaraja
-1rajaraja
+1rajaraja 4 - 1rajaraja 5
+1rajaraja 6 - 1rajaraja 7
 1rajaraja 6 - 1rajaraja 7
 hakimhakim 8 - 1samuel 2
 1rajaraja 4 - 1rajaraja 7
 hakimhakim 5 - hakimhakim 8
 2samuel 20 - 2samuel 21
 1samuel 21 - 1samuel 31
-1rajaraja
+1rajaraja 8 - 1rajaraja 9
 1rajaraja 8 - 1rajaraja 9
 1rajaraja 8 - 1rajaraja 9
 1rajaraja 8 - 1rajaraja 9
@@ -4759,9 +4759,9 @@ hakimhakim 5 - hakimhakim 8
 2samuel 22 - 2samuel 23
 hakimhakim 12 - hakimhakim 16
 1rajaraja 8 - 1rajaraja 9
-1rajaraja
-1rajaraja
-1rajaraja
+1rajaraja 8 - 1rajaraja 9
+1rajaraja 8 - 1rajaraja 9
+1rajaraja 8 - 1rajaraja 9
 2rajaraja 7 - 2rajaraja 9
 2samuel 17 - 2samuel 21
 1rajaraja 8 - 1rajaraja 9
@@ -4771,46 +4771,46 @@ hakimhakim 12 - hakimhakim 16
 hakimhakim 17 - hakimhakim 20
 2samuel 5 - 2samuel 14
 1rajaraja 8 - 1rajaraja 9
-2samuel 1rajaraja
+2samuel 24 - 1rajaraja 1
 1rajaraja 7 - 1rajaraja 9
 1rajaraja 8 - 1rajaraja 9
 2samuel 22 - 2samuel 24
-ulangan 18 ulangan 34
+ulangan 18 - ulangan 34
 bilangan 26 - bilangan 31
-1rajaraja
-1rajaraja
-1rajaraja
-1rajaraja
+1rajaraja 4 - 1rajaraja 5
 1rajaraja 6 - 1rajaraja 7
-1rajaraja
-1rajaraja
-1rajaraja
+1rajaraja 6 - 1rajaraja 7
+1rajaraja 8 - 1rajaraja 9
+1rajaraja 6 - 1rajaraja 7
+1rajaraja 8 - 1rajaraja 9
+1rajaraja 8 - 1rajaraja 9
+1rajaraja 8 - 1rajaraja 9
 1samuel 11 - 1samuel 14
-1rajaraja
-1rajaraja
+1rajaraja 6 - 1rajaraja 7
+1rajaraja 8 - 1rajaraja 9
 1rajaraja 8 - 1rajaraja 9
 1rajaraja 10 - 1rajaraja 11
 2samuel 1 - 2samuel 11
-hakimhakim rut 2
-1rajaraja
+hakimhakim 21 - rut 2
+1rajaraja 10 - 1rajaraja 11
 hakimhakim 9 - hakimhakim 12
-1rajaraja
-1rajaraja
+1rajaraja 10 - 1rajaraja 11
+1rajaraja 10 - 1rajaraja 11
 1rajaraja 8 - 1rajaraja 11
 1rajaraja 10 - 1rajaraja 11
-1rajaraja
-1rajaraja
+1rajaraja 10 - 1rajaraja 11
+1rajaraja 10 - 1rajaraja 11
 1rajaraja 10 - 1rajaraja 11
 1rajaraja 10 - 1rajaraja 11
 1rajaraja 8 - 1rajaraja 11
 bilangan 32 - bilangan 36
-1rajaraja
-1rajaraja
+1rajaraja 10 - 1rajaraja 11
+1rajaraja 6 - 1rajaraja 11
 1rajaraja 10 - 1rajaraja 11
 1rajaraja 10 - 1rajaraja 11
 1samuel 9 - 1samuel 10
 ulangan 23 - ulangan 28
-imamat
+1rajaraja 10 - 1rajaraja 11
 1rajaraja 3 - 1rajaraja 7
 1rajaraja 10 - 1rajaraja 11
 ulangan 24
@@ -4823,55 +4823,55 @@ ulangan 24
 1rajaraja 12 - 1rajaraja 13
 1rajaraja 12 - 1rajaraja 13
 1rajaraja 12 - 1rajaraja 13
-1rajaraja
-1rajaraja
+1rajaraja 12 - 1rajaraja 13
+1rajaraja 10 - 1rajaraja 11
 2samuel 1 - 2samuel 20
-1rajaraja
 1rajaraja 12 - 1rajaraja 13
 1rajaraja 12 - 1rajaraja 13
 1rajaraja 12 - 1rajaraja 13
-1rajaraja
+1rajaraja 12 - 1rajaraja 13
+1rajaraja 12 - 1rajaraja 13
 1rajaraja 12 - 1rajaraja 13
 rut 3 - rut 4
-1rajaraja
-1rajaraja
-1rajaraja
 1rajaraja 12 - 1rajaraja 13
-1rajaraja
-""
+1rajaraja 12 - 1rajaraja 13
+1rajaraja 12 - 1rajaraja 13
+1rajaraja 12 - 1rajaraja 13
+1rajaraja 12 - 1rajaraja 13
+1rajaraja 8 - 1rajaraja 9
 ulangan 29
 1rajaraja 12 - 1rajaraja 13
 1rajaraja 8 - 1rajaraja 9
 1rajaraja 4 - 1rajaraja 11
 1rajaraja 10 - 1rajaraja 11
-1rajaraja
+1rajaraja 4 - 1rajaraja 5
 1rajaraja 12 - 1rajaraja 13
 1rajaraja 12 - 1rajaraja 13
 1samuel 15 - 1samuel 16
-1rajaraja
+1rajaraja 6 - 1rajaraja 7
 1rajaraja 12 - 1rajaraja 13
 1rajaraja 12 - 1rajaraja 13
-1rajaraja
+1rajaraja 14 - 1rajaraja 15
 hakimhakim 13 - hakimhakim 16
 2samuel 12 - 2samuel 24
 1samuel 1 - 1samuel 4
 1rajaraja 14 - 1rajaraja 15
-1rajaraja
-1rajaraja
 1rajaraja 14 - 1rajaraja 15
 1rajaraja 14 - 1rajaraja 15
-1rajaraja
-1rajaraja
 1rajaraja 14 - 1rajaraja 15
 1rajaraja 14 - 1rajaraja 15
-1rajaraja
 1rajaraja 14 - 1rajaraja 15
-1rajaraja
-yosua 4 yosua 24
-1rajaraja
+1rajaraja 14 - 1rajaraja 15
+1rajaraja 14 - 1rajaraja 15
+1rajaraja 14 - 1rajaraja 15
+1rajaraja 14 - 1rajaraja 15
+1rajaraja 14 - 1rajaraja 15
+1rajaraja 14 - 1rajaraja 15
+yosua 4 - yosua 24
+1rajaraja 8 - 1rajaraja 11
 1samuel 5 - 1samuel 6
-1rajaraja
-hakimhakim hakimhakim hakimhakim hakimhakim
+1rajaraja 14 - 1rajaraja 15
+hakimhakim 1 - hakimhakim 13
 1rajaraja 10 - 1rajaraja 11
 1rajaraja 14 - 1rajaraja 15
 1rajaraja 12 - 1rajaraja 15
@@ -4889,22 +4889,22 @@ yosua 1
 1rajaraja 14 - 1rajaraja 15
 1rajaraja 12 - 1rajaraja 13
 1rajaraja 16 - 1rajaraja 17
-1rajaraja
 1rajaraja 16 - 1rajaraja 17
 1rajaraja 16 - 1rajaraja 17
-1rajaraja
 1rajaraja 16 - 1rajaraja 17
-1rajaraja
-1rajaraja
+1rajaraja 16 - 1rajaraja 17
+1rajaraja 16 - 1rajaraja 17
+1rajaraja 10 - 1rajaraja 11
+1rajaraja 12 - 1rajaraja 13
 2samuel 15 - 2samuel 21
 1rajaraja 16 - 1rajaraja 17
 1samuel 7 - 1samuel 8
 1rajaraja 2 - 1rajaraja 15
-hakimhakim hakimhakim hakimhakim hakimhakim
-1rajaraja
-1rajaraja
-1rajaraja
-1rajaraja
+hakimhakim 14 - hakimhakim 21
+1rajaraja 16 - 1rajaraja 17
+1rajaraja 16 - 1rajaraja 17
+1rajaraja 16 - 1rajaraja 17
+1rajaraja 16 - 1rajaraja 17
 1rajaraja 16 - 1rajaraja 17
 1samuel 18 - 1samuel 19
 yosua 6
@@ -4912,59 +4912,59 @@ yosua 6
 1rajaraja 16 - 1rajaraja 17
 1rajaraja 14 - 1rajaraja 15
 1rajaraja 16 - 1rajaraja 17
-1rajaraja
-1rajaraja
-1rajaraja
+1rajaraja 18 - 1rajaraja 19
+1rajaraja 18 - 1rajaraja 19
+1rajaraja 18 - 1rajaraja 19
 1rajaraja 16 - 1rajaraja 17
-1rajaraja
-1rajaraja
+1rajaraja 16 - 1rajaraja 17
+1rajaraja 18 - 1rajaraja 19
 ulangan 29 - ulangan 32
-1rajaraja
+1rajaraja 16 - 1rajaraja 17
 1rajaraja 18 - 1rajaraja 19
-1rajaraja
-1rajaraja
 1rajaraja 18 - 1rajaraja 19
-1rajaraja
-1rajaraja
 1rajaraja 18 - 1rajaraja 19
-1samuel 1samuel
+1rajaraja 18 - 1rajaraja 19
+1rajaraja 14 - 1rajaraja 15
+1rajaraja 18 - 1rajaraja 19
+1rajaraja 18 - 1rajaraja 19
+1samuel 6 - 1samuel 23
 1rajaraja 18 - 1rajaraja 19
 yosua 11
 1samuel 3 - 1samuel 17
-1rajaraja
+1rajaraja 16 - 1rajaraja 17
 1rajaraja 1 - 1rajaraja 6
-1rajaraja
+1rajaraja 18 - 1rajaraja 19
 1rajaraja 18 - 1rajaraja 19
 1rajaraja 12 - 1rajaraja 14
 1rajaraja 16 - 1rajaraja 19
 1rajaraja 16 - 1rajaraja 17
-1rajaraja
+1rajaraja 18 - 1rajaraja 19
 1rajaraja 10 - 1rajaraja 13
 1samuel 20 - 1samuel 21
 1rajaraja 18 - 1rajaraja 19
 ulangan 1 - ulangan 7
 1rajaraja 18 - 1rajaraja 19
-1rajaraja
-1rajaraja
-1rajaraja
-1rajaraja
-1rajaraja
+1rajaraja 12 - 1rajaraja 19
+1rajaraja 15 - 1rajaraja 18
+1rajaraja 20 - 1rajaraja 21
+1rajaraja 20 - 1rajaraja 21
+1rajaraja 20 - 1rajaraja 21
 1rajaraja 18 - 1rajaraja 19
 1rajaraja 20 - 1rajaraja 21
 1samuel 9 - 1samuel 10
-1rajaraja
-1rajaraja
-1rajaraja
-1rajaraja
 1rajaraja 20 - 1rajaraja 21
-1samuel 1samuel
+1rajaraja 18 - 1rajaraja 19
 1rajaraja 20 - 1rajaraja 21
-1rajaraja
+1rajaraja 20 - 1rajaraja 21
+1rajaraja 20 - 1rajaraja 21
+1samuel 24 - 1samuel 31
+1rajaraja 20 - 1rajaraja 21
+1rajaraja 20 - 1rajaraja 21
 1rajaraja 14 - 1rajaraja 17
-1rajaraja
+1rajaraja 20 - 1rajaraja 21
 1rajaraja 16 - 1rajaraja 21
-1rajaraja
-1rajaraja
+1rajaraja 20 - 1rajaraja 21
+1rajaraja 20 - 1rajaraja 21
 1rajaraja 18 - 1rajaraja 21
 1samuel 22 - 1samuel 23
 1rajaraja 20 - 1rajaraja 21
@@ -4973,145 +4973,145 @@ yosua 16
 1rajaraja 20 - 1rajaraja 21
 1rajaraja 12 - 1rajaraja 21
 1rajaraja 20 - 1rajaraja 21
-1rajaraja
+1rajaraja 8 - 1rajaraja 9
 hakimhakim 21
 1rajaraja 20 - 1rajaraja 21
 1rajaraja 15 - 1rajaraja 16
-2samuel 2samuel
+2samuel 13 - 2samuel 24
 1samuel 11 - 1samuel 14
 ulangan 8 - ulangan 14
-1rajaraja
+1rajaraja 19 - 1rajaraja 21
 yosua 21
-1rajaraja
+1rajaraja 1 - 1rajaraja 10
 1rajaraja 18 - 1rajaraja 21
-1rajaraja 22 - 1rajaraja 2
-1rajaraja 2rajaraja
-1rajaraja 2rajaraja
-1rajaraja 22 - 1rajaraja 2
-1rajaraja 22 - 1rajaraja 2
-1rajaraja 2rajaraja
-1rajaraja 22 - 1rajaraja 2
-1rajaraja 22 - 1rajaraja 2
-1rajaraja 22 - 1rajaraja 2
-1rajaraja 20 - 1rajaraja 2
-1rajaraja 22 - 1rajaraja 2
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 20 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
 1rajaraja 17 - 1rajaraja 21
-1rajaraja 2rajaraja
-1rajaraja 1rajaraja
-1rajaraja 22 - 1rajaraja 2
-1rajaraja
-1rajaraja
-1rajaraja
-1rajaraja 22 - 1rajaraja 2
-1rajaraja 2rajaraja
-1rajaraja 22 - 1rajaraja 2
-1rajaraja
+1rajaraja 20 - 22-2rajaraja 1
+1rajaraja 9 - 1rajaraja 22
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 14 - 1rajaraja 22
 1rajaraja 18 - 1rajaraja 19
-1rajaraja 22 - 1rajaraja 2
-1samuel 15 - 1samuel 18
-1rajaraja 22 - 1rajaraja 2
 1rajaraja 20 - 1rajaraja 21
-1rajaraja 22 - 1rajaraja 2
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 16 - 1rajaraja 17
+1rajaraja 18 - 1rajaraja 19
+1rajaraja 22 - 2rajaraja 1
+1samuel 15 - 1samuel 18
+1rajaraja 22 - 2rajaraja 1
+1rajaraja 20 - 1rajaraja 21
+1rajaraja 22 - 2rajaraja 1
 rut 4
 2rajaraja 2 - 2rajaraja 3
-2rajaraja
-ulangan 33 yosua 1
+2rajaraja 2 - 2rajaraja 3
+ulangan 33 - yosua 1
 2rajaraja 2 - 2rajaraja 3
 1rajaraja 22
 2rajaraja 1 - 2rajaraja 3
-1rajaraja 22 - 1rajaraja 2
+1rajaraja 22 - 2rajaraja 1
 2rajaraja 2 - 2rajaraja 3
-2rajaraja
 2rajaraja 2 - 2rajaraja 3
-2rajaraja
-1rajaraja 2rajaraja
-2rajaraja
+2rajaraja 2 - 2rajaraja 3
+2rajaraja 2 - 2rajaraja 3
+1rajaraja 22 - 2rajaraja 1
+2rajaraja 2 - 2rajaraja 3
 1samuel 18 - 1samuel 25
 1rajaraja 7 - 1rajaraja 15
-2rajaraja
+2rajaraja 2 - 2rajaraja 3
 ulangan 15 - ulangan 21
-1rajaraja 22 - 1rajaraja 2
+1rajaraja 22 - 2rajaraja 1
 2samuel 12 - 2samuel 15
-2rajaraja 2rajaraja
-2rajaraja
+2rajaraja 2 - 2rajaraja 3
+2rajaraja 2 - 2rajaraja 3
 1rajaraja 20 - 1rajaraja 21
 2rajaraja 2 - 2rajaraja 3
 2rajaraja 2 - 2rajaraja 3
 2rajaraja 2 - 2rajaraja 3
 1samuel 22 - 1samuel 24
-hakimhakim hakimhakim
-1rajaraja 22 - 1rajaraja 2
+hakimhakim 2
+1rajaraja 22 - 2rajaraja 3
 2rajaraja 2 - 2rajaraja 3
 2rajaraja 4 - 2rajaraja 5
 2rajaraja 4 - 2rajaraja 5
 1samuel 1 - 1samuel 4
 2rajaraja 2 - 2rajaraja 5
 2rajaraja 4 - 2rajaraja 5
-2rajaraja
-2rajaraja
+2rajaraja 4 - 2rajaraja 5
+2rajaraja 4 - 2rajaraja 5
 1samuel 19 - 1samuel 20
 2rajaraja 4 - 2rajaraja 5
-2samuel 21 - 24 1rajaraja
+2samuel 21 - 24 1rajaraja 1 - 10
 2rajaraja 4 - 2rajaraja 5
 2rajaraja 2 - 2rajaraja 5
 2rajaraja 2 - 2rajaraja 5
 2rajaraja 4 - 2rajaraja 5
-2rajaraja
-2rajaraja
+2rajaraja 2 - 2rajaraja 5
 2rajaraja 4 - 2rajaraja 5
-2rajaraja
-2rajaraja 2rajaraja
+2rajaraja 4 - 2rajaraja 5
+2rajaraja 2 - 2rajaraja 5
+2rajaraja 4 - 2rajaraja 5
 ulangan 22 - ulangan 28
-1rajaraja 16 - 1rajaraja 2
+1rajaraja 16 - 2rajaraja 5
 2rajaraja 4 - 2rajaraja 5
-1rajaraja 16 - 1rajaraja 1
+1rajaraja 16 - 1rajaraja 22
 hakimhakim 7
 2rajaraja 4 - 2rajaraja 5
 2rajaraja 4 - 2rajaraja 5
-1rajaraja 22 - 1rajaraja 2
+1rajaraja 22 - 2rajaraja 1
 2rajaraja 4 - 2rajaraja 5
 1samuel 25 - 1samuel 26
-2rajaraja
-2samuel 22 - 2samuel 1
 2rajaraja 4 - 2rajaraja 5
-1rajaraja 21 - 1rajaraja 2
-1rajaraja 22 - 1rajaraja 2
+2samuel 22 - 1rajaraja 19
+2rajaraja 4 - 2rajaraja 5
+1rajaraja 21 - 2rajaraja 3
+1rajaraja 22 - 2rajaraja 4
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
-2rajaraja
+2rajaraja 4 - 2rajaraja 7
 yosua 2 - yosua 5
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
-1rajaraja
-2rajaraja
-2rajaraja
-2rajaraja
+1rajaraja 20 - 1rajaraja 21
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
-2rajaraja
+2rajaraja 2 - 2rajaraja 3
+2rajaraja 6 - 2rajaraja 7
+2rajaraja 6 - 2rajaraja 7
+2rajaraja 4 - 2rajaraja 5
 1samuel 21 - 1samuel 22
 1samuel 26 - 1samuel 31
 2samuel 1 - 2samuel 4
 2rajaraja 6 - 2rajaraja 7
-2rajaraja
+2rajaraja 1 - 2rajaraja 7
 ulangan 29 - ulangan 34
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
-2rajaraja
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
-2rajaraja 2rajaraja
+2rajaraja 6 - 2rajaraja 7
+2rajaraja 6 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
 hakimhakim 12
 2rajaraja 6 - 2rajaraja 7
 2rajaraja 5 - 2rajaraja 7
 2rajaraja 6 - 2rajaraja 7
-2rajaraja
+2rajaraja 8 - 2rajaraja 9
 1samuel 23 - 1samuel 26
 2rajaraja 8 - 2rajaraja 9
 2rajaraja 8 - 2rajaraja 9
@@ -5123,19 +5123,19 @@ hakimhakim 12
 yosua 2 - yosua 7
 2rajaraja 8 - 2rajaraja 9
 2rajaraja 8 - 2rajaraja 9
-1rajaraja 16 - 1rajaraja 2
-2rajaraja
-2rajaraja
-2rajaraja
-2rajaraja
-2rajaraja 8 - 2rajaraja 9
-2rajaraja
+1rajaraja 16 - 2rajaraja 9
+2rajaraja 6 - 2rajaraja 7
 2rajaraja 8 - 2rajaraja 9
 2rajaraja 8 - 2rajaraja 9
-2rajaraja 2rajaraja
 2rajaraja 8 - 2rajaraja 9
 2rajaraja 8 - 2rajaraja 9
-2rajaraja
+2rajaraja 8 - 2rajaraja 9
+2rajaraja 8 - 2rajaraja 9
+2rajaraja 8 - 2rajaraja 9
+2rajaraja 8 - 2rajaraja 9
+2rajaraja 8 - 2rajaraja 9
+2rajaraja 8 - 2rajaraja 9
+2rajaraja 8 - 2rajaraja 9
 yosua 1 - yosua 8
 2rajaraja 8 - 2rajaraja 9
 2rajaraja 8 - 2rajaraja 9
@@ -5143,22 +5143,22 @@ yosua 1 - yosua 8
 2rajaraja 8 - 2rajaraja 9
 2rajaraja 4 - 2rajaraja 6
 2rajaraja 10 - 2rajaraja 11
-2rajaraja
+2rajaraja 10 - 2rajaraja 11
 2rajaraja 8 - 2rajaraja 9
 2rajaraja 10 - 2rajaraja 11
 2rajaraja 10 - 2rajaraja 11
 2rajaraja 10 - 2rajaraja 11
 2rajaraja 10 - 2rajaraja 11
-hakimhakim 12 hak 17
+hakimhakim 12 - hakimhakim 17
 2rajaraja 10 - 2rajaraja 11
 2rajaraja 10 - 2rajaraja 11
 2rajaraja 10 - 2rajaraja 11
-2rajaraja
 2rajaraja 10 - 2rajaraja 11
 2rajaraja 10 - 2rajaraja 11
 2rajaraja 10 - 2rajaraja 11
-2rajaraja
-2rajaraja 8
+2rajaraja 10 - 2rajaraja 11
+2rajaraja 10 - 2rajaraja 11
+2rajaraja 8 - 2rajaraja 11
 2rajaraja 10 - 2rajaraja 11
 2rajaraja 2 - 2rajaraja 5
 2rajaraja 8 - 2rajaraja 11
@@ -5167,131 +5167,131 @@ hakimhakim 12 hak 17
 2rajaraja 10 - 2rajaraja 11
 2samuel 16 - 2samuel 20
 2rajaraja 4 - 2rajaraja 7
-1rajaraja 20 - 1rajaraja 2
-2rajaraja
-2rajaraja
+1rajaraja 20 - 2rajaraja 2
+2rajaraja 8 - 2rajaraja 9
 2rajaraja 10 - 2rajaraja 11
-2rajaraja
+2rajaraja 10 - 2rajaraja 11
+2rajaraja 10 - 2rajaraja 11
 2rajaraja 8 - 2rajaraja 11
-2rajaraja
-2rajaraja
+2rajaraja 10 - 2rajaraja 11
+2rajaraja 10 - 2rajaraja 11
 2rajaraja 7 - 2rajaraja 11
 2rajaraja 6 - 2rajaraja 7
 hakimhakim 13 - hakimhakim 18
-2rajaraja
-2rajaraja
 2rajaraja 12 - 2rajaraja 13
-2rajaraja
+2rajaraja 12 - 2rajaraja 13
+2rajaraja 12 - 2rajaraja 13
+2rajaraja 12 - 2rajaraja 13
 2rajaraja 12 - 2rajaraja 13
 1samuel 27 - 1samuel 28
-2rajaraja
-2samuel 24 - 2samuel 1
-2rajaraja
+2rajaraja 12 - 2rajaraja 13
+2samuel 24 - 1rajaraja 1
+2rajaraja 12 - 2rajaraja 13
 1samuel 5 - 1samuel 8
-2rajaraja
-2rajaraja
-2rajaraja
-2rajaraja
-2rajaraja
-2rajaraja 2rajaraja
-2rajaraja 2rajaraja
+2rajaraja 12 - 2rajaraja 13
+2rajaraja 12 - 2rajaraja 13
+2rajaraja 12 - 2rajaraja 13
+2rajaraja 12 - 2rajaraja 13
+2rajaraja 12 - 2rajaraja 13
+2rajaraja 10 - 2rajaraja 11
+2rajaraja 12 - 2rajaraja 13
 2rajaraja 12 - 2rajaraja 13
 2rajaraja 12 - 2rajaraja 13
 2rajaraja 12 - 2rajaraja 13
 yosua 17 - yosua 24
 yosua 8 - yosua 12
-2rajaraja
+2rajaraja 12 - 2rajaraja 13
 2rajaraja 8 - 2rajaraja 9
 2rajaraja 12 - 2rajaraja 13
-2rajaraja
+2rajaraja 12 - 2rajaraja 13
 1samuel 27 - 1samuel 31
 2rajaraja 12 - 2rajaraja 13
 2rajaraja 12 - 2rajaraja 13
 2rajaraja 10 - 2rajaraja 11
 2rajaraja 8 - 2rajaraja 9
-hakimhakim 18 rut 1
+hakimhakim 18 - rut 1
 2rajaraja 8 - 2rajaraja 11
 2rajaraja 10 - 2rajaraja 13
 2rajaraja 14 - 2rajaraja 15
 2rajaraja 14 - 2rajaraja 15
-2rajaraja
-2rajaraja
-2rajaraja
+2rajaraja 14 - 2rajaraja 15
+2rajaraja 14 - 2rajaraja 15
+2rajaraja 14 - 2rajaraja 15
 2rajaraja 14 - 2rajaraja 15
 1rajaraja
 2rajaraja 1 - 2rajaraja 5
 2rajaraja 14 - 2rajaraja 15
-2rajaraja
+2rajaraja 14 - 2rajaraja 15
 2rajaraja 12 - 2rajaraja 15
 2rajaraja 14 - 2rajaraja 15
 2rajaraja 14 - 2rajaraja 15
 2rajaraja 12 - 2rajaraja 13
-2rajaraja
+2rajaraja 14 - 2rajaraja 15
 2rajaraja 12 - 2rajaraja 15
 2rajaraja 14 - 2rajaraja 15
 hakimhakim 1 - hakimhakim 7
-2rajaraja
+2rajaraja 14 - 2rajaraja 15
 2rajaraja 14 - 2rajaraja 15
 2rajaraja 10 - 2rajaraja 11
 2rajaraja 14 - 2rajaraja 15
 2rajaraja 14 - 2rajaraja 15
 2rajaraja 14 - 2rajaraja 15
 2rajaraja 14 - 2rajaraja 15
-2rajaraja
+2rajaraja 14 - 2rajaraja 15
 2rajaraja 14 - 2rajaraja 15
 2rajaraja 7 - 2rajaraja 13
 1samuel 9 - 1samuel 12
 2rajaraja 16 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 17
 rut 2 - 1samuel 2
-2rajaraja
+2rajaraja 16 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 17
 yosua 13 - yosua 21
-2rajaraja
-2rajaraja
-2rajaraja 16 - 2rajaraja 17
-1rajaraja
 2rajaraja 16 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 17
-1rajaraja
+1rajaraja 10 - 1rajaraja 22
 2rajaraja 16 - 2rajaraja 17
-2rajaraja
-2rajaraja
+2rajaraja 16 - 2rajaraja 17
+2rajaraja 16 - 2rajaraja 17
+1rajaraja 2 - 1rajaraja 5
+2rajaraja 16 - 2rajaraja 17
+2rajaraja 16 - 2rajaraja 17
+2rajaraja 16 - 2rajaraja 17
 1samuel 29 - 1samuel 30
-2rajaraja
+2rajaraja 10 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 17
-2rajaraja
-2rajaraja
+2rajaraja 12 - 2rajaraja 13
+2rajaraja 14 - 2rajaraja 15
 2rajaraja 16 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 17
-2rajaraja
+2rajaraja 16 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 17
 2rajaraja 14 - 2rajaraja 15
-2rajaraja
-2rajaraja
+2rajaraja 16 - 2rajaraja 17
+2rajaraja 16 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 17
 2rajaraja 6 - 2rajaraja 15
 2rajaraja 18 - 2rajaraja 19
 2rajaraja 18 - 2rajaraja 19
-2rajaraja
+2rajaraja 16 - 2rajaraja 17
 2rajaraja 18 - 2rajaraja 19
 2rajaraja 18 - 2rajaraja 19
 2rajaraja 18 - 2rajaraja 19
 2rajaraja 18 - 2rajaraja 19
-2rajaraja
-2rajaraja
 2rajaraja 18 - 2rajaraja 19
 2rajaraja 18 - 2rajaraja 19
-2rajaraja
-2rajaraja
-2rajaraja 18 - 2rajaraja 19
-2rajaraja
 2rajaraja 18 - 2rajaraja 19
 2rajaraja 18 - 2rajaraja 19
-2rajaraja
+2rajaraja 14 - 2rajaraja 18
+2rajaraja 18 - 2rajaraja 19
+2rajaraja 18 - 2rajaraja 19
+2rajaraja 14 - 2rajaraja 15
+2rajaraja 18 - 2rajaraja 19
+2rajaraja 18 - 2rajaraja 19
+2rajaraja 18 - 2rajaraja 19
 2rajaraja 12 - 2rajaraja 13
 2samuel 1 - 2samuel 2
 2rajaraja 14 - 2rajaraja 15
@@ -5300,18 +5300,18 @@ yosua 13 - yosua 21
 2rajaraja 21 - 2rajaraja 22
 2rajaraja 20 - 2rajaraja 23
 2rajaraja 20 - 2rajaraja 21
-2rajaraja
-2rajaraja
 2rajaraja 20 - 2rajaraja 21
-2rajaraja 20 - 2rajaraja 21
-2rajaraja
-1rajaraja
+2rajaraja 18 - 2rajaraja 19
 2rajaraja 20 - 2rajaraja 21
 2rajaraja 20 - 2rajaraja 21
 2rajaraja 20 - 2rajaraja 21
-2rajaraja
+1rajaraja 6 - 1rajaraja 9
 2rajaraja 20 - 2rajaraja 21
-1rajaraja
+2rajaraja 20 - 2rajaraja 21
+2rajaraja 20 - 2rajaraja 21
+2rajaraja 20 - 2rajaraja 21
+2rajaraja 20 - 2rajaraja 21
+1rajaraja 10 - 1rajaraja 11
 2rajaraja 20 - 2rajaraja 21
 2rajaraja 14 - 2rajaraja 15
 2rajaraja 18 - 2rajaraja 21
@@ -5319,22 +5319,22 @@ yosua 13 - yosua 21
 2rajaraja 20 - 2rajaraja 21
 2samuel 3 - 2samuel 4
 2rajaraja 20 - 2rajaraja 21
-2rajaraja
+2rajaraja 22 - 2rajaraja 23
 2rajaraja 12 - 2rajaraja 15
 2rajaraja 22 - 2rajaraja 23
-2rajaraja
-2rajaraja
-2rajaraja
+2rajaraja 16 - 2rajaraja 17
+2rajaraja 18 - 2rajaraja 19
+2rajaraja 20 - 2rajaraja 21
 2rajaraja 22 - 2rajaraja 23
-2rajaraja
+2rajaraja 22 - 2rajaraja 23
 2rajaraja 22 - 2rajaraja 23
 2rajaraja 22 - 2rajaraja 23
 yosua 22 - yosua 24
 2rajaraja 22 - 2rajaraja 23
 2rajaraja 20 - 2rajaraja 21
 2rajaraja 22 - 2rajaraja 23
-2rajaraja
-2rajaraja
+2rajaraja 22 - 2rajaraja 23
+2rajaraja 22 - 2rajaraja 23
 1samuel 9 - 1samuel 13
 2rajaraja 22 - 2rajaraja 23
 hakimhakim 8 - hakimhakim 14
@@ -5342,7 +5342,7 @@ hakimhakim 8 - hakimhakim 14
 2rajaraja 19 - 2rajaraja 23
 2rajaraja 16 - 2rajaraja 17
 2rajaraja 16 - 2rajaraja 20
-2rajaraja
+2rajaraja 22 - 2rajaraja 23
 2rajaraja 22 - 2rajaraja 23
 1samuel 31 - 2samuel 2
 2rajaraja 16 - 2rajaraja 17
@@ -5351,7 +5351,7 @@ hakimhakim 8 - hakimhakim 14
 2rajaraja 10 - 2rajaraja 23
 2rajaraja 22 - 2rajaraja 23
 2rajaraja 20 - 2rajaraja 23
-2rajaraja
+2rajaraja 18 - 2rajaraja 19
 2rajaraja 22 - 2rajaraja 23
 2rajaraja 18 - 2rajaraja 19
 2samuel 5 - 2samuel 6
@@ -5359,34 +5359,34 @@ hakimhakim 8 - hakimhakim 14
 yosua 22 - yosua 24
 1samuel 14 - 1samuel 18
 2rajaraja 24 - 2rajaraja 25
-2rajaraja
 2rajaraja 24 - 2rajaraja 25
 2rajaraja 24 - 2rajaraja 25
 2rajaraja 24 - 2rajaraja 25
-2rajaraja
+2rajaraja 24 - 2rajaraja 25
+2rajaraja 1 - 2rajaraja 11
 hakimhakim 15 - hakimhakim 21
-2rajaraja
+2rajaraja 18 - 2rajaraja 19
 2rajaraja 24 - 2rajaraja 25
-2rajaraja
-2rajaraja
-2rajaraja
-2rajaraja
-2rajaraja
+2rajaraja 22 - 2rajaraja 23
+2rajaraja 24 - 2rajaraja 25
+2rajaraja 20 - 2rajaraja 21
+2rajaraja 22 - 2rajaraja 23
+2rajaraja 24 - 2rajaraja 25
 2rajaraja 3 - 2rajaraja 12
-2rajaraja
+2rajaraja 20 - 2rajaraja 21
 2rajaraja 24 - 2rajaraja 25
-2rajaraja
-2rajaraja 24 - 2rajaraja 25
-2rajaraja 24 - 2rajaraja 25
+2rajaraja 18 - 2rajaraja 25
 2rajaraja 24 - 2rajaraja 25
 2rajaraja 24 - 2rajaraja 25
-2rajaraja
-2rajaraja
-2rajaraja
-2rajaraja
-2rajaraja
 2rajaraja 24 - 2rajaraja 25
-2rajaraja
+2rajaraja 24 - 2rajaraja 25
+2rajaraja 22 - 2rajaraja 23
+2rajaraja 24 - 2rajaraja 25
+2rajaraja 24 - 2rajaraja 25
+2rajaraja 24 - 2rajaraja 25
+2rajaraja 24 - 2rajaraja 25
+2rajaraja 24 - 2rajaraja 25
+2rajaraja 24 - 2rajaraja 25
 2rajaraja 20 - 2rajaraja 21
 2rajaraja 24 - 2rajaraja 25
 2rajaraja 24 - 2rajaraja 25
@@ -5398,12 +5398,12 @@ hakimhakim 15 - hakimhakim 21
 1tawarikh 1 - 1tawarikh 2
 1tawarikh 1 - 1tawarikh 2
 1tawarikh 1 - 1tawarikh 2
-1tawarikh
 1tawarikh 1 - 1tawarikh 2
 1tawarikh 1 - 1tawarikh 2
-2rajaraja 20 - 2rajaraja 1
 1tawarikh 1 - 1tawarikh 2
-2samuel 15 - 2samuel 2
+2rajaraja 20 - 1tawarikh 2
+1tawarikh 1 - 1tawarikh 2
+2samuel 15 - 2rajaraja 2
 1tawarikh 1 - 1tawarikh 2
 1tawarikh 1 - 1tawarikh 2
 rut 1 - rut 4
@@ -5432,12 +5432,12 @@ hakimhakim 1 - hakimhakim 3
 1tawarikh 3 - 1tawarikh 4
 1tawarikh 3 - 1tawarikh 4
 2rajaraja 13 - 2rajaraja 19
-2rajaraja 1tawarikh 4
+2rajaraja 18 - 1tawarikh 4
 1tawarikh 1 - 1tawarikh 2
 1tawarikh 3 - 1tawarikh 4
 1tawarikh 1 - 1tawarikh 4
 1tawarikh 3 - 1tawarikh 4
-1tawarikh
+1tawarikh 3 - 1tawarikh 4
 1tawarikh 3 - 1tawarikh 4
 2rajaraja 18 - 2rajaraja 25
 1tawarikh 3 - 1tawarikh 4
@@ -5450,7 +5450,7 @@ hakimhakim 1 - hakimhakim 3
 1tawarikh 3 - 1tawarikh 4
 1tawarikh 5 - 1tawarikh 6
 1tawarikh 5 - 1tawarikh 6
-1rajaraja
+1rajaraja 12 - 1rajaraja 16
 1tawarikh 5 - 1tawarikh 6
 1tawarikh 5 - 1tawarikh 6
 1tawarikh 5 - 1tawarikh 6
@@ -5458,15 +5458,15 @@ hakimhakim 1 - hakimhakim 3
 1tawarikh 5 - 1tawarikh 6
 1tawarikh 3 - 1tawarikh 6
 1tawarikh 5 - 1tawarikh 6
-1tawarikh 1tawarikh
-hakimhakim
+1tawarikh 5 - 1tawarikh 6
+hakimhakim 4 - hakimhakim 6
 1tawarikh 5 - 1tawarikh 6
 1tawarikh 5 - 1tawarikh 6
 2rajaraja 24 - 2rajaraja 25
 1tawarikh 5 - 1tawarikh 6
 1tawarikh 5 - 1tawarikh 6
 1tawarikh 5 - 1tawarikh 6
-2rajaraja
+2rajaraja 24 - 2rajaraja 25
 1tawarikh 5 - 1tawarikh 6
 1tawarikh 3 - 1tawarikh 6
 1tawarikh 1 - 1tawarikh 4
@@ -5478,12 +5478,12 @@ hakimhakim
 1tawarikh 7 - 1tawarikh 8
 1tawarikh 7 - 1tawarikh 8
 1tawarikh 7 - 1tawarikh 8
-hakimhakim
-1tawarikh
+hakimhakim 7 - hakimhakim 9
+1tawarikh 1 - 1tawarikh 2
 1tawarikh 5 - 1tawarikh 6
-1tawarikh
+1tawarikh 3 - 1tawarikh 4
 1tawarikh 7 - 1tawarikh 8
-1tawarikh
+1tawarikh 5 - 1tawarikh 6
 1tawarikh 7 - 1tawarikh 8
 1tawarikh 7 - 1tawarikh 8
 2samuel 5 - 2samuel 6
@@ -5493,7 +5493,7 @@ bilangan 30
 1tawarikh 7 - 1tawarikh 8
 bilangan 31
 1tawarikh 7 - 1tawarikh 8
-1tawarikh 1tawarikh
+1tawarikh 7 - 1tawarikh 8
 1tawarikh 7 - 1tawarikh 8
 1tawarikh 7 - 1tawarikh 8
 1tawarikh 7 - 1tawarikh 8
@@ -5518,7 +5518,7 @@ bilangan 31
 1tawarikh 5 - 1tawarikh 10
 1tawarikh 9 - 1tawarikh 10
 1tawarikh 9 - 1tawarikh 10
-1tawarikh 1tawarikh
+1tawarikh 9 - 1tawarikh 10
 1tawarikh 9 - 1tawarikh 10
 1tawarikh 9 - 1tawarikh 10
 1tawarikh 9 - 1tawarikh 10
@@ -5529,20 +5529,20 @@ bilangan 31
 1tawarikh 7 - 1tawarikh 10
 2samuel 3 - 2samuel 8
 1tawarikh 5 - 1tawarikh 10
-2rajaraja
+2rajaraja 3 - 2rajaraja 10
 1samuel 14 - 1samuel 19
 1tawarikh 3 - 1tawarikh 4
 1tawarikh 5 - 1tawarikh 6
 hakimhakim 10 - hakimhakim 12
 1tawarikh 7 - 1tawarikh 8
 1tawarikh 9 - 1tawarikh 10
-2rajaraja
+2rajaraja 11 - 2rajaraja 25
 1tawarikh 5 - 1tawarikh 6
 1tawarikh 7 - 1tawarikh 10
 1tawarikh 7 - 1tawarikh 8
 1tawarikh 7 - 1tawarikh 10
 2samuel 9 - 2samuel 13
-1tawarikh 1tawarikh
+1tawarikh 11 - 1tawarikh 12
 1tawarikh 1 - 1tawarikh 4
 1tawarikh 11 - 1tawarikh 12
 1tawarikh 11 - 1tawarikh 12
@@ -5550,8 +5550,8 @@ hakimhakim 10 - hakimhakim 12
 1tawarikh 11 - 1tawarikh 12
 1tawarikh 11 - 1tawarikh 12
 1tawarikh 9 - 1tawarikh 10
-1tawarikh
-1tawarikh
+1tawarikh 7 - 1tawarikh 8
+1tawarikh 9 - 1tawarikh 10
 1tawarikh 11 - 1tawarikh 12
 2samuel 17 - 2samuel 20
 1tawarikh 11 - 1tawarikh 12
@@ -5562,7 +5562,7 @@ hakimhakim 10 - hakimhakim 12
 1tawarikh 11 - 1tawarikh 12
 1tawarikh 11 - 1tawarikh 12
 1tawarikh 9 - 1tawarikh 12
-1tawarikh
+1tawarikh 1 - 1tawarikh 2
 1tawarikh 11 - 1tawarikh 12
 1tawarikh 11 - 1tawarikh 12
 1tawarikh 9 - 1tawarikh 10
@@ -5574,7 +5574,7 @@ hakimhakim 10 - hakimhakim 12
 1tawarikh 5 - 1tawarikh 6
 1tawarikh 13 - 1tawarikh 14
 1tawarikh 5 - 1tawarikh 6
-1tawarikh 1tawarikh
+1tawarikh 13 - 1tawarikh 14
 2samuel 14 - 2samuel 20
 1tawarikh 11 - 1tawarikh 12
 1tawarikh 13 - 1tawarikh 14
@@ -5603,7 +5603,7 @@ hakimhakim 10 - hakimhakim 12
 1tawarikh 11 - 1tawarikh 14
 1tawarikh 15 - 1tawarikh 16
 1tawarikh 7 - 1tawarikh 10
-2samuel 21 - 2samuel 1
+2samuel 21 - 1rajaraja 1
 1tawarikh 15 - 1tawarikh 16
 1tawarikh 15 - 1tawarikh 16
 2samuel 13 - 2samuel 14
@@ -5614,7 +5614,7 @@ hakimhakim 10 - hakimhakim 12
 1tawarikh 15 - 1tawarikh 16
 1tawarikh 15 - 1tawarikh 16
 1tawarikh 15 - 1tawarikh 16
-1tawarikh
+1tawarikh 11 - 1tawarikh 12
 1tawarikh 9 - 1tawarikh 16
 1tawarikh 15 - 1tawarikh 16
 1samuel 20 - 1samuel 25
@@ -5623,10 +5623,10 @@ hakimhakim 10 - hakimhakim 12
 1tawarikh 15 - 1tawarikh 16
 1tawarikh 15 - 1tawarikh 16
 1tawarikh 9 - 1tawarikh 10
-1rajaraja
+1rajaraja 17 - 1rajaraja 22
 1tawarikh 15 - 1tawarikh 16
 1tawarikh 15 - 1tawarikh 16
-1tawarikh 1tawarikh
+1tawarikh 15 - 1tawarikh 16
 1tawarikh 15 - 1tawarikh 16
 1tawarikh 15 - 1tawarikh 16
 2rajaraja 9 - 2rajaraja 12
@@ -5648,14 +5648,14 @@ hakimhakim 10 - hakimhakim 12
 1tawarikh 11 - 1tawarikh 18
 1tawarikh 17 - 1tawarikh 18
 1tawarikh 17 - 1tawarikh 18
-hakimhakim
+hakimhakim 13 - hakimhakim 17
 2samuel 17 - 2samuel 18
 1tawarikh 17 - 1tawarikh 18
 1tawarikh 17 - 1tawarikh 18
-2rajaraja 1tawarikh 14
-1tawarikh
-1tawarikh 1tawarikh
-1tawarikh
+2rajaraja 11 - 1tawarikh 14
+1tawarikh 13 - 1tawarikh 14
+1tawarikh 17 - 1tawarikh 18
+1tawarikh 15 - 1tawarikh 16
 1tawarikh 15 - 1tawarikh 18
 1tawarikh 17 - 1tawarikh 18
 1tawarikh 17 - 1tawarikh 18
@@ -5663,7 +5663,7 @@ hakimhakim
 1tawarikh 11 - 1tawarikh 12
 1tawarikh 17 - 1tawarikh 18
 1tawarikh 19 - 1tawarikh 20
-1tawarikh
+1tawarikh 7 - 1tawarikh 8
 1tawarikh 17 - 1tawarikh 18
 1tawarikh 17 - 1tawarikh 18
 1tawarikh 13 - 1tawarikh 14
@@ -5679,7 +5679,7 @@ hakimhakim
 1tawarikh 19 - 1tawarikh 20
 1tawarikh 19 - 1tawarikh 20
 1tawarikh 17 - 1tawarikh 20
-hakimhakim
+hakimhakim 18 - hakimhakim 21
 1tawarikh 19 - 1tawarikh 20
 1tawarikh 19 - 1tawarikh 20
 1tawarikh 19 - 1tawarikh 20
@@ -5691,7 +5691,7 @@ hakimhakim
 1tawarikh 19 - 1tawarikh 20
 1tawarikh 19 - 1tawarikh 20
 1tawarikh 19 - 1tawarikh 20
-1tawarikh 1tawarikh
+1tawarikh 19 - 1tawarikh 20
 1tawarikh 19 - 1tawarikh 20
 1tawarikh 19 - 1tawarikh 20
 1tawarikh 13 - 1tawarikh 14
@@ -5708,24 +5708,24 @@ hakimhakim
 1tawarikh 21 - 1tawarikh 22
 1tawarikh 21 - 1tawarikh 22
 1tawarikh 21 - 1tawarikh 22
-2rajaraja
-1tawarikh
+2rajaraja 1 - 2rajaraja 4
+1tawarikh 13 - 1tawarikh 14
 1tawarikh 21 - 1tawarikh 22
 1tawarikh 19 - 1tawarikh 22
 1tawarikh 21 - 1tawarikh 22
 1tawarikh 21 - 1tawarikh 22
-1tawarikh
-1tawarikh
-1tawarikh
+1tawarikh 17 - 1tawarikh 18
+1tawarikh 19 - 1tawarikh 20
+1tawarikh 21 - 1tawarikh 22
 1tawarikh 11 - 1tawarikh 15
 1tawarikh 19 - 1tawarikh 22
 2rajaraja markus
 1rajaraja 3 - 1rajaraja 6
 1tawarikh 17 - 1tawarikh 18
 1tawarikh 19 - 1tawarikh 20
-1tawarikh
+1tawarikh 15 - 1tawarikh 16
 1tawarikh 1 - 1tawarikh 15
-2samuel 1 - 2samuel 1
+2samuel 1 - 1rajaraja 4
 1tawarikh 21 - 1tawarikh 22
 1tawarikh 21 - 1tawarikh 22
 1tawarikh 21 - 1tawarikh 22
@@ -5743,17 +5743,17 @@ hakimhakim
 1tawarikh 23 - 1tawarikh 24
 1tawarikh 23 - 1tawarikh 24
 1tawarikh 23 - 1tawarikh 24
-1tawarikh
 1tawarikh 23 - 1tawarikh 24
 1tawarikh 23 - 1tawarikh 24
-rut 1 - rut 1
+1tawarikh 23 - 1tawarikh 24
+rut 1 - 1samuel 1
 1tawarikh 19 - 1tawarikh 24
 1tawarikh 23 - 1tawarikh 24
 1rajaraja 11 - 1rajaraja 12
 1tawarikh 23 - 1tawarikh 24
 1tawarikh 17 - 1tawarikh 24
 1tawarikh 23 - 1tawarikh 24
-1tawarikh 1tawarikh
+1tawarikh 21 - 1tawarikh 22
 1tawarikh 23 - 1tawarikh 24
 1tawarikh 23 - 1tawarikh 24
 1tawarikh 23 - 1tawarikh 24
@@ -5795,13 +5795,13 @@ rut 1 - rut 1
 1tawarikh 25 - 1tawarikh 28
 1tawarikh 25 - 1tawarikh 28
 1tawarikh 27 - 1tawarikh 28
-2rajaraja
-1tawarikh
+2rajaraja 5 - 2rajaraja 6
+1tawarikh 25 - 1tawarikh 26
 1tawarikh 21 - 1tawarikh 22
 1tawarikh 27 - 1tawarikh 28
 1tawarikh 23 - 1tawarikh 28
 1rajaraja 19 - 1rajaraja 20
-1tawarikh 1tawarikh
+1tawarikh 25 - 1tawarikh 26
 1tawarikh 25 - 1tawarikh 26
 1tawarikh 27 - 1tawarikh 28
 1tawarikh 25 - 1tawarikh 28
@@ -5821,32 +5821,32 @@ rut 1 - rut 1
 1tawarikh 19 - 1tawarikh 22
 1tawarikh 23 - 1tawarikh 24
 1tawarikh 27 - 1tawarikh 28
-1tawarikh 29 - 1tawarikh 2
-2rajaraja
-1tawarikh 29 - 1tawarikh 2
-1tawarikh 29 - 1tawarikh 2
-1tawarikh 29 - 1tawarikh 2
-1tawarikh 29 - 1tawarikh 2
+1tawarikh 29 - 2tawarikh 1
+2rajaraja 7 - 2rajaraja 10
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
 1rajaraja 21 - 1rajaraja 22
-1tawarikh
-1tawarikh 27 - 1tawarikh 2
+1tawarikh 27 - 1tawarikh 28
+1tawarikh 27 - 2tawarikh 1
 1samuel 2 - 1samuel 8
 1tawarikh 27 - 1tawarikh 28
-1tawarikh 29 - 1tawarikh 2
-1tawarikh 29 - 1tawarikh 2
-1tawarikh 29 - 1tawarikh 2
-1tawarikh 2tawarikh
-1tawarikh 29 - 1tawarikh 2
-1tawarikh 29 dan 2
-1tawarikh 29 - 1tawarikh 2
-1tawarikh 29 - 1tawarikh 2
-1tawarikh 29 - 1tawarikh 2
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 daniel 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
 1rajaraja 17 - 1rajaraja 22
-1tawarikh 29 - 1tawarikh 2
-1tawarikh 29 - 1tawarikh 2
+1tawarikh 29 - 2tawarikh 1
+1tawarikh 29 - 2tawarikh 1
 1tawarikh 15 - 1tawarikh 25
 1tawarikh 23 - 1tawarikh 24
-1tawarikh 29 - 1tawarikh 2
+1tawarikh 29 - 2tawarikh 1
 2tawarikh 2 - 2tawarikh 3
 2tawarikh 2 - 2tawarikh 3
 2tawarikh 2 - 2tawarikh 3
@@ -5856,15 +5856,15 @@ rut 1 - rut 1
 1tawarikh 29
 2tawarikh 2 - 2tawarikh 3
 2tawarikh 2 - 2tawarikh 3
-1tawarikh 29 - 1tawarikh 2
+1tawarikh 29 - 2tawarikh 1
 2tawarikh 2 - 2tawarikh 3
-2rajaraja
-1tawarikh 29 - 1tawarikh 2
-2tawarikh 2 - 2tawarikh 3
-2tawarikh 2 - 2tawarikh 3
+2rajaraja 11 - 2rajaraja 14
+1tawarikh 29 - 2tawarikh 1
 2tawarikh 2 - 2tawarikh 3
 2tawarikh 2 - 2tawarikh 3
-1tawarikh 29 - 1tawarikh 2
+2tawarikh 2 - 2tawarikh 3
+2tawarikh 2 - 2tawarikh 3
+1tawarikh 29 - 2tawarikh 1 - 1tawarikh 29 - 2tawarikh 3
 2rajaraja 1 - 2rajaraja 7
 2samuel 8 - 2samuel 12
 2tawarikh 2 - 2tawarikh 3
@@ -5884,10 +5884,10 @@ rut 1 - rut 1
 2tawarikh 4 - 2tawarikh 5
 2tawarikh 4 - 2tawarikh 5
 2tawarikh 4 - 2tawarikh 5
-1tawarikh
-1tawarikh 2tawarikh
-2tawarikh
-1tawarikh 29 - 1tawarikh 2
+1tawarikh 19 - 1tawarikh 20
+1tawarikh 29 - 2tawarikh 1
+2tawarikh 2 - 2tawarikh 3
+1tawarikh 29 - 2tawarikh 1
 2tawarikh 4 - 2tawarikh 6
 2tawarikh 4 - 2tawarikh 5
 2tawarikh 4 - 2tawarikh 6
@@ -5905,7 +5905,7 @@ rut 1 - rut 1
 1rajaraja 17 - 1rajaraja 21
 1tawarikh 19 - 1tawarikh 24
 2tawarikh 4 - 2tawarikh 6
-1tawarikh
+1tawarikh 25 - 1tawarikh 26
 2tawarikh 4 - 2tawarikh 5
 2rajaraja 7 - 2rajaraja 14
 2samuel 18 - 2samuel 24
@@ -5915,19 +5915,19 @@ rut 1 - rut 1
 2tawarikh 4 - 2tawarikh 5
 1rajaraja 1 - 1rajaraja 3
 1tawarikh 1 - 1tawarikh 12
-1tawarikh 28 - 1tawarikh 2
+1tawarikh 28 - 2tawarikh 3
 2tawarikh 6 - 2tawarikh 7
 2tawarikh 4 - 2tawarikh 5
 1rajaraja 4 - 1rajaraja 7
 2tawarikh 6 - 2tawarikh 7
 2tawarikh 6 - 2tawarikh 7
-2tawarikh
-2tawarikh
+2tawarikh 4 - 2tawarikh 5
+2tawarikh 6 - 2tawarikh 7
 2tawarikh 6 - 2tawarikh 7
 2tawarikh 3 - 2tawarikh 7
 2tawarikh 6 - 2tawarikh 7
-2rajaraja
-1samuel
+2rajaraja 11 - 2rajaraja 16
+1samuel 9 - 1samuel 12
 2tawarikh 6 - 2tawarikh 7
 2tawarikh 2 - 2tawarikh 3
 2tawarikh 4 - 2tawarikh 7
@@ -5941,7 +5941,7 @@ rut 1 - rut 1
 2tawarikh 6 - 2tawarikh 7
 2tawarikh 6 - 2tawarikh 7
 2tawarikh 6 - 2tawarikh 7
-1tawarikh 25 - 1tawarikh 2
+1tawarikh 25 - 2tawarikh 3
 2tawarikh 1 - 2tawarikh 4
 2tawarikh 3 - 2tawarikh 6
 2tawarikh 6 - 2tawarikh 7
@@ -5968,14 +5968,14 @@ rut 1 - rut 1
 2tawarikh 4 - 2tawarikh 5
 2tawarikh 6 - 2tawarikh 7
 2tawarikh 8 - 2tawarikh 9
-1tawarikh 27 - 1tawarikh 2
+1tawarikh 27 - 2tawarikh 5
 2tawarikh 8 - 2tawarikh 9
 2rajaraja 19 - 2rajaraja 25
 2tawarikh 8 - 2tawarikh 9
 2tawarikh 8 - 2tawarikh 9
 2tawarikh 6 - 2tawarikh 7
 2tawarikh 8 - 2tawarikh 9
-2rajaraja 25 - 2rajaraja 1
+2rajaraja 25 - 1tawarikh 4
 2tawarikh 6 - 2tawarikh 7
 2tawarikh 8 - 2tawarikh 9
 1rajaraja 20 - 1rajaraja 22
@@ -5991,9 +5991,9 @@ rut 1 - rut 1
 2tawarikh 10 - 2tawarikh 11
 2rajaraja 2 - 2rajaraja 6
 2tawarikh 6 - 2tawarikh 11
-2tawarikh
+2tawarikh 8 - 2tawarikh 9
 2tawarikh 10 - 2tawarikh 11
-2tawarikh
+2tawarikh 10 - 2tawarikh 11
 1tawarikh 5 - 1tawarikh 8
 2tawarikh 10 - 2tawarikh 11
 2tawarikh 8 - 2tawarikh 11
@@ -6010,12 +6010,12 @@ rut 1 - rut 1
 2tawarikh 10 - 2tawarikh 11
 2tawarikh 10 - 2tawarikh 11
 1tawarikh 9 - 1tawarikh 12
-1tawarikh 25 - 1tawarikh 2
+1tawarikh 25 - 2tawarikh 6
 2tawarikh 4 - 2tawarikh 7
 2tawarikh 8 - 2tawarikh 9
 2tawarikh 8 - 2tawarikh 11
 2tawarikh 5 - 2tawarikh 8
-1tawarikh 25 - 1tawarikh 2
+1tawarikh 25 - 2tawarikh 1
 2tawarikh 10 - 2tawarikh 11
 2tawarikh 12 - 2tawarikh 13
 2tawarikh 12 - 2tawarikh 13
@@ -6029,7 +6029,7 @@ rut 1 - rut 1
 2rajaraja 14 - 2rajaraja 17
 2tawarikh 12 - 2tawarikh 13
 2tawarikh 12 - 2tawarikh 13
-1rajaraja 16 - 1rajaraja 2
+1rajaraja 16 - 2rajaraja 1
 2tawarikh 12 - 2tawarikh 13
 1tawarikh 17 - 1tawarikh 20
 2rajaraja 2 - 2rajaraja 4
@@ -6039,9 +6039,9 @@ rut 1 - rut 1
 1tawarikh 7 - 1tawarikh 14
 2tawarikh 12 - 2tawarikh 13
 2tawarikh 12 - 2tawarikh 13
-2tawarikh 2tawarikh
+2tawarikh 2 - 2tawarikh 13
 1tawarikh 21 - 1tawarikh 29
-2rajaraja
+2rajaraja 17 - 2rajaraja 18
 2tawarikh 12 - 2tawarikh 13
 1samuel 21 - 1samuel 22
 2tawarikh 12 - 2tawarikh 13
@@ -6049,8 +6049,8 @@ rut 1 - rut 1
 2tawarikh 12 - 2tawarikh 13
 2tawarikh 14 - 2tawarikh 15
 2tawarikh 10 - 2tawarikh 11
-1rajaraja 21 - 1rajaraja 2
-2rajaraja
+1rajaraja 21 - 2rajaraja 7
+2rajaraja 19 - 2rajaraja 24
 2tawarikh 14 - 2tawarikh 15
 2tawarikh 14 - 2tawarikh 15
 2tawarikh 12 - 2tawarikh 13
@@ -6060,7 +6060,7 @@ rut 1 - rut 1
 2tawarikh 12 - 2tawarikh 15
 2tawarikh 14 - 2tawarikh 15
 2tawarikh 14 - 2tawarikh 15
-2tawarikh 2tawarikh
+2tawarikh 14 - 2tawarikh 15
 1tawarikh 21 - 1tawarikh 22
 2tawarikh 14 - 2tawarikh 15
 2tawarikh 14 - 2tawarikh 15
@@ -6070,7 +6070,7 @@ rut 1 - rut 1
 2rajaraja 11 - 2rajaraja 16
 2tawarikh 14 - 2tawarikh 15
 2tawarikh 14 - 2tawarikh 15
-2rajaraja
+2rajaraja 25
 1tawarikh 21 - 1tawarikh 29
 2tawarikh 14 - 2tawarikh 15
 2tawarikh 9 - 2tawarikh 10
@@ -6078,7 +6078,7 @@ rut 1 - rut 1
 2tawarikh 12 - 2tawarikh 13
 2rajaraja 8 - 2rajaraja 12
 2tawarikh 16 - 2tawarikh 17
-1tawarikh
+1tawarikh 6 - 1tawarikh 10
 1tawarikh 23 - 1tawarikh 24
 2tawarikh 16 - 2tawarikh 17
 2tawarikh 14 - 2tawarikh 15
@@ -6092,16 +6092,16 @@ rut 1 - rut 1
 2tawarikh 15 - 2tawarikh 18
 2tawarikh 16 - 2tawarikh 17
 2tawarikh 14 - 2tawarikh 15
-2tawarikh
-2tawarikh
-2tawarikh
+2tawarikh 12 - 2tawarikh 13
+2tawarikh 14 - 2tawarikh 15
+2tawarikh 16 - 2tawarikh 17
 1tawarikh 15 - 1tawarikh 18
 2rajaraja 22 - 2rajaraja 25
-1tawarikh 29 - 1tawarikh 2
+1tawarikh 29 - 2tawarikh 17
 2tawarikh 16 - 2tawarikh 17
 2tawarikh 16 - 2tawarikh 17
 2tawarikh 16 - 2tawarikh 17
-1tawarikh
+1tawarikh 11 - 1tawarikh 13
 2tawarikh 12 - 2tawarikh 15
 1rajaraja 3 - 1rajaraja 4
 1samuel 29 - 1samuel 30
@@ -6113,26 +6113,26 @@ rut 1 - rut 1
 1tawarikh
 1tawarikh 25 - 1tawarikh 28
 1tawarikh 3 - 1tawarikh 4
-2tawarikh
+2tawarikh 2 - 2tawarikh 3
 2tawarikh 16 - 2tawarikh 17
 2tawarikh 8 - 2tawarikh 15
 2tawarikh 12 - 2tawarikh 17
-1tawarikh 29 - 1tawarikh 2
+1tawarikh 29 - 2tawarikh 3
 1rajaraja 9 - 1rajaraja 10
 2tawarikh 2 - 2tawarikh 6
 2rajaraja 17 - 2rajaraja 20
 2tawarikh 16 - 2tawarikh 17
 2rajaraja 13 - 2rajaraja 17
-1tawarikh
+1tawarikh 11 - 1tawarikh 15
 2tawarikh 18 - 2tawarikh 19
 2tawarikh 18 - 2tawarikh 19
 2tawarikh 18 - 2tawarikh 19
 2tawarikh 18 - 2tawarikh 19
-2tawarikh
-2tawarikh
+2tawarikh 18 - 2tawarikh 19
+2tawarikh 18 - 2tawarikh 19
 1tawarikh 5 - 1tawarikh 8
 2tawarikh 16 - 2tawarikh 17
-2tawarikh
+2tawarikh 18 - 2tawarikh 19
 2tawarikh 18 - 2tawarikh 19
 2tawarikh 18 - 2tawarikh 19
 2tawarikh 15 - 2tawarikh 17
@@ -6141,8 +6141,8 @@ rut 1 - rut 1
 2tawarikh 18 - 2tawarikh 19
 2tawarikh 18 - 2tawarikh 19
 2tawarikh 18 - 2tawarikh 19
-1tawarikh
-1tawarikh
+1tawarikh 16 - 1tawarikh 20
+1tawarikh 21 - 1tawarikh 22
 2tawarikh 18 - 2tawarikh 19
 2tawarikh 18 - 2tawarikh 19
 2tawarikh 18 - 2tawarikh 19
@@ -6159,7 +6159,7 @@ rut 1 - rut 1
 2tawarikh 7 - 2tawarikh 10
 2tawarikh 4 - 2tawarikh 6
 2tawarikh 20 - 2tawarikh 21
-1tawarikh
+1tawarikh 23 - 1tawarikh 29
 1tawarikh 9 - 1tawarikh 10
 2tawarikh 20 - 2tawarikh 21
 2tawarikh 18 - 2tawarikh 21
@@ -6185,7 +6185,7 @@ rut 1 - rut 1
 2tawarikh 20 - 2tawarikh 21
 1rajaraja 12 - 1rajaraja 13
 2samuel 6 - 2samuel 7
-2samuel 1
+2samuel-1tawarikh 1
 2tawarikh 20 - 2tawarikh 21
 2tawarikh 20 - 2tawarikh 21
 2tawarikh 18 - 2tawarikh 19
@@ -6230,15 +6230,15 @@ rut 1 - rut 1
 2samuel 14 - 2samuel 15
 2tawarikh 24 - 2tawarikh 25
 2tawarikh 24 - 2tawarikh 25
-2tawarikh
+2tawarikh 20 - 2tawarikh 21
 2tawarikh 24 - 2tawarikh 24
-2tawarikh
+2tawarikh 22 - 2tawarikh 23
 2tawarikh 24 - 2tawarikh 25
 2tawarikh 22 - 2tawarikh 23
 2tawarikh 24 - 2tawarikh 25
 2tawarikh 20 - 2tawarikh 25
 2tawarikh 24 - 2tawarikh 25
-2tawarikh
+2tawarikh 1 - 2tawarikh 6
 1tawarikh 19 - 1tawarikh 22
 2tawarikh 24 - 2tawarikh 25
 2tawarikh 24 - 2tawarikh 25
@@ -6251,7 +6251,7 @@ rut 1 - rut 1
 1tawarikh 23 - 1tawarikh 24
 2tawarikh 24 - 2tawarikh 25
 2tawarikh 24 - 2tawarikh 25
-2rajaraja 23 - 2rajaraja 1
+2rajaraja 23 - 1tawarikh 2
 2tawarikh 13 - 2tawarikh 16
 2tawarikh 26 - 2tawarikh 27
 1tawarikh 25 - 1tawarikh 28
@@ -6260,10 +6260,10 @@ rut 1 - rut 1
 2tawarikh 26 - 2tawarikh 27
 2tawarikh 26 - 2tawarikh 27
 2tawarikh 24 - 2tawarikh 25
-2tawarikh
+2tawarikh 10 - 2tawarikh 11
 2tawarikh 26 - 2tawarikh 27
 2tawarikh 26 - 2tawarikh 27
-1tawarikh 28 - 1tawarikh 2
+1tawarikh 28 - 2tawarikh 27
 2tawarikh 26 - 2tawarikh 27
 2tawarikh 26 - 2tawarikh 27
 2tawarikh 1 - 2tawarikh 8
@@ -6280,7 +6280,7 @@ rut 1 - rut 1
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 26 - 2tawarikh 27
 2tawarikh 26 - 2tawarikh 27
-2tawarikh
+2tawarikh 7 - 2tawarikh 10
 2tawarikh 8 - 2tawarikh 12
 2tawarikh 24 - 2tawarikh 25
 2tawarikh 26 - 2tawarikh 27
@@ -6288,18 +6288,18 @@ rut 1 - rut 1
 1tawarikh 2 - 1tawarikh 4
 2tawarikh 26 - 2tawarikh 27
 2tawarikh 23 - 2tawarikh 24
-1tawarikh 12 - 1tawarikh 2
+1tawarikh 12 - 2tawarikh 1
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 28 - 2tawarikh 29
-2tawarikh
+2tawarikh 11 - 2tawarikh 16
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 13 - 2tawarikh 16
-bilangan 2
+2tawarikh 2 - 2tawarikh 5
 2tawarikh 16 - 2tawarikh 21
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 22 - 2tawarikh 27
@@ -6311,18 +6311,18 @@ bilangan 2
 2samuel 22 - 2samuel 23
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 24 - 2tawarikh 29
-2tawarikh
+2tawarikh 17 - 2tawarikh 20
 1tawarikh 3 - 1tawarikh 7
 2tawarikh 28 - 2tawarikh 29
-2tawarikh
-2tawarikh
-2tawarikh
+2tawarikh 24 - 2tawarikh 25
+2tawarikh 26 - 2tawarikh 27
+2tawarikh 28 - 2tawarikh 29
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 24 - 2tawarikh 29
 2tawarikh 17 - 2tawarikh 20
-2tawarikh
+2tawarikh 21 - 2tawarikh 24
 2tawarikh 26 - 2tawarikh 29
-1rajaraja
+1rajaraja 6 - 1rajaraja 7
 1tawarikh 5 - 1tawarikh 14
 2tawarikh 28 - 2tawarikh 29
 2tawarikh 6 - 2tawarikh 9
@@ -6348,7 +6348,7 @@ bilangan 2
 2tawarikh 17 - 2tawarikh 22
 2tawarikh 30 - 2tawarikh 31
 2rajaraja 7 - 2rajaraja 8
-1rajaraja
+1rajaraja 14 - 1rajaraja 15
 2tawarikh 30 - 2tawarikh 31
 2tawarikh 30 - 2tawarikh 31
 2tawarikh 25 - 2tawarikh 28
@@ -6368,7 +6368,7 @@ bilangan 2
 2tawarikh 32 - 2tawarikh 33
 2tawarikh 14 - 2tawarikh 17
 2tawarikh 32 - 2tawarikh 33
-2tawarikh
+2tawarikh 16 - 2tawarikh 17
 2tawarikh 32 - 2tawarikh 33
 2tawarikh 32 - 2tawarikh 33
 2tawarikh 32 - 2tawarikh 33
@@ -6398,7 +6398,7 @@ bilangan 2
 2tawarikh 34 - 2tawarikh 35
 2tawarikh 34 - 2tawarikh 35
 2tawarikh 30 - 2tawarikh 31
-2tawarikh
+2tawarikh 26 - 2tawarikh 27
 2tawarikh 34 - 2tawarikh 35
 2tawarikh 32 - 2tawarikh 35
 2tawarikh 25 - 2tawarikh 28
@@ -6407,53 +6407,53 @@ bilangan 2
 2tawarikh 24 - 2tawarikh 25
 2tawarikh 32 - 2tawarikh 35
 2tawarikh 32 - 2tawarikh 35
-2tawarikh
+2tawarikh 25 - 2tawarikh 30
 2tawarikh 32 - 2tawarikh 35
-2tawarikh 36 ezra 1
-2tawarikh ezra 1
-2tawarikh ezra 1
-2tawarikh ezra 1
-2tawarikh 36 ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
 2tawarikh 22 - 2tawarikh 25
-1rajaraja 2rajaraja
-2tawarikh 36 ezra 1
+1rajaraja 22 - 2rajaraja 1
+2tawarikh 36 - ezra 1
 2tawarikh 34 - 2tawarikh 35
 2tawarikh 31 - 2tawarikh 36
 2tawarikh 34 - 2tawarikh 36
-2tawarikh 36 ezra 1
-2tawarikh 36 ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
 2tawarikh 29 - 2tawarikh 36
 2tawarikh 29 - 2tawarikh 30
-2tawarikh 23 ezra 1
-2tawarikh 36 ezra 1
-2tawarikh 36 ezra 1
-2tawarikh 36 ezra 1
-2tawarikh 36 ezra 1
-2tawarikh 36 ezr 1
-2tawarikh 36 ezra 1
-2tawarikh 36 ezra 1
-2tawarikh 36 ezra 1
-2tawarikh 36 ezra 1
+2tawarikh 23 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
+2tawarikh 36 - ezra 1
 2tawarikh 31 - 2tawarikh 34
 ezra 2 - ezra 3
-2tawarikh
+2tawarikh 31 - 2tawarikh 34
 2tawarikh 26 - 2tawarikh 27
 ezra 2 - ezra 3
 ezra 2 - ezra 3
-2tawarikh 32 ezr 1
+2tawarikh 32 - ezra 1
 ezra 2 - ezra 3
 ezra 1 - ezra 2
+2tawarikh 30 - 2tawarikh 31
 2tawarikh
-2tawarikh
-2tawarikh
+2tawarikh 32 - 2tawarikh 33
 ezra 2 - ezra 3
-2tawarikh
+2tawarikh 34 - 2tawarikh 35
 ezra 2 - ezra 3
 ezra 2 - ezra 3
 ezra 1 - ezra 2
 2tawarikh 21 - 2tawarikh 28
 ezra 2 - ezra 3
-2tawarikh ezra 1
+2tawarikh 36 - ezra 1
 ezra 2 - ezra 3
 2tawarikh 32 - 2tawarikh 33
 ezra 2 - ezra 3
@@ -6465,7 +6465,7 @@ ezra 2 - ezra 3
 2tawarikh 28 - 2tawarikh 31
 ezra 2 - ezra 3
 ezra 2 - ezra 3
-2tawarikh 36 ezra 1
+2tawarikh 36 - ezra 1
 ezra 2 - ezra 3
 ezra 2 - ezra 3
 ezra 4 - ezra 5
@@ -6480,33 +6480,33 @@ ezra 4 - ezra 5
 ezra 4 - ezra 5
 ezra 2 - ezra 5
 ezra 4 - ezra 5
-2tawarikh
+2tawarikh 35 - 2tawarikh 36
 ezra 4 - ezra 5
 ezra 4 - ezra 5
 2tawarikh 34 - 2tawarikh 35
 ezra 1 - ezra 5
 ezra 4 - ezra 5
 2tawarikh 32 - 2tawarikh 35
-2tawarikh 2tawarikh
-2tawarikh 36 ezra 1
+2tawarikh 16 - 2tawarikh 36
+2tawarikh 36 - ezra 1
 ezra 4 - ezra 5
-2tawarikh ezra 1
+2tawarikh 36 - ezra 1
 ezra 2 - ezra 3
 ezra 4 - ezra 5
 1tawarikh 11 - 1tawarikh 12
 ezra 4 - ezra 5
 ezra 4 - ezra 5
 ezra 4 - ezra 5
-2tawarikh
+2tawarikh 32 - 2tawarikh 33
 2tawarikh 36
 ezra 2 - ezra 3
 ezra 4 - ezra 5
-2rajaraja
+2rajaraja 10 - 2rajaraja 11
 ezra 2 - ezra 3
 ezra 4 - ezra 5
 2tawarikh 34 - 2tawarikh 36
 ezra 2 - ezra 3
-1tawarikh 19 - 1tawarikh 2
+1tawarikh 19 - 2tawarikh 1
 1tawarikh 24 - 1tawarikh 29
 ezra 1 - ezra 5
 ezra 6 - ezra 7
@@ -6520,12 +6520,12 @@ ezra 6 - ezra 7
 ezra 6 - ezra 7
 ezra 4 - ezra 5
 ezra 4 - ezra 5
-2tawarikh ezra 1
+2tawarikh 36 - ezra 1
 ezra 6 - ezra 7
 ezra 6 - ezra 7
-ezra 1 ezra 7
+ezra 1 - ezra 7
 ezra 6 - ezra 7
-2tawarikh 36 ezra 7
+2tawarikh 36 - ezra 7
 ezra 6 - ezra 7
 ezra 6 - ezra 7
 ezra 6 - ezra 7
@@ -6561,40 +6561,40 @@ ezra 7 - ezra 10
 2tawarikh 23 - 2tawarikh 28
 ezra 8 - ezra 9
 ezra 4 - ezra 5
-ezra 6789
+ezra 6 7 8 9
 ezra 1 - ezra 3
 2tawarikh 2 - 2tawarikh 6
 ezra 8 - ezra 9
 ezra 8 - ezra 9
-ezra 10 neh 1
+ezra 10 - nehemia 1
 2tawarikh 1 - 2tawarikh 5
-ezra 10 neh 1
-ezra nehemia 1
-ezra nehemia 1
+ezra 10 - nehemia 1
+ezra 10 - nehemia 1
+ezra 10 - nehemia 1
 ezra 8 - ezra 9
 ezra 6 - ezra 7
 ezra 8 - ezra 9
-ezra nehemia 1
-ezra 10 neh 1
-ezra 10 neh 1
-ezra 10 neh 1
+ezra 10 - nehemia 1
+ezra 10 - nehemia 1
+ezra 10 - nehemia 1
+ezra 10 - nehemia 1
 ezra 8 - ezra 9
-ezra 10 neh 1
-ezra nehemia 1
-ezra 8 neh 1
-ezra 10 nehemia 1
-2rajaraja
+ezra 10 - nehemia 1
+ezra 10 - nehemia 1
+ezra 8 - nehemia 1
+ezra 10 - nehemia 1
+2rajaraja 20 - 2rajaraja 21
 ezra 6 - ezra 7
 1tawarikh 17 - 1tawarikh 18
-ezra nehemia 1
+ezra 10 - nehemia 1
 ezra 10
-2tawarikh 36 ezra 1
+2tawarikh 36 - ezra 1
 nehemia 1
-ezra 10 neh 1
-ezra nehemia 1
-ezra 10 neh 1
-ezra 10 neh 1
-ezra 10 neh 1
+ezra 10 - nehemia 1
+ezra 10 - nehemia 1
+ezra 10 - nehemia 1
+ezra 10 - nehemia 1
+ezra 10 - nehemia 1
 ezra 6 - ezra 7
 nehemia 2 - nehemia 3
 nehemia 2 - nehemia 3
@@ -6603,22 +6603,22 @@ nehemia 1 - nehemia 3
 nehemia 2 - nehemia 3
 ezra 8 - ezra 9
 nehemia 2 - nehemia 3
-ezra 10 nehemia 1
+ezra 10 - nehemia 1
 nehemia 2 - nehemia 3
 nehemia 2 - nehemia 3
 nehemia 2 - nehemia 3
 nehemia 2 - nehemia 3
-ezra 10 neh 1
+ezra 10 - nehemia 1
 nehemia 2 - nehemia 3
 nehemia 2 - nehemia 3
-ezra 10 neh 1
+ezra 10 - nehemia 1
 ezra 10
 nehemia 2 - nehemia 3
 ezra
 nehemia 2 - nehemia 3
 nehemia 2 - nehemia 3
 nehemia 2 - nehemia 3
-ezra nehemia 1
+ezra 2 - nehemia 1
 nehemia 2 - nehemia 3
 ezra 8 - ezra 9
 2tawarikh 20 - 2tawarikh 27
@@ -6640,11 +6640,11 @@ nehemia 4 - nehemia 5
 nehemia 4 - nehemia 5
 nehemia 4 - nehemia 5
 nehemia 4 - nehemia 5
-ezra 10 neh 5
+ezra 10 - nehemia 5
 nehemia 4 - nehemia 5
 nehemia 4 - nehemia 5
 ezra 4 - ezra 7
-ezra 10 neh 1
+ezra 10 - nehemia 1
 nehemia 4 - nehemia 5
 nehemia 4 - nehemia 5
 nehemia 4 - nehemia 5
@@ -6656,28 +6656,28 @@ nehemia 6 - nehemia 7
 nehemia 6 - nehemia 7
 nehemia 2 - nehemia 3
 nehemia 6 - nehemia 7
-ezra 9 neh 2
+ezra 9 - nehemia 2
 nehemia 6 - nehemia 7
 nehemia 4 - nehemia 5
 nehemia 6 - nehemia 7
 nehemia 1 - nehemia 5
 nehemia 6 - nehemia 7
 nehemia 6 - nehemia 7
-ezra nehemia 7
+ezra 8 - nehemia 7
 nehemia 6 - nehemia 7
 nehemia 6 - nehemia 7
 nehemia 6 - nehemia 7
 nehemia 4 - nehemia 5
-ezra 8 neh 3
+ezra 8 - nehemia 3
 nehemia 6 - nehemia 7
 nehemia 4 - nehemia 7
 nehemia 4 - nehemia 7
 nehemia 4 - nehemia 7
 1tawarikh 27 - 1tawarikh 29
 nehemia 6 - nehemia 7
-ezra 10 nehemia 3
+ezra 10 - nehemia 3
 2tawarikh 11 - 2tawarikh 16
-2tawarikh 36 neh 7
+2tawarikh 36 - nehemia 7
 nehemia 6 - nehemia 7
 nehemia 8 - nehemia 9
 nehemia 4 - nehemia 7
@@ -6685,7 +6685,7 @@ nehemia 6 - nehemia 7
 nehemia 3 - nehemia 4
 nehemia 8 - nehemia 9
 nehemia 8 - nehemia 9
-ezra 20 neh 1
+ezra 20 - nehemia 1
 nehemia 2 - nehemia 3
 nehemia 4 - nehemia 5
 nehemia 6 - nehemia 7
@@ -6694,7 +6694,7 @@ nehemia 8 - nehemia 9
 nehemia 8 - nehemia 9
 nehemia 8 - nehemia 9
 nehemia 6 - nehemia 9
-ezra 8 neh 9
+ezra 8 - nehemia 9
 nehemia 8 - nehemia 9
 nehemia 8 - nehemia 9
 nehemia 8 - nehemia 9
@@ -6766,7 +6766,7 @@ nehemia 8 - nehemia 11
 nehemia 12 - nehemia 13
 nehemia 12 - nehemia 13
 nehemia 12 - nehemia 13
-ezra 8 ezra 10
+ezra 8 - ezra 10
 nehemia 12 - nehemia 13
 nehemia 12 - nehemia 13
 nehemia 12 - nehemia 13
@@ -6787,16 +6787,16 @@ nehemia 9 - nehemia 10
 ester 1 - ester 2
 ester 1 - ester 2
 nehemia 12 - nehemia 13
-nehemia ester 2
+nehemia 12 - ester 2
 ester 1 - ester 2
 nehemia 8 - nehemia 9
-2tawarikh 28 ester 2
+2tawarikh 28 - ester 2
 nehemia 10 - nehemia 11
 nehemia 12 - nehemia 13
 ester 1 - ester 2
 ester 1 - ester 2
 ester 1 - ester 2
-nehemia 1 nehemia 13
+nehemia 1 - nehemia 13
 ester 1 - ester 2
 ester 1 - ester 2
 ester 1 - ester 2
@@ -6807,7 +6807,7 @@ nehemia 6 - nehemia 7
 ester 1 - ester 2
 ester 1 - ester 2
 ester 1 - ester 2
-nehemia 12 ester 2
+nehemia 12 - ester 2
 ester 1 - ester 2
 ester 1 - ester 2
 nehemia 4 - nehemia 6
@@ -6830,7 +6830,7 @@ ester 1 - ester 4
 ester 3 - ester 4
 ester 1 - ester 2
 ester 3 - ester 4
-ester 1 ester 4
+ester 1 - ester 4
 ester 3 - ester 4
 ester 3 - ester 4
 ester 1 - ester 4
@@ -6930,7 +6930,7 @@ ester 1 - ester 2
 ester 9 - ester 10
 ester 7 - ester 10
 ester 9 - ester 10
-2tawarikh 34 ezr 3
+2tawarikh 34 - ezra 3
 nehemia
 ester 9 - ester 10
 2tawarikh 22 - 2tawarikh 26
@@ -6961,7 +6961,7 @@ ayub 1 - ayub 2
 ester 9 - ester 10
 ayub 1 - ayub 2
 ayub 1 - ayub 2
-2tawarikh 36 neh 1
+2tawarikh 36 - nehemia 1
 ayub 1 - ayub 2
 nehemia
 ester 1 - ester 2
@@ -7059,7 +7059,7 @@ ayub 3 - ayub 4
 2tawarikh 24 - 2tawarikh 29
 ayub 9 - ayub 10
 ayub 7 - ayub 8
-ayub 5678
+ayub 5 6 7 8
 ayub 7 - ayub 8
 ayub 9 - ayub 10
 ayub 7 - ayub 8
@@ -7067,7 +7067,7 @@ ayub 5 - ayub 6
 ayub 7 - ayub 8
 ayub 7 - ayub 8
 ayub 7 - ayub 8
-2tawarikh ezra 2
+2tawarikh 27 - ezra 2
 2tawarikh 30 - 2tawarikh 35
 ayub 9 - ayub 10
 ayub 9 - ayub 10
@@ -7161,7 +7161,7 @@ ayub 15 - ayub 16
 ayub 13 - ayub 14
 ayub 13 - ayub 16
 ayub 15 - ayub 16
-nehemia 10 est 10
+nehemia 10 - ester 10
 ayub 13 - ayub 14
 ayub 15 - ayub 16
 ayub 15 - ayub 16
@@ -7211,7 +7211,7 @@ ayub 17 - ayub 20
 ayub 19 - ayub 20
 ayub 19 - ayub 20
 ayub 19 - ayub 20
-ester 5 ester 10
+ester 5 - ester 10
 ayub 15 - ayub 18
 ayub 19 - ayub 20
 ayub 19 - ayub 20
@@ -7226,16 +7226,16 @@ ayub 17 - ayub 18
 ayub 19 - ayub 20
 ayub 19 - ayub 20
 ayub 19 - ayub 20
-ezra nehemia 3
+ezra 3 - nehemia 3
 nehemia 1 - nehemia 13
 ayub 10 - ayub 13
 ayub 21 - ayub 22
-2tawarikh ezra 4
+2tawarikh 36 - ezra 4
 ayub 21 - ayub 22
-ayub 1 ayub 2
-ayub 3 ayub 4
-ayub 5 ayub 6
-ayub 7 ayub 8
+ayub 1 - ayub 2
+ayub 3 - ayub 4
+ayub 5 - ayub 6
+ayub 7 - ayub 8
 ayub 4 - ayub 6
 ayub 21 - ayub 22
 ayub 17 - ayub 20
@@ -7264,10 +7264,10 @@ ayub 19 - ayub 21
 ayub 21 - ayub 22
 ayub 23 - ayub 24
 ayub 23 - ayub 24
-ayub 9 ayub 10
-ayub 11 ayub 12
-ayub 13 ayub 14
-ayub 15 ayub 16
+ayub 9 - ayub 10
+ayub 11 - ayub 12
+ayub 13 - ayub 14
+ayub 15 - ayub 16
 ayub 21 - ayub 22
 ayub 23 - ayub 24
 yunus 23 - yunus 24
@@ -7290,11 +7290,11 @@ ayub 23 - ayub 24
 ayub 1 - ayub 15
 ayub 9 - ayub 10
 ayub 23 - ayub 24
-ayub 17 ayub 18
-ayub 19 ayub 20
-ayub 21 ayub 22
-ayub 23 ayub 24
-ayub 25 ayub 26
+ayub 17 - ayub 18
+ayub 19 - ayub 20
+ayub 21 - ayub 22
+ayub 23 - ayub 24
+ayub 25 - ayub 26
 ayub 1 - ayub 8
 ayub 25 - ayub 26
 ayub 25 - ayub 26
@@ -7342,7 +7342,7 @@ ayub 27 - ayub 28
 ayub 27 - ayub 28
 ayub 27 - ayub 28
 ayub 25 - ayub 28
-ester 11 ayub 26
+ester 11 - ayub 26
 ayub 16 - ayub 20
 ayub 27 - ayub 28
 ayub 27 - ayub 28
@@ -7354,11 +7354,11 @@ ayub 21 - ayub 22
 ayub 25 - ayub 26
 ayub 27 - ayub 28
 ayub 27 - ayub 28
-nehemia 4
+nehemia 4 - ester 2
 ayub 27 - ayub 28
 ayub 22 - ayub 28
-ayub 27 ayub 28
-ayub 29 ayub 30
+ayub 27 - ayub 28
+ayub 29 - ayub 30
 ester
 ayub 27 - ayub 30
 ayub 29 - ayub 30
@@ -7400,12 +7400,12 @@ ayub 31 - ayub 32
 ayub 29 - ayub 32
 ayub 31 - ayub 32
 ayub 31 - ayub 32
-ayub 5 - ayub 6
+ayub 5 - 6 7 - ayub 5 - 6 8
 ayub 29 - ayub 32
 ayub ayub 31 - ayub ayub 32
 ayub 29 - ayub 30
 ayub 31 - ayub 32
-ayub 29 - ayub 30
+ayub 29 - 30 31 - ayub 29 - 30 32
 ayub 33 - ayub 34
 ayub 33 - ayub 34
 ayub 33 - ayub 34
@@ -7501,9 +7501,9 @@ ayub 29 - ayub 30
 ayub 37 - ayub 38
 ayub 39 - ayub 40
 ayub 39 - ayub 40
-ayub 31 ayub 32
-ayub 33 ayub 34
-ayub 35 ayub 36
+ayub 31 - ayub 32
+ayub 33 - ayub 34
+ayub 35 - ayub 36
 ayub 37 - ayub 40
 ayub 27 - ayub 30
 ayub 35 - ayub 36
@@ -7521,7 +7521,7 @@ ayub 41 - ayub 42
 ayub 41 - ayub 42
 ayub 41 - ayub 42
 ayub 41 - ayub 42
-kisahpararasul ayub
+ayub
 nehemia 8 - nehemia 9
 ayub 41 - ayub 42
 ayub 41 - ayub 42
@@ -7561,13 +7561,13 @@ ayub 41 - ayub 42
 mazmur 1 - mazmur 2
 mazmur 1 - mazmur 2
 ayub 26 - ayub 35
-ayub 33 - ayub 34
+ayub 33 - 34 35 - ayub 33 - 34 36
 mazmur 1 - mazmur 2
 mazmur 1 - mazmur 2
 ayub 41 - 42 mazmur 1 - 2
 mazmur 1 - mazmur 2
 mazmur 1 - mazmur 2
-ayub 39
+ayub 39 - ayub 42
 ayub 1 - ayub 5
 ayub 1 - ayub 4
 ester 1 - ester 2
@@ -7577,7 +7577,7 @@ ayub 39 - ayub 42
 mazmur 1 - mazmur 2
 ayub 39 - ayub 40
 ayub 6 - ayub 10
-ayub mazmur 2
+ayub 38 - mazmur 2
 ayub 39 - ayub 42
 ayub 31 - ayub 34
 mazmur 3 - mazmur 4
@@ -7599,7 +7599,7 @@ mazmur 1 - mazmur 4
 mazmur 1 - mazmur 2
 mazmur 3 - mazmur 4
 mazmur 3 - mazmur 4
-ayub mazmur 4
+ayub 40 - mazmur 4
 mazmur 3 - mazmur 4
 mazmur 3 - mazmur 4
 ayub 10 - ayub 15
@@ -7731,7 +7731,7 @@ mazmur 11 - mazmur 14
 ayub 13 - ayub 16
 mazmur 5 - mazmur 6
 mazmur 13 - mazmur 14
-ayub 42 mzm 1
+ayub 42 - mazmur 1
 mazmur 11 - mazmur 12
 mazmur 13 - mazmur 14
 mazmur 9 - mazmur 10
@@ -7742,7 +7742,7 @@ ayub 39 - ayub 42
 mazmur 7 - mazmur 8
 ayub 39 - ayub 42
 mazmur 1 - mazmur 2
-mazmur 3 - mazmur 4
+mazmur 3 - 4 5 - mazmur 3 - 4 6
 mazmur 3 - mazmur 10
 mazmur 2 - mazmur 4
 ayub 20 - ayub 32
@@ -7885,7 +7885,7 @@ mazmur 25 - mazmur 26
 mazmur 25 - mazmur 26
 mazmur 25 - mazmur 26
 mazmur 11 - mazmur 12
-mazmur 15 - mazmur 16
+mazmur 15 - 16 17 - mazmur 15 - 16 18
 mazmur 25 - mazmur 26
 mazmur 25 - mazmur 26
 mazmur 14 - mazmur 24
@@ -8051,7 +8051,7 @@ mazmur 37 - mazmur 38
 mazmur 33 - mazmur 34
 mazmur 37 - mazmur 38
 mazmur 35 - mazmur 36
-mazmur 27 - mazmur 28
+mazmur 27 - 28 29 - mazmur 27 - 28 30
 mazmur 37 - mazmur 38
 mazmur 37 - mazmur 38
 mazmur 37 - mazmur 38
@@ -8096,11 +8096,11 @@ mazmur 1 - mazmur 20
 mazmur 41 - mazmur 43
 mazmur 41 - mazmur 43
 mazmur 39 - mazmur 43
-mazmur 414243
+mazmur 41 42 43
 mazmur 41 - mazmur 43
 mazmur 33 - mazmur 34
 mazmur 41 - mazmur 43
-ayub 41 mzm 8
+ayub 41 - mazmur 8
 mazmur 17 - mazmur 20
 ayub 27 - ayub 42
 mazmur 44 - mazmur 45
@@ -8182,11 +8182,11 @@ mazmur 48 - mazmur 49
 mazmur 48 - mazmur 49
 mazmur 37 - mazmur 38
 mazmur 33 - mazmur 34
-ayub mazmur 10
+ayub 34 - mazmur 10
 mazmur 50 - mazmur 51
-ayub 37 ayub 38
-ayub 39 ayub 40
-ayub 41 ayub 42
+ayub 37 - ayub 38
+ayub 39 - ayub 40
+ayub 41 - ayub 42
 mazmur 41 - mazmur 49
 mazmur 50 - mazmur 51
 mazmur 50 - mazmur 51
@@ -8215,7 +8215,7 @@ mazmur 50 - mazmur 51
 mazmur 39 - mazmur 40
 mazmur 43 - mazmur 51
 mazmur 50 - mazmur 51
-mazmur 39 - mazmur 40
+mazmur 39 - 40 41 - mazmur 39 - 40 43
 mazmur 52 - mazmur 53
 mazmur 7 - mazmur 14
 mazmur 52 - mazmur 53
@@ -8363,22 +8363,22 @@ mazmur 62 - mazmur 63
 mazmur 60 - mazmur 63
 mazmur 62 - mazmur 63
 mazmur 62 - mazmur 63
-mazmur 52 - mazmur 53
+mazmur 52 - 53 54 - mazmur 52 - 53 55
 mazmur 60 - mazmur 63
 mazmur 60 - mazmur 63
 mazmur 60 - mazmur 61
 mazmur 49 - mazmur 52
 mazmur 62 - mazmur 63
-mazmur 1 mazmur 2
-mazmur 3 mazmur 4
+mazmur 1 - mazmur 2
+mazmur 3 - mazmur 4
 mazmur 62 - mazmur 63
 mazmur 58 - mazmur 63
 mazmur 62 - mazmur 63
 mazmur 31 - mazmur 40
 mazmur 9 - mazmur 20
-mazmur 5 mazmur 6
-mazmur 7 mazmur 8
-mazmur 9 mazmur 10
+mazmur 5 - mazmur 6
+mazmur 7 - mazmur 8
+mazmur 9 - mazmur 10
 mazmur 64 - mazmur 65
 mazmur 64 - mazmur 65
 mazmur 64 - mazmur 65
@@ -8517,7 +8517,7 @@ mazmur 74 - mazmur 75
 mazmur 74 - mazmur 75
 mazmur 74 - mazmur 75
 mazmur 72 - mazmur 75
-mazmur 72
+mazmur 72 - mazmur 73
 mazmur 74 - mazmur 75
 mazmur 70 - mazmur 75
 mazmur 74 - mazmur 75
@@ -8595,7 +8595,7 @@ mazmur 80 - mazmur 81
 mazmur 80 - mazmur 81
 mazmur 80 - mazmur 81
 mazmur 68 - mazmur 77
-ayub 41 maz 6
+ayub 41 - mazmur 6
 mazmur 76 - mazmur 77
 mazmur 80 - mazmur 81
 mazmur 78 - mazmur 79
@@ -8668,7 +8668,7 @@ mazmur 86 - mazmur 87
 mazmur 86 - mazmur 87
 mazmur 77 - mazmur 87
 mazmur 86 - mazmur 87
-mazmur 66 - mazmur 67
+mazmur 66 - 67 68 - mazmur 66 - 67 69
 mazmur 82 - mazmur 83
 mazmur 84 - mazmur 85
 mazmur 86 - mazmur 87
@@ -8685,7 +8685,7 @@ mazmur 70 - mazmur 75
 mazmur 86 - mazmur 87
 mazmur 84 - mazmur 87
 mazmur 83 - mazmur 86
-mazmur 84858687
+mazmur 84 85 86 87
 mazmur 86 - mazmur 87
 mazmur 86 - mazmur 87
 mazmur 60 - mazmur 70
@@ -8721,7 +8721,7 @@ mazmur 76 - mazmur 85
 mazmur 88 - mazmur 89
 mazmur 87 - mazmur 89
 mazmur 88 - mazmur 89
-mazmur 7677787980
+mazmur 76 77 78 79 80
 mazmur 88 - mazmur 89
 mazmur 68 - mazmur 70
 mazmur 88 - mazmur 89
@@ -8801,8 +8801,8 @@ mazmur 94 - mazmur 95
 mazmur 86 - mazmur 95
 mazmur 94 - mazmur 95
 mazmur 94 - mazmur 95
-mazmur 11 mazmur 12
-mazmur 13 mazmur 14
+mazmur 11 - mazmur 12
+mazmur 13 - mazmur 14
 mazmur 94 - mazmur 95
 mazmur 91 - mazmur 95
 mazmur 80 - mazmur 81
@@ -8859,7 +8859,7 @@ mazmur 98 - mazmur 100
 mazmur 98 - mazmur 100
 mazmur 73 - mazmur 76
 mazmur 94 - mazmur 100
-ayub 42 maz 3
+ayub 42 - mazmur 3
 mazmur 98 - mazmur 100
 mazmur 82 - mazmur 83
 mazmur 46 - mazmur 55
@@ -8873,7 +8873,7 @@ mazmur 98 - mazmur 102
 mazmur 101 - mazmur 102
 mazmur 101 - mazmur 102
 mazmur 101 - mazmur 102
-mazmur 88 - mazmur 89
+mazmur 88 - 89 90 - mazmur 88 - 89 91
 mazmur 17 - mazmur 27
 mazmur 101 - mazmur 102
 mazmur 94 - mazmur 102
@@ -8962,9 +8962,9 @@ mazmur 103 - mazmur 104
 mazmur 105 - mazmur 106
 mazmur 107 - mazmur 108
 mazmur 107 - mazmur 108
-mazmur 15 mazmur 16
-mazmur 17 mazmur 18
-mazmur 19 mazmur 20
+mazmur 15 - mazmur 16
+mazmur 17 - mazmur 18
+mazmur 19 - mazmur 20
 mazmur 107 - mazmur 108
 mazmur 45 - mazmur 48
 mazmur 107 - mazmur 108
@@ -9226,7 +9226,7 @@ mazmur 131 - mazmur 132
 mazmur 131 - mazmur 132
 mazmur 120 - mazmur 135
 mazmur 131 - mazmur 132
-mazmur 103 - mazmur 104
+mazmur 103 - 104 105 - mazmur 103 - 104 106
 mazmur 125 - mazmur 132
 mazmur 131 - mazmur 132
 mazmur 102 - mazmur 104
@@ -9267,10 +9267,10 @@ mazmur 133 - mazmur 135
 mazmur 131 - mazmur 135
 mazmur 133 - mazmur 135
 mazmur 133 - mazmur 135
-mazmur 21 mazmur 22
-mazmur 23 mazmur 24
-mazmur 25 mazmur 26
-mazmur 27 mazmur 28
+mazmur 21 - mazmur 22
+mazmur 23 - mazmur 24
+mazmur 25 - mazmur 26
+mazmur 27 - mazmur 28
 mazmur 133 - mazmur 135
 mazmur 124 - mazmur 127
 mazmur 133 - mazmur 135
@@ -9286,7 +9286,7 @@ mazmur 133 - mazmur 135
 mazmur 136 - mazmur 137
 mazmur 136 - mazmur 137
 mazmur 136 - mazmur 137
-mazmur 29 mazmur 30
+mazmur 29 - mazmur 30
 mazmur 133 - mazmur 137
 mazmur 136 - mazmur 137
 mazmur 136 - mazmur 137
@@ -9341,7 +9341,7 @@ mazmur 140 - mazmur 141
 mazmur 140 - mazmur 141
 mazmur 140 - mazmur 141
 mazmur 138 - mazmur 141
-mazmur 136 - mazmur 137
+mazmur 136 - 137 138 - mazmur 136 - 137 139
 mazmur 140 - mazmur 141
 mazmur 140 - mazmur 141
 mazmur 132 - mazmur 141
@@ -9403,7 +9403,7 @@ mazmur 144 - mazmur 145
 mazmur 144 - mazmur 145
 mazmur 144 - mazmur 145
 mazmur 144 - mazmur 145
-mazmur 142 - mazmur 143
+mazmur 142 - 143 144 - mazmur 142 - 143 145
 mazmur 144 - mazmur 145
 mazmur 130 - mazmur 145
 mazmur 144 - mazmur 145
@@ -9461,29 +9461,29 @@ mazmur 148 - mazmur 149
 mazmur 148 - mazmur 149
 mazmur 148 - mazmur 149
 mazmur 121 - mazmur 124
-mazmur 148 ams 1
-mazmur 150 ams 1
+mazmur 148 - amsal 1
+mazmur 150 - amsal 1
 mazmur 150 - mazmur 151
-mazmur amsal 1
+mazmur 150 - amsal 1
 mazmur 137 - mazmur 147
-mazmur amsal 1
-mazmur amsal 1
-mazmur 150 ams 1
-mazmur 150 ams 1
+mazmur 150 - amsal 1
+mazmur 150 - amsal 1
+mazmur 150 - amsal 1
+mazmur 150 - amsal 1
 amsal 1
 mazmur 146 - mazmur 150
-mazmur amsal 1
+mazmur 150 - amsal 1
 mazmur 144 - mazmur 149
-mazmur amsal 1
-mazmur amsal 1
-mazmur 150 ams 1
-mazmur 150 ams 1
-mazmur amsal 1
-mazmur 150 ams 1
-mazmur amsal 1
-mazmur 150 ams 1
+mazmur 150 - amsal 1
+mazmur 150 - amsal 1
+mazmur 150 - amsal 1
+mazmur 150 - amsal 1
+mazmur 150 - amsal 1
+mazmur 150 - amsal 1
+mazmur 150 - amsal 1
+mazmur 150 - amsal 1
 mazmur 125 - mazmur 127
-mazmur 150 ams 1
+mazmur 150 - amsal 1
 amsal 2 - amsal 3
 amsal 1 - amsal 3
 amsal 2 - amsal 3
@@ -9495,8 +9495,8 @@ amsal 2 - amsal 3
 amsal 2 - amsal 3
 amsal 2 - amsal 3
 amsal 2 - amsal 3
-mazmur 146 ams 3
-mazmur 150 ams 1
+mazmur 146 - amsal 3
+mazmur 150 - amsal 1
 mazmur 69 - mazmur 72
 amsal 2 - amsal 3
 amsal 2 - amsal 3
@@ -9512,7 +9512,7 @@ amsal 2 - amsal 3
 amsal 2 - amsal 3
 mazmur
 amsal 1 - amsal 3
-mazmur 146 - 147 amsal 1 amsal 2 - 3
+mazmur 146 - 147 148 - mazmur 146 - 147 149
 amsal 2 - amsal 3
 amsal 4 - amsal 5
 amsal 4 - amsal 5
@@ -9522,11 +9522,11 @@ amsal 4 - amsal 5
 amsal 4 - amsal 5
 amsal 4 - amsal 5
 mazmur 148 - mazmur 149
-mazmur 150 amsal 1
+mazmur 150 - amsal 1
 amsal 2 - amsal 3
 amsal 4 - amsal 5
 amsal 4 - amsal 5
-mazmur 149 ams 5
+mazmur 149 - amsal 5
 amsal 4 - amsal 5
 amsal 4 - amsal 5
 amsal 4 - amsal 5
@@ -9540,7 +9540,7 @@ amsal 4 - amsal 5
 amsal 4 - amsal 5
 amsal 4 - amsal 5
 mazmur 70 - mazmur 80
-mazmur 144 ams 5
+mazmur 144 - amsal 5
 mazmur 81 - mazmur 100
 mazmur 144 - mazmur 150
 amsal 4 - amsal 5
@@ -9632,7 +9632,7 @@ amsal 12 - amsal 13
 amsal 3 - amsal 6
 amsal 12 - amsal 13
 amsal 12 - amsal 13
-mazmur 150 ams 13
+mazmur 150 - amsal 13
 amsal 12 - amsal 13
 amsal 10 - amsal 13
 amsal 12 - amsal 13
@@ -9659,7 +9659,7 @@ amsal 14 - amsal 15
 amsal 14 - amsal 15
 amsal 14 - amsal 15
 amsal 10 - amsal 13
-amsal 4 - amsal 5
+amsal 4 - 5 6 - amsal 4 - 5 7
 amsal 14 - amsal 15
 amsal 6 - amsal 15
 amsal 14 - amsal 15
@@ -9716,7 +9716,7 @@ amsal 18 - amsal 19
 amsal 14 - amsal 15
 amsal 16 - amsal 17
 amsal 16 - amsal 19
-amsal 14 - amsal 15
+amsal 14 - 15 16 - amsal 14 - 15 17
 amsal 18 - amsal 19
 amsal 18 - amsal 19
 amsal 18 - amsal 19
@@ -9744,7 +9744,7 @@ amsal 20 - amsal 21
 amsal 20 - amsal 21
 amsal 20 - amsal 21
 amsal 20 - amsal 21
-mazmur amsal 1
+mazmur 148 - amsal 1
 amsal 20 - amsal 21
 amsal 20 - amsal 21
 amsal 7 - amsal 10
@@ -9798,7 +9798,7 @@ amsal 22 - amsal 25
 amsal 18 - amsal 22
 amsal 2 - amsal 3
 amsal 24 - amsal 25
-amsal 22 - amsal 23
+amsal 22 - 23 24 - amsal 22 - 23 25
 amsal 22 - amsal 25
 amsal 24 - amsal 25
 amsal 26 - amsal 27
@@ -9865,7 +9865,7 @@ amsal 30 - amsal 31
 amsal 28 - amsal 31
 amsal 28 - amsal 31
 amsal 30 - amsal 31
-amsal 28 - amsal 29
+amsal 28 - 29 30 - amsal 28 - 29 31
 amsal 30 - amsal 31
 amsal 30 - amsal 31
 amsal 28 - amsal 29
@@ -9921,7 +9921,7 @@ pengkhotbah 3 - pengkhotbah 4
 mazmur 16 - mazmur 17
 mazmur 55 - mazmur 60
 pengkhotbah 1 - pengkhotbah 2
-amsal 28 pkh 4
+amsal 28 - pengkhotbah 4
 amsal 26 - amsal 31
 amsal 26 - amsal 30
 pengkhotbah 3 - pengkhotbah 4
@@ -9939,16 +9939,16 @@ pengkhotbah 5 - pengkhotbah 6
 pengkhotbah 5 - pengkhotbah 6
 amsal 19 - amsal 22
 pengkhotbah 5 - pengkhotbah 6
-amsal pengkhotbah 6
-pengkhotbah 3 - pengkhotbah 4
+amsal 27 - pengkhotbah 6
+pengkhotbah 3 - 4 5 - pengkhotbah 3 - 4 6
 pengkhotbah 5 - pengkhotbah 6
 pengkhotbah 5 - pengkhotbah 6
 pengkhotbah 5 - pengkhotbah 6
 pengkhotbah 5 - pengkhotbah 6
 pengkhotbah 5 - pengkhotbah 6
-mazmur 31 mazmur 32
-mazmur 33 mazmur 34
-mazmur 35 mazmur 36
+mazmur 31 - mazmur 32
+mazmur 33 - mazmur 34
+mazmur 35 - mazmur 36
 pengkhotbah 5 - pengkhotbah 6
 mazmur 87 - mazmur 88
 pengkhotbah 5 - pengkhotbah 6
@@ -10006,9 +10006,9 @@ amsal 28 - amsal 31
 pengkhotbah 9 - pengkhotbah 10
 pengkhotbah 1 - pengkhotbah 4
 pengkhotbah 9 - pengkhotbah 10
-mazmur 37 mazmur 38
-mazmur 39 mazmur 40
-mazmur 41 mazmur 42
+mazmur 37 - mazmur 38
+mazmur 39 - mazmur 40
+mazmur 41 - mazmur 42
 pengkhotbah 9 - pengkhotbah 10
 pengkhotbah 9 - pengkhotbah 10
 pengkhotbah 6 - pengkhotbah 10
@@ -10029,7 +10029,7 @@ amsal 28 - amsal 31
 pengkhotbah 11 - pengkhotbah 12
 pengkhotbah 11 - pengkhotbah 12
 pengkhotbah 11 - pengkhotbah 12
-pengkhotbah 7 - pengkhotbah 8
+pengkhotbah 7 - 8 9 - pengkhotbah 7 - 8 10
 pengkhotbah 9 - pengkhotbah 10
 amsal 11 - amsal 20
 pengkhotbah 11 - pengkhotbah 12
@@ -10046,10 +10046,10 @@ pengkhotbah 11 - pengkhotbah 12
 pengkhotbah 11 - pengkhotbah 12
 pengkhotbah 11 - pengkhotbah 12
 pengkhotbah 11 - pengkhotbah 12
-mazmur 43 mazmur 44
-mazmur 45 mazmur 46
-mazmur 47 mazmur 48
-mazmur 49 mazmur 50
+mazmur 43 - mazmur 44
+mazmur 45 - mazmur 46
+mazmur 47 - mazmur 48
+mazmur 49 - mazmur 50
 pengkhotbah 9 - pengkhotbah 12
 kidungagung 1 - kidungagung 2
 pengkhotbah 11 - pengkhotbah 12
@@ -10063,14 +10063,14 @@ amsal 21 - amsal 31
 kidungagung 1 - kidungagung 2
 kidungagung 1 - kidungagung 2
 kidungagung 1 - kidungagung 2
-mazmur 111 ams 10
+mazmur 111 - amsal 10
 amsal 14 - amsal 15
 kidungagung 1 - kidungagung 2
 amsal 4 - amsal 12
 kidungagung 1 - kidungagung 2
 kidungagung 1 - kidungagung 2
 kidungagung 1 - kidungagung 2
-pengkhotbah kidungagung 2
+pengkhotbah 11 - kidungagung 2
 kidungagung 1 - kidungagung 2
 pengkhotbah 5 - pengkhotbah 10
 kidungagung 1 - kidungagung 2
@@ -10106,7 +10106,7 @@ kidungagung 3 - kidungagung 4
 kidungagung 3 - kidungagung 4
 kidungagung 3 - kidungagung 4
 amsal 19 - amsal 20
-pengkhotbah 11 kid 2
+pengkhotbah 11 - kidungagung 2
 kidungagung 5 - kidungagung 6
 pengkhotbah 5 - pengkhotbah 8
 kidungagung 5 - kidungagung 6
@@ -10116,9 +10116,9 @@ kidungagung 5 - kidungagung 6
 kidungagung 5 - kidungagung 6
 kidungagung 5 - kidungagung 6
 kidungagung 5 - kidungagung 6
-kidungagung
-kidungagung
-kidungagung
+kidungagung 1 - kidungagung 2
+kidungagung 3 - kidungagung 4
+kidungagung 5 - kidungagung 6
 amsal 13 - amsal 25
 kidungagung 5 - kidungagung 6
 kidungagung 5 - kidungagung 6
@@ -10129,9 +10129,9 @@ pengkhotbah 11 - pengkhotbah 12
 kidungagung 5 - kidungagung 6
 kidungagung 5 - kidungagung 6
 kidungagung 5 - kidungagung 6
-mazmur 51 mazmur 52
-mazmur 53 mazmur 54
-mazmur 55 mazmur 56
+mazmur 51 - mazmur 52
+mazmur 53 - mazmur 54
+mazmur 55 - mazmur 56
 kidungagung 7 - kidungagung 8
 kidungagung 7 - kidungagung 8
 kidungagung 7 - kidungagung 8
@@ -10147,8 +10147,8 @@ kidungagung 7 - kidungagung 8
 kidungagung 7 - kidungagung 8
 amsal 21 - amsal 22
 kidungagung 7 - kidungagung 8
-mazmur 57 mazmur 58
-mazmur 59 mazmur 60
+mazmur 57 - mazmur 58
+mazmur 59 - mazmur 60
 kidungagung 7 - kidungagung 8
 mazmur 91 - mazmur 92
 kidungagung 7 - kidungagung 8
@@ -10173,7 +10173,7 @@ kidungagung 7 - kidungagung 8
 yesaya 1 - yesaya 2
 yesaya 1 - yesaya 2
 yesaya 1 - yesaya 2
-kidungagung
+kidungagung 7 - kidungagung 8
 yesaya 1 - yesaya 2
 yesaya 1 - yesaya 2
 yesaya 1 - yesaya 2
@@ -10276,10 +10276,10 @@ yesaya 9 - yesaya 10
 yesaya 7 - yesaya 8
 yesaya 9 - yesaya 10
 yesaya 9 - yesaya 10
-mazmur 61 mazmur 62
-mazmur 63 mazmur 64
-mazmur 65 mazmur 66
-mazmur 67 mazmur 68
+mazmur 61 - mazmur 62
+mazmur 63 - mazmur 64
+mazmur 65 - mazmur 66
+mazmur 67 - mazmur 68
 yesaya 9 - yesaya 10
 yesaya 9 - yesaya 10
 yesaya 9 - yesaya 10
@@ -10328,10 +10328,10 @@ yesaya 9 - yesaya 13
 yesaya 13 - yesaya 14
 yesaya 13 - yesaya 14
 yesaya 13 - yesaya 14
-mazmur 69 mazmur 70
-mazmur 71 mazmur 72
-mazmur 73 mazmur 74
-mazmur 75 mazmur 76
+mazmur 69 - mazmur 70
+mazmur 71 - mazmur 72
+mazmur 73 - mazmur 74
+mazmur 75 - mazmur 76
 yesaya 13 - yesaya 14
 yesaya 11 - yesaya 14
 yesaya 13 - yesaya 14
@@ -10379,7 +10379,7 @@ yesaya 17 - yesaya 18
 mazmur 103 - mazmur 104
 mazmur 121 - mazmur 150
 mazmur 32 - mazmur 33
-amsal pengkhotbah 2
+amsal 31 - pengkhotbah 2
 yesaya 17 - yesaya 18
 yesaya 17 - yesaya 18
 yesaya 15 - yesaya 18
@@ -10389,10 +10389,10 @@ yesaya 17 - yesaya 18
 yesaya 13 - yesaya 18
 yesaya 17 - yesaya 18
 yesaya 11 - yesaya 18
-mazmur 77 mazmur 78
-mazmur 79 mazmur 80
-mazmur 81 mazmur 82
-mazmur 83 mazmur 84
+mazmur 77 - mazmur 78
+mazmur 79 - mazmur 80
+mazmur 81 - mazmur 82
+mazmur 83 - mazmur 84
 kidungagung 1 - kidungagung 2
 yesaya 19 - yesaya 20
 yesaya 19 - yesaya 20
@@ -10409,10 +10409,10 @@ yesaya 19 - yesaya 20
 yesaya 19 - yesaya 20
 yesaya 19 - yesaya 20
 yesaya 19 - yesaya 20
-mazmur 85 mazmur 86
-mazmur 87 mazmur 88
-mazmur 89 mazmur 90
-mazmur 91 mazmur 92
+mazmur 85 - mazmur 86
+mazmur 87 - mazmur 88
+mazmur 89 - mazmur 90
+mazmur 91 - mazmur 92
 yesaya 19 - yesaya 20
 yesaya 19 - yesaya 20
 yesaya 19 - yesaya 20
@@ -10446,8 +10446,8 @@ yesaya 21 - yesaya 22
 yesaya 21 - yesaya 22
 yesaya 21 - yesaya 22
 yesaya 23 - yesaya 24
-mazmur 93 mazmur 94
-mazmur 95 mazmur 96
+mazmur 93 - mazmur 94
+mazmur 95 - mazmur 96
 yesaya 23 - yesaya 24
 yesaya 23 - yesaya 24
 yesaya 23 - yesaya 24
@@ -10456,9 +10456,9 @@ yesaya 9 - yesaya 24
 yesaya 23 - yesaya 24
 yesaya 23 - yesaya 24
 yesaya 23 - yesaya 24
-mazmur 97 mazmur 98
-mazmur 99 mazmur 100
-mazmur 101 mazmur 102
+mazmur 97 - mazmur 98
+mazmur 99 - mazmur 100
+mazmur 101 - mazmur 102
 yesaya 1 - yesaya 5
 yesaya 23 - yesaya 24
 yesaya 21 - yesaya 22
@@ -10515,11 +10515,11 @@ yesaya 27 - yesaya 28
 yesaya 25 - yesaya 28
 yesaya 27 - yesaya 28
 yesaya 27 - yesaya 28
-mazmur 103 mazmur 104
-mazmur 105 mazmur 106
-mazmur 107 mazmur 108
-mazmur 109 mazmur 110
-mazmur 111 mazmur 112
+mazmur 103 - mazmur 104
+mazmur 105 - mazmur 106
+mazmur 107 - mazmur 108
+mazmur 109 - mazmur 110
+mazmur 111 - mazmur 112
 yesaya 27 - yesaya 28
 yesaya 27 - yesaya 28
 yesaya 29 - yesaya 30
@@ -10583,8 +10583,8 @@ yesaya 33 - yesaya 34
 yesaya 33 - yesaya 34
 yesaya 25 - yesaya 32
 yesaya 33 - yesaya 34
-mazmur 113 mazmur 114
-mazmur 115 mazmur 116
+mazmur 113 - mazmur 114
+mazmur 115 - mazmur 116
 yesaya 33 - yesaya 34
 yesaya 31 - yesaya 32
 yesaya 33 - yesaya 34
@@ -10609,7 +10609,7 @@ yesaya 31 - yesaya 36
 yesaya 23 - yesaya 26
 yesaya 25 - yesaya 28
 kidungagung
-pengkhotbah
+pengkhotbah-kidungagung 4
 yesaya 29 - yesaya 34
 yesaya 35 - yesaya 36
 yesaya 35 - yesaya 36
@@ -10637,11 +10637,11 @@ yesaya 37 - yesaya 38
 yesaya 37 - yesaya 38
 yesaya 37 - yesaya 38
 yesaya 37 - yesaya 38
-mazmur 117 mazmur 118
-mazmur 119 mazmur 120
-mazmur 121 mazmur 122
-mazmur 123 mazmur 124
-mazmur 125 mazmur 126
+mazmur 117 - mazmur 118
+mazmur 119 - mazmur 120
+mazmur 121 - mazmur 122
+mazmur 123 - mazmur 124
+mazmur 125 - mazmur 126
 yesaya 1 - yesaya 2
 yesaya 33 - yesaya 38
 yesaya 39 - yesaya 40
@@ -10741,10 +10741,10 @@ yesaya 47 - yesaya 48
 yesaya 43 - yesaya 44
 yesaya 45 - yesaya 46
 yesaya 47 - yesaya 48
-mazmur 127 mazmur 128
-mazmur 129 mazmur 130
-mazmur 131 mazmur 132
-mazmur 133 mazmur 134
+mazmur 127 - mazmur 128
+mazmur 129 - mazmur 130
+mazmur 131 - mazmur 132
+mazmur 133 - mazmur 134
 yesaya 43 - yesaya 46
 yesaya 47 - yesaya 48
 yesaya 45 - yesaya 48
@@ -10770,10 +10770,10 @@ yesaya 49 - yesaya 50
 yesaya 49 - yesaya 50
 yesaya 39 - yesaya 44
 yesaya 49 - yesaya 50
-mazmur 134 mazmur 135
-mazmur 135 mazmur 136
-mazmur 137 mazmur 138
-mazmur 139 mazmur 140
+mazmur 134 - mazmur 135
+mazmur 135 - mazmur 136
+mazmur 137 - mazmur 138
+mazmur 139 - mazmur 140
 yesaya 49 - yesaya 50
 yesaya 46 - yesaya 50
 yesaya 49 - yesaya 50
@@ -10812,11 +10812,11 @@ yesaya 53 - yesaya 54
 yesaya 51 - yesaya 52
 yesaya 53 - yesaya 54
 yesaya 53 - yesaya 54
-mazmur 141 mazmur 142
-mazmur 143 mazmur 144
-mazmur 145 mazmur 146
-mazmur 147 mazmur 148
-mazmur 149 mazmur 150
+mazmur 141 - mazmur 142
+mazmur 143 - mazmur 144
+mazmur 145 - mazmur 146
+mazmur 147 - mazmur 148
+mazmur 149 - mazmur 150
 yesaya 51 - yesaya 54
 yesaya 53 - yesaya 54
 yesaya 53 - yesaya 54
@@ -10841,11 +10841,11 @@ yesaya 52 - yesaya 56
 yesaya 55 - yesaya 56
 yesaya 55 - yesaya 56
 yesaya 55 - yesaya 56
-amsal 1 amsal 2
-amsal 3 amsal 4
-amsal 5 amsal 6
-amsal 7 amsal 8
-amsal 9 amsal 10
+amsal 1 - amsal 2
+amsal 3 - amsal 4
+amsal 5 - amsal 6
+amsal 7 - amsal 8
+amsal 9 - amsal 10
 yesaya 55 - yesaya 56
 yesaya 55 - yesaya 56
 yesaya 55 - yesaya 56
@@ -10892,17 +10892,17 @@ yesaya 59 - yesaya 60
 yesaya 59 - yesaya 60
 yesaya 59 - yesaya 60
 yesaya 51 - yesaya 54
-amsal 11 amsal 12
-amsal 13 amsal 14
+amsal 11 - amsal 12
+amsal 13 - amsal 14
 mazmur 125 - mazmur 130
-amsal 15 amsal 16
-amsal 17 amsal 18
-amsal 19 amsal 20
+amsal 15 - amsal 16
+amsal 17 - amsal 18
+amsal 19 - amsal 20
 yesaya 55 - yesaya 60
 yesaya 53 - yesaya 60
 yesaya 59 - yesaya 60
 amsal 6 - amsal 10
-yesaya 57 - yesaya 58
+yesaya 57 - 58 59 - yesaya 57 - 58 60
 yesaya 61 - yesaya 62
 yesaya 61 - yesaya 62
 yesaya 61 - yesaya 62
@@ -10925,11 +10925,11 @@ mazmur 89 - mazmur 102
 yesaya 61 - yesaya 62
 yesaya 61 - yesaya 62
 yesaya 63 - yesaya 64
-amsal 21 amsal 22
-amsal 23 amsal 24
-amsal 25 amsal 26
-amsal 27 amsal 28
-amsal 29 amsal 30
+amsal 21 - amsal 22
+amsal 23 - amsal 24
+amsal 25 - amsal 26
+amsal 27 - amsal 28
+amsal 29 - amsal 30
 yesaya 63 - yesaya 64
 yesaya 61 - yesaya 62
 yesaya 42 - yesaya 51
@@ -10964,13 +10964,13 @@ yesaya 63 - yesaya 64
 kidungagung
 yesaya 65 - yesaya 66
 yesaya 65 - yesaya 66
-pengkhotbah 1 pengkhotbah 2
-pengkhotbah 3 pengkhotbah 4
-pengkhotbah 5 pengkhotbah 6
-pengkhotbah 7 pengkhotbah 8
+pengkhotbah 1 - pengkhotbah 2
+pengkhotbah 3 - pengkhotbah 4
+pengkhotbah 5 - pengkhotbah 6
+pengkhotbah 7 - pengkhotbah 8
 yesaya 65 - yesaya 66
 yesaya 65 - yesaya 66
-yesaya 61 - yesaya 62
+yesaya 61 - 62 63 - yesaya 61 - 62 64
 yesaya 65 - yesaya 66
 yesaya 65 - yesaya 66
 yesaya
@@ -10985,8 +10985,8 @@ yesaya 63 - yesaya 66
 yesaya 65 - yesaya 66
 mazmur 131 - mazmur 132
 yeremia 1 - yeremia 2
-pengkhotbah 9 pengkhotbah 10
-pengkhotbah 11 pengkhotbah 12
+pengkhotbah 9 - pengkhotbah 10
+pengkhotbah 11 - pengkhotbah 12
 yesaya 65 - yesaya 66
 yeremia 1 - yeremia 2
 yeremia 1 - yeremia 2
@@ -10996,8 +10996,8 @@ yeremia 1 - yeremia 2
 yesaya 61 - yesaya 66
 yeremia 1 - yeremia 2
 yeremia 1 - yeremia 2
-kidungagung kidungagung
-kidungagung kidungagung
+kidungagung 1 - kidungagung 2
+kidungagung 3 - kidungagung 4
 mazmur 133 - mazmur 136
 mazmur 97 - mazmur 98
 yesaya 65 - yesaya 66
@@ -11015,8 +11015,8 @@ yeremia 1 - yeremia 2
 yeremia 3 - yeremia 4
 yeremia 1 - yeremia 4
 yeremia 1 - yeremia 2
-kidungagung kidungagung
-kidungagung kidungagung
+kidungagung 5 - kidungagung 6
+kidungagung 7 - kidungagung 8
 yesaya 3 - yesaya 4
 yeremia 1 - yeremia 2
 yeremia 3 - yeremia 4
@@ -11048,11 +11048,11 @@ yeremia 3 - yeremia 6
 yeremia 5 - yeremia 6
 yeremia 5 - yeremia 6
 yeremia 5 - yeremia 6
-yesaya 1 yesaya 2
-yesaya 3 yesaya 4
-yesaya 5 yesaya 6
-yesaya 7 yesaya 8
-yesaya 9 yesaya 10
+yesaya 1 - yesaya 2
+yesaya 3 - yesaya 4
+yesaya 5 - yesaya 6
+yesaya 7 - yesaya 8
+yesaya 9 - yesaya 10
 yeremia 5 - yeremia 6
 yesaya 5 - yesaya 6
 yeremia 1 - yeremia 2
@@ -11090,10 +11090,10 @@ yeremia 3 - yeremia 4
 yeremia 7 - yeremia 8
 yeremia 7 - yeremia 8
 yeremia 7 - yeremia 8
-yesaya 11 yesaya 12
-yesaya 13 yesaya 14
-yesaya 15 yesaya 16
-yesaya 17 yesaya 18
+yesaya 11 - yesaya 12
+yesaya 13 - yesaya 14
+yesaya 15 - yesaya 16
+yesaya 17 - yesaya 18
 yeremia 5 - yeremia 6
 yeremia 7 - yeremia 8
 yeremia 7 - yeremia 8
@@ -11137,11 +11137,11 @@ yeremia 11 - yeremia 12
 yeremia 11 - yeremia 12
 yeremia 9 - yeremia 10
 yeremia 11 - yeremia 12
-yesaya 19 yesaya 20
-yesaya 21 yesaya 22
-yesaya 23 yesaya 24
-yesaya 25 yesaya 26
-yesaya 27 yesaya 28
+yesaya 19 - yesaya 20
+yesaya 21 - yesaya 22
+yesaya 23 - yesaya 24
+yesaya 25 - yesaya 26
+yesaya 27 - yesaya 28
 yeremia 11 - yeremia 12
 yeremia 3 - yeremia 4
 yeremia 11 - yeremia 12
@@ -11149,7 +11149,7 @@ yesaya 11 - yesaya 12
 yeremia 11 - yeremia 12
 yeremia 11 - yeremia 12
 yeremia 13 - yeremia 14
-yesaya 29 yesaya 30
+yesaya 29 - yesaya 30
 yeremia 5 - yeremia 8
 yeremia 13 - yeremia 14
 yeremia 13 - yeremia 14
@@ -11172,11 +11172,11 @@ yeremia 13 - yeremia 14
 yeremia 5 - yeremia 6
 yeremia 13 - yeremia 14
 yesaya 13 - yesaya 14
-yesaya 31 yesaya 32
-yesaya 33 yesaya 34
-yesaya 35 yesaya 36
-yesaya 37 yesaya 38
-yesaya 39 yesaya 40
+yesaya 31 - yesaya 32
+yesaya 33 - yesaya 34
+yesaya 35 - yesaya 36
+yesaya 37 - yesaya 38
+yesaya 39 - yesaya 40
 yeremia 11 - yeremia 12
 yeremia 13 - yeremia 14
 yeremia 15 - yeremia 16
@@ -11291,7 +11291,7 @@ yeremia 23 - yeremia 26
 yeremia 25 - yeremia 26
 yeremia 25 - yeremia 26
 yeremia 23 - yeremia 26
-yeremia 2324
+yeremia 23 24
 yeremia 23 - yeremia 26
 yeremia 25 - yeremia 26
 yeremia 17 - yeremia 18
@@ -11373,11 +11373,11 @@ yeremia 26 - yeremia 34
 yeremia 33 - yeremia 34
 yeremia 33 - yeremia 34
 yeremia 33 - yeremia 34
-yesaya 41 yesaya 42
-yesaya 43 yesaya 44
-yesaya 45 yesaya 46
-yesaya 47 yesaya 48
-yesaya 49 yesaya 50
+yesaya 41 - yesaya 42
+yesaya 43 - yesaya 44
+yesaya 45 - yesaya 46
+yesaya 47 - yesaya 48
+yesaya 49 - yesaya 50
 yeremia 35 - yeremia 36
 yeremia 35 - yeremia 36
 yeremia 35 - yeremia 36
@@ -11392,11 +11392,11 @@ yeremia 33 - yeremia 34
 yeremia 35 - yeremia 36
 yeremia 18 - yeremia 30
 yeremia 35 - yeremia 36
-yesaya 51 yesaya 52
-yesaya 53 yesaya 54
-yesaya 55 yesaya 56
-yesaya 57 yesaya 58
-yesaya 59 yesaya 60
+yesaya 51 - yesaya 52
+yesaya 53 - yesaya 54
+yesaya 55 - yesaya 56
+yesaya 57 - yesaya 58
+yesaya 59 - yesaya 60
 yeremia 35 - yeremia 36
 yeremia 35 - yeremia 36
 yeremia 35 - yeremia 36
@@ -11412,17 +11412,17 @@ yeremia 29 - yeremia 30
 yeremia 31 - yeremia 32
 yeremia 37 - yeremia 38
 yeremia 37 - yeremia 38
-yesaya 61 yesaya 62
-yesaya 63 yesaya 64
-yesaya 65 yesaya 66
+yesaya 61 - yesaya 62
+yesaya 63 - yesaya 64
+yesaya 65 - yesaya 66
 yeremia 37 - yeremia 38
 amsal 7 - amsal 10
 yeremia 37 - yeremia 38
 yeremia 37 - yeremia 38
 yesaya 25 - yesaya 66
-yeremia 1 yeremia 2
-yeremia 3 yeremia 4
-yeremia 5 yeremia 6
+yeremia 1 - yeremia 2
+yeremia 3 - yeremia 4
+yeremia 5 - yeremia 6
 amsal 11 - amsal 12
 yeremia 1 - yeremia 10
 yeremia 30 - yeremia 34
@@ -11444,11 +11444,11 @@ yeremia 39 - yeremia 40
 yeremia 39 - yeremia 40
 yeremia 39 - yeremia 40
 yeremia 39 - yeremia 40
-yeremia 7 yeremia 8
-yeremia 9 yeremia 10
-yeremia 11 yeremia 12
-yeremia 13 yeremia 14
-yeremia 15 yeremia 16
+yeremia 7 - yeremia 8
+yeremia 9 - yeremia 10
+yeremia 11 - yeremia 12
+yeremia 13 - yeremia 14
+yeremia 15 - yeremia 16
 yeremia 17 - yeremia 20
 yeremia 33 - yeremia 34
 yesaya 9 - yesaya 12
@@ -11465,8 +11465,8 @@ yeremia 39 - yeremia 40
 yeremia 31 - yeremia 32
 yesaya 23 - yesaya 25
 amsal
-yeremia 17 yeremia 18
-yeremia 19 yeremia 20
+yeremia 17 - yeremia 18
+yeremia 19 - yeremia 20
 yeremia 40 - yeremia 41
 yeremia 41 - yeremia 42
 yeremia 41 - yeremia 42
@@ -11481,20 +11481,20 @@ yeremia 41 - yeremia 42
 yeremia 41 - yeremia 42
 yeremia 41 - yeremia 42
 yeremia 33 - yeremia 34
-yeremia 21 yeremia 22
-yeremia 23 yeremia 24
-yeremia 25 yeremia 26
-yeremia 27 yeremia 28
-yeremia 29 yeremia 30
-yeremia 31 yeremia 32
+yeremia 21 - yeremia 22
+yeremia 23 - yeremia 24
+yeremia 25 - yeremia 26
+yeremia 27 - yeremia 28
+yeremia 29 - yeremia 30
+yeremia 31 - yeremia 32
 yeremia 35 - yeremia 36
 yeremia 41 - yeremia 42
 yeremia 41 - yeremia 42
-yeremia 33 yeremia 34
-yeremia 35 yeremia 36
-yeremia 37 yeremia 38
-yeremia 39 yeremia 40
-yeremia 41 yeremia 42
+yeremia 33 - yeremia 34
+yeremia 35 - yeremia 36
+yeremia 37 - yeremia 38
+yeremia 39 - yeremia 40
+yeremia 41 - yeremia 42
 mazmur 123 - mazmur 124
 yesaya 13 - yesaya 17
 yeremia 41 - yeremia 42
@@ -11521,7 +11521,7 @@ yeremia 37 - yeremia 42
 yeremia 41 - yeremia 42
 yeremia 43 - yeremia 44
 yeremia 43 - yeremia 44
-yeremia 43 yeremia 44
+yeremia 43 - yeremia 44
 yeremia 43 - yeremia 44
 yeremia 41 - yeremia 44
 yeremia 43 - yeremia 44
@@ -11560,7 +11560,7 @@ mazmur 57 - mazmur 62
 amsal 13 - amsal 17
 yesaya 26 - yesaya 27
 yeremia 47 - yeremia 48
-amsal 31 pengkhotbah 2
+amsal 31 - pengkhotbah 2
 yeremia 47 - yeremia 48
 yeremia 45 - yeremia 46
 yeremia 45 - yeremia 46
@@ -11664,7 +11664,7 @@ ratapan 1 - ratapan 2
 yeremia 49 - yeremia 50
 yeremia 51 - yeremia 52
 ratapan 1 - ratapan 2
-yeremia ratapan 2
+yeremia 51 - ratapan 2
 yeremia
 yeremia 47 - yeremia 48
 yeremia 49 - yeremia 50
@@ -11694,34 +11694,34 @@ ratapan 3 - ratapan 4
 kidungagung 1 - kidungagung 4
 yesaya 32 - yesaya 35
 ratapan 5
-ratapan 5 yeh 1
+ratapan 5 - yehezkiel 1
 ratapan 1 - ratapan 2
 kidungagung 5 - kidungagung 8
-ratapan yehezkiel 1
+ratapan 5 - yehezkiel 1
 ratapan 3 - ratapan 4
 yeremia 51 - yeremia 52
 ratapan 1 - ratapan 2
-ratapan 5 yehezkiel 1
+ratapan 5 - yehezkiel 1
 ratapan 1 - ratapan 5
-ratapan yehezkiel 1
-ratapan yehezkiel 1
-ratapan 5 yeh 1
-ratapan yehezkiel 1
-ratapan 5 yeh 1
-ratapan 5 yeh 1
-ratapan 5 yeh 1
+ratapan 5 - yehezkiel 1
+ratapan 3 - yehezkiel 1
+ratapan 5 - yehezkiel 1
+ratapan 5 - yehezkiel 1
+ratapan 5 - yehezkiel 1
+ratapan 5 - yehezkiel 1
+ratapan 5 - yehezkiel 1
 yeremia 51 - yeremia 52
-ratapan 5 yeh 1
+ratapan 5 - yehezkiel 1
 pengkhotbah 1 - pengkhotbah 5
-ratapan yehezkiel 1
-ratapan 5 yeh 1
+ratapan 5 - yehezkiel 1
+ratapan 5 - yehezkiel 1
 ratapan 3 - ratapan 4
 ratapan 5 - ratapan 6
 ratapan 3 - ratapan 4
 ratapan 3 - ratapan 5
-ratapan 5 yeh 1
+ratapan 5 - yehezkiel 1
 ratapan 1 - ratapan 4
-ratapan 5 yeh 1
+ratapan 5 - yehezkiel 1
 yehezkiel 2 - yehezkiel 3
 yehezkiel 2 - yehezkiel 3
 yehezkiel 2 - yehezkiel 3
@@ -11730,14 +11730,14 @@ yeremia 31 - yeremia 40
 amsal 1 - amsal 2
 yehezkiel 2 - yehezkiel 3
 yesaya 1 - yesaya 2
-ratapan 5 yeh 1
+ratapan 5 - yehezkiel 1
 yehezkiel 2 - yehezkiel 3
 yehezkiel 2 - yehezkiel 3
 yehezkiel 2 - yehezkiel 3
 yehezkiel 2 - yehezkiel 3
 yehezkiel 1 - yehezkiel 3
 yehezkiel 2 - yehezkiel 3
-ratapan yehezkiel 3
+ratapan 3 - yehezkiel 3
 yesaya 36 - yesaya 40
 yehezkiel 2 - yehezkiel 3
 yehezkiel 2 - yehezkiel 3
@@ -11747,7 +11747,7 @@ yehezkiel 4 - yehezkiel 5
 yehezkiel 4 - yehezkiel 5
 yehezkiel 4 - yehezkiel 5
 yesaya 3 - yesaya 6
-ratapan yehezkiel 1
+ratapan 5 - yehezkiel 1
 yehezkiel 4 - yehezkiel 5
 yehezkiel 4 - yehezkiel 5
 yehezkiel 2 - yehezkiel 3
@@ -11833,7 +11833,7 @@ yesaya 23 - yesaya 30
 yehezkiel 10 - yehezkiel 11
 yehezkiel 10 - yehezkiel 11
 yehezkiel 8 - yehezkiel 11
-kidungagung
+kidungagung 1 - kidungagung 8
 yehezkiel 1 - yehezkiel 4
 yehezkiel 10 - yehezkiel 11
 yehezkiel 10 - yehezkiel 11
@@ -11896,7 +11896,7 @@ yehezkiel 16 - yehezkiel 17
 yehezkiel 16 - yehezkiel 17
 yesaya 62 - yesaya 63
 yehezkiel 16 - yehezkiel 17
-yesaya yeremia 1
+yesaya-yeremia 1
 yeremia 1 - yeremia 10
 yehezkiel 16 - yehezkiel 17
 yehezkiel 14 - yehezkiel 15
@@ -11962,7 +11962,7 @@ ratapan
 yehezkiel 20 - yehezkiel 21
 yehezkiel 16 - yehezkiel 17
 yehezkiel 20 - yehezkiel 21
-kidungagung
+kidungagung 1 - kidungagung 2
 yehezkiel 16 - yehezkiel 17
 yehezkiel 1 - yehezkiel 10
 yehezkiel 18 - yehezkiel 21
@@ -11982,7 +11982,7 @@ yehezkiel 22 - yehezkiel 23
 yehezkiel 22 - yehezkiel 23
 yehezkiel 22 - yehezkiel 23
 yehezkiel 22 - yehezkiel 23
-kidungagung
+kidungagung 5 - kidungagung 6
 yehezkiel 22 - yehezkiel 23
 yehezkiel 22 - yehezkiel 23
 yesaya 30 - 40 yehezkiel 12 - 14
@@ -12110,7 +12110,7 @@ yehezkiel 1 - yehezkiel 10
 yesaya
 yehezkiel 32 - yehezkiel 33
 yeremia 38 - yeremia 41
-amsal 31 pengkhotbah 12
+amsal 31 - pengkhotbah 12
 yeremia 23 - yeremia 24
 yeremia 29 - yeremia 32
 mazmur 71 - mazmur 72
@@ -12273,26 +12273,26 @@ yehezkiel 42 - yehezkiel 47
 yehezkiel 30 - yehezkiel 47
 yeremia 36 - yeremia 37
 ratapan 1 - ratapan 4
-yehezkiel daniel 1
-yehezkiel daniel 1
-yehezkiel daniel 1
+yehezkiel 48 - daniel 1
+yehezkiel 48 - daniel 1
+yehezkiel 48 - daniel 1
 yehezkiel 36 - yehezkiel 45
 yehezkiel 32 - yehezkiel 35
-yehezkiel daniel 1
-yehezkiel daniel 1
-yehezkiel 48 dan 1
+yehezkiel 48 - daniel 1
+yehezkiel 48 - daniel 1
+yehezkiel 48 - daniel 1
 yehezkiel 42 - yehezkiel 43
 yehezkiel 44 - yehezkiel 45
 yesaya 49 - yesaya 50
-yehezkiel 48 dan 1
-yehezkiel daniel 1
+yehezkiel 48 - daniel 1
+yehezkiel 48 - daniel 1
 yehezkiel 46 - yehezkiel 47
-yehezkiel daniel 1
-yehezkiel 48 dan 1
-yehezkiel 48 dan 1
+yehezkiel 48 - daniel 1
+yehezkiel 48 - daniel 1
+yehezkiel 48 - daniel 1
 yehezkiel 37 - yehezkiel 38
 yehezkiel
-yehezkiel 48 dan 1
+yehezkiel 48 - daniel 1
 yeremia 38 - yeremia 40
 ratapan 5
 daniel 2 - daniel 3
@@ -12302,7 +12302,7 @@ daniel 1 - daniel 3
 daniel 2 - daniel 3
 daniel 2 - daniel 3
 daniel 2 - daniel 3
-yehezkiel 48 dan 1
+yehezkiel 48 - daniel 1
 yehezkiel 41 - yehezkiel 47
 daniel 2 - daniel 3
 daniel 2 - daniel 3
@@ -12338,8 +12338,8 @@ daniel 6 - daniel 7
 daniel 6 - daniel 7
 daniel 6 - daniel 7
 daniel 4 - daniel 5
-yehezkiel 48 dan 7
-yehezkiel daniel 1
+yehezkiel 48 - daniel 7
+yehezkiel 48 - daniel 1
 daniel 6 - daniel 7
 daniel 6 - daniel 7
 daniel 5 - daniel 6
@@ -12358,7 +12358,7 @@ daniel 2 - daniel 3
 daniel 8 - daniel 9
 daniel 4 - daniel 5
 daniel 8 - daniel 9
-yehezkiel 48 daniel 1
+yehezkiel 48 - daniel 1
 daniel 8 - daniel 9
 daniel 2 - daniel 3
 yehezkiel 36 - yehezkiel 39
@@ -12376,7 +12376,7 @@ yehezkiel 1 - yehezkiel 24
 daniel 8 - daniel 9
 daniel 8 - daniel 9
 daniel 8 - daniel 9
-kidungagung
+kidungagung 1 - kidungagung 8
 daniel 8 - daniel 9
 daniel 4 - daniel 9
 yesaya 65 - yesaya 66
@@ -12402,26 +12402,26 @@ yehezkiel 40 - yehezkiel 48
 daniel 10 - daniel 11
 daniel 10 - daniel 11
 daniel 10 - daniel 11
-yehezkiel daniel 5
+yehezkiel 42 - daniel 5
 yeremia 49 - yeremia 50
-daniel 12 hos 1
-daniel 12 hosea 1
-daniel hosea 1
+daniel 12 - hosea 1
+daniel 12 - hosea 1
+daniel 12 - hosea 1
 daniel 10 - daniel 11
-daniel hosea 1
-daniel 12 hos 1
+daniel 12 - hosea 1
+daniel 12 - hosea 1
 daniel 4 - daniel 12
-daniel 12 hos 1
-daniel 12 hos 1
+daniel 12 - hosea 1
+daniel 12 - hosea 1
 daniel 11 - daniel 13
 daniel 10 - daniel 11
-daniel hosea 1
-daniel 12 hos 1
-yehezkiel 43 dan 2
-daniel 12 hos 1
+daniel 12 - hosea 1
+daniel 12 - hosea 1
+yehezkiel 43 - daniel 2
+daniel 12 - hosea 1
 mazmur 78 - mazmur 79
-daniel 12 hos 1
-daniel 12 hos 1
+daniel 12 - hosea 1
+daniel 12 - hosea 1
 daniel
 yeremia
 yehezkiel 8 - yehezkiel 12
@@ -12435,13 +12435,13 @@ daniel 8 - daniel 9
 daniel 10 - daniel 11
 hosea 2 - hosea 3
 daniel 10 - daniel 11
-daniel 12 hosea 1
+daniel 12 - hosea 1
 hosea 2 - hosea 3
 yehezkiel 40 - yehezkiel 45
 hosea 2 - hosea 3
 hosea 2 - hosea 3
 daniel 10 - daniel 12
-daniel 10 hos 3
+daniel 10 - hosea 3
 yeremia 3 - yeremia 4
 daniel 6 - daniel 12
 hosea 2 - hosea 3
@@ -12483,9 +12483,9 @@ hosea 6 - hosea 7
 hosea 6 - hosea 7
 hosea 6 - hosea 7
 hosea 4 - hosea 7
-daniel hosea 1
+daniel 12 - hosea 1
 hosea 6 - hosea 7
-yesaya 46 dan 1
+yesaya 46 - daniel 1
 hosea 4 - hosea 7
 hosea 6 - hosea 7
 hosea 2 - hosea 3
@@ -12508,7 +12508,7 @@ hosea 8 - hosea 9
 hosea 8 - hosea 9
 hosea 8 - hosea 10
 hosea 8 - hosea 9
-daniel 4 hos 9
+daniel 4 - hosea 9
 daniel 2 - daniel 5
 hosea 8 - hosea 9
 hosea 3 - hosea 6
@@ -12546,11 +12546,11 @@ hosea 12 - hosea 13
 hosea 12 - hosea 13
 yeremia 19 - yeremia 20
 hosea 12 - hosea 13
-yehezkiel daniel 8
+yehezkiel-daniel 8
 yehezkiel 41 - yehezkiel 48
 hosea 8 - hosea 9
 hosea 12 - hosea 13
-kisahpararasul hosea
+hosea
 hosea 12 - hosea 13
 hosea 12 - hosea 13
 hosea 8 - hosea 13
@@ -12559,30 +12559,30 @@ hosea 10 - hosea 13
 hosea 12 - hosea 13
 hosea 12 - hosea 13
 yeremia
-hosea 14 yoel 1
+hosea 14 - yoel 1
 yoel 1
 hosea 12 - hosea 13
-hosea 14 yoel 1
-hosea 14 yoel 1
+hosea 14 - yoel 1
+hosea 14 - yoel 1
 hosea 12 - hosea 13
-hosea yoel 1
-hosea yoel 1
+hosea 14 - yoel 1
+hosea 14 - yoel 1
 hosea
-hosea 14 yoel 1
-hosea 14 yoel 1
-hosea 14 yoel 1
-hosea 14 yoel 1
-hosea 14 yoel 1
+hosea 14 - yoel 1
+hosea 14 - yoel 1
+hosea 14 - yoel 1
+hosea 14 - yoel 1
+hosea 14 - yoel 1
 hosea 11 - hosea 14
-hosea 14 yoel 1
+hosea 14 - yoel 1
 yoel 2 - yoel 3
 yoel 2 - yoel 3
-hosea yoel 1
+hosea 14 - yoel 1
 yoel 2 - yoel 3
-hosea 4 yoel 1
+hosea 4 - yoel 1
 yeremia 23 - yeremia 24
 yoel 2 - yoel 3
-hosea yoel 3
+hosea 14 - yoel 3
 yoel 2 - yoel 3
 yoel
 yoel 2 - yoel 3
@@ -12592,14 +12592,14 @@ yoel 2 - yoel 3
 yoel 2 - yoel 3
 hosea
 hosea 11 - hosea 12
-daniel 6 hos 1
-hosea 14 yoel 3
-daniel yoel 3
+daniel 6 - hosea 1
+hosea 14 - yoel 3
+daniel 2 - yoel 3
 mazmur 80 - mazmur 85
 yoel 2 - yoel 3
-hosea 14 yoel 3
+hosea 14 - yoel 3
 yehezkiel 13 - yehezkiel 18
-yesaya yeremia 23
+yesaya 6 - yeremia 23
 amos 1 - amos 2
 amos 1 - amos 2
 yeremia 27 - yeremia 28
@@ -12611,7 +12611,7 @@ amos 1 - amos 2
 amos 1 - amos 2
 hosea 10 - hosea 11
 hosea 12 - hosea 13
-hosea 14 yoel 1
+hosea 14 - yoel 1
 yoel 2 - yoel 3
 amos 1 - amos 2
 amos 1 - amos 2
@@ -12636,7 +12636,7 @@ amos 3 - amos 5
 mazmur 86 - mazmur 91
 amos 1 - amos 5
 hosea 10 - hosea 13
-hosea 14 yoel 1
+hosea 14 - yoel 1
 yoel 2 - yoel 3
 amos 1 - amos 5
 amos 3 - amos 5
@@ -12667,7 +12667,7 @@ amos 6 - amos 7
 amos 5 - amos 7
 amos 6 - amos 7
 amos 6 - amos 7
-yoel 3 amos 3
+yoel 3 - amos 3
 yehezkiel 1 - yehezkiel 12
 ratapan
 yehezkiel 1 - yehezkiel 10
@@ -12691,36 +12691,36 @@ amos 4 - amos 6
 yehezkiel 11 - yehezkiel 20
 amos 6 - amos 9
 amos 8 - amos 9
-obaja 1 yunus 1
+obaja 1 - yunus 1
 amos 1 - amos 9
 amos 8 - amos 9
 obaja 1
 amos
-obaja yunus 1
-obaja 1
-obaja yunus 1
-obaja yunus 1
+obaja-yunus 1
+obaja-yunus 1
+obaja-yunus 1
+obaja-yunus 1
 yehezkiel 13 - yehezkiel 18
-obaja 1 yunus 1
+obaja 1 - yunus 1
 amos 1 - amos 9
-obaja yunus 1
-obaja yunus 1
+obaja-yunus 1
+obaja-yunus 1
 amos 6 - amos 9
 yeremia 43 - yeremia 44
 obaja
-obaja 1 yunus 1
+obaja 1 - yunus 1
 yehezkiel 19 - yehezkiel 22
 yehezkiel 21 - yehezkiel 30
 yehezkiel 4 - yehezkiel 5
 yunus 2 - yunus 3
 amos 8 - amos 9
-yehezkiel 23
+yehezkiel 23 26
 yunus 2 - yunus 3
 yunus 2 - yunus 3
 yunus 2 - yunus 3
 amos 8 - amos 9
 yunus 2 - yunus 3
-obaja 1
+obaja-yunus 1
 yunus 2 - yunus 3
 yunus 2 - yunus 3
 mazmur 92 - mazmur 97
@@ -12730,7 +12730,7 @@ yunus 1 - yunus 3
 yunus 2 - yunus 3
 hosea
 hosea 2 - hosea 5
-obaja 1 yun 1
+obaja 1 - yunus 1
 daniel 9 - daniel 12
 yeremia 47 - yeremia 48
 yunus 2 - yunus 3
@@ -12740,27 +12740,27 @@ yehezkiel 19 - yehezkiel 20
 yunus 2 - yunus 3
 yehezkiel 31 - yehezkiel 40
 hosea 6 - hosea 13
-yunus 4 mikha 1
+yunus 4 - mikha 1
 yunus
-yunus mikha 1
+yunus 4 - mikha 1
 yehezkiel 27 - yehezkiel 30
 yunus
 yunus
-yunus 4 mikha 1
-yunus mikha 1
+yunus 4 - mikha 1
+yunus 4 - mikha 1
 mikha 1 - mikha 2
-yunus 4 mikha 1
+yunus 4 - mikha 1
 yehezkiel 33 - yehezkiel 35
-yunus 4 mikha 1
-yunus 4 mikha 1
+yunus 4 - mikha 1
+yunus 4 - mikha 1
 yunus 2 - yunus 3
-obaja mikha 1
-yunus 4 mikha 1
+obaja-mikha 1
+yunus 4 - mikha 1
 yoel
-yunus 4 mikha 1
-yunus mikha 1
+yunus 4 - mikha 1
+yunus 4 - mikha 1
 yehezkiel 41 - yehezkiel 48
-obaja mikha 1
+obaja-mikha 1
 mikha 2 - mikha 3
 mikha 2 - mikha 3
 mikha 2 - mikha 3
@@ -12779,19 +12779,19 @@ mikha 1 - mikha 3
 mikha 2 - mikha 3
 mikha 2 - mikha 3
 mikha 2 - mikha 3
-obaja 1 yunus 1
+obaja 1 - yunus 1
 yunus 2 - yunus 3
-yunus 4 mikha 1
-yunus mikha 1
+yunus 4 - mikha 1
+yunus 4 - mikha 1
 mikha 2 - mikha 3
 yeremia 30 - yeremia 47
 hosea 1 - hosea 14
 mikha 4 - mikha 5
 mikha 4 - mikha 5
-amos mikha 5
+amos 8 - mikha 5
 yeremia 51 - yeremia 52
 amos 6 - amos 9
-yunus 4 mikha 1
+yunus 4 - mikha 1
 mikha 2 - mikha 3
 mikha 4 - mikha 5
 mikha 4 - mikha 5
@@ -12810,7 +12810,7 @@ mikha 4 - mikha 5
 yunus
 mikha 4 - mikha 5
 yehezkiel 35 - yehezkiel 40
-mikha
+mikha 6 - mikha 7
 mikha 4 - mikha 5
 obaja
 mikha 6 - mikha 7
@@ -12855,8 +12855,8 @@ mikha 4 - mikha 5
 nahum 1 - nahum 2
 nahum 1 - nahum 2
 mikha 6 - mikha 7
-mikha nahum 2
-mikha 6 nahum 2
+mikha 4 - nahum 2
+mikha 6 - nahum 2
 mikha 6 - mikha 7
 nahum 1 - nahum 3
 yehezkiel 31 - yehezkiel 36
@@ -12869,40 +12869,40 @@ mikha 1 - mikha 5
 yehezkiel 46 - yehezkiel 48
 daniel 1 - daniel 3
 mikha
-nahum 3 habakuk 1
-nahum 3 habakuk 1
+nahum 3 - habakuk 1
+nahum 3 - habakuk 1
 mikha 6 - mikha 7
-nahum habakuk 1
+nahum 3 - habakuk 1
 nahum 3
-nahum habakuk 1
+nahum 3 - habakuk 1
 yehezkiel 11 - yehezkiel 20
 yoel 1 - yoel 3
 amos 1 - amos 2
-nahum 3 habakuk 1
+nahum 3 - habakuk 1
 nahum
-nahum habakuk 1
+nahum 3 - habakuk 1
 habakuk 1 - habakuk 2
-mikha 6 habakuk 1
-nahum 1 - 3 habakuk 1
-nahum 3 habakuk 1
-nahum 3 habakuk 1
-nahum 3 habakuk 1
-nahum habakuk 1
-nahum habakuk 1
-nahum 3 habakuk 1
+mikha 6 - habakuk 1
+nahum 1 - 3-habakuk 1
+nahum 3 - habakuk 1
+nahum 3 - habakuk 1
+nahum 3 - habakuk 1
+nahum 3 - habakuk 1
+nahum 3 - habakuk 1
+nahum 3 - habakuk 1
 nahum 1 - nahum 2
 yehezkiel 6 - yehezkiel 7
 habakuk 1 - habakuk 3
-nahum 3 habakuk 1
+nahum 3 - habakuk 1
 nahum
 habakuk 2 - habakuk 3
 daniel 4 - daniel 8
 habakuk 2 - habakuk 3
-nahum habakuk 3
+nahum 3 - habakuk 3
 nahum 1 - nahum 2
-nahum habakuk 1
+nahum 3 - habakuk 1
 habakuk
-nahum habakuk 1
+nahum 3 - habakuk 1
 yehezkiel 21 - yehezkiel 30
 habakuk 2 - habakuk 3
 habakuk 2 - habakuk 3
@@ -12928,7 +12928,7 @@ habakuk 2 - habakuk 3
 zefanya 1 - zefanya 2
 zefanya 1 - zefanya 2
 daniel 9 - daniel 12
-mikha 6 habakuk 3
+mikha 6 - habakuk 3
 habakuk 2 - habakuk 3
 zefanya 1 - zefanya 2
 zefanya 1 - zefanya 2
@@ -12945,7 +12945,7 @@ zefanya 1 - zefanya 2
 zefanya 1 - zefanya 2
 zefanya 1 - zefanya 2
 hosea 1 - hosea 4
-nahum habakuk 3
+nahum 3 - habakuk 3
 zefanya 1 - zefanya 2
 mazmur 98 - mazmur 108
 habakuk
@@ -12955,49 +12955,49 @@ daniel
 zefanya 1 - zefanya 2
 zefanya 1 - zefanya 2
 amos 1 - amos 9
-zefanya 3 hagai 1
+zefanya 3 - hagai 1
 yehezkiel 14 - yehezkiel 15
-zefanya hagai 1
+zefanya 3 - hagai 1
 zefanya 3
-zefanya 3 hagai 1
+zefanya 3 - hagai 1
 yesaya 49 - yesaya 52
 zefanya 1 - zefanya 2
 zefanya 1 - zefanya 3
 zefanya 1 - zefanya 2
-zefanya 3 hagai 1
-zefanya 3 hagai 1
+zefanya 3 - hagai 1
+zefanya 3 - hagai 1
 obaja
 zefanya 3
-zefanya hagai 1
-zefanya hagai 1
-zefanya 3 hagai 1
+zefanya 3 - hagai 1
+zefanya 3 - hagai 1
+zefanya 3 - hagai 1
 zefanya 3
 hosea 5 - hosea 8
-amos
+amos-obaja
 zefanya 1 - zefanya 2
-zefanya 3 hagai 1
-zefanya 3 hagai 1
+zefanya 3 - hagai 1
+zefanya 3 - hagai 1
 yehezkiel 1 - yehezkiel 20
-hagai 2 zakharia 1
-zefanya hagai zakharia 1
+hagai 2 - zakharia 1
+zefanya 3 - hagai-zakharia 1
 yesaya 53 - yesaya 56
-hagai 2 zakharia 1
+hagai 2 - zakharia 1
 zefanya
-hagai zakharia 1
+hagai 2 - zakharia 1
 zakharia 1
-zefanya hagai 1
+zefanya 3 - hagai 1
 hagai
 hagai 1 - hagai 2
-hagai 2 zakharia 1
-hagai 2 zakharia 1
-hagai 2 za 1
+hagai 2 - zakharia 1
+hagai 2 - zakharia 1
+hagai 2 - zakharia 1
 zefanya
-hagai 2 zakharia 1
+hagai 2 - zakharia 1
 zefanya 3
 hagai 1 - hagai 2
-hagai 2 zakharia 1
+hagai 2 - zakharia 1
 hagai
-hagai 2 zakharia 1
+hagai 2 - zakharia 1
 obaja yunus
 yehezkiel
 daniel 1 - daniel 8
@@ -13007,12 +13007,12 @@ zakharia 2 - zakharia 3
 zakharia 2 - zakharia 3
 yesaya 57 - yesaya 58
 zakharia 2 - zakharia 3
-hagai 2 zakharia 1
+hagai 2 - zakharia 1
 zakharia 2 - zakharia 3
-hagai 2 zakharia 1
+hagai 2 - zakharia 1
 zakharia 2 - zakharia 3
 zakharia 2 - zakharia 3
-zefanya hagai
+zefanya-hagai
 zakharia 1 - zakharia 3
 zakharia 1 - zakharia 3
 zakharia 2 - zakharia 3
@@ -13021,8 +13021,8 @@ daniel
 yehezkiel 31 - yehezkiel 48
 zakharia 2 - zakharia 3
 zakharia 2 - zakharia 3
-zefanya 3 hagai 2
-hagai zakharia 1
+zefanya 3 - hagai 2
+hagai 2 - zakharia 1
 zakharia 2 - zakharia 3
 yunus
 zakharia 2 - zakharia 3
@@ -13031,7 +13031,7 @@ zakharia 2 - zakharia 3
 zakharia 1 - zakharia 3
 zakharia 4 - zakharia 5
 zakharia 4 - zakharia 5
-hagai zakharia 3
+hagai 2 - zakharia 3
 zakharia 4 - zakharia 5
 zakharia 4 - zakharia 5
 mikha
@@ -13049,16 +13049,16 @@ zakharia 4 - zakharia 5
 zakharia 4 - zakharia 7
 hosea
 zakharia 4 - zakharia 5
-hagai zakharia 1
+hagai 2 - zakharia 1
 zakharia 4 - zakharia 5
-zefanya 3 hagai 1
+zefanya 3 - hagai 1
 zakharia 6 - zakharia 7
 zakharia 6 - zakharia 7
 zakharia 6 - zakharia 7
 zakharia 6 - zakharia 7
 zakharia 4 - zakharia 5
 zakharia 6 - zakharia 7
-hagai zakharia 1
+hagai 2 - zakharia 1
 daniel 1 - daniel 12
 zakharia 6 - zakharia 7
 yesaya 59 - yesaya 62
@@ -13075,16 +13075,16 @@ zakharia 8 - zakharia 9
 zakharia 8 - zakharia 9
 zakharia 8 - zakharia 9
 zakharia 8 - zakharia 9
-nahum
+nahum-habakuk
 yehezkiel 41 - yehezkiel 48
-hagai zakharia 1
+hagai 2 - zakharia 1
 zakharia 6 - zakharia 9
 mikha
 zakharia 8 - zakharia 9
 zakharia 8 - zakharia 9
 zakharia 4 - zakharia 5
 zakharia 8 - zakharia 9
-habakuk 3 za 7
+habakuk 3 - zakharia 7
 hosea 1 - hosea 6
 zakharia 8 - zakharia 9
 zakharia 2 - zakharia 3
@@ -13177,7 +13177,7 @@ maleakhi 1 - maleakhi 2
 zakharia 8 - zakharia 11
 maleakhi 1 - maleakhi 2
 zakharia 12 - zakharia 14
-daniel 2 zefanya 3
+daniel 2 - zefanya 3
 maleakhi 1 - maleakhi 2
 zakharia 9 - zakharia 11
 maleakhi 1 - maleakhi 2
@@ -13185,7 +13185,7 @@ maleakhi 1 - maleakhi 2
 maleakhi 1 - maleakhi 2
 maleakhi 1 - maleakhi 2
 maleakhi 1 - maleakhi 2
-zakharia maleakhi 2
+zakharia 8 - maleakhi 2
 zakharia
 zakharia 1 - zakharia 8
 maleakhi 3 - maleakhi 4
@@ -13267,9 +13267,9 @@ matius 3 - matius 4
 hagai 1 - hagai 2
 matius 3 - matius 4
 matius 3 - matius 4
-hagai maleakhi 3
+hagai-maleakhi 3
 zakharia
-zakharia 14 mal 1
+zakharia 14 - maleakhi 1
 matius 3 - matius 4
 matius 3 - matius 4
 matius 1 - matius 4
@@ -13380,7 +13380,7 @@ matius 11 - matius 12
 matius 11 - matius 12
 matius 11 - matius 12
 matius 11 - matius 12
-amos yunus 4
+amos-yunus 4
 matius 11 - matius 12
 matius 11 - matius 12
 matius 11 - matius 12
@@ -13410,7 +13410,7 @@ zakharia 4 - zakharia 7
 matius 13 - matius 14
 yehezkiel 20 - yehezkiel 33
 matius 13 - matius 14
-pengkhotbah 12 kid 5
+pengkhotbah 12 - kidungagung 5
 matius 13 - matius 14
 matius 13 - matius 14
 matius 13 - matius 14
@@ -13453,7 +13453,7 @@ matius 17 - matius 18
 matius 17 - matius 18
 matius 17 - matius 18
 matius 17 - matius 18
-obaja 3
+obaja-habakuk 3
 matius 17 - matius 18
 matius 17 - matius 18
 matius 17 - matius 18
@@ -13561,7 +13561,7 @@ matius 25 - matius 26
 matius 25 - matius 26
 matius 25 - matius 26
 matius 19 - matius 20
-kisahpararasul matius
+matius
 matius
 matius 21 - matius 22
 matius 23 - matius 24
@@ -13616,7 +13616,7 @@ matius 25 - matius 26
 markus 1 - markus 2
 markus 3 - markus 4
 markus 3 - markus 4
-matius 27 markus 2
+matius 27 - markus 2
 markus 1 - markus 2
 markus 3 - markus 4
 markus 3 - markus 4
@@ -13640,7 +13640,7 @@ yesaya 19 - yesaya 20
 markus 1 - markus 4
 matius 9 - matius 28
 markus 3 - markus 4
-matius 27 mrk 1
+matius 27 - markus 1
 markus 5 - markus 6
 markus 5 - markus 6
 markus 5 - markus 6
@@ -13701,7 +13701,7 @@ markus 9 - markus 10
 markus 9 - markus 10
 markus 9 - markus 10
 markus 10
-hosea yoel 3
+hosea 11 - yoel 3
 markus 1 - markus 2
 markus 9 - markus 10
 zakharia 1 - zakharia 8
@@ -13794,18 +13794,18 @@ markus 15 - markus 16
 lukas 1 - lukas 2
 lukas 1 - lukas 2
 amos
-habakuk zakharia 2
+habakuk 3 - zakharia 2
 lukas 1 - lukas 2
 lukas 1 - lukas 2
 lukas 1 - lukas 2
 lukas 1 - lukas 2
 lukas 1 - lukas 2
 hagai
-markus lukas 2
+markus 15 - lukas 2
 markus 13 - markus 14
 lukas 1 - lukas 2
 hosea 1 - hosea 3
-markus 15 lukas 2
+markus 15 - lukas 2
 lukas 1 - lukas 2
 lukas 3 - lukas 4
 lukas 1 - lukas 2
@@ -13859,7 +13859,7 @@ lukas 3 - lukas 8
 markus 3 - markus 16
 matius 23 - matius 28
 lukas 5 - lukas 8
-markus 15 luk 4
+markus 15 - lukas 4
 lukas 5 - lukas 6
 lukas 7 - lukas 8
 lukas 9 - lukas 10
@@ -13979,7 +13979,7 @@ lukas 15 - lukas 16
 lukas 17 - lukas 18
 lukas 17 - lukas 18
 lukas 19 - lukas 20
-obaja 2
+obaja-yunus 2
 markus
 lukas 19 - lukas 20
 lukas 19 - lukas 20
@@ -14098,7 +14098,7 @@ yohanes 5 - yohanes 6
 lukas 9 - lukas 10
 yohanes 5 - yohanes 6
 yohanes 5 - yohanes 6
-lukas 11 yoh 6
+lukas 11 - yohanes 6
 yohanes 5 - yohanes 6
 yohanes 5 - yohanes 6
 yohanes 1 - yohanes 4
@@ -14169,9 +14169,9 @@ yohanes 11 - yohanes 12
 yohanes 11 - yohanes 12
 yohanes 9 - yohanes 12
 yohanes 11 - yohanes 12
-lukas 23 yoh 2
+lukas 23 - yohanes 2
 lukas 9 - lukas 10
-yunus 2 habakuk
+yunus 2 - yunus habakuk
 yohanes 11 - yohanes 12
 lukas 11 - lukas 12
 yohanes 11 - yohanes 12
@@ -14276,41 +14276,41 @@ yohanes 14 - yohanes 16
 yohanes 19 - yohanes 20
 yohanes 13 - yohanes 11
 yohanes 13 - yohanes 15
-yohanes kisahpararasul 1
-yohanes kisahpararasul
+yohanes 21 - kisahpararasul 1
+yohanes 21 - kisahpararasul 1
 yohanes 21
-yohanes kisahpararasul 1
+yohanes 21 - kisahpararasul 1
 yohanes
 kisahpararasul 1
-yohanes kisahpararasul 1
+yohanes 21 - kisahpararasul 1
 yohanes 1 - yohanes 20
-yohanes kisahpararasul 1
-yohanes 21 kis 1
-yohanes kisahpararasul 1
-yohanes kisahpararasul 1
-yohanes 19 kis 1
+yohanes 21 - kisahpararasul 1
+yohanes 21 - kisahpararasul 1
+yohanes 21 - kisahpararasul 1
+yohanes 21 - kisahpararasul 1
+yohanes 19 - kisahpararasul 1
 yohanes 17 - yohanes 18
-yohanes kisahpararasul 1
-yohanes kisahpararasul 1
+yohanes 21 - kisahpararasul 1
+yohanes 21 - kisahpararasul 1
 yohanes 16 - yohanes 18
 yohanes 17 - yohanes 20
-yohanes kisahpararasul 1
+yohanes 21 - kisahpararasul 1
 kisahpararasul 2 - kisahpararasul 3
-yohanes kisahpararasul 1
+yohanes 21 - kisahpararasul 1
 kisahpararasul 2 - kisahpararasul 3
-kisahpararasul
-kisahpararasul 2 - kisahpararasul 3
-lukas 21 - lukas 24
 kisahpararasul 2 - kisahpararasul 3
 kisahpararasul 2 - kisahpararasul 3
 lukas 21 - lukas 24
 kisahpararasul 2 - kisahpararasul 3
 kisahpararasul 2 - kisahpararasul 3
-yohanes 21 kis 3
-yohanes kisahpararasul 3
+lukas 21 - lukas 24
+kisahpararasul 2 - kisahpararasul 3
+kisahpararasul 2 - kisahpararasul 3
+yohanes 21 - kisahpararasul 3
+yohanes 21 - kisahpararasul 3
 yohanes 9
-yohanes kisahpararasul 3
-yohanes kisahpararasul 1
+yohanes 21 - kisahpararasul 3
+yohanes 21 - kisahpararasul 1
 kisahpararasul 2 - kisahpararasul 3
 yohanes 19 - yohanes 20
 kisahpararasul 2 - kisahpararasul 3
@@ -14319,7 +14319,7 @@ nahum habakuk
 kisahpararasul 4 - kisahpararasul 5
 kisahpararasul 2 - kisahpararasul 5
 kisahpararasul 4 - kisahpararasul 5
-kisahpararasul
+kisahpararasul 4 - kisahpararasul 5
 kisahpararasul 2 - kisahpararasul 3
 kisahpararasul 4 - kisahpararasul 5
 kisahpararasul 4 - kisahpararasul 5
@@ -14328,42 +14328,42 @@ kisahpararasul 4 - kisahpararasul 5
 kisahpararasul 2 - kisahpararasul 5
 kisahpararasul 2 - kisahpararasul 5
 kisahpararasul 2 - kisahpararasul 3
-habakuk zakharia 9
+habakuk 3 - zakharia 9
 kisahpararasul 4 - kisahpararasul 5
 kisahpararasul 4 - kisahpararasul 5
 kisahpararasul 2 - kisahpararasul 5
 yesaya 41 - yesaya 44
 yohanes 21
 kisahpararasul 4 - kisahpararasul 5
-yohanes 19 kis 1
+yohanes 19 - kisahpararasul 1
 kisahpararasul 4 - kisahpararasul 5
 kisahpararasul 6 - kisahpararasul 7
 kisahpararasul 6 - kisahpararasul 7
-kisahpararasul
+kisahpararasul 6 - kisahpararasul 7
 kisahpararasul 6 - kisahpararasul 7
 yohanes 1 - yohanes 8
 kisahpararasul 6 - kisahpararasul 7
 kisahpararasul 4 - kisahpararasul 5
 kisahpararasul 4 - kisahpararasul 7
 kisahpararasul 6 - kisahpararasul 7
-yohanes 21 kis
+yohanes 21 - kisahpararasul 1
 kisahpararasul 6 - kisahpararasul 7
 kisahpararasul 6 - kisahpararasul 7
-kisahpararasul
+kisahpararasul 2 - kisahpararasul 3
 kisahpararasul 6 - kisahpararasul 7
-kisahpararasul
+kisahpararasul 4 - kisahpararasul 5
 kisahpararasul 6 - kisahpararasul 7
 kisahpararasul 6 - kisahpararasul 7
 kisahpararasul 6 - kisahpararasul 7
 kisahpararasul 4 - kisahpararasul 7
-kisahpararasul 6 - kisahpararasul 7
+kisahpararasul 6 - 7 0
 yesaya 45 - yesaya 48
 zefanya
 lukas 1 - lukas 15
 kisahpararasul 6 - kisahpararasul 7
 lukas 9 - lukas 16
 kisahpararasul 6 - kisahpararasul 7
-yohanes 21 kis 3
+yohanes 21 - kisahpararasul 3
 kisahpararasul 6 - kisahpararasul 7
 kisahpararasul 2 - kisahpararasul 5
 kisahpararasul 8 - kisahpararasul 9
@@ -14389,7 +14389,7 @@ kisahpararasul 8 - kisahpararasul 9
 yesaya 53 - yesaya 56
 kisahpararasul 10 - kisahpararasul 11
 kisahpararasul 10 - kisahpararasul 11
-kisahpararasul
+kisahpararasul 10 - kisahpararasul 11
 kisahpararasul 10 - kisahpararasul 11
 kisahpararasul 10 - kisahpararasul 11
 kisahpararasul 10 - kisahpararasul 11
@@ -14410,15 +14410,15 @@ yohanes 13 - yohanes 21
 kisahpararasul 12 - kisahpararasul 13
 zakharia 1 - zakharia 5
 kisahpararasul 12 - kisahpararasul 13
-kisahpararasul
+kisahpararasul 12 - kisahpararasul 13
 kisahpararasul 8 - kisahpararasul 13
 kisahpararasul 12 - kisahpararasul 13
 kisahpararasul 12 - kisahpararasul 13
-kisahpararasul
+kisahpararasul 6 - kisahpararasul 7
 kisahpararasul 12 - kisahpararasul 13
 kisahpararasul 12 - kisahpararasul 13
-kisahpararasul
-kisahpararasul
+kisahpararasul 8 - kisahpararasul 9
+kisahpararasul 10 - kisahpararasul 11
 kisahpararasul 10 - kisahpararasul 11
 kisahpararasul 12 - kisahpararasul 13
 kisahpararasul 12 - kisahpararasul 13
@@ -14437,11 +14437,11 @@ kisahpararasul 14 - kisahpararasul 15
 kisahpararasul 14 - kisahpararasul 15
 kisahpararasul 14 - kisahpararasul 15
 kisahpararasul 14 - kisahpararasul 15
-kisahpararasul
+kisahpararasul 12 - kisahpararasul 13
 kisahpararasul 14 - kisahpararasul 15
 yohanes 1 - yohanes 11
 kisahpararasul 14 - kisahpararasul 15
-kisahpararasul
+kisahpararasul 14 - kisahpararasul 15
 kisahpararasul 8 - kisahpararasul 15
 kisahpararasul 14 - kisahpararasul 15
 kisahpararasul 14 - kisahpararasul 15
@@ -14472,7 +14472,7 @@ kisahpararasul 18 - kisahpararasul 19
 kisahpararasul 18 - kisahpararasul 19
 kisahpararasul 18 - kisahpararasul 19
 kisahpararasul 18 - kisahpararasul 19
-kisahpararasul
+kisahpararasul 18 - kisahpararasul 19
 kisahpararasul 18 - kisahpararasul 19
 kisahpararasul 18 - kisahpararasul 19
 kisahpararasul 18 - kisahpararasul 19
@@ -14502,7 +14502,7 @@ kisahpararasul 18 - kisahpararasul 21
 kisahpararasul 14 - kisahpararasul 15
 kisahpararasul 20 - kisahpararasul 21
 kisahpararasul 20 - kisahpararasul 21
-kisahpararasul
+kisahpararasul 22 - kisahpararasul 23
 kisahpararasul 22 - kisahpararasul 23
 kisahpararasul 22 - kisahpararasul 23
 kisahpararasul 22 - kisahpararasul 23
@@ -14522,7 +14522,7 @@ kisahpararasul 20 - kisahpararasul 23
 kisahpararasul 10 - kisahpararasul 13
 kisahpararasul 22 - kisahpararasul 23
 maleakhi
-zakharia matius 2
+zakharia 9 - matius 2
 yohanes 9 - yohanes 12
 kisahpararasul 24 - kisahpararasul 25
 kisahpararasul 20 - kisahpararasul 23
@@ -14540,11 +14540,11 @@ kisahpararasul 14 - kisahpararasul 25
 kisahpararasul 18 - kisahpararasul 25
 kisahpararasul 24 - kisahpararasul 25
 kisahpararasul 24 - kisahpararasul 25
-kisahpararasul
+kisahpararasul 16 - kisahpararasul 17
 kisahpararasul 24 - kisahpararasul 25
-kisahpararasul
-kisahpararasul
-kisahpararasul
+kisahpararasul 18 - kisahpararasul 19
+kisahpararasul 20 - kisahpararasul 21
+kisahpararasul 22 - kisahpararasul 23
 kisahpararasul 24 - kisahpararasul 25
 yohanes
 kisahpararasul 1 - kisahpararasul 10
@@ -14577,31 +14577,31 @@ kisahpararasul 26 - kisahpararasul 27
 kisahpararasul 26 - kisahpararasul 27
 kisahpararasul 26 - kisahpararasul 27
 kisahpararasul 26 - kisahpararasul 27
-kisahpararasul 28 roma 1
-kisahpararasul 28
+kisahpararasul 28 - roma 1
+kisahpararasul 28 - roma 1
 roma 1
-kisahpararasul 28
+kisahpararasul 28 - roma 1
 kisahpararasul 20 - kisahpararasul 21
-kisahpararasul roma 1
+kisahpararasul 28 - roma 1
 kisahpararasul 26 - kisahpararasul 27
-kisahpararasul
+kisahpararasul 24 - kisahpararasul 25
 kisahpararasul 21 - kisahpararasul 23
-kisahpararasul
-kisahpararasul 28 roma 1
-kisahpararasul roma 1
-kisahpararasul roma 1
-kisahpararasul 24 roma 1
-kisahpararasul 28
-kisahpararasul 29 roma 1
-kisahpararasul 28
 kisahpararasul 26 - kisahpararasul 27
-kisahpararasul roma 1
-kisahpararasul 28 roma 1
-kisahpararasul 28 roma 1
+kisahpararasul 28 - roma 1
+kisahpararasul 28 - roma 1
+kisahpararasul 28 - roma 1
+kisahpararasul 24 - roma 1
+kisahpararasul 28 - roma 1
+kisahpararasul 29 - roma 1
+kisahpararasul 28 - roma 1
+kisahpararasul 26 - kisahpararasul 27
+kisahpararasul 28 - roma 1
+kisahpararasul 28 - roma 1
+kisahpararasul 28 - roma 1
 kisahpararasul 22 - kisahpararasul 25
-kisahpararasul 26 roma 1
+kisahpararasul 26 - roma 1
 kisahpararasul
-kisahpararasul 28 roma 1
+kisahpararasul 28 - roma 1
 kisahpararasul 24 - kisahpararasul 25
 roma 2 - roma 3
 roma 1 - roma 2
@@ -14613,12 +14613,12 @@ roma 2 - roma 3
 roma 2 - roma 3
 kisahpararasul 22 - kisahpararasul 25
 roma 2 - roma 3
-kisahpararasul 28 roma 1
+kisahpararasul 28 - roma 1
 roma 2 - roma 3
 roma 2 - roma 3
 roma 2 - roma 3
 roma 2 - roma 3
-kisahpararasul roma 3
+kisahpararasul-roma 3
 roma 2 - roma 3
 roma 2 - roma 3
 roma 2 - roma 3
@@ -14626,13 +14626,13 @@ yohanes 5 - yohanes 6
 kisahpararasul 15 - kisahpararasul 18
 roma 2 - roma 3
 kisahpararasul
-yesaya 63 yer 2
+yesaya 63 - yeremia 2
 roma 2 - roma 3
 roma 4 - roma 5
 roma 4 - roma 5
 roma 4 - roma 5
 roma 4 - roma 5
-kisahpararasul 28 roma 1
+kisahpararasul 28 - roma 1
 roma 4 - roma 5
 roma 4 - roma 5
 roma 4 - roma 5
@@ -14640,7 +14640,7 @@ roma 4 - roma 5
 roma 2 - roma 3
 roma 4 - roma 5
 roma 4 - roma 5
-zakharia markus 5
+zakharia 8 - markus 5
 kisahpararasul 26 - kisahpararasul 28
 roma 4 - roma 5
 roma 4 - roma 5
@@ -14737,8 +14737,8 @@ roma 12 - roma 13
 kisahpararasul 1 - kisahpararasul 4
 roma 12 - roma 13
 roma 11 - roma 13
-markus 9 lukas 1
-yohanes kisahpararasul 8
+markus 9 - lukas 1
+yohanes 10 - kisahpararasul 8
 roma 13 - roma 15
 roma 12 - roma 13
 roma 10 - roma 13
@@ -14762,33 +14762,33 @@ roma 14 - roma 15
 roma 14 - roma 15
 roma 14 - roma 15
 roma 8 - roma 9
-roma 16 - roma 1
-roma 16 - roma 1
-roma 16 - roma 1
-roma 16 - roma 1
+roma 16 - 1korintus 1
+roma 16 - 1korintus 1
+roma 16 - 1korintus 1
+roma 16 - roma 1korintus
 roma 2 - roma 15
-roma 16 - roma 1
-roma 16 - roma 1
+roma 16 - 1korintus 1
+roma 16 - 1korintus 1
 roma 14 - roma 15
-roma 16 - roma 1
-roma 16 - roma 1
-matius matius 6
-roma 16 - roma 1
-roma 16 - roma 1
+roma 16 - 1korintus 1
+roma 16 - 1korintus 1
+matius 2 - matius 6
+roma 16 - roma 1korintus
+roma 16 - 1korintus 1
 kisahpararasul 11 - kisahpararasul 16
-rut 16 - rut 1
+rut 16 - 1korintus 1
 roma
 roma 14 - roma 15
-roma 16 dan 1
-roma 16 - roma 1
+roma 16 daniel 1korintus 1
+roma 16 - 1korintus 1
 roma 9 - roma 11
-roma 14 - roma 1
+roma 14 - 1korintus 1
 lukas 1 - lukas 2
-roma 14 - roma 1
+roma 14 - 1korintus 1
 yohanes 10 - yohanes 18
-roma 16 - roma 1
+roma 16 - 1korintus 1
 1korintus 2 - 1korintus 3
-yeremia 13 - 18 roma 16 - 1
+yeremia 13 - 18 roma 16 - 1korintus 1
 1korintus 2 - 1korintus 3
 1korintus 2 - 1korintus 3
 1korintus 2 - 1korintus 3
@@ -14806,13 +14806,13 @@ lukas 3 - lukas 4
 yohanes
 roma 12 - roma 14
 1korintus 2 - 1korintus 3
-roma 16 - roma 1
-roma 16 - roma 1
+roma 16 - 1korintus 3
+roma 16 - 1korintus 3
 roma 15 - roma 16
 1korintus 4 - 1korintus 5
 roma 16
 roma 12 - roma 15
-roma 16 - roma 1
+roma 16 - 1korintus 1
 1korintus 4 - 1korintus 5
 yeremia 19 - 24 1korintus 2 - 3
 roma 10 - roma 15
@@ -14820,10 +14820,10 @@ roma 7 - roma 10
 1korintus 4 - 1korintus 5
 1korintus 4 - 1korintus 5
 1korintus 4 - 1korintus 5
-1korintus
+1korintus 4 - 1korintus 5
 1korintus 2 - 1korintus 3
-1korintus
-1korintus
+1korintus 2 - 1korintus 3
+1korintus 4 - 1korintus 5
 1korintus 4 - 1korintus 5
 1korintus 4 - 1korintus 5
 1korintus 4 - 1korintus 5
@@ -14835,7 +14835,7 @@ roma 7 - roma 10
 roma 16
 1korintus 4 - 1korintus 5
 1korintus 4 - 1korintus 5
-roma 16 - roma 1
+roma 16 - 1korintus 1
 yeremia 25 - 28 1korintus 4 - 5
 1korintus 4 - 1korintus 5
 1korintus 6 - 1korintus 7
@@ -14845,13 +14845,13 @@ yeremia 25 - 28 1korintus 4 - 5
 1korintus 6 - 1korintus 7
 1korintus 6 - 1korintus 7
 1korintus 4 - 1korintus 5
-imamat
 1korintus 6 - 1korintus 7
 1korintus 6 - 1korintus 7
-roma 16 - roma 1
-1korintus 2 - 1korintus 1
 1korintus 6 - 1korintus 7
-imamat
+roma 16 - 1korintus 1
+1korintus 2 - 1korintus 7
+1korintus 6 - 1korintus 7
+1korintus 6 - 1korintus 7
 1korintus 6 - 1korintus 7
 1korintus 6 - 1korintus 7
 1korintus 6 - 1korintus 7
@@ -14885,7 +14885,7 @@ markus 1 - markus 11
 1korintus 10 - 1korintus 11
 kisahpararasul 17 - kisahpararasul 28
 1korintus 8 - 1korintus 9
-1korintus
+1korintus 6 - 1korintus 7
 1korintus 10 - 1korintus 11
 1korintus 10 - 1korintus 11
 1korintus 6 - 1korintus 9
@@ -14939,43 +14939,43 @@ kisahpararasul
 1korintus 8 - 1korintus 11
 1korintus 14 - 1korintus 15
 1korintus 12 - 1korintus 15
-1korintus 16 - 1korintus 2
-2korintus
-1korintus 16 - 1korintus 2
-1korintus 16 - 1korintus 2
-1korintus 16 - 1korintus 2
+1korintus 16 - 2korintus 1
+2korintus 1
+1korintus 16 - 2korintus 1
+1korintus 16 - 2korintus 1
+1korintus 16 - 2korintus 1
 1korintus
-1korintus 16 - 1korintus 2
-1korintus 16 - 1korintus 2
+1korintus 16 - 2korintus 1
+1korintus 16 - 2korintus 1 - 1korintus 16 - 2korintus 2
 kisahpararasul 17 - kisahpararasul 28
-1korintus 16 - 1korintus 2
-1korintus 16 - 1korintus 2
+1korintus 16 - 2korintus 1
+1korintus 16 - 2korintus 1
 1korintus 11 - 1korintus 16
 lukas 1 - lukas 8
-1korintus 16 - 1korintus 2
+1korintus 16 - 2korintus 1
 1korintus 16
-1korintus 16 - 1korintus 2
+1korintus 16 - 2korintus 1
 1korintus 13 - 1korintus 14
-1korintus 16 - 1korintus 2
-1korintus 10 - 1korintus 2
+1korintus 16 - 2korintus 1
+1korintus 10 - 2korintus 1
 2korintus 3 - 2korintus 4
 1korintus 14 - 1korintus 15
 1korintus 7 - 1korintus 10
 2korintus 2 - 2korintus 3
 2korintus 2 - 2korintus 3
-1korintus 16 - 1korintus 2
+1korintus 16 - 2korintus 1
 2korintus 2 - 2korintus 3
 2korintus 2 - 2korintus 3
 2korintus 2 - 2korintus 3
 2korintus 2 - 2korintus 3
 2korintus 2 - 2korintus 3
 2korintus 3 - 2korintus 4
-1korintus 16 - 1korintus 2
+1korintus 16 - 2korintus 1
 2korintus 2 - 2korintus 3
 1korintus 15 - 1korintus 16
 2korintus 2 - 2korintus 3
 2korintus 2 - 2korintus 3
-1korintus 16 - 1korintus 2
+1korintus 16 - 2korintus 1
 2korintus 4 - 2korintus 5
 2korintus 5
 2korintus 2 - 2korintus 5
@@ -15027,9 +15027,9 @@ roma 9 - roma 16
 2korintus 4 - 2korintus 5
 2korintus 8 - 2korintus 9
 2korintus 10 - 2korintus 11
-1korintus 16 - 1korintus 2
+1korintus 16 - 2korintus 3
 2korintus 10 - 2korintus 11
-1korintus 16 - 1korintus 2
+1korintus 16 - 2korintus 1
 2korintus 10 - 2korintus 11
 2korintus 6 - 2korintus 11
 2korintus 3 - 2korintus 5
@@ -15039,7 +15039,7 @@ roma 9 - roma 16
 2korintus 10 - 2korintus 11
 2korintus 10 - 2korintus 11
 2korintus 10 - 2korintus 11
-yohanes 19 - yohanes 1
+yohanes 19 - 1korintus 4
 lukas 1 - lukas 24
 2korintus 10 - 2korintus 11
 2korintus 8 - 2korintus 11
@@ -15059,10 +15059,10 @@ lukas 1 - lukas 24
 2korintus 8 - 2korintus 11
 2korintus 10 - 2korintus 11
 2korintus 12 - 2korintus 13
-1korintus
-1korintus
+1korintus 8 - 1korintus 9
+1korintus 10 - 1korintus 11
 kisahpararasul 23 - kisahpararasul 28
-1korintus
+1korintus 12 - 1korintus 13
 2korintus 12 - 2korintus 13
 2korintus 12 - 2korintus 13
 2korintus 12 - 2korintus 13
@@ -15090,7 +15090,7 @@ lukas 9 - lukas 13
 2korintus 6 - 2korintus 10
 galatia 1 - galatia 2
 galatia 1 - galatia 2
-1korintus 5 - 1korintus 2
+1korintus 5 - 2korintus 4
 galatia 1 - galatia 2
 galatia 1 - galatia 2
 galatia 1 - galatia 2
@@ -15115,7 +15115,7 @@ galatia 3 - galatia 4
 galatia 1 - galatia 2
 galatia 3 - galatia 4
 2korintus 7 - 2korintus 10
-2korintus 12 gal 6
+2korintus 12 - galatia 6
 galatia 5 - galatia 6
 galatia 3 - galatia 4
 galatia 5 - galatia 6
@@ -15127,7 +15127,7 @@ galatia 5 - galatia 6
 galatia 5 - galatia 6
 galatia 5 - galatia 6
 galatia 5 - galatia 6
-lukas 21 yoh 3
+lukas 21 - yohanes 3
 galatia 3 - galatia 4
 galatia 5 - galatia 6
 galatia 3 - galatia 4
@@ -15149,22 +15149,22 @@ efesus 1 - efesus 2
 galatia 3 - galatia 6
 2korintus 11 - 2korintus 13
 efesus 1 - efesus 2
-1korintus
+1korintus 14 - 1korintus 15
 efesus 1 - efesus 2
 efesus 1 - efesus 2
 efesus 1 - efesus 2
-1korintus 2korintus
-2korintus
-2korintus
-2korintus
-2korintus
-2korintus
+1korintus 16 - 2korintus 1
+2korintus 2 - 2korintus 3
+2korintus 4 - 2korintus 5
+2korintus 6 - 2korintus 7
+2korintus 8 - 2korintus 9
+2korintus 10 - 2korintus 11
 efesus 1 - efesus 2
-galatia 6 ef 2
+galatia 6 - efesus 2
 efesus 1 - efesus 2
 kisahpararasul 1 - kisahpararasul 10
 galatia 3 - galatia 6
-""
+3 - 4
 efesus 3 - efesus 4
 efesus 3 - efesus 4
 matius
@@ -15191,9 +15191,9 @@ efesus 3 - efesus 4
 efesus 3 - efesus 4
 efesus 3 - efesus 4
 galatia
-lukas yohanes 1
+lukas 21 - yohanes 1
 galatia 1 - galatia 2
-2korintus
+2korintus 12 - 2korintus 13
 yohanes
 galatia
 efesus 1 - efesus 3
@@ -15207,7 +15207,7 @@ efesus 5 - efesus 6
 efesus 5 - efesus 6
 galatia 1 - galatia 2
 efesus 5 - efesus 6
-2korintus galatia
+2korintus-galatia
 efesus 1 - efesus 6
 efesus 5 - efesus 6
 efesus 5 - efesus 6
@@ -15225,7 +15225,7 @@ filipi 1 - filipi 2
 efesus 5 - efesus 6
 efesus 1 - efesus 4
 filipi 1 - filipi 2
-lukas 18 kis
+lukas 18 - kisahpararasul 8
 filipi 1 - filipi 2
 filipi 1 - filipi 2
 1korintus 1 - 1korintus 10
@@ -15237,15 +15237,15 @@ filipi 1 - filipi 2
 filipi 1 - filipi 2
 efesus
 filipi 1 - filipi 2
-efesus filipi 2
-2korintus galatia 1
+efesus 5 - filipi 2
+2korintus 8 - galatia 1
 filipi 1 - filipi 2
 efesus
 yohanes 2 - yohanes 4
 yohanes 4 - yohanes 9
 kisahpararasul
 filipi 1 - filipi 2
-kisahpararasul filipi
+filipi
 filipi 3 - filipi 4
 filipi 3 - filipi 4
 filipi 3 - filipi 4
@@ -15269,7 +15269,7 @@ filipi 1 - filipi 4
 kolose 1 - kolose 2
 kolose 1 - kolose 2
 kolose 1 - kolose 2
-efesus 5 filipi 4
+efesus 5 - filipi 4
 filipi 1 - filipi 2
 kolose 1 - kolose 2
 filipi 3 - filipi 4
@@ -15286,7 +15286,7 @@ kolose 1 - kolose 2
 yohanes 9 - yohanes 11
 filipi 3 - filipi 4
 kolose 3 - kolose 4
-kisahpararasul kolose
+kolose
 kolose
 kolose 3 - kolose 4
 kolose 3 - kolose 4
@@ -15308,7 +15308,7 @@ filipi 1 - filipi 4
 kolose 1 - kolose 2
 kisahpararasul 1 - kisahpararasul 9
 2korintus galatia
-kisahpararasul
+kisahpararasul 9 - kisahpararasul 28
 efesus 5 - efesus 6
 kolose 3 - kolose 4
 kolose 3 - kolose 4
@@ -15318,10 +15318,10 @@ roma 16
 kisahpararasul
 kolose 3 - kolose 4
 roma
-1tesalonika
+1tesalonika 1 - 1tesalonika 2
 1tesalonika 1 - 1tesalonika 2
 kolose
-yohanes kisahpararasul 6
+yohanes 16 - kisahpararasul 6
 1tesalonika 1 - 1tesalonika 2
 1tesalonika 1 - 1tesalonika 2
 1tesalonika 1 - 1tesalonika 2
@@ -15334,7 +15334,7 @@ filipi 3 - filipi 4
 efesus filipi kolose
 filipi 1 - filipi 2
 1tesalonika 1 - 1tesalonika 2
-galatia efesus 6
+galatia 2 - efesus 6
 1korintus 1 - 1korintus 8
 kisahpararasul 6 - kisahpararasul 21
 kolose 1 - kolose 4
@@ -15349,7 +15349,7 @@ filipi
 1korintus 5 - 1korintus 16
 matius
 1tesalonika 1 - 1tesalonika 2
-1tesalonika
+1tesalonika 3 - 1tesalonika 4
 1tesalonika 3 - 1tesalonika 4
 1tesalonika 3 - 1tesalonika 4
 1tesalonika 3 - 1tesalonika 4
@@ -15368,49 +15368,49 @@ kisahpararasul 7 - kisahpararasul 28
 1tesalonika 3 - 1tesalonika 4
 filipi 3 - filipi 4
 1tesalonika 1 - 1tesalonika 4
-1korintus 9 - 1korintus 2
+1korintus 9 - 2korintus 9
 matius
 2korintus 7 - 2korintus 13
 kisahpararasul
-markus 7
+markus-lukas 7
 yeremia 33 - 35 1korintus 8 - 9
 1tesalonika 3 - 1tesalonika 4
 1tesalonika 3 - 1tesalonika 4
 1tesalonika 1 - 1tesalonika 6
-1tesalonika 5 - 1tesalonika 2
-1tesalonika 5 - 1tesalonika 2
-1tesalonika 5 - 1tesalonika 2
+1tesalonika 5 - 2tesalonika 1
+1tesalonika 5 - 2tesalonika 1
+1tesalonika 5 - 2tesalonika 1
 1tesalonika 3 - 1tesalonika 4
-1tesalonika 5 - 1tesalonika 2
+1tesalonika 5 - 2tesalonika 1
 1tesalonika 1 - 1tesalonika 2
-1tesalonika 5 - 1tesalonika 2
-1tesalonika 5 - 1tesalonika 2
-1tesalonika 5 - 1tesalonika 2
-1tesalonika 5 - 1tesalonika 2
+1tesalonika 5 - 2tesalonika 1
+1tesalonika 5 - 2tesalonika 1
+1tesalonika 5 - 2tesalonika 1
+1tesalonika 5 - 2tesalonika 1
 1tesalonika
-1tesalonika 5 - 1tesalonika 2
+1tesalonika 5 - 2tesalonika 1
 1korintus 13 - 1korintus 16
-1korintus roma 2
-1tesalonika 5 - 1tesalonika 2
-1tesalonika 5 - 1tesalonika 2
-1tesalonika 5 - 1tesalonika 2
-1tesalonika 5 - 1tesalonika 2
+1korintus 7 - roma 2
+1tesalonika 5 - 2tesalonika 1
+1tesalonika 5 - 2tesalonika 1
+1tesalonika 5 - 2tesalonika 1
+1tesalonika 5 - 2tesalonika 1
 roma 1 - roma 16
 1tesalonika
 markus 1 - markus 10
 kolose 1 - kolose 4
-2korintus 10 efesus 6
-lukas yohanes 19
-1tesalonika 5 - 1tesalonika 2
-2korintus
-2korintus
-1tesalonika 5 - 1tesalonika 2
+2korintus 10 - efesus 6
+lukas 8 - yohanes 19
+1tesalonika 5 - 2tesalonika 1
+1 - 2korintus
+1 - 2korintus
+1tesalonika 5 - 2tesalonika 1
 2tesalonika 2 - 2tesalonika 3
 2tesalonika 2 - 2tesalonika 3
 2tesalonika
 2tesalonika 2 - 2tesalonika 3
 1tesalonika 3 - 1tesalonika 4
-1tesalonika 5 - 1tesalonika 2
+1tesalonika 5 - 2tesalonika 1
 2tesalonika 2 - 2tesalonika 3
 2korintus
 2tesalonika 2 - 2tesalonika 3
@@ -15419,20 +15419,20 @@ lukas yohanes 19
 2tesalonika 2 - 2tesalonika 3
 2tesalonika 2 - 2tesalonika 3
 lukas
-1tesalonika
-1tesalonika
-1tesalonika 2tesalonika
+1tesalonika 1 - 1tesalonika 2
+1tesalonika 3 - 1tesalonika 4
+1tesalonika 5 - 2tesalonika 1
 2tesalonika 2 - 2tesalonika 3
 2tesalonika
 galatia
-markus 11 lukas 10
+markus 11 - lukas 10
 galatia
 1tesalonika 1 - 1tesalonika 4
-1tesalonika 5 - 1tesalonika 2
+1tesalonika 5 - 2tesalonika 3
 efesus 1 - efesus 6
 kolose 1 - kolose 4
 2tesalonika 2 - 2tesalonika 3
-filipi
+filipi-1tesalonika 3
 yeremia 36 - 40 1korintus 10 - 13
 kisahpararasul 15
 2tesalonika 2 - 2tesalonika 3
@@ -15451,12 +15451,12 @@ galatia
 1timotius 1 - 1timotius 2
 1timotius 1 - 1timotius 2
 1timotius 1 - 1timotius 2
-galatia 3 - galatia 1
+galatia 3 - 1timotius 2
 1timotius 1 - 1timotius 2
 1timotius 1 - 1timotius 2
-1tesalonika 5 - 1tesalonika 2
+1tesalonika 5 - 2tesalonika 3
 1timotius 1 - 1timotius 2
-1tesalonika 5 - 1tesalonika 2
+1tesalonika 5 - 2tesalonika 2
 filipi
 1timotius 1 - 1timotius 2
 lukas 11 - lukas 20
@@ -15501,23 +15501,23 @@ filipi 1 - filipi 4
 1timotius 5 - 1timotius 6
 1timotius 5 - 1timotius 6
 1timotius 1 - 1timotius 2
-2tesalonika 3 - 2tesalonika 1
+2tesalonika 3 - 1timotius 3
 1timotius 5 - 1timotius 6
 1tesalonika
-1timotius 5 - 1timotius 1
+1timotius 5 - 1timotius 6
 1timotius
 filipi
 1timotius 5 - 1timotius 6
 1timotius 1 - 1timotius 2
-2tesalonika
-1timotius
-1timotius
+2tesalonika 2 - 2tesalonika 3
+1timotius 1 - 1timotius 2
 1timotius 3 - 1timotius 4
-1timotius
+1timotius 3 - 1timotius 4
+1timotius 5 - 1timotius 6
 1timotius 5 - 1timotius 6
 galatia
 kolose
-1korintus
+1korintus 1 - 1korintus 16
 kolose
 1timotius
 1timotius
@@ -15534,7 +15534,7 @@ kolose
 1timotius 4 - 1timotius 6
 lukas
 2timotius 1 - 2timotius 2
-1timotius 6 - 1timotius 2
+1timotius 6 - 2timotius 2
 2timotius 2
 2timotius 1 - 2timotius 2
 roma
@@ -15554,7 +15554,7 @@ roma
 2timotius 3 - 2timotius 4
 2timotius 3 - 2timotius 4
 2timotius 3 - 2timotius 4
-2korintus
+2korintus 1 - 2korintus 13
 2timotius 3 - 2timotius 4
 2timotius 3 - 2timotius 4
 2timotius 1 - 2timotius 2
@@ -15579,42 +15579,42 @@ roma 1 - roma 16
 1timotius
 titus 1 - titus 2
 titus 1 - titus 2
-1timotius 3 titus 2
-""
+1timotius 3 - titus 2
+1
 titus 1 - titus 2
 titus 1 - titus 2
 2timotius 3 - 2timotius 4
 yohanes
 titus 1 - titus 2
-titus 3 filemon 1
-titus 3 filemon 1
+titus 3 - filemon 1
+titus 3 - filemon 1
 titus 1 - titus 2
-titus 3 filemon 1
-titus 3 filemon 1
-titus filemon 1
-titus 3
-titus 3 flm 1
+titus 3 - filemon 1
+titus 3 - filemon 1
+titus 3 - filemon 1
+titus 3 - filemon 1
+titus 3 - filemon 1
 titus
-titus 3 flm 1
-titus 3 flm 1
-2timotius
-2timotius
+titus 3 - filemon 1
+titus 3 - filemon 1
+2timotius 1 - 2timotius 2
+2timotius 3 - 2timotius 4
 2timotius
 2timotius
 titus 1 - titus 2
 1korintus 1 - 1korintus 10
-titus 3 filemon 1
+titus 3 - filemon 1
 1korintus 1 - 1korintus 16
 titus
 galatia 1 - galatia 6
-titus 3 filemon 1
-titus 3 filemon 1
-titus 1 filemon 1
+titus 3 - filemon 1
+titus 3 - filemon 1
+titus 1 - filemon 1
 titus
 2timotius
 2timotius 3 - 2timotius 4
 kisahpararasul 1 - kisahpararasul 15
-2korintus
+2korintus 8
 ibrani 1 - ibrani 2
 ibrani 1 - ibrani 2
 titus
@@ -15623,7 +15623,7 @@ ibrani 1 - ibrani 2
 2korintus 1 - 2korintus 13
 ibrani 1 - ibrani 2
 ibrani 1 - ibrani 2
-titus 3 filemon
+titus 3 - titus filemon
 titus 1 - titus 2
 ibrani 1 - ibrani 2
 ibrani 1 - ibrani 2
@@ -15635,12 +15635,12 @@ ibrani 1 - ibrani 2
 filipi
 2timotius
 2tesalonika
-kisahpararasul roma 5
+kisahpararasul-roma 5
 2timotius
 1timotius 1 - 1timotius 6
 ibrani 1 - ibrani 2
 2timotius 1 - 2timotius 4
-titus 3 flm
+titus 3 - titus filemon
 ibrani 1 - ibrani 2
 ibrani 3 - ibrani 4
 ibrani 3 - ibrani 4
@@ -15658,10 +15658,10 @@ galatia 1 - galatia 6
 roma
 ibrani 3 - ibrani 4
 ibrani 3 - ibrani 4
-1timotius filemon
+1timotius 3 - 1timotius filemon
 ibrani 3 - ibrani 4
 ibrani 3 - ibrani 4
-2korintus 9 efesus
+2korintus 9 - 2korintus efesus
 ibrani 3 - ibrani 4
 ibrani 1 - ibrani 4
 filemon
@@ -15669,7 +15669,7 @@ ibrani 3 - ibrani 4
 ibrani 3 - ibrani 4
 titus 1 - titus 2
 filemon
-titus filemon 1
+titus 3 - filemon 1
 ibrani 1 - ibrani 4
 titus 3
 1korintus
@@ -15680,7 +15680,7 @@ efesus 1 - efesus 6
 ibrani 5 - ibrani 6
 ibrani 5 - ibrani 6
 ibrani 5 - ibrani 6
-titus 3 filemon 1
+titus 3 - filemon 1
 ibrani 1 - ibrani 2
 ibrani 1 - ibrani 2
 ibrani 3 - ibrani 4
@@ -15758,7 +15758,7 @@ ibrani 9 - ibrani 12
 ibrani 9 - ibrani 10
 ibrani 7 - ibrani 12
 ibrani 11 - ibrani 12
-filipi
+filipi-2tesalonika
 ibrani 7 - ibrani 12
 ibrani 11 - ibrani 12
 ibrani 11 - ibrani 12
@@ -15771,39 +15771,39 @@ galatia
 ibrani 9 - ibrani 12
 ibrani 11 - ibrani 12
 ibrani 11 - ibrani 12
-ibrani 13 yak 1
-ibrani yakobus 1
+ibrani 13 - yakobus 1
+ibrani 13 - yakobus 1
 ibrani 9 - ibrani 10
-ibrani 13 yak 1
-ibrani yakobus 1
+ibrani 13 - yakobus 1
+ibrani 13 - yakobus 1
 ibrani 9 - ibrani 10
-ibrani 13 yak 1
+ibrani 13 - yakobus 1
 ibrani
 yakobus 1 - yakobus 2
-ibrani yakobus 1
+ibrani 13 - yakobus 1
 2timotius 1 - 2timotius 4
-ibrani 11 - 13 yakobus 1
-1tesalonika
-ibrani yakobus 1
-ibrani 13 yak 1
+ibrani 11 - 13-yakobus 1
+1tesalonika 1 - 1tesalonika 5
+ibrani 11 - yakobus 1
+ibrani 13 - yakobus 1
 efesus
-ibrani yakobus 1
-ibrani 13 yakobus 1
+ibrani 13 - yakobus 1
+ibrani 13 - yakobus 1
 ibrani 11 - ibrani 12
 titus 1 - titus 3
 filemon 1
-ibrani 13 yak 1
+ibrani 13 - yakobus 1
 ibrani
 ibrani 11 - ibrani 13
 yakobus 1
-ibrani 13 yakobus 1
+ibrani 13 - yakobus 1
 filipi kolose
 yakobus 2 - yakobus 3
-ibrani yakobus 3
-ibrani 13 yak 1
+ibrani 13 - yakobus 3
+ibrani 13 - yakobus 1
 yakobus 2 - yakobus 3
 yakobus 2 - yakobus 3
-ibrani yakobus 1
+ibrani 13 - yakobus 1
 yakobus 2 - yakobus 3
 yakobus 2 - yakobus 3
 yakobus 2 - yakobus 3
@@ -15811,7 +15811,7 @@ yakobus 2 - yakobus 3
 ibrani 13
 yakobus 1 - yakobus 3
 ibrani 11 - ibrani 12
-ibrani yakobus 1
+ibrani 13 - yakobus 1
 yakobus 2 - yakobus 3
 kisahpararasul
 yakobus 2 - yakobus 3
@@ -15824,7 +15824,7 @@ yakobus 2 - yakobus 3
 ibrani 9 - ibrani 10
 yakobus 2 - yakobus 3
 ibrani 11 - ibrani 12
-ibrani 13 yakobus 1
+ibrani 13 - yakobus 1
 yakobus 2 - yakobus 3
 yakobus 2 - yakobus 3
 titus 1 - titus 3
@@ -15832,49 +15832,49 @@ ibrani 13
 yakobus 1 - yakobus 3
 yakobus 2 - yakobus 3
 yakobus 2 - yakobus 3
-ibrani yakobus 1
+ibrani 11 - yakobus 1
 yakobus 4 - yakobus 5
 yakobus 4 - yakobus 5
 yakobus 4 - yakobus 5
-ibrani yakobus 5
+ibrani 13 - yakobus 5
 yakobus 4 - yakobus 5
 yakobus 4 - yakobus 5
 yakobus 4 - yakobus 5
 yakobus 4 - yakobus 5
-ibrani yakobus 3
+ibrani 13 - yakobus 3
 yakobus 4 - yakobus 5
 yakobus 4 - yakobus 5
 yakobus 4 - yakobus 5
 yakobus 4 - yakobus 5
 ibrani 1 - ibrani 13
-1petrus
+1petrus 1 - 1petrus 4
 yakobus 4 - yakobus 5
-""
+- filemon
 yakobus 2 - yakobus 3
 ibrani 13
 yakobus 1 - yakobus 5
 1petrus 1 - 1petrus 2
-1petrus
+1petrus 1 - 1petrus 2
 yakobus 4 - yakobus 5
 yakobus 1 - yakobus 5
-1petrus
+1petrus 1 - 1petrus 2
 yakobus
-1petrus
+1petrus 1 - 1petrus 2
 yakobus 2 - yakobus 5
 yakobus 4 - 1petrus 1
-1petrus
-1petrus
-1petrus
 1petrus 1 - 1petrus 2
 1petrus 1 - 1petrus 2
-1petrus 2
 1petrus 1 - 1petrus 2
-1timotius
+1petrus 1 - 1petrus 2
+1petrus 1 - 1petrus 2
+- 1petrus 2
+1petrus 1 - 1petrus 2
+1timotius-titus
 yakobus 4 - yakobus 5
 1tesalonika
 titus
 2timotius
-1petrus
+1petrus 1 - 1petrus 2
 1petrus 1 - 1petrus 2
 yakobus 4 - yakobus 5
 yakobus 4 - yakobus 5
@@ -15902,23 +15902,23 @@ yakobus 4 - yakobus 5
 1petrus
 1petrus 1 - 1petrus 4
 yakobus 4 - 1petrus 4
-ibrani yakobus 5
+ibrani 11 - yakobus 5
 2petrus 1
-filemon
+filemon-yakobus
 1petrus 1 - 1petrus 5
 1petrus 5 - 2petrus 1
 1petrus 3 - 1petrus 4
 filemon 11 - filemon 25
 1petrus 5 - 2petrus 1
 1petrus 1 - 2petrus 1
-1petrus 2petrus
+1petrus 3 - 2petrus 1
 1petrus 3 - 1petrus 4
 1petrus 5 - 2petrus 1
 1petrus 5 - 2petrus 1
 1petrus 5 - 2petrus 1
 1petrus
 1petrus 5 - 2petrus 1
-1petrus 2petrus
+1petrus 3 - 2petrus 1
 1petrus 5 - 2petrus 1
 1petrus 5 - 2petrus 1
 1petrus 5 - 2petrus 1
@@ -15928,7 +15928,7 @@ filemon 11 - filemon 25
 1petrus 5 - 2petrus 1
 1petrus 5 - 2petrus 1
 1petrus 5 - 2petrus 1
-ibrani-1
+ibrani-1petrus
 2petrus 2 - 2petrus 3
 2petrus 2 - 2petrus 3
 2petrus
@@ -15938,16 +15938,16 @@ ibrani-1
 1petrus 5 - 2petrus 3
 yakobus 4 - yakobus 5
 2petrus 2 - 2petrus 3
-1petrus
-1petrus
+1petrus 1 - 1petrus 2
+1petrus 3 - 1petrus 4
 1petrus 5 - 2petrus 3
 2petrus 2 - 2petrus 3
 2petrus 2 - 2petrus 3
 2petrus 1 - 2petrus 3
-1petrus
+1petrus 3 - 1petrus 4
 2petrus 2 - 2petrus 3
 1petrus 5 - 2petrus 3
-2petrus
+1 - 2petrus
 2petrus 2 - 2petrus 3
 1yohanes 1 - 1yohanes 2
 1yohanes 1 - 1yohanes 2
@@ -15962,7 +15962,7 @@ yakobus 1 - yakobus 5
 1yohanes 1 - 1yohanes 2
 2petrus 2 - 2petrus 3
 2petrus 2 - 2petrus 3
-1 tes - 1 2
+1tesalonika-2petrus
 2petrus 2 - 2petrus 3
 1yohanes 1 - 1yohanes 2
 roma
@@ -15971,20 +15971,20 @@ roma
 2petrus 2 - 2petrus 3
 1yohanes 1 - 1yohanes 2
 1petrus 3
-2petrus 1yohanes
+2petrus-1yohanes
 1yohanes 1 - 1yohanes 2
-1petrus
+1petrus 1 - 1petrus 5
 1yohanes 1 - 1yohanes 2
 1yohanes 3 - 1yohanes 4
 1yohanes 3 - 1yohanes 4
 1yohanes 3 - 1yohanes 4
 1yohanes 3 - 1yohanes 4
 1yohanes 3 - 1yohanes 4
-1petrus 2petrus
+1petrus 5 - 2petrus 1
 1yohanes 3 - 1yohanes 4
-2petrus
-1yohanes
-yakobus 4 - 1 yohanes 4
+2petrus 2 - 2petrus 3
+1yohanes 1 - 1yohanes 2
+yakobus 4 - 1yohanes 4
 2petrus
 1yohanes 1 - 1yohanes 2
 1yohanes 3 - 1yohanes 4
@@ -15998,64 +15998,64 @@ yakobus 4 - 1 yohanes 4
 1yohanes 3 - 1yohanes 4
 1yohanes 3 - 1yohanes 4
 1yohanes 3 - 1yohanes 4
-1yohanes 5 - 2 yohanes 1
-1yohanes 5 - 2 yohanes 1
-1yohanes 5 - 2 yohanes 1
+1yohanes 5 - 2yohanes 1
+1yohanes 5 - 2yohanes 1
+1yohanes 5 - 2yohanes 1
 1yohanes
-1yohanes 5 - 2 yohanes 1
+1yohanes 5 - 2yohanes 1
 1yohanes 1 - 1yohanes 4
+1yohanes 3 - 1yohanes 4
 1yohanes
-1yohanes
-1yohanes 2yohanes
-1yohanes 5 - 2 yohanes 1
-1yohanes 5 - 2 yohanes 1
+1yohanes 5 - 2yohanes 1
+1yohanes 5 - 2yohanes 1
+1yohanes 5 - 2yohanes 1
 2petrus 2 - 2petrus 3
 1yohanes 3 - 1yohanes 5
-1yohanes 5 - 2 yohanes 1
-1yohanes 5 - 2 yohanes 1
+1yohanes 5 - 2yohanes 1
+1yohanes 5 - 2yohanes 1
 1yohanes 1 - 1yohanes 4
 2yohanes 1 - 2yohanes 4
-1yohanes 5 dan 2 yoh 1
-1yohanes 5 - 2 yohanes 1
-1yohanes 5 - 2 yohanes 1
+1yohanes 5 daniel 2yohanes 1
+1yohanes 5 - 2yohanes 1
+1yohanes 5 - 2yohanes 1
 ibrani
-1yohanes 5 - 2 yohanes 1
+1yohanes 5 - 2yohanes 1
 2yohanes 1 - 2yohanes 2
-1yohanes 5 - 2 yohanes 1
-1petrus -1 yohanes 3
-3yohanes 1 yudas 1
+1yohanes 5 - 2yohanes 1
+1petrus-1yohanes 3
+3yohanes 1 - yudas 1
 3yohanes 1
-3yohanes 1 yudas 1
+3yohanes 1 - yudas 1
 1yohanes 1 - 1yohanes 2
 1yohanes 3 - 1yohanes 4
-1yohanes 5 - 2 yohanes 1
-3yohanes yudas 1
-2petrus 3 yudas
-1yohanes 5 yudas
-3yohanes 1 yudas 1
-3yohanes yudas 1
-3yohanes yudas 1
-3yohanes yudas
-1yohanes 3 - 2 yohanes 1
-3yohanes 1 yudas 1
-3yohanes 1 yudas 1
-3yohanes 1 yudas 1
-1yohanes 5 - 2 yohanes
-3yohanes 1 yudas 1
-1yohanes 5 - 2 yohanes 1
+1yohanes 5 - 2yohanes 1
+3yohanes 1 - yudas 1
+2petrus 3 - 2petrus yudas
+1yohanes 5 - 1yohanes yudas
+3yohanes 1 - yudas 1
+3yohanes 1 - yudas 1
+3yohanes 1 - yudas 1
+3yohanes-yudas
+1yohanes 3 - 2yohanes 1
+3yohanes 1 - yudas 1
+3yohanes 1 - yudas 1
+3yohanes 1 - yudas 1
+1yohanes 5 - 1yohanes 2yohanes
+3yohanes 1 - yudas 1
+1yohanes 5 - 2yohanes 1
 1yohanes
 3yohanes
-1yohanes 5 - 2 yohanes 1
-1yohanes 5 yud
-3yohanes 1 yudas 1
-3yohanes 1 yudas 1
-3yohanes 1 yudas 1
+1yohanes 5 - 2yohanes 1
+1yohanes 5 - 1yohanes yudas
+3yohanes 1 - yudas 1
+3yohanes 1 - yudas 1
+3yohanes 1 - yudas 1
 wahyu 1 - wahyu 2
-3yohanes 1 yudas 1
+3yohanes 1 - yudas 1
 wahyu 1 - wahyu 2
 wahyu 1 - wahyu 2
-3yohanes
-3yohanes yudas
+3yohanes-yudas
+3yohanes 1 - 3yohanes yudas
 wahyu 1 - wahyu 2
 wahyu 1 - wahyu 2
 wahyu 1 - wahyu 2
@@ -16067,19 +16067,19 @@ wahyu 1 - wahyu 2
 wahyu 1 - wahyu 2
 3yohanes 1
 wahyu 1 - wahyu 2
-1yohanes 3 - 2 yohanes 1
-3yohanes 1 yudas 1
-3yohanes wahyu 2
+1yohanes 3 - 2yohanes 1
+3yohanes 1 - yudas 1
+3yohanes-wahyu 2
 wahyu 1 - wahyu 2
 wahyu 1 - wahyu 2
 1petrus 1 - 1petrus 5
 2korintus
-3yohanes 1 yudas
+3yohanes 1 - 3yohanes yudas
 1yohanes 3 - 1yohanes 5
 wahyu 1 - wahyu 2
-1yohanes
+1yohanes 3 - 1yohanes 5
 wahyu 1 - wahyu 2
-3yohanes
+1 - 3yohanes
 wahyu 3 - wahyu 4
 wahyu 1 - wahyu 2
 wahyu 3 - wahyu 4
@@ -16093,7 +16093,7 @@ wahyu 3 - wahyu 4
 wahyu 1 - wahyu 4
 wahyu 3 - wahyu 4
 wahyu 3 - wahyu 4
-3yohanes 1 dan yudas 1
+3yohanes 1 daniel yudas 1
 wahyu 1 - wahyu 4
 wahyu 3 - wahyu 4
 wahyu 1 - wahyu 2
@@ -16101,7 +16101,7 @@ wahyu 3 - wahyu 4
 wahyu 1 - wahyu 4
 wahyu 1 - wahyu 2
 wahyu 3 - wahyu 4
-1petrus 4 - 3 yohanes
+1petrus 4 - 1petrus 3yohanes
 yudas
 wahyu 1 - wahyu 2
 wahyu 5 - wahyu 6
@@ -16135,7 +16135,7 @@ wahyu 3 - wahyu 6
 wahyu 3 - wahyu 6
 wahyu 5 - wahyu 6
 wahyu 1 - wahyu 6
-2yohanes wahyu 1
+2yohanes-wahyu 1
 wahyu 5 - wahyu 6
 wahyu 5 - wahyu 6
 2tesalonika
@@ -16166,7 +16166,7 @@ wahyu 3 - wahyu 8
 wahyu 7 - wahyu 8
 wahyu 7 - wahyu 8
 wahyu 7 - wahyu 8
-3yohanes
+1 - 3yohanes
 wahyu 7 - wahyu 8
 wahyu 5 - wahyu 6
 wahyu 7 - wahyu 8
@@ -16185,7 +16185,7 @@ wahyu 9 - wahyu 10
 wahyu 9 - wahyu 10
 wahyu 3 - wahyu 10
 wahyu 5 - wahyu 10
-yudas 5
+yudas-wahyu 5
 wahyu 9 - wahyu 10
 wahyu 9 - wahyu 10
 wahyu 9 - wahyu 10
@@ -16270,7 +16270,7 @@ wahyu 15 - wahyu 16
 wahyu 15 - wahyu 16
 wahyu 15 - wahyu 16
 wahyu 15 - wahyu 16
-1yohanes wahyu 12
+1yohanes 4 - wahyu 12
 wahyu 15 - wahyu 16
 wahyu 15 - wahyu 16
 wahyu 15 - wahyu 16
